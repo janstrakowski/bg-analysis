@@ -1,0 +1,467 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.1.2",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 1,
+    "werset": 2
+  },
+  "tekst_bg": "Abraham spłodził Izaaka, a Izaak spłodził Jakóba, a Jakób spłodził Judę, i braci jego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Abraham"
+    },
+    {
+      "i": 1,
+      "t": "spłodził"
+    },
+    {
+      "i": 2,
+      "t": "Izaaka"
+    },
+    {
+      "i": 3,
+      "t": "a"
+    },
+    {
+      "i": 4,
+      "t": "Izaak"
+    },
+    {
+      "i": 5,
+      "t": "spłodził"
+    },
+    {
+      "i": 6,
+      "t": "Jakóba"
+    },
+    {
+      "i": 7,
+      "t": "a"
+    },
+    {
+      "i": 8,
+      "t": "Jakób"
+    },
+    {
+      "i": 9,
+      "t": "spłodził"
+    },
+    {
+      "i": 10,
+      "t": "Judę"
+    },
+    {
+      "i": 11,
+      "t": "i"
+    },
+    {
+      "i": 12,
+      "t": "braci"
+    },
+    {
+      "i": 13,
+      "t": "jego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.1.2",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.1.2",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἀβραὰμ",
+        "lemma": "G0011",
+        "forma": "Ἀβραάμ",
+        "morph": "N-NSM-P",
+        "glosa": "Abraham",
+        "id": "Mat.1.2#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "Abraham"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.2#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.2#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰσαάκ",
+        "lemma": "G2464",
+        "forma": "Ἰσαάκ",
+        "morph": "N-ASM-P",
+        "glosa": "Isaac;",
+        "id": "Mat.1.2#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Isaac"
+      },
+      {
+        "t": "Ἰσαὰκ",
+        "lemma": "G2464",
+        "forma": "Ἰσαάκ",
+        "morph": "N-NSM-P",
+        "glosa": "Isaac",
+        "id": "Mat.1.2#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Isaac"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.2#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.2#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.2#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰακώβ",
+        "lemma": "G2384H",
+        "forma": "Ἰακώβ",
+        "morph": "N-ASM-P",
+        "glosa": "Jacob;",
+        "id": "Mat.1.2#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "Jacob"
+      },
+      {
+        "t": "Ἰακὼβ",
+        "lemma": "G2384H",
+        "forma": "Ἰακώβ",
+        "morph": "N-NSM-P",
+        "glosa": "Jacob",
+        "id": "Mat.1.2#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "Jacob"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.2#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.2#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.2#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰούδαν",
+        "lemma": "G2455N",
+        "forma": "Ἰούδας",
+        "morph": "N-ASM-P",
+        "glosa": "Judah",
+        "id": "Mat.1.2#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "Judah"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.1.2#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "and"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.1.2#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀδελφοὺς",
+        "lemma": "G0080",
+        "forma": "ἀδελφός",
+        "morph": "N-APM",
+        "glosa": "brothers",
+        "id": "Mat.1.2#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "brother"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him;",
+        "id": "Mat.1.2#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἀβραὰμ oddane jako „Abraham”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ἰσαάκ oddane jako „Izaaka”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG stawia je przed imieniem jako „a”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἰσαὰκ oddane jako „Izaak”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ἰακώβ oddane jako „Jakóba”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG stawia je przed imieniem jako „a”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἰακὼβ oddane jako „Jakób”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ἰούδαν oddane jako „Judę”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        14
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "rola": "zlanie",
+      "uwaga": "τοὺς ἀδελφοὺς oddane jako „braci”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        17
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajnik przy imieniu i przy ἀδελφούς wchodzi w rzeczownik, a δὲ jest wyniesione przed imię.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐγέννησεν BG oddaje jako „spłodził”, a τοὺς ἀδελφοὺς αὐτοῦ jako „braci jego”.",
+      "tokeny_bg": [
+        1,
+        12,
+        13
+      ],
+      "tokeny_zrodla": [
+        1,
+        15,
+        16,
+        17
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Abraham zplodil Izáka. Izák pak zplodil Jákoba. Jákob zplodil Judu a bratří jeho.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

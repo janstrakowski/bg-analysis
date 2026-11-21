@@ -1,0 +1,435 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.1.22",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 1,
+    "werset": 22
+  },
+  "tekst_bg": "A to się wszystko stało, aby się wypełniło, co powiedziano od Pana przez proroka, mówiącego:",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "to"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "wszystko"
+    },
+    {
+      "i": 4,
+      "t": "stało"
+    },
+    {
+      "i": 5,
+      "t": "aby"
+    },
+    {
+      "i": 6,
+      "t": "się"
+    },
+    {
+      "i": 7,
+      "t": "wypełniło"
+    },
+    {
+      "i": 8,
+      "t": "co"
+    },
+    {
+      "i": 9,
+      "t": "powiedziano"
+    },
+    {
+      "i": 10,
+      "t": "od"
+    },
+    {
+      "i": 11,
+      "t": "Pana"
+    },
+    {
+      "i": 12,
+      "t": "przez"
+    },
+    {
+      "i": 13,
+      "t": "proroka"
+    },
+    {
+      "i": 14,
+      "t": "mówiącego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.1.22",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.1.22",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Τοῦτο",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-NSN",
+        "glosa": "This",
+        "id": "Mat.1.22#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.22#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ὅλον",
+        "lemma": "G3650",
+        "forma": "ὅλος",
+        "morph": "A-NSN",
+        "glosa": "all",
+        "id": "Mat.1.22#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "all"
+      },
+      {
+        "t": "γέγονεν",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-2RAI-3S",
+        "glosa": "has come to pass",
+        "id": "Mat.1.22#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἵνα",
+        "lemma": "G2443",
+        "forma": "ἵνα",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.1.22#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "in order that/to"
+      },
+      {
+        "t": "πληρωθῇ",
+        "lemma": "G4137",
+        "forma": "πληρόω",
+        "morph": "V-APS-3S",
+        "glosa": "may be fulfilled",
+        "id": "Mat.1.22#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to fulfill"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "that [which]",
+        "id": "Mat.1.22#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ῥηθὲν",
+        "lemma": "G2046",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-APP-NSN",
+        "glosa": "having been spoken",
+        "id": "Mat.1.22#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὑπὸ",
+        "lemma": "G5259G",
+        "forma": "ὑπό",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.1.22#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "by/under: by"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.1.22#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κυρίου",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-GSM-T",
+        "glosa": "Lord",
+        "id": "Mat.1.22#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "διὰ",
+        "lemma": "G1223",
+        "forma": "διά",
+        "morph": "PREP",
+        "glosa": "through",
+        "id": "Mat.1.22#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "through/because of"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.1.22#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "προφήτου",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-GSM",
+        "glosa": "prophet",
+        "id": "Mat.1.22#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "prophet"
+      },
+      {
+        "t": "λέγοντος",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-GSM",
+        "glosa": "saying;",
+        "id": "Mat.1.22#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to say"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po Τοῦτο, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "Τοῦτο oddane jako „to”."
+    },
+    {
+      "bg": [
+        2,
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "rozbicie",
+      "uwaga": "γέγονεν oddane jako „się stało”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὅλον oddane jako „wszystko”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἵνα oddane jako „aby”."
+    },
+    {
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "rozbicie",
+      "uwaga": "πληρωθῇ, strona bierna, oddane jako „się wypełniło”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "τὸ, rodzajnik o glosie „that [which]”, oddane jako „co”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "ῥηθὲν, imiesłów bierny, oddane jako „powiedziano”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὑπὸ oddane jako „od”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "rola": "zlanie",
+      "uwaga": "τοῦ κυρίου oddane jako „Pana”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "διὰ oddane jako „przez”."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "rola": "zlanie",
+      "uwaga": "τοῦ προφήτου oddane jako „proroka”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "rola": "przeklad",
+      "uwaga": "λέγοντος oddane jako „mówiącego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Strona bierna γέγονεν i πληρωθῇ bierze „się”, a rodzajniki przy κυρίου i προφήτου wchodzą w rzeczownik.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἵνα πληρωθῇ BG oddaje jako „aby się wypełniło”, a τὸ ῥηθὲν ὑπὸ τοῦ κυρίου jako „co powiedziano od Pana”.",
+      "tokeny_bg": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Toto pak všecko stalo se, aby se naplnilo, což povědíno bylo ode Pána skrze proroka, řkoucího:",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

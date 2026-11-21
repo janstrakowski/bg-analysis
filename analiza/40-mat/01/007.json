@@ -1,0 +1,413 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.1.7",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 1,
+    "werset": 7
+  },
+  "tekst_bg": "A Salomon spłodził Roboama, a Roboam spłodził Abijasza, a Abijasz spłodził Azę.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "Salomon"
+    },
+    {
+      "i": 2,
+      "t": "spłodził"
+    },
+    {
+      "i": 3,
+      "t": "Roboama"
+    },
+    {
+      "i": 4,
+      "t": "a"
+    },
+    {
+      "i": 5,
+      "t": "Roboam"
+    },
+    {
+      "i": 6,
+      "t": "spłodził"
+    },
+    {
+      "i": 7,
+      "t": "Abijasza"
+    },
+    {
+      "i": 8,
+      "t": "a"
+    },
+    {
+      "i": 9,
+      "t": "Abijasz"
+    },
+    {
+      "i": 10,
+      "t": "spłodził"
+    },
+    {
+      "i": 11,
+      "t": "Azę"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.1.7",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.1.7",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Σολομὼν",
+        "lemma": "G4672G",
+        "forma": "Σολομών, Σαλωμών",
+        "morph": "N-NSM-P",
+        "glosa": "Solomon",
+        "id": "Mat.1.7#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "Solomon"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.7#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.7#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.7#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ῥοβοάμ",
+        "lemma": "G4497",
+        "forma": "Ῥοβοάμ",
+        "morph": "N-ASM-P",
+        "glosa": "Rehoboam;",
+        "id": "Mat.1.7#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Rehoboam"
+      },
+      {
+        "t": "Ῥοβοὰμ",
+        "lemma": "G4497",
+        "forma": "Ῥοβοάμ",
+        "morph": "N-NSM-P",
+        "glosa": "Rehoboam",
+        "id": "Mat.1.7#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Rehoboam"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.7#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.7#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.7#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἀβιά",
+        "lemma": "G0007G",
+        "forma": "Ἀβιά",
+        "morph": "N-ASM-P",
+        "glosa": "Abijah;",
+        "id": "Mat.1.7#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "Abijah"
+      },
+      {
+        "t": "Ἀβιὰ",
+        "lemma": "G0007G",
+        "forma": "Ἀβιά",
+        "morph": "N-NSM-P",
+        "glosa": "Abijah",
+        "id": "Mat.1.7#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "Abijah"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.7#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.7#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.7#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἀσάφ",
+        "lemma": "G0760",
+        "forma": "Ἀσά",
+        "morph": "N-ASM-P",
+        "glosa": "Asaph;",
+        "id": "Mat.1.7#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "Asaph"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "Σολομὼν oddane jako „Salomon”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ῥοβοάμ oddane jako „Roboama”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG stawia je przed imieniem jako „a”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ῥοβοὰμ oddane jako „Roboam”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ἀβιά oddane jako „Abijasza”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG stawia je przed imieniem jako „a”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἀβιὰ oddane jako „Abijasz”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ἀσάφ oddane jako „Azę”, a rodzajnik nie ma osobnego słowa."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajnik przy imieniu syna nie ma osobnego polskiego słowa, a δὲ jest wyniesione przed imię.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐγέννησεν BG oddaje jako „spłodził”, a rodzajnik τὸν przy imieniu syna wciela w to imię.",
+      "tokeny_bg": [
+        2,
+        3,
+        6,
+        7,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        2,
+        3,
+        4,
+        7,
+        8,
+        9,
+        12,
+        13,
+        14
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Šalomoun zplodil Roboáma. Roboám zplodil Abiáše. Abiáš zplodil Azu.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

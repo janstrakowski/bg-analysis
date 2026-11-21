@@ -1,0 +1,625 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.20",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 20
+  },
+  "tekst_bg": "I rzekł mu Jezus: Liszki mają jamy, a ptaki niebieskie gniazda; ale Syn człowieczy niema, gdzieby głowę skłonił.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "rzekł"
+    },
+    {
+      "i": 2,
+      "t": "mu"
+    },
+    {
+      "i": 3,
+      "t": "Jezus"
+    },
+    {
+      "i": 4,
+      "t": "Liszki"
+    },
+    {
+      "i": 5,
+      "t": "mają"
+    },
+    {
+      "i": 6,
+      "t": "jamy"
+    },
+    {
+      "i": 7,
+      "t": "a"
+    },
+    {
+      "i": 8,
+      "t": "ptaki"
+    },
+    {
+      "i": 9,
+      "t": "niebieskie"
+    },
+    {
+      "i": 10,
+      "t": "gniazda"
+    },
+    {
+      "i": 11,
+      "t": "ale"
+    },
+    {
+      "i": 12,
+      "t": "Syn"
+    },
+    {
+      "i": 13,
+      "t": "człowieczy"
+    },
+    {
+      "i": 14,
+      "t": "niema"
+    },
+    {
+      "i": 15,
+      "t": "gdzieby"
+    },
+    {
+      "i": 16,
+      "t": "głowę"
+    },
+    {
+      "i": 17,
+      "t": "skłonił"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.20",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.20",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.20#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "λέγει",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-3S",
+        "glosa": "says",
+        "id": "Mat.8.20#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to him",
+        "id": "Mat.8.20#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.8.20#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus;",
+        "id": "Mat.8.20#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "αἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPF",
+        "glosa": "<the>",
+        "id": "Mat.8.20#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀλώπεκες",
+        "lemma": "G0258",
+        "forma": "ἀλώπηξ",
+        "morph": "N-NPF",
+        "glosa": "Foxes",
+        "id": "Mat.8.20#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "fox"
+      },
+      {
+        "t": "φωλεοὺς",
+        "lemma": "G5454",
+        "forma": "φωλεός",
+        "morph": "N-APM",
+        "glosa": "holes",
+        "id": "Mat.8.20#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "den"
+      },
+      {
+        "t": "ἔχουσιν",
+        "lemma": "G2192",
+        "forma": "ἔχω",
+        "morph": "V-PAI-3P",
+        "glosa": "have",
+        "id": "Mat.8.20#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to have/be"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.20#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPN",
+        "glosa": "the",
+        "id": "Mat.8.20#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πετεινὰ",
+        "lemma": "G4071",
+        "forma": "πετεινός",
+        "morph": "N-NPN",
+        "glosa": "birds",
+        "id": "Mat.8.20#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "bird"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.8.20#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανοῦ",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-GSM",
+        "glosa": "air",
+        "id": "Mat.8.20#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "heaven"
+      },
+      {
+        "t": "κατασκηνώσεις",
+        "lemma": "G2682",
+        "forma": "κατασκήνωσις",
+        "morph": "N-APF",
+        "glosa": "nests,",
+        "id": "Mat.8.20#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "dwelling place"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.8.20#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "but",
+        "id": "Mat.8.20#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "then"
+      },
+      {
+        "t": "υἱὸς",
+        "lemma": "G5207",
+        "forma": "υἱός",
+        "morph": "N-NSM-T",
+        "glosa": "the Son",
+        "id": "Mat.8.20#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "son"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "<the>",
+        "id": "Mat.8.20#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀνθρώπου",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-GSM-T",
+        "glosa": "of Man",
+        "id": "Mat.8.20#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "a human"
+      },
+      {
+        "t": "οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "no",
+        "id": "Mat.8.20#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "no"
+      },
+      {
+        "t": "ἔχει",
+        "lemma": "G2192",
+        "forma": "ἔχω",
+        "morph": "V-PAI-3S",
+        "glosa": "has",
+        "id": "Mat.8.20#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "to have/be"
+      },
+      {
+        "t": "ποῦ",
+        "lemma": "G4226",
+        "forma": "ποῦ",
+        "morph": "ADV-I",
+        "glosa": "[place] where",
+        "id": "Mat.8.20#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "where?"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.8.20#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κεφαλὴν",
+        "lemma": "G2776",
+        "forma": "κεφαλή",
+        "morph": "N-ASF",
+        "glosa": "head",
+        "id": "Mat.8.20#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "head"
+      },
+      {
+        "t": "κλίνῃ",
+        "lemma": "G2827",
+        "forma": "κλίνω",
+        "morph": "V-PAS-3S",
+        "glosa": "He may lay.",
+        "id": "Mat.8.20#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "to bow/lay down"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "λέγει, czas teraźniejszy, oddane jako „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "αἱ ἀλώπεκες oddane jako „Liszki”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἔχουσιν oddane jako „mają”; w grece stoi po dopełnieniu φωλεούς."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "φωλεοὺς oddane jako „jamy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "τὰ πετεινὰ oddane jako „ptaki”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τοῦ οὐρανοῦ, dopełniacz, oddane przymiotnikiem „niebieskie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "κατασκηνώσεις oddane jako „gniazda”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "δὲ stoi przy ὁ υἱός, a BG wynosi je przed tytuł jako „ale”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        15,
+        17
+      ],
+      "uwaga": "ὁ υἱὸς oddane jako „Syn”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "τοῦ ἀνθρώπου oddane przymiotnikiem „człowieczy”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        20,
+        21
+      ],
+      "uwaga": "οὐκ ἔχει oddane jednym „niema”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "ποῦ oddane jako „gdzieby”; partykuła „by” niesie tryb łączący κλίνῃ."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        23,
+        24
+      ],
+      "uwaga": "τὴν κεφαλὴν oddane jako „głowę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "κλίνῃ, tryb łączący, oddane jako „skłonił”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajniki są wcielone w rzeczownik albo w przymiotnik, a οὐκ ἔχει schodzi się w „niema”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "λέγει jest czasem teraźniejszym. BG oddaje ten czas historyczny czasem przeszłym „rzekł”.",
+      "tokeny_bg": [
+        1
+      ],
+      "tokeny_zrodla": [
+        1
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "W grece jest jedno ἔχουσιν. BG też ma jedno „mają”: przy ptakach orzeczenie pozostaje pominięte, jak w TR.",
+      "tokeny_bg": [
+        5,
+        8,
+        10
+      ],
+      "tokeny_zrodla": [
+        8,
+        10,
+        11,
+        14
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I dí mu Ježíš: Lišky doupata mají, a ptactvo nebeské hnízda, ale Syn člověka nemá, kde by hlavu sklonil.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

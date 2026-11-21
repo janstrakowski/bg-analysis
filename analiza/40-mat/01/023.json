@@ -1,0 +1,556 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.1.23",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 1,
+    "werset": 23
+  },
+  "tekst_bg": "Oto, panna będzie brzemienna i porodzi syna, a nazowią imię jego Emanuel, co się wykłada: Bóg z nami.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Oto"
+    },
+    {
+      "i": 1,
+      "t": "panna"
+    },
+    {
+      "i": 2,
+      "t": "będzie"
+    },
+    {
+      "i": 3,
+      "t": "brzemienna"
+    },
+    {
+      "i": 4,
+      "t": "i"
+    },
+    {
+      "i": 5,
+      "t": "porodzi"
+    },
+    {
+      "i": 6,
+      "t": "syna"
+    },
+    {
+      "i": 7,
+      "t": "a"
+    },
+    {
+      "i": 8,
+      "t": "nazowią"
+    },
+    {
+      "i": 9,
+      "t": "imię"
+    },
+    {
+      "i": 10,
+      "t": "jego"
+    },
+    {
+      "i": 11,
+      "t": "Emanuel"
+    },
+    {
+      "i": 12,
+      "t": "co"
+    },
+    {
+      "i": 13,
+      "t": "się"
+    },
+    {
+      "i": 14,
+      "t": "wykłada"
+    },
+    {
+      "i": 15,
+      "t": "Bóg"
+    },
+    {
+      "i": 16,
+      "t": "z"
+    },
+    {
+      "i": 17,
+      "t": "nami"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.1.23",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.1.23",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "Behold",
+        "id": "Mat.1.23#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "look!"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.1.23#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "παρθένος",
+        "lemma": "G3933",
+        "forma": "παρθένος",
+        "morph": "N-NSF",
+        "glosa": "virgin",
+        "id": "Mat.1.23#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "virgin"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.1.23#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "γαστρὶ",
+        "lemma": "G1064",
+        "forma": "γαστήρ",
+        "morph": "N-DSF",
+        "glosa": "womb [pregnancy]",
+        "id": "Mat.1.23#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "belly"
+      },
+      {
+        "t": "ἕξει",
+        "lemma": "G2192",
+        "forma": "ἔχω",
+        "morph": "V-FAI-3S",
+        "glosa": "will have",
+        "id": "Mat.1.23#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to have/be"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.1.23#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "and"
+      },
+      {
+        "t": "τέξεται",
+        "lemma": "G5088",
+        "forma": "τίκτω",
+        "morph": "V-FDI-3S",
+        "glosa": "she will bear",
+        "id": "Mat.1.23#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to give birth to"
+      },
+      {
+        "t": "υἱόν",
+        "lemma": "G5207",
+        "forma": "υἱός",
+        "morph": "N-ASM",
+        "glosa": "a son,",
+        "id": "Mat.1.23#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "son"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.1.23#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "καλέσουσιν",
+        "lemma": "G2564G",
+        "forma": "καλέω",
+        "morph": "V-FAI-3P",
+        "glosa": "they will call",
+        "id": "Mat.1.23#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to call: call"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.1.23#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὄνομα",
+        "lemma": "G3686",
+        "forma": "ὄνομα",
+        "morph": "N-ASN",
+        "glosa": "name",
+        "id": "Mat.1.23#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "name"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him",
+        "id": "Mat.1.23#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "Ἐμμανουήλ",
+        "lemma": "G1694",
+        "forma": "Ἐμμανουήλ",
+        "morph": "N-ASM-T",
+        "glosa": "Immanuel,",
+        "id": "Mat.1.23#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "Immanuel"
+      },
+      {
+        "t": "ὅ",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-NSN",
+        "glosa": "which",
+        "id": "Mat.1.23#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "which"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is",
+        "id": "Mat.1.23#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to be"
+      },
+      {
+        "t": "μεθερμηνευόμενον",
+        "lemma": "G3177",
+        "forma": "μεθερμηνεύω",
+        "morph": "V-PPP-NSN",
+        "glosa": "being translated;",
+        "id": "Mat.1.23#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to mean"
+      },
+      {
+        "t": "μεθ᾽",
+        "lemma": "G3326",
+        "forma": "μετά",
+        "morph": "PREP",
+        "glosa": "With",
+        "id": "Mat.1.23#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "with/after"
+      },
+      {
+        "t": "ἡμῶν",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GP",
+        "glosa": "us",
+        "id": "Mat.1.23#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "me"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.1.23#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θεός",
+        "lemma": "G2316",
+        "forma": "θεός",
+        "morph": "N-NSM-T",
+        "glosa": "God.",
+        "id": "Mat.1.23#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "God"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἰδοὺ oddane jako „Oto”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1,
+        2
+      ],
+      "rola": "zlanie",
+      "uwaga": "ἡ παρθένος oddane jako „panna”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [
+        3,
+        4,
+        5
+      ],
+      "rola": "zlanie",
+      "uwaga": "ἐν γαστρὶ ἕξει oddane jako „będzie brzemienna”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "τέξεται oddane jako „porodzi”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "υἱόν oddane jako „syna”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "καλέσουσιν oddane jako „nazowią”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸ ὄνομα oddane jako „imię”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        13
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        14
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἐμμανουήλ oddane jako „Emanuel”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        15
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὅ oddane jako „co”."
+    },
+    {
+      "bg": [
+        13,
+        14
+      ],
+      "zrodlo": [
+        16,
+        17
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐστιν μεθερμηνευόμενον, imiesłów bierny z ἐστιν, oddane jako „się wykłada”."
+    },
+    {
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        20,
+        21
+      ],
+      "rola": "zlanie",
+      "uwaga": "ὁ θεός oddane jako „Bóg”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        18
+      ],
+      "rola": "przeklad",
+      "uwaga": "μεθ᾽ oddane jako „z”; w grece zwrot stoi przed ὁ θεός."
+    },
+    {
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        19
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἡμῶν oddane jako „nami”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. ἐν γαστρὶ ἕξει schodzi się w „będzie brzemienna”, a szyk „Bóg z nami” przestawia μεθ᾽ ἡμῶν ὁ θεός.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐν γαστρὶ ἕξει BG ściąga w „będzie brzemienna”, a μεθ᾽ ἡμῶν ὁ θεός oddaje jako „Bóg z nami”.",
+      "tokeny_bg": [
+        2,
+        3,
+        15,
+        16,
+        17
+      ],
+      "tokeny_zrodla": [
+        3,
+        4,
+        5,
+        18,
+        19,
+        20,
+        21
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Aj, panna těhotná bude, a porodí syna, a nazůveš jméno jeho Emmanuel, jenž se vykládá: S námi Bůh.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

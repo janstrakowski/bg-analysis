@@ -1,0 +1,488 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.24",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 24
+  },
+  "tekst_bg": "A oto się wzruszenie wielkie stało na morzu, tak iż się łódź wałami okrywała; a on spał.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "oto"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "wzruszenie"
+    },
+    {
+      "i": 4,
+      "t": "wielkie"
+    },
+    {
+      "i": 5,
+      "t": "stało"
+    },
+    {
+      "i": 6,
+      "t": "na"
+    },
+    {
+      "i": 7,
+      "t": "morzu"
+    },
+    {
+      "i": 8,
+      "t": "tak"
+    },
+    {
+      "i": 9,
+      "t": "iż"
+    },
+    {
+      "i": 10,
+      "t": "się"
+    },
+    {
+      "i": 11,
+      "t": "łódź"
+    },
+    {
+      "i": 12,
+      "t": "wałami"
+    },
+    {
+      "i": 13,
+      "t": "okrywała"
+    },
+    {
+      "i": 14,
+      "t": "a"
+    },
+    {
+      "i": 15,
+      "t": "on"
+    },
+    {
+      "i": 16,
+      "t": "spał"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.24",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.24",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.24#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "behold",
+        "id": "Mat.8.24#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "look!"
+      },
+      {
+        "t": "σεισμὸς",
+        "lemma": "G4578",
+        "forma": "σεισμός",
+        "morph": "N-NSM",
+        "glosa": "a storm",
+        "id": "Mat.8.24#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "earthquake"
+      },
+      {
+        "t": "μέγας",
+        "lemma": "G3173",
+        "forma": "μέγας",
+        "morph": "A-NSM",
+        "glosa": "great",
+        "id": "Mat.8.24#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "great"
+      },
+      {
+        "t": "ἐγένετο",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-2ADI-3S",
+        "glosa": "arose",
+        "id": "Mat.8.24#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.8.24#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.8.24#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θαλάσσῃ",
+        "lemma": "G2281",
+        "forma": "θάλασσα",
+        "morph": "N-DSF",
+        "glosa": "sea",
+        "id": "Mat.8.24#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "sea"
+      },
+      {
+        "t": "ὥστε",
+        "lemma": "G5620",
+        "forma": "ὥστε",
+        "morph": "CONJ",
+        "glosa": "so that",
+        "id": "Mat.8.24#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "so"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.8.24#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πλοῖον",
+        "lemma": "G4143",
+        "forma": "πλοῖον",
+        "morph": "N-ASN",
+        "glosa": "boat",
+        "id": "Mat.8.24#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "boat"
+      },
+      {
+        "t": "καλύπτεσθαι",
+        "lemma": "G2572",
+        "forma": "καλύπτω",
+        "morph": "V-PPN",
+        "glosa": "being swamped",
+        "id": "Mat.8.24#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to cover"
+      },
+      {
+        "t": "ὑπὸ",
+        "lemma": "G5259G",
+        "forma": "ὑπό",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.8.24#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "by/under: by"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPN",
+        "glosa": "the",
+        "id": "Mat.8.24#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κυμάτων",
+        "lemma": "G2949",
+        "forma": "κῦμα",
+        "morph": "N-GPN",
+        "glosa": "waves;",
+        "id": "Mat.8.24#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "a wave"
+      },
+      {
+        "t": "αὐτὸς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-NSM",
+        "glosa": "He Himself",
+        "id": "Mat.8.24#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.8.24#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐκάθευδεν",
+        "lemma": "G2518",
+        "forma": "καθεύδω",
+        "morph": "V-IAI-3S",
+        "glosa": "was sleeping.",
+        "id": "Mat.8.24#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to sleep"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἰδοὺ oddane jako „oto”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐγένετο, strona medialna deponens, oddane jako „się stało”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "σεισμὸς oddane jako „wzruszenie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "μέγας oddane jako „wielkie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἐν oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τῇ θαλάσσῃ oddane jako „morzu”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ὥστε oddane jako „tak iż”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        10,
+        13
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "καλύπτεσθαι, bezokolicznik bierny, oddane jako „się okrywała”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τὸ πλοῖον oddane jako „łódź”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12,
+        13,
+        14
+      ],
+      "uwaga": "ὑπὸ τῶν κυμάτων oddane narzędnikiem „wałami”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "δὲ stoi po αὐτός, a BG wynosi je przed zaimek jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "αὐτὸς oddane jako „on”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἐκάθευδεν oddane jako „spał”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Nic nie dodano i nic nie opuszczono. Bezokolicznik skutku καλύπτεσθαι BG oddaje osobowym „okrywała”, a „się” należy do strony biernej i do deponens ἐγένετο.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὥστε τὸ πλοῖον καλύπτεσθαι ma bezokolicznik bierny. BG oddaje go zdaniem „tak iż się łódź wałami okrywała”.",
+      "tokeny_bg": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A aj, bouře veliká stala se jest na moři, takže vlny přikrývaly lodí. On pak spal.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

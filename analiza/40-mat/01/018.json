@@ -1,0 +1,682 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.1.18",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 1,
+    "werset": 18
+  },
+  "tekst_bg": "A narodzenie Jezusa Chrystusa takie było: Albowiem gdy Maryja, matka jego, poślubiona była Józefowi, pierwej niżeli się zeszli, znaleziona jest brzemienną z Ducha Świętego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "narodzenie"
+    },
+    {
+      "i": 2,
+      "t": "Jezusa"
+    },
+    {
+      "i": 3,
+      "t": "Chrystusa"
+    },
+    {
+      "i": 4,
+      "t": "takie"
+    },
+    {
+      "i": 5,
+      "t": "było"
+    },
+    {
+      "i": 6,
+      "t": "Albowiem"
+    },
+    {
+      "i": 7,
+      "t": "gdy"
+    },
+    {
+      "i": 8,
+      "t": "Maryja"
+    },
+    {
+      "i": 9,
+      "t": "matka"
+    },
+    {
+      "i": 10,
+      "t": "jego"
+    },
+    {
+      "i": 11,
+      "t": "poślubiona"
+    },
+    {
+      "i": 12,
+      "t": "była"
+    },
+    {
+      "i": 13,
+      "t": "Józefowi"
+    },
+    {
+      "i": 14,
+      "t": "pierwej"
+    },
+    {
+      "i": 15,
+      "t": "niżeli"
+    },
+    {
+      "i": 16,
+      "t": "się"
+    },
+    {
+      "i": 17,
+      "t": "zeszli"
+    },
+    {
+      "i": 18,
+      "t": "znaleziona"
+    },
+    {
+      "i": 19,
+      "t": "jest"
+    },
+    {
+      "i": 20,
+      "t": "brzemienną"
+    },
+    {
+      "i": 21,
+      "t": "z"
+    },
+    {
+      "i": 22,
+      "t": "Ducha"
+    },
+    {
+      "i": 23,
+      "t": "Świętego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.1.18",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.1.18",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "<the>",
+        "id": "Mat.1.18#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "Now",
+        "id": "Mat.1.18#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "Ἰησοῦ",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-GSM-P",
+        "glosa": "of Jesus",
+        "id": "Mat.1.18#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "Χριστοῦ",
+        "lemma": "G5547",
+        "forma": "Χριστός",
+        "morph": "N-GSM-T",
+        "glosa": "Christ",
+        "id": "Mat.1.18#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Christ"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.1.18#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γέννησις",
+        "lemma": "G1083",
+        "forma": "γέννησις",
+        "morph": "N-NSF",
+        "glosa": "birth",
+        "id": "Mat.1.18#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "birth"
+      },
+      {
+        "t": "οὕτως",
+        "lemma": "G3779",
+        "forma": "οὕτω, οὕτως",
+        "morph": "ADV",
+        "glosa": "thus",
+        "id": "Mat.1.18#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "thus(-ly)"
+      },
+      {
+        "t": "ἦν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-IAI-3S",
+        "glosa": "was happening:",
+        "id": "Mat.1.18#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to be"
+      },
+      {
+        "t": "μνηστευθείσης",
+        "lemma": "G3423",
+        "forma": "μνηστεύω",
+        "morph": "V-APP-GSF",
+        "glosa": "At the pledging",
+        "id": "Mat.1.18#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to betroth"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.1.18#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "for"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "of the",
+        "id": "Mat.1.18#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μητρὸς",
+        "lemma": "G3384",
+        "forma": "μήτηρ",
+        "morph": "N-GSF",
+        "glosa": "mother",
+        "id": "Mat.1.18#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "mother"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him",
+        "id": "Mat.1.18#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "Μαρίας",
+        "lemma": "G3137G",
+        "forma": "Μαρία",
+        "morph": "N-GSF-P",
+        "glosa": "Mary",
+        "id": "Mat.1.18#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "Mary"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "<the>",
+        "id": "Mat.1.18#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰωσήφ",
+        "lemma": "G2501G",
+        "forma": "Ἰωσήφ",
+        "morph": "N-DSM-P",
+        "glosa": "to Joseph,",
+        "id": "Mat.1.18#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "Joseph"
+      },
+      {
+        "t": "πρὶν",
+        "lemma": "G4250",
+        "forma": "πρίν",
+        "morph": "ADV",
+        "glosa": "before",
+        "id": "Mat.1.18#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "before"
+      },
+      {
+        "t": "ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "than",
+        "id": "Mat.1.18#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "or"
+      },
+      {
+        "t": "συνελθεῖν",
+        "lemma": "G4905",
+        "forma": "συνέρχομαι",
+        "morph": "V-2AAN",
+        "glosa": "to come together",
+        "id": "Mat.1.18#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to assemble"
+      },
+      {
+        "t": "αὐτοὺς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-APM",
+        "glosa": "by them",
+        "id": "Mat.1.18#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "εὑρέθη",
+        "lemma": "G2147",
+        "forma": "εὑρίσκω",
+        "morph": "V-API-3S",
+        "glosa": "she was found",
+        "id": "Mat.1.18#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "to find/meet"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.1.18#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "γαστρὶ",
+        "lemma": "G1064",
+        "forma": "γαστήρ",
+        "morph": "N-DSF",
+        "glosa": "womb [pregnancy]",
+        "id": "Mat.1.18#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "belly"
+      },
+      {
+        "t": "ἔχουσα",
+        "lemma": "G2192",
+        "forma": "ἔχω",
+        "morph": "V-PAP-NSF",
+        "glosa": "having",
+        "id": "Mat.1.18#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "to have/be"
+      },
+      {
+        "t": "ἐκ",
+        "lemma": "G1537",
+        "forma": "ἐκ",
+        "morph": "PREP",
+        "glosa": "out of",
+        "id": "Mat.1.18#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "out from"
+      },
+      {
+        "t": "πνεύματος",
+        "lemma": "G4151G",
+        "forma": "πνεῦμα",
+        "morph": "N-GSN",
+        "glosa": "[the] Spirit",
+        "id": "Mat.1.18#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "spirit/breath: spirit"
+      },
+      {
+        "t": "ἁγίου",
+        "lemma": "G0040G",
+        "forma": "ἅγιος",
+        "morph": "A-GSN",
+        "glosa": "Holy.",
+        "id": "Mat.1.18#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "holy"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po rodzajniku, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "rola": "zlanie",
+      "uwaga": "ἡ γέννησις oddane jako „narodzenie”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "rola": "zlanie",
+      "uwaga": "Τοῦ Ἰησοῦ oddane jako „Jezusa”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "przeklad",
+      "uwaga": "Χριστοῦ oddane jako „Chrystusa”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "οὕτως oddane jako „takie”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἦν oddane jako „było”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "γὰρ stoi po imiesłowie, a BG wynosi je na początek zdania jako „Albowiem”."
+    },
+    {
+      "bg": [
+        7,
+        11,
+        12
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "rozbicie",
+      "uwaga": "μνηστευθείσης, imiesłów dopełniaczowy, rozbity na zdanie „gdy poślubiona była”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        13
+      ],
+      "rola": "przeklad",
+      "uwaga": "Μαρίας oddane jako „Maryja”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "rola": "zlanie",
+      "uwaga": "τῆς μητρὸς oddane jako „matka”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "rola": "zlanie",
+      "uwaga": "τῷ Ἰωσήφ oddane jako „Józefowi”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "rola": "przeklad",
+      "uwaga": "πρὶν oddane jako „pierwej”."
+    },
+    {
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        17
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἢ oddane jako „niżeli”."
+    },
+    {
+      "bg": [
+        16,
+        17
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "rola": "przeklad",
+      "uwaga": "συνελθεῖν αὐτοὺς, bezokolicznik z biernikiem, oddane jako „się zeszli”."
+    },
+    {
+      "bg": [
+        18,
+        19
+      ],
+      "zrodlo": [
+        20
+      ],
+      "rola": "rozbicie",
+      "uwaga": "εὑρέθη, strona bierna, oddane jako „znaleziona jest”."
+    },
+    {
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        21,
+        22,
+        23
+      ],
+      "rola": "zlanie",
+      "uwaga": "ἐν γαστρὶ ἔχουσα oddane jednym słowem „brzemienną”."
+    },
+    {
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        24
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐκ oddane jako „z”."
+    },
+    {
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        25
+      ],
+      "rola": "przeklad",
+      "uwaga": "πνεύματος oddane jako „Ducha”."
+    },
+    {
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        26
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἁγίου oddane jako „Świętego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Imiesłów μνηστευθείσης BG rozbija na zdanie „gdy poślubiona była”, a συνελθεῖν αὐτοὺς na „się zeszli”. Tokeny są pokryte i zdanie podaje to samo narodzenie.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "μνηστευθείσης γὰρ τῆς μητρὸς αὐτοῦ Μαρίας τῷ Ἰωσήφ BG oddaje jako „Albowiem gdy Maryja, matka jego, poślubiona była Józefowi”.",
+      "tokeny_bg": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Jezukristovo pak narození takto se stalo: Když matka jeho Maria snoubena byla Jozefovi, prve než se sešli, nalezena jest těhotná z Ducha svatého.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

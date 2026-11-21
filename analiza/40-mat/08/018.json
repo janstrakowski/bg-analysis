@@ -1,0 +1,413 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.18",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 18
+  },
+  "tekst_bg": "A widząc Jezus wielki lud około siebie, kazał się przeprawić na drugą stronę morza.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "widząc"
+    },
+    {
+      "i": 2,
+      "t": "Jezus"
+    },
+    {
+      "i": 3,
+      "t": "wielki"
+    },
+    {
+      "i": 4,
+      "t": "lud"
+    },
+    {
+      "i": 5,
+      "t": "około"
+    },
+    {
+      "i": 6,
+      "t": "siebie"
+    },
+    {
+      "i": 7,
+      "t": "kazał"
+    },
+    {
+      "i": 8,
+      "t": "się"
+    },
+    {
+      "i": 9,
+      "t": "przeprawić"
+    },
+    {
+      "i": 10,
+      "t": "na"
+    },
+    {
+      "i": 11,
+      "t": "drugą"
+    },
+    {
+      "i": 12,
+      "t": "stronę"
+    },
+    {
+      "i": 13,
+      "t": "morza"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.18",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.18",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἰδὼν",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAP-NSM",
+        "glosa": "Having seen",
+        "id": "Mat.8.18#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.8.18#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.8.18#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.8.18#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "πολλοὺς",
+        "lemma": "G4183",
+        "forma": "πολύς",
+        "morph": "A-APM",
+        "glosa": "great",
+        "id": "Mat.8.18#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "much"
+      },
+      {
+        "t": "ὄχλους",
+        "lemma": "G3793",
+        "forma": "ὄχλους",
+        "morph": "N-APM",
+        "glosa": "crowds",
+        "id": "Mat.8.18#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "crowd"
+      },
+      {
+        "t": "περὶ",
+        "lemma": "G4012",
+        "forma": "περί",
+        "morph": "PREP",
+        "glosa": "around",
+        "id": "Mat.8.18#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "about"
+      },
+      {
+        "t": "αὐτὸν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "Him",
+        "id": "Mat.8.18#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐκέλευσεν",
+        "lemma": "G2753",
+        "forma": "κελεύω",
+        "morph": "V-AAI-3S",
+        "glosa": "He commanded",
+        "id": "Mat.8.18#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to order"
+      },
+      {
+        "t": "ἀπελθεῖν",
+        "lemma": "G0565",
+        "forma": "ἀπέρχομαι",
+        "morph": "V-2AAN",
+        "glosa": "to depart",
+        "id": "Mat.8.18#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to go away"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.8.18#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.8.18#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πέραν",
+        "lemma": "G4008",
+        "forma": "πέραν",
+        "morph": "PREP",
+        "glosa": "other side.",
+        "id": "Mat.8.18#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "other side"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po imiesłowie, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ἰδὼν, imiesłów aorystu, oddane jako „widząc”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "πολλοὺς, biernik liczby mnogiej, oddane jako „wielki”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ὄχλους, liczba mnoga, oddane jako „lud”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "περὶ oddane jako „około”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "αὐτὸν oddane jako „siebie”, bo podmiotem zdania jest Jezus."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐκέλευσεν oddane jako „kazał”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [],
+      "uwaga": "„się” stoi przy „przeprawić”, a ἀπελθεῖν jest bezokolicznikiem czynnym.",
+      "uzasadnienie": "„przeprawić się” jest polskim czasownikiem zwrotnym dla nieprzechodniego ἀπελθεῖν; partykuła nie dodaje osoby ani przedmiotu."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἀπελθεῖν oddane jako „przeprawić” przy celu „na drugą stronę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "εἰς oddane jako „na”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11,
+        12
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τὸ πέραν oddane jako „drugą stronę”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [],
+      "uwaga": "„morza” jest kursywą 1632; εἰς τὸ πέραν nie ma rzeczownika „morze”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Każde słowo greckie ma grupę. „się” wnosi zwrotność „przeprawić się”, a „morza” jest kursywą przy „drugiej stronie”, której TR nie nazywa morzem.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐκέλευσεν ἀπελθεῖν εἰς τὸ πέραν nie ma rzeczownika θάλασσα ani partykuły zwrotnej. BG dodaje „się”, a „morza” jest kursywą w 1632.",
+      "tokeny_bg": [
+        8,
+        9,
+        11,
+        12,
+        13
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πολλοὺς ὄχλους jest biernikiem liczby mnogiej. BG nazywa ten tłum w liczbie pojedynczej: „wielki lud”.",
+      "tokeny_bg": [
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        4,
+        5
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Vida pak Ježíš zástupy mnohé okolo sebe, kázal přeplaviti se na druhou stranu.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

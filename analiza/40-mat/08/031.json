@@ -1,0 +1,471 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.31",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 31
+  },
+  "tekst_bg": "Tedy go dyjabli prosili, mówiąc: Jeźli nas wyganiasz, dopuść nam wnijść w trzodę tych świni.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tedy"
+    },
+    {
+      "i": 1,
+      "t": "go"
+    },
+    {
+      "i": 2,
+      "t": "dyjabli"
+    },
+    {
+      "i": 3,
+      "t": "prosili"
+    },
+    {
+      "i": 4,
+      "t": "mówiąc"
+    },
+    {
+      "i": 5,
+      "t": "Jeźli"
+    },
+    {
+      "i": 6,
+      "t": "nas"
+    },
+    {
+      "i": 7,
+      "t": "wyganiasz"
+    },
+    {
+      "i": 8,
+      "t": "dopuść"
+    },
+    {
+      "i": 9,
+      "t": "nam"
+    },
+    {
+      "i": 10,
+      "t": "wnijść"
+    },
+    {
+      "i": 11,
+      "t": "w"
+    },
+    {
+      "i": 12,
+      "t": "trzodę"
+    },
+    {
+      "i": 13,
+      "t": "tych"
+    },
+    {
+      "i": 14,
+      "t": "świni"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.31",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.31",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "<the>",
+        "id": "Mat.8.31#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.31#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "δαίμονες",
+        "lemma": "G1142",
+        "forma": "δαίμων",
+        "morph": "N-NPM",
+        "glosa": "the demons",
+        "id": "Mat.8.31#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "demon"
+      },
+      {
+        "t": "παρεκάλουν",
+        "lemma": "G3870",
+        "forma": "παρακαλέω",
+        "morph": "V-IAI-3P",
+        "glosa": "were begging",
+        "id": "Mat.8.31#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to plead/comfort"
+      },
+      {
+        "t": "αὐτὸν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "Him",
+        "id": "Mat.8.31#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "λέγοντες",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NPM",
+        "glosa": "saying;",
+        "id": "Mat.8.31#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to say"
+      },
+      {
+        "t": "εἰ",
+        "lemma": "G1487G",
+        "forma": "εἰ",
+        "morph": "COND",
+        "glosa": "If",
+        "id": "Mat.8.31#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "if"
+      },
+      {
+        "t": "ἐκβάλλεις",
+        "lemma": "G1544",
+        "forma": "ἐκβάλλω",
+        "morph": "V-PAI-2S",
+        "glosa": "You cast out",
+        "id": "Mat.8.31#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to expel"
+      },
+      {
+        "t": "ἡμᾶς",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1AP",
+        "glosa": "us,",
+        "id": "Mat.8.31#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "me"
+      },
+      {
+        "t": "ἐπίτρεψον",
+        "lemma": "G2010",
+        "forma": "ἐπιτρέπω",
+        "morph": "V-AAM-2S",
+        "glosa": "do allow",
+        "id": "Mat.8.31#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to permit"
+      },
+      {
+        "t": "ἀπελθεῖν",
+        "lemma": "G0565",
+        "forma": "ἀπελθεῖν",
+        "morph": "V-2AAN",
+        "glosa": "to go away",
+        "id": "Mat.8.31#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to go away"
+      },
+      {
+        "t": "ἡμῖν",
+        "lemma": "G2254",
+        "forma": "ἡμῖν",
+        "morph": "P-1DP",
+        "glosa": "us",
+        "id": "Mat.8.31#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to us"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.8.31#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.8.31#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀγέλην",
+        "lemma": "G0034",
+        "forma": "ἀγέλη",
+        "morph": "N-ASF",
+        "glosa": "herd",
+        "id": "Mat.8.31#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "herd"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "<the>",
+        "id": "Mat.8.31#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "χοίρων",
+        "lemma": "G5519",
+        "forma": "χοῖρος",
+        "morph": "N-GPM",
+        "glosa": "of pigs.",
+        "id": "Mat.8.31#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "pig"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po rodzajniku, a BG wynosi je na początek jako „Tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτὸν oddane jako „go”; BG stawia zaimek przed „dyjabli prosili”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "uwaga": "οἱ δαίμονες oddane jako „dyjabli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "παρεκάλουν oddane jako „prosili”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "λέγοντες oddane jako „mówiąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "εἰ oddane jako „Jeźli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἡμᾶς oddane jako „nas”; BG stawia zaimek przed „wyganiasz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐκβάλλεις oddane jako „wyganiasz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἐπίτρεψον oddane jako „dopuść”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἡμῖν oddane jako „nam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἀπελθεῖν, „odejść”, oddane jako „wnijść”. Kierunek wchodzenia niesie osobno εἰς."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "εἰς oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τὴν ἀγέλην oddane jako „trzodę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "τῶν, rodzajnik, oddane jako „tych”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "χοίρων oddane jako „świni”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajnik przy „dyjabli” i przy „trzodę” jest wcielony albo, przy świni, oddany jako „tych”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οἱ δαίμονες BG oddaje jako „dyjabli”, a ἀπελθεῖν εἰς τὴν ἀγέλην jako „wnijść w trzodę”.",
+      "tokeny_bg": [
+        2,
+        10,
+        11,
+        12
+      ],
+      "tokeny_zrodla": [
+        0,
+        2,
+        10,
+        12,
+        13,
+        14
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ďáblové pak prosili ho, řkouce: Poněvadž nás vymítáš, dopustiž nám vjíti do toho stáda vepřů.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

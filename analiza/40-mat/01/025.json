@@ -1,0 +1,490 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.1.25",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 1,
+    "werset": 25
+  },
+  "tekst_bg": "Ale jej nie uznał, aż porodziła onego syna swego pierworodnego, i nazwał imię jego Jezus.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "jej"
+    },
+    {
+      "i": 2,
+      "t": "nie"
+    },
+    {
+      "i": 3,
+      "t": "uznał"
+    },
+    {
+      "i": 4,
+      "t": "aż"
+    },
+    {
+      "i": 5,
+      "t": "porodziła"
+    },
+    {
+      "i": 6,
+      "t": "onego"
+    },
+    {
+      "i": 7,
+      "t": "syna"
+    },
+    {
+      "i": 8,
+      "t": "swego"
+    },
+    {
+      "i": 9,
+      "t": "pierworodnego"
+    },
+    {
+      "i": 10,
+      "t": "i"
+    },
+    {
+      "i": 11,
+      "t": "nazwał"
+    },
+    {
+      "i": 12,
+      "t": "imię"
+    },
+    {
+      "i": 13,
+      "t": "jego"
+    },
+    {
+      "i": 14,
+      "t": "Jezus"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.1.25",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.1.25",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.1.25#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.1.25#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "no"
+      },
+      {
+        "t": "ἐγίνωσκεν",
+        "lemma": "G1097",
+        "forma": "γινώσκω",
+        "morph": "V-IAI-3S",
+        "glosa": "he was knowing",
+        "id": "Mat.1.25#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to know"
+      },
+      {
+        "t": "αὐτὴν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASF",
+        "glosa": "her",
+        "id": "Mat.1.25#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἕως",
+        "lemma": "G2193",
+        "forma": "ἕως",
+        "morph": "PREP",
+        "glosa": "until",
+        "id": "Mat.1.25#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "until"
+      },
+      {
+        "t": "οὗ",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-GSM",
+        "glosa": "that",
+        "id": "Mat.1.25#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "which"
+      },
+      {
+        "t": "ἔτεκεν",
+        "lemma": "G5088",
+        "forma": "τίκτω",
+        "morph": "V-2AAI-3S",
+        "glosa": "she had brought forth",
+        "id": "Mat.1.25#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to give birth to"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.1.25#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "υἱόν",
+        "lemma": "G5207",
+        "forma": "υἱός",
+        "morph": "N-ASM",
+        "glosa": "a son",
+        "id": "Mat.1.25#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "son"
+      },
+      {
+        "t": "αὐτῆς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSF",
+        "glosa": "of her",
+        "id": "Mat.1.25#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.25#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πρωτότοκον",
+        "lemma": "G4416",
+        "forma": "πρωτότοκος",
+        "morph": "A-ASM-S",
+        "glosa": "firstborn,",
+        "id": "Mat.1.25#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "firstborn"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.1.25#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐκάλεσεν",
+        "lemma": "G2564G",
+        "forma": "καλέω",
+        "morph": "V-AAI-3S",
+        "glosa": "(s)he called",
+        "id": "Mat.1.25#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to call: call"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.1.25#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὄνομα",
+        "lemma": "G3686",
+        "forma": "ὄνομα",
+        "morph": "N-ASN",
+        "glosa": "name",
+        "id": "Mat.1.25#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "name"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him",
+        "id": "Mat.1.25#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "Ἰησοῦν",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-ASM-P",
+        "glosa": "Jesus.",
+        "id": "Mat.1.25#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "Jesus"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „Ale”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτὴν oddane jako „jej”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "οὐκ oddane jako „nie”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγίνωσκεν oddane jako „uznał”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "rola": "zlanie",
+      "uwaga": "ἕως οὗ oddane jednym „aż”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἔτεκεν oddane jako „porodziła”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "τὸν oddane jako „onego”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "υἱόν oddane jako „syna”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτῆς oddane jako „swego”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν πρωτότοκον oddane jako „pierworodnego”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐκάλεσεν oddane jako „nazwał”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸ ὄνομα oddane jako „imię”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        16
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        17
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἰησοῦν oddane jako „Jezus”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. καί na początku jest „Ale”, a ἕως οὗ schodzi się w „aż”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "καὶ οὐκ ἐγίνωσκεν αὐτὴν BG oddaje jako „Ale jej nie uznał”, a τὸν υἱόν αὐτῆς τὸν πρωτότοκον jako „onego syna swego pierworodnego”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ale nepoznal jí, až i porodila Syna svého prvorozeného, a nazvala jméno jeho Ježíš.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

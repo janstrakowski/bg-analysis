@@ -1,0 +1,530 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.34",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 34
+  },
+  "tekst_bg": "A oto wszystko miasto wyszło przeciwko Jezusowi, a ujrzawszy go prosili, aby z ich granic odszedł.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "oto"
+    },
+    {
+      "i": 2,
+      "t": "wszystko"
+    },
+    {
+      "i": 3,
+      "t": "miasto"
+    },
+    {
+      "i": 4,
+      "t": "wyszło"
+    },
+    {
+      "i": 5,
+      "t": "przeciwko"
+    },
+    {
+      "i": 6,
+      "t": "Jezusowi"
+    },
+    {
+      "i": 7,
+      "t": "a"
+    },
+    {
+      "i": 8,
+      "t": "ujrzawszy"
+    },
+    {
+      "i": 9,
+      "t": "go"
+    },
+    {
+      "i": 10,
+      "t": "prosili"
+    },
+    {
+      "i": 11,
+      "t": "aby"
+    },
+    {
+      "i": 12,
+      "t": "z"
+    },
+    {
+      "i": 13,
+      "t": "ich"
+    },
+    {
+      "i": 14,
+      "t": "granic"
+    },
+    {
+      "i": 15,
+      "t": "odszedł"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.34",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.34",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.34#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "behold",
+        "id": "Mat.8.34#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "look!"
+      },
+      {
+        "t": "πᾶσα",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NSF",
+        "glosa": "all",
+        "id": "Mat.8.34#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "all"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.8.34#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πόλις",
+        "lemma": "G4172",
+        "forma": "πόλις",
+        "morph": "N-NSF",
+        "glosa": "city",
+        "id": "Mat.8.34#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "city"
+      },
+      {
+        "t": "ἐξῆλθεν",
+        "lemma": "G1831",
+        "forma": "ἐξέρχομαι",
+        "morph": "V-2AAI-3S",
+        "glosa": "went out",
+        "id": "Mat.8.34#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to go out"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.8.34#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "toward"
+      },
+      {
+        "t": "συνάντησιν",
+        "lemma": "G4877",
+        "forma": "συνάντησιν",
+        "morph": "N-ASF",
+        "glosa": "meet with",
+        "id": "Mat.8.34#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "meeting"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "<the>",
+        "id": "Mat.8.34#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦ",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-DSM-P",
+        "glosa": "Jesus,",
+        "id": "Mat.8.34#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.34#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδόντες",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAP-NPM",
+        "glosa": "having seen",
+        "id": "Mat.8.34#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "αὐτὸν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "Him",
+        "id": "Mat.8.34#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "παρεκάλεσαν",
+        "lemma": "G3870",
+        "forma": "παρακαλέω",
+        "morph": "V-AAI-3P",
+        "glosa": "they begged [Him]",
+        "id": "Mat.8.34#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to plead/comfort"
+      },
+      {
+        "t": "ὅπως",
+        "lemma": "G3704",
+        "forma": "ὅπως",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.8.34#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "that"
+      },
+      {
+        "t": "μεταβῇ",
+        "lemma": "G3327",
+        "forma": "μεταβαίνω",
+        "morph": "V-2AAS-3S",
+        "glosa": "He may depart",
+        "id": "Mat.8.34#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to depart"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.8.34#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "away from"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPN",
+        "glosa": "the",
+        "id": "Mat.8.34#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὁρίων",
+        "lemma": "G3725",
+        "forma": "ὅριον",
+        "morph": "N-GPN",
+        "glosa": "region",
+        "id": "Mat.8.34#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "region"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them.",
+        "id": "Mat.8.34#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἰδοὺ oddane jako „oto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "πᾶσα oddane jako „wszystko”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "ἡ πόλις oddane jako „miasto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἐξῆλθεν oddane jako „wyszło”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "εἰς συνάντησιν oddane jako „przeciwko” w zwrocie „wyszło przeciwko”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τῷ Ἰησοῦ oddane jako „Jezusowi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἰδόντες oddane jako „ujrzawszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "αὐτὸν oddane jako „go”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "παρεκάλεσαν oddane jako „prosili”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ὅπως oddane jako „aby”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἀπὸ oddane jako „z”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "αὐτῶν oddane jako „ich”; BG stawia zaimek przed „granic”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        17,
+        18
+      ],
+      "uwaga": "τῶν ὁρίων oddane jako „granic”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "μεταβῇ, tryb łączący, oddane jako „odszedł” po „aby”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. εἰς συνάντησιν schodzi się w „przeciwko”, a „aby odszedł” niesie tryb łączący μεταβῇ.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "εἰς συνάντησιν τῷ Ἰησοῦ BG oddaje jako „przeciwko Jezusowi” w zwrocie „wyszło przeciwko”.",
+      "tokeny_bg": [
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὅπως μεταβῇ jest trybem łączącym. BG oddaje go jako „aby odszedł”.",
+      "tokeny_bg": [
+        11,
+        15
+      ],
+      "tokeny_zrodla": [
+        14,
+        15
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A aj, všecko město vyšlo v cestu Ježíšovi, a uzřevše ho, prosili, aby šel z končin jejich.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

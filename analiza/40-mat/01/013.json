@@ -1,0 +1,413 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.1.13",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 1,
+    "werset": 13
+  },
+  "tekst_bg": "A Zorobabel spłodził Abijuda, a Abijud spłodził Elijakima, a Elijakim spłodził Azora.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "Zorobabel"
+    },
+    {
+      "i": 2,
+      "t": "spłodził"
+    },
+    {
+      "i": 3,
+      "t": "Abijuda"
+    },
+    {
+      "i": 4,
+      "t": "a"
+    },
+    {
+      "i": 5,
+      "t": "Abijud"
+    },
+    {
+      "i": 6,
+      "t": "spłodził"
+    },
+    {
+      "i": 7,
+      "t": "Elijakima"
+    },
+    {
+      "i": 8,
+      "t": "a"
+    },
+    {
+      "i": 9,
+      "t": "Elijakim"
+    },
+    {
+      "i": 10,
+      "t": "spłodził"
+    },
+    {
+      "i": 11,
+      "t": "Azora"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.1.13",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.1.13",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ζοροβαβὲλ",
+        "lemma": "G2216H",
+        "forma": "Ζοροβάβελ",
+        "morph": "N-NSM-P",
+        "glosa": "Zerubbabel",
+        "id": "Mat.1.13#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "Zerubbabel"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.13#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.13#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.13#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἀβιούδ",
+        "lemma": "G0010",
+        "forma": "Ἀβιούδ",
+        "morph": "N-ASM-P",
+        "glosa": "Abiud;",
+        "id": "Mat.1.13#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Abiud"
+      },
+      {
+        "t": "Ἀβιοὺδ",
+        "lemma": "G0010",
+        "forma": "Ἀβιούδ",
+        "morph": "N-NSM-P",
+        "glosa": "Abiud",
+        "id": "Mat.1.13#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Abiud"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.13#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.13#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.13#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἐλιακίμ",
+        "lemma": "G1662G",
+        "forma": "Ἐλιακείμ",
+        "morph": "N-ASM-P",
+        "glosa": "Eliakim;",
+        "id": "Mat.1.13#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "Eliakim"
+      },
+      {
+        "t": "Ἐλιακὶμ",
+        "lemma": "G1662G",
+        "forma": "Ἐλιακείμ",
+        "morph": "N-NSM-P",
+        "glosa": "Eliakim",
+        "id": "Mat.1.13#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "Eliakim"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.13#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.13#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.13#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἀζώρ",
+        "lemma": "G0107",
+        "forma": "Ἀζώρ",
+        "morph": "N-ASM-P",
+        "glosa": "Azor;",
+        "id": "Mat.1.13#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "Azor"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ζοροβαβὲλ oddane jako „Zorobabel”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ἀβιούδ oddane jako „Abijuda”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG stawia je przed imieniem jako „a”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἀβιοὺδ oddane jako „Abijud”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ἐλιακίμ oddane jako „Elijakima”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG stawia je przed imieniem jako „a”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἐλιακὶμ oddane jako „Elijakim”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ἀζώρ oddane jako „Azora”, a rodzajnik nie ma osobnego słowa."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajnik przy imieniu syna nie ma osobnego polskiego słowa, a δὲ jest wyniesione przed imię.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐγέννησεν BG oddaje jako „spłodził”, a rodzajnik τὸν przy imieniu syna wciela w to imię.",
+      "tokeny_bg": [
+        2,
+        3,
+        6,
+        7,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        2,
+        3,
+        4,
+        7,
+        8,
+        9,
+        12,
+        13,
+        14
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A Zorobábel zplodil Abiuda. Abiud pak zplodil Eliachima. Eliachim zplodil Azora.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

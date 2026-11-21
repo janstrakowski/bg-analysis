@@ -1,0 +1,474 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.21",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 21
+  },
+  "tekst_bg": "A drugi z uczniów jego rzekł mu: Panie! dopuść mi pierwej odejść i pogrześć ojca mego;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "drugi"
+    },
+    {
+      "i": 2,
+      "t": "z"
+    },
+    {
+      "i": 3,
+      "t": "uczniów"
+    },
+    {
+      "i": 4,
+      "t": "jego"
+    },
+    {
+      "i": 5,
+      "t": "rzekł"
+    },
+    {
+      "i": 6,
+      "t": "mu"
+    },
+    {
+      "i": 7,
+      "t": "Panie"
+    },
+    {
+      "i": 8,
+      "t": "dopuść"
+    },
+    {
+      "i": 9,
+      "t": "mi"
+    },
+    {
+      "i": 10,
+      "t": "pierwej"
+    },
+    {
+      "i": 11,
+      "t": "odejść"
+    },
+    {
+      "i": 12,
+      "t": "i"
+    },
+    {
+      "i": 13,
+      "t": "pogrześć"
+    },
+    {
+      "i": 14,
+      "t": "ojca"
+    },
+    {
+      "i": 15,
+      "t": "mego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.21",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.21",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἕτερος",
+        "lemma": "G2087",
+        "forma": "ἕτερος",
+        "morph": "A-NSM",
+        "glosa": "Another",
+        "id": "Mat.8.21#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "other"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.8.21#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.8.21#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μαθητῶν",
+        "lemma": "G3101",
+        "forma": "μαθητής",
+        "morph": "N-GPM",
+        "glosa": "disciples",
+        "id": "Mat.8.21#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "disciple"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him",
+        "id": "Mat.8.21#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "εἶπεν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAI-3S",
+        "glosa": "said",
+        "id": "Mat.8.21#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to Him;",
+        "id": "Mat.8.21#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "κύριε",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-VSM-T",
+        "glosa": "Lord,",
+        "id": "Mat.8.21#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "ἐπίτρεψόν",
+        "lemma": "G2010",
+        "forma": "ἐπιτρέπω",
+        "morph": "V-AAM-2S",
+        "glosa": "do allow",
+        "id": "Mat.8.21#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to permit"
+      },
+      {
+        "t": "μοι",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1DS",
+        "glosa": "me",
+        "id": "Mat.8.21#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "me"
+      },
+      {
+        "t": "πρῶτον",
+        "lemma": "G4413G",
+        "forma": "πρῶτος",
+        "morph": "A-ASN",
+        "glosa": "first",
+        "id": "Mat.8.21#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "first"
+      },
+      {
+        "t": "ἀπελθεῖν",
+        "lemma": "G0565",
+        "forma": "ἀπέρχομαι",
+        "morph": "V-2AAN",
+        "glosa": "to go",
+        "id": "Mat.8.21#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to go away"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.21#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "θάψαι",
+        "lemma": "G2290",
+        "forma": "θάπτω",
+        "morph": "V-AAN",
+        "glosa": "to bury",
+        "id": "Mat.8.21#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to bury"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.8.21#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατέρα",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-ASM",
+        "glosa": "father",
+        "id": "Mat.8.21#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "father"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "of mine.",
+        "id": "Mat.8.21#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "me"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po Ἕτερος, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ἕτερος oddane jako „drugi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "τῶν μαθητῶν, dopełniacz częściowy, oddane jako „z uczniów”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "εἶπεν oddane jako „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "κύριε oddane jako „Panie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐπίτρεψόν oddane jako „dopuść”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "μοι oddane jako „mi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "πρῶτον oddane jako „pierwej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἀπελθεῖν oddane jako „odejść”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "θάψαι oddane jako „pogrześć”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "τὸν πατέρα oddane jako „ojca”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "μου oddane jako „mego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. „z uczniów” niesie dopełniacz τῶν μαθητῶν, a rodzajnik przy „ojca” jest wcielony w rzeczownik.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἕτερος τῶν μαθητῶν αὐτοῦ BG oddaje jako „drugi z uczniów jego”: „z” niesie dopełniacz częściowy, bez dodanego słowa.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        0,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Jiný pak z učedlníků jeho řekl jemu: Pane, dopusť mi prve odjíti a pochovati otce mého.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

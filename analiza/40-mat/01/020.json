@@ -1,0 +1,864 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.1.20",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 1,
+    "werset": 20
+  },
+  "tekst_bg": "A gdy on o tem zamyślał, oto mu się Anioł Pański we śnie ukazał, mówiąc: Józefie, synu Dawidów! nie bój się przyjąć Maryi, żony twojej; albowiem, co się w niej poczęło, z Ducha Świętego jest.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "on"
+    },
+    {
+      "i": 3,
+      "t": "o"
+    },
+    {
+      "i": 4,
+      "t": "tem"
+    },
+    {
+      "i": 5,
+      "t": "zamyślał"
+    },
+    {
+      "i": 6,
+      "t": "oto"
+    },
+    {
+      "i": 7,
+      "t": "mu"
+    },
+    {
+      "i": 8,
+      "t": "się"
+    },
+    {
+      "i": 9,
+      "t": "Anioł"
+    },
+    {
+      "i": 10,
+      "t": "Pański"
+    },
+    {
+      "i": 11,
+      "t": "we"
+    },
+    {
+      "i": 12,
+      "t": "śnie"
+    },
+    {
+      "i": 13,
+      "t": "ukazał"
+    },
+    {
+      "i": 14,
+      "t": "mówiąc"
+    },
+    {
+      "i": 15,
+      "t": "Józefie"
+    },
+    {
+      "i": 16,
+      "t": "synu"
+    },
+    {
+      "i": 17,
+      "t": "Dawidów"
+    },
+    {
+      "i": 18,
+      "t": "nie"
+    },
+    {
+      "i": 19,
+      "t": "bój"
+    },
+    {
+      "i": 20,
+      "t": "się"
+    },
+    {
+      "i": 21,
+      "t": "przyjąć"
+    },
+    {
+      "i": 22,
+      "t": "Maryi"
+    },
+    {
+      "i": 23,
+      "t": "żony"
+    },
+    {
+      "i": 24,
+      "t": "twojej"
+    },
+    {
+      "i": 25,
+      "t": "albowiem"
+    },
+    {
+      "i": 26,
+      "t": "co"
+    },
+    {
+      "i": 27,
+      "t": "się"
+    },
+    {
+      "i": 28,
+      "t": "w"
+    },
+    {
+      "i": 29,
+      "t": "niej"
+    },
+    {
+      "i": 30,
+      "t": "poczęło"
+    },
+    {
+      "i": 31,
+      "t": "z"
+    },
+    {
+      "i": 32,
+      "t": "Ducha"
+    },
+    {
+      "i": 33,
+      "t": "Świętego"
+    },
+    {
+      "i": 34,
+      "t": "jest"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.1.20",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.1.20",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ταῦτα",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-APN",
+        "glosa": "These things",
+        "id": "Mat.1.20#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.1.20#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "when he",
+        "id": "Mat.1.20#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐνθυμηθέντος",
+        "lemma": "G1760",
+        "forma": "ἐνθυμέομαι",
+        "morph": "V-AOP-GSM",
+        "glosa": "was pondering",
+        "id": "Mat.1.20#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to reflect on"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "behold",
+        "id": "Mat.1.20#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "look!"
+      },
+      {
+        "t": "ἄγγελος",
+        "lemma": "G0032G",
+        "forma": "ἄγγελος",
+        "morph": "N-NSM",
+        "glosa": "an angel",
+        "id": "Mat.1.20#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "angel"
+      },
+      {
+        "t": "κυρίου",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-GSM-T",
+        "glosa": "of [the] Lord",
+        "id": "Mat.1.20#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "κατ᾽",
+        "lemma": "G2596",
+        "forma": "κατά",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.1.20#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "according to"
+      },
+      {
+        "t": "ὄναρ",
+        "lemma": "G3677",
+        "forma": "ὄναρ",
+        "morph": "N-ASN",
+        "glosa": "a dream",
+        "id": "Mat.1.20#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "dream"
+      },
+      {
+        "t": "ἐφάνη",
+        "lemma": "G5316",
+        "forma": "φαίνω",
+        "morph": "V-2API-3S",
+        "glosa": "appeared",
+        "id": "Mat.1.20#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to shine/appear"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to him",
+        "id": "Mat.1.20#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "λέγων",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NSM",
+        "glosa": "saying;",
+        "id": "Mat.1.20#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to say"
+      },
+      {
+        "t": "Ἰωσὴφ",
+        "lemma": "G2501G",
+        "forma": "Ἰωσήφ",
+        "morph": "N-VSM-P",
+        "glosa": "Joseph",
+        "id": "Mat.1.20#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "Joseph"
+      },
+      {
+        "t": "υἱὸς",
+        "lemma": "G5207",
+        "forma": "υἱός",
+        "morph": "N-NSM",
+        "glosa": "son",
+        "id": "Mat.1.20#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "son"
+      },
+      {
+        "t": "Δαυίδ",
+        "lemma": "G1138",
+        "forma": "Δαυείδ, Δαυίδ, Δαβίδ",
+        "morph": "N-GSM-P",
+        "glosa": "of David,",
+        "id": "Mat.1.20#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "David"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.1.20#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "not"
+      },
+      {
+        "t": "φοβηθῇς",
+        "lemma": "G5399",
+        "forma": "φοβέω",
+        "morph": "V-AOS-2S",
+        "glosa": "may you fear",
+        "id": "Mat.1.20#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to fear"
+      },
+      {
+        "t": "παραλαβεῖν",
+        "lemma": "G3880",
+        "forma": "παραλαμβάνω",
+        "morph": "V-2AAN",
+        "glosa": "to receive",
+        "id": "Mat.1.20#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to take"
+      },
+      {
+        "t": "Μαρίαν",
+        "lemma": "G3137G",
+        "forma": "Μαρία",
+        "morph": "N-ASF-P",
+        "glosa": "Mary",
+        "id": "Mat.1.20#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "Mary"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "[as] the",
+        "id": "Mat.1.20#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γυναῖκά",
+        "lemma": "G1135H",
+        "forma": "γυνή",
+        "morph": "N-ASF",
+        "glosa": "wife",
+        "id": "Mat.1.20#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "woman: wife"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you;",
+        "id": "Mat.1.20#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "you"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "that",
+        "id": "Mat.1.20#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.1.20#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "for"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.1.20#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "αὐτῇ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSF",
+        "glosa": "her",
+        "id": "Mat.1.20#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "γεννηθὲν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-APP-NSN",
+        "glosa": "having been conceived",
+        "id": "Mat.1.20#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "ἐκ",
+        "lemma": "G1537",
+        "forma": "ἐκ",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.1.20#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "out from"
+      },
+      {
+        "t": "πνεύματός",
+        "lemma": "G4151G",
+        "forma": "πνεῦμα",
+        "morph": "N-GSN",
+        "glosa": "[the] Spirit",
+        "id": "Mat.1.20#29",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "spirit/breath: spirit"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "[which] is",
+        "id": "Mat.1.20#30",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἁγίου",
+        "lemma": "G0040G",
+        "forma": "ἅγιος",
+        "morph": "A-GSN",
+        "glosa": "Holy.",
+        "id": "Mat.1.20#31",
+        "jezyk": "grc",
+        "i": 30,
+        "leksykon": "holy"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po Ταῦτα, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "bg": [
+        1,
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "rozbicie",
+      "uwaga": "ἐνθυμηθέντος, imiesłów dopełniaczowy, rozbity na „gdy zamyślał”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτοῦ oddane jako „on”."
+    },
+    {
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "rozbicie",
+      "uwaga": "Ταῦτα, biernik dopełnienia, oddane jako „o tem”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἰδοὺ oddane jako „oto”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    },
+    {
+      "bg": [
+        8,
+        13
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "rozbicie",
+      "uwaga": "ἐφάνη, strona bierna, oddane jako „się ukazał”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἄγγελος oddane jako „Anioł”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "κυρίου w dopełniaczu oddane jako „Pański”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "κατ᾽ oddane jako „we”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὄναρ oddane jako „śnie”."
+    },
+    {
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "λέγων oddane jako „mówiąc”."
+    },
+    {
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἰωσὴφ oddane jako „Józefie”."
+    },
+    {
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        13
+      ],
+      "rola": "przeklad",
+      "uwaga": "υἱὸς oddane jako „synu”."
+    },
+    {
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        14
+      ],
+      "rola": "przeklad",
+      "uwaga": "Δαυίδ w dopełniaczu oddane jako „Dawidów”."
+    },
+    {
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        15
+      ],
+      "rola": "przeklad",
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "bg": [
+        19,
+        20
+      ],
+      "zrodlo": [
+        16
+      ],
+      "rola": "rozbicie",
+      "uwaga": "φοβηθῇς, strona medialna, oddane jako „bój się”."
+    },
+    {
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        17
+      ],
+      "rola": "przeklad",
+      "uwaga": "παραλαβεῖν oddane jako „przyjąć”."
+    },
+    {
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        18
+      ],
+      "rola": "przeklad",
+      "uwaga": "Μαρίαν oddane jako „Maryi”."
+    },
+    {
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        19,
+        20
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὴν γυναῖκά oddane jako „żony”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        21
+      ],
+      "rola": "przeklad",
+      "uwaga": "σου oddane jako „twojej”."
+    },
+    {
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        23
+      ],
+      "rola": "przeklad",
+      "uwaga": "γὰρ stoi po rodzajniku, a BG wynosi je przed „co” jako „albowiem”."
+    },
+    {
+      "bg": [
+        26
+      ],
+      "zrodlo": [
+        22
+      ],
+      "rola": "przeklad",
+      "uwaga": "τὸ, rodzajnik o glosie „that”, oddane jako „co”."
+    },
+    {
+      "bg": [
+        27,
+        30
+      ],
+      "zrodlo": [
+        26
+      ],
+      "rola": "rozbicie",
+      "uwaga": "γεννηθὲν, imiesłów bierny, oddane jako „się poczęło”."
+    },
+    {
+      "bg": [
+        28
+      ],
+      "zrodlo": [
+        24
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "bg": [
+        29
+      ],
+      "zrodlo": [
+        25
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτῇ oddane jako „niej”."
+    },
+    {
+      "bg": [
+        31
+      ],
+      "zrodlo": [
+        27
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐκ oddane jako „z”."
+    },
+    {
+      "bg": [
+        32
+      ],
+      "zrodlo": [
+        28
+      ],
+      "rola": "przeklad",
+      "uwaga": "πνεύματός oddane jako „Ducha”."
+    },
+    {
+      "bg": [
+        33
+      ],
+      "zrodlo": [
+        30
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἁγίου oddane jako „Świętego”."
+    },
+    {
+      "bg": [
+        34
+      ],
+      "zrodlo": [
+        29
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐστιν stoi między πνεύματός a ἁγίου, a BG kładzie „jest” na końcu."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Dopełniacz niezależny ταῦτα αὐτοῦ ἐνθυμηθέντος BG rozbija na „gdy on o tem zamyślał”, a imiesłów γεννηθὲν na „się poczęło”. Tokeny są pokryte i zdanie mówi to samo.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Ταῦτα δὲ αὐτοῦ ἐνθυμηθέντος BG oddaje jako „A gdy on o tem zamyślał”, a τὸ γεννηθὲν jako „co się poczęło”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        26,
+        27,
+        30
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        22,
+        26
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Když pak on o tom přemyšloval, aj, anděl Páně ve snách ukázal se jemu, řka: Jozefe synu Davidův, neboj se přijíti Marie manželky své; nebo což v ní jest počato, z Ducha svatého jest.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

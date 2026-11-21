@@ -1,0 +1,838 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.32",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 32
+  },
+  "tekst_bg": "I rzekł im: Idźcie. A oni wyszedłszy, weszli w onę trzodę świni, a oto porwawszy się ona wszystka trzoda świni, z przykra wpadła w morze, i pozdychały w wodach.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "rzekł"
+    },
+    {
+      "i": 2,
+      "t": "im"
+    },
+    {
+      "i": 3,
+      "t": "Idźcie"
+    },
+    {
+      "i": 4,
+      "t": "A"
+    },
+    {
+      "i": 5,
+      "t": "oni"
+    },
+    {
+      "i": 6,
+      "t": "wyszedłszy"
+    },
+    {
+      "i": 7,
+      "t": "weszli"
+    },
+    {
+      "i": 8,
+      "t": "w"
+    },
+    {
+      "i": 9,
+      "t": "onę"
+    },
+    {
+      "i": 10,
+      "t": "trzodę"
+    },
+    {
+      "i": 11,
+      "t": "świni"
+    },
+    {
+      "i": 12,
+      "t": "a"
+    },
+    {
+      "i": 13,
+      "t": "oto"
+    },
+    {
+      "i": 14,
+      "t": "porwawszy"
+    },
+    {
+      "i": 15,
+      "t": "się"
+    },
+    {
+      "i": 16,
+      "t": "ona"
+    },
+    {
+      "i": 17,
+      "t": "wszystka"
+    },
+    {
+      "i": 18,
+      "t": "trzoda"
+    },
+    {
+      "i": 19,
+      "t": "świni"
+    },
+    {
+      "i": 20,
+      "t": "z"
+    },
+    {
+      "i": 21,
+      "t": "przykra"
+    },
+    {
+      "i": 22,
+      "t": "wpadła"
+    },
+    {
+      "i": 23,
+      "t": "w"
+    },
+    {
+      "i": 24,
+      "t": "morze"
+    },
+    {
+      "i": 25,
+      "t": "i"
+    },
+    {
+      "i": 26,
+      "t": "pozdychały"
+    },
+    {
+      "i": 27,
+      "t": "w"
+    },
+    {
+      "i": 28,
+      "t": "wodach"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.32",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.32",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.32#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "εἶπεν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAI-3S",
+        "glosa": "He said",
+        "id": "Mat.8.32#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτοῖς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DPM",
+        "glosa": "to them;",
+        "id": "Mat.8.32#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὑπάγετε",
+        "lemma": "G5217",
+        "forma": "ὑπάγω",
+        "morph": "V-PAM-2P",
+        "glosa": "do go.",
+        "id": "Mat.8.32#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to go"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "<the>",
+        "id": "Mat.8.32#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.32#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐξελθόντες",
+        "lemma": "G1831",
+        "forma": "ἐξέρχομαι",
+        "morph": "V-2AAP-NPM",
+        "glosa": "having gone out",
+        "id": "Mat.8.32#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to go out"
+      },
+      {
+        "t": "ἀπῆλθον",
+        "lemma": "G0565",
+        "forma": "ἀπέρχομαι",
+        "morph": "V-2AAI-3P",
+        "glosa": "they went away",
+        "id": "Mat.8.32#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to go away"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.8.32#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "<the>",
+        "id": "Mat.8.32#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀγέλην",
+        "lemma": "G0034",
+        "forma": "ἀγέλη",
+        "morph": "N-ASF",
+        "glosa": "herd",
+        "id": "Mat.8.32#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "herd"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "τῶν",
+        "morph": "T-GPM",
+        "glosa": "<the>",
+        "id": "Mat.8.32#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "χοίρων",
+        "lemma": "G5519",
+        "forma": "χοίρων",
+        "morph": "N-GPM",
+        "glosa": "of pigs",
+        "id": "Mat.8.32#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "pig"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.32#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "behold",
+        "id": "Mat.8.32#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "look!"
+      },
+      {
+        "t": "ὥρμησεν",
+        "lemma": "G3729",
+        "forma": "ὁρμάω",
+        "morph": "V-AAI-3S",
+        "glosa": "rushed",
+        "id": "Mat.8.32#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to stampede"
+      },
+      {
+        "t": "πᾶσα",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NSF",
+        "glosa": "all",
+        "id": "Mat.8.32#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "all"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.8.32#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀγέλη",
+        "lemma": "G0034",
+        "forma": "ἀγέλη",
+        "morph": "N-NSF",
+        "glosa": "herd",
+        "id": "Mat.8.32#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "herd"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.8.32#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "χοίρων",
+        "lemma": "G5519",
+        "forma": "χοῖρος",
+        "morph": "N-GPM",
+        "glosa": "of pigs",
+        "id": "Mat.8.32#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "pig"
+      },
+      {
+        "t": "κατὰ",
+        "lemma": "G2596",
+        "forma": "κατά",
+        "morph": "PREP",
+        "glosa": "down",
+        "id": "Mat.8.32#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "according to"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.8.32#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κρημνοῦ",
+        "lemma": "G2911",
+        "forma": "κρημνός",
+        "morph": "N-GSM",
+        "glosa": "steep bank",
+        "id": "Mat.8.32#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "cliff"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.8.32#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.8.32#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θάλασσαν",
+        "lemma": "G2281",
+        "forma": "θάλασσα",
+        "morph": "N-ASF",
+        "glosa": "sea,",
+        "id": "Mat.8.32#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "sea"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.32#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀπέθανον",
+        "lemma": "G0599",
+        "forma": "ἀποθνήσκω",
+        "morph": "V-2AAI-3P",
+        "glosa": "perished",
+        "id": "Mat.8.32#29",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "to die"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.8.32#30",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPN",
+        "glosa": "the",
+        "id": "Mat.8.32#31",
+        "jezyk": "grc",
+        "i": 30,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὕδασιν",
+        "lemma": "G5204",
+        "forma": "ὕδωρ, ὕδατος",
+        "morph": "N-DPN",
+        "glosa": "waters.",
+        "id": "Mat.8.32#32",
+        "jezyk": "grc",
+        "i": 31,
+        "leksykon": "water"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "εἶπεν oddane jako „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "αὐτοῖς oddane jako „im”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὑπάγετε oddane jako „Idźcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "δὲ stoi po οἱ, a BG wynosi je na początek zdania jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "οἱ przy imiesłowie oddane jako „oni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐξελθόντες oddane jako „wyszedłszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἀπῆλθον z εἰς oddane jako „weszli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "εἰς oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "τὴν, rodzajnik, oddane jako „onę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἀγέλην oddane jako „trzodę”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τῶν χοίρων oddane jako „świni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ἰδοὺ oddane jako „oto”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        14,
+        22
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ὥρμησεν rozbite na imiesłów „porwawszy” i orzeczenie „wpadła”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [],
+      "uwaga": "„się” stoi przy „porwawszy”, a ὥρμησεν jest stroną czynną.",
+      "uzasadnienie": "„porwać się” znaczy „rzucić się, ruszyć”. Partykuła należy do tego czasownika i nie dodaje osobnego przedmiotu."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἡ, rodzajnik, oddane jako „ona”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "πᾶσα oddane jako „wszystka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ἀγέλη oddane jako „trzoda”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        19,
+        20
+      ],
+      "uwaga": "τῶν χοίρων oddane jako „świni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "κατὰ oddane jako „z” w zwrocie „z przykra”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        22,
+        23
+      ],
+      "uwaga": "τοῦ κρημνοῦ oddane jako „przykra”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "εἰς oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        25,
+        26
+      ],
+      "uwaga": "τὴν θάλασσαν oddane jako „morze”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        27
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        26
+      ],
+      "zrodlo": [
+        28
+      ],
+      "uwaga": "ἀπέθανον oddane jako „pozdychały”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        27
+      ],
+      "zrodlo": [
+        29
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        28
+      ],
+      "zrodlo": [
+        30,
+        31
+      ],
+      "uwaga": "τοῖς ὕδασιν oddane jako „wodach”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. Jedno ὥρμησεν BG rozbija na „porwawszy” i „wpadła”, a „się” dopowiada zwrotność „porwać się”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὥρμησεν jest jednym orzeczeniem strony czynnej. BG rozbija je na „porwawszy” i „wpadła” oraz dodaje „się”.",
+      "tokeny_bg": [
+        14,
+        15,
+        22
+      ],
+      "tokeny_zrodla": [
+        15
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "κατὰ τοῦ κρημνοῦ εἰς τὴν θάλασσαν BG oddaje jako „z przykra wpadła w morze”.",
+      "tokeny_bg": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "tokeny_zrodla": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I řekl jim: Jděte. A oni vyšedše, vešli do stáda těch vepřů. A aj, hnalo se všecko stádo těch vepřů s vrchu dolů do moře, i ztonuli v vodách.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.1.10",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 1,
+    "werset": 10
+  },
+  "tekst_bg": "A Ezechijasz spłodził Manasesa, a Manases spłodził Amona, a Amon spłodził Jozyjasza.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "Ezechijasz"
+    },
+    {
+      "i": 2,
+      "t": "spłodził"
+    },
+    {
+      "i": 3,
+      "t": "Manasesa"
+    },
+    {
+      "i": 4,
+      "t": "a"
+    },
+    {
+      "i": 5,
+      "t": "Manases"
+    },
+    {
+      "i": 6,
+      "t": "spłodził"
+    },
+    {
+      "i": 7,
+      "t": "Amona"
+    },
+    {
+      "i": 8,
+      "t": "a"
+    },
+    {
+      "i": 9,
+      "t": "Amon"
+    },
+    {
+      "i": 10,
+      "t": "spłodził"
+    },
+    {
+      "i": 11,
+      "t": "Jozyjasza"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.1.10",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.1.10",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἑζεκίας",
+        "lemma": "G1478",
+        "forma": "Ἐζεκίας",
+        "morph": "N-NSM-P",
+        "glosa": "Hezekiah",
+        "id": "Mat.1.10#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "Hezekiah"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.10#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.10#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.10#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Μανασσῆ",
+        "lemma": "G3128H",
+        "forma": "Μανασσῆς",
+        "morph": "N-ASM-P",
+        "glosa": "Manasseh;",
+        "id": "Mat.1.10#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Manasseh"
+      },
+      {
+        "t": "Μανασσῆς",
+        "lemma": "G3128H",
+        "forma": "Μανασσῆς",
+        "morph": "N-NSM-P",
+        "glosa": "Manasseh",
+        "id": "Mat.1.10#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Manasseh"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.10#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.10#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.10#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἀμών",
+        "lemma": "G0300",
+        "forma": "Ἀμών",
+        "morph": "N-ASM-P",
+        "glosa": "Amon",
+        "id": "Mat.1.10#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "Amos"
+      },
+      {
+        "t": "Ἀμὼν",
+        "lemma": "G0300",
+        "forma": "Ἀμὼν",
+        "morph": "N-NSM-P",
+        "glosa": "Amon",
+        "id": "Mat.1.10#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "Amos"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.10#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.10#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.10#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰωσίαν",
+        "lemma": "G2502",
+        "forma": "Ἰωσίας",
+        "morph": "N-ASM-P",
+        "glosa": "Josiah;",
+        "id": "Mat.1.10#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "Josiah"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἑζεκίας oddane jako „Ezechijasz”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Μανασσῆ oddane jako „Manasesa”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG stawia je przed imieniem jako „a”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "Μανασσῆς oddane jako „Manases”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ἀμών oddane jako „Amona”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG stawia je przed imieniem jako „a”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἀμὼν oddane jako „Amon”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ἰωσίαν oddane jako „Jozyjasza”, a rodzajnik nie ma osobnego słowa."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajnik przy imieniu syna nie ma osobnego polskiego słowa, a δὲ jest wyniesione przed imię.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐγέννησεν BG oddaje jako „spłodził”, a rodzajnik τὸν przy imieniu syna wciela w to imię.",
+      "tokeny_bg": [
+        2,
+        3,
+        6,
+        7,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        2,
+        3,
+        4,
+        7,
+        8,
+        9,
+        12,
+        13,
+        14
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ezechiáš pak zplodil Manasesa. A Manases zplodil Amona. Amon pak zplodil Joziáše.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

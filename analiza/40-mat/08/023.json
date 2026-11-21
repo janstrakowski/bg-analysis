@@ -1,0 +1,353 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.23",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 23
+  },
+  "tekst_bg": "A gdy on wstąpił w łódź, wstąpili za nim i uczniowie jego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "on"
+    },
+    {
+      "i": 3,
+      "t": "wstąpił"
+    },
+    {
+      "i": 4,
+      "t": "w"
+    },
+    {
+      "i": 5,
+      "t": "łódź"
+    },
+    {
+      "i": 6,
+      "t": "wstąpili"
+    },
+    {
+      "i": 7,
+      "t": "za"
+    },
+    {
+      "i": 8,
+      "t": "nim"
+    },
+    {
+      "i": 9,
+      "t": "i"
+    },
+    {
+      "i": 10,
+      "t": "uczniowie"
+    },
+    {
+      "i": 11,
+      "t": "jego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.23",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.23",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.23#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐμβάντι",
+        "lemma": "G1684",
+        "forma": "ἐμβαίνω",
+        "morph": "V-2AAP-DSM",
+        "glosa": "having climbed",
+        "id": "Mat.8.23#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to climb"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "He",
+        "id": "Mat.8.23#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.8.23#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.8.23#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πλοῖον",
+        "lemma": "G4143",
+        "forma": "πλοῖον",
+        "morph": "N-ASN",
+        "glosa": "boat",
+        "id": "Mat.8.23#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "boat"
+      },
+      {
+        "t": "ἠκολούθησαν",
+        "lemma": "G0190",
+        "forma": "ἀκολουθέω",
+        "morph": "V-AAI-3P",
+        "glosa": "followed",
+        "id": "Mat.8.23#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to follow"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "Him",
+        "id": "Mat.8.23#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.8.23#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μαθηταὶ",
+        "lemma": "G3101",
+        "forma": "μαθητής",
+        "morph": "N-NPM",
+        "glosa": "disciples",
+        "id": "Mat.8.23#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "disciple"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him.",
+        "id": "Mat.8.23#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Καὶ oddane jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        3
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐμβάντι, imiesłów w celowniku, rozbite na zdanie „gdy wstąpił”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "αὐτῷ przy imiesłowie oddane jako „on”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "εἰς oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τὸ πλοῖον oddane jako „łódź”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἠκολούθησαν oddane jako „wstąpili” w zwrocie „wstąpili za nim”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        7,
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "αὐτῷ, celownik przy ἀκολουθέω, oddane jako „za nim”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [],
+      "uwaga": "„i” stoi przed podmiotem „uczniowie”, a przy οἱ μαθηταὶ nie ma drugiego καί.",
+      "uzasadnienie": "Podmiot οἱ μαθηταὶ αὐτοῦ stoi po czasowniku. „i” przed „uczniowie” jest polskim wskazaniem tego podmiotu, nie dodatkową osobą."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "οἱ μαθηταὶ oddane jako „uczniowie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. Imiesłów ἐμβάντι BG rozwija w „gdy wstąpił”, a „i” przed „uczniowie” dopowiada polski szyk podmiotu po orzeczeniu.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἠκολούθησαν „szli za” BG oddaje czasownikiem „wstąpili”, a celownik αὐτῷ jako „za nim”.",
+      "tokeny_bg": [
+        6,
+        7,
+        8
+      ],
+      "tokeny_zrodla": [
+        6,
+        7
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Przed οἱ μαθηταὶ nie ma καί. „i” w „i uczniowie jego” nie ma greckiego spójnika.",
+      "tokeny_bg": [
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A když vstoupil na lodí, vstoupili za ním i učedlníci jeho.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

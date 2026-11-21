@@ -1,0 +1,301 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.30",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 30
+  },
+  "tekst_bg": "I była daleko od nich trzoda wielka świni pasących się.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "była"
+    },
+    {
+      "i": 2,
+      "t": "daleko"
+    },
+    {
+      "i": 3,
+      "t": "od"
+    },
+    {
+      "i": 4,
+      "t": "nich"
+    },
+    {
+      "i": 5,
+      "t": "trzoda"
+    },
+    {
+      "i": 6,
+      "t": "wielka"
+    },
+    {
+      "i": 7,
+      "t": "świni"
+    },
+    {
+      "i": 8,
+      "t": "pasących"
+    },
+    {
+      "i": 9,
+      "t": "się"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.30",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.30",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἦν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-IAI-3S",
+        "glosa": "There was",
+        "id": "Mat.8.30#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to be"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.8.30#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "μακρὰν",
+        "lemma": "G3112",
+        "forma": "μακρός",
+        "morph": "ADV",
+        "glosa": "far off",
+        "id": "Mat.8.30#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "far"
+      },
+      {
+        "t": "ἀπ᾽",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.8.30#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "away from"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "them",
+        "id": "Mat.8.30#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἀγέλη",
+        "lemma": "G0034",
+        "forma": "ἀγέλη",
+        "morph": "N-NSF",
+        "glosa": "a herd",
+        "id": "Mat.8.30#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "herd"
+      },
+      {
+        "t": "χοίρων",
+        "lemma": "G5519",
+        "forma": "χοῖρος",
+        "morph": "N-GPM",
+        "glosa": "of pigs",
+        "id": "Mat.8.30#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "pig"
+      },
+      {
+        "t": "πολλῶν",
+        "lemma": "G4183",
+        "forma": "πολύς",
+        "morph": "A-GPM",
+        "glosa": "many",
+        "id": "Mat.8.30#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "much"
+      },
+      {
+        "t": "βοσκομένη",
+        "lemma": "G1006",
+        "forma": "βόσκω",
+        "morph": "V-PPP-NSF",
+        "glosa": "feeding.",
+        "id": "Mat.8.30#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to feed"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po ἦν, a BG wynosi je na początek jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἦν oddane jako „była”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "μακρὰν oddane jako „daleko”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀπ᾽ oddane jako „od”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτῶν oddane jako „nich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἀγέλη oddane jako „trzoda”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "πολλῶν, dopełniacz liczby mnogiej przy χοίρων, oddane jako „wielka” przy „trzoda”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "χοίρων oddane jako „świni”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "βοσκομένη, imiesłów bierny liczby pojedynczej przy ἀγέλη, oddane jako „pasących się” przy „świni”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. „się” należy do imiesłowu biernego βοσκομένη, a „wielka” i „pasących” nazywają tę samą trzodę świń.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πολλῶν stoi przy χοίρων, a βοσκομένη jest liczbą pojedynczą przy ἀγέλη. BG daje „wielka” przy „trzoda” i „pasących się” przy „świni”.",
+      "tokeny_bg": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A bylo opodál od nich stádo veliké vepřů, pasoucích se.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

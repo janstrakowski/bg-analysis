@@ -1,0 +1,474 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.27",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 27
+  },
+  "tekst_bg": "A ludzie się dziwowali, mówiąc: Jakiż to jest ten, że mu i wiatry i morze posłuszne są?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "ludzie"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "dziwowali"
+    },
+    {
+      "i": 4,
+      "t": "mówiąc"
+    },
+    {
+      "i": 5,
+      "t": "Jakiż"
+    },
+    {
+      "i": 6,
+      "t": "to"
+    },
+    {
+      "i": 7,
+      "t": "jest"
+    },
+    {
+      "i": 8,
+      "t": "ten"
+    },
+    {
+      "i": 9,
+      "t": "że"
+    },
+    {
+      "i": 10,
+      "t": "mu"
+    },
+    {
+      "i": 11,
+      "t": "i"
+    },
+    {
+      "i": 12,
+      "t": "wiatry"
+    },
+    {
+      "i": 13,
+      "t": "i"
+    },
+    {
+      "i": 14,
+      "t": "morze"
+    },
+    {
+      "i": 15,
+      "t": "posłuszne"
+    },
+    {
+      "i": 16,
+      "t": "są"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.27",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.27",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "<the>",
+        "id": "Mat.8.27#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.27#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἄνθρωποι",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-NPM",
+        "glosa": "the men",
+        "id": "Mat.8.27#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "a human"
+      },
+      {
+        "t": "ἐθαύμασαν",
+        "lemma": "G2296",
+        "forma": "θαυμάζω",
+        "morph": "V-AAI-3P",
+        "glosa": "marveled",
+        "id": "Mat.8.27#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to marvel"
+      },
+      {
+        "t": "λέγοντες",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NPM",
+        "glosa": "saying;",
+        "id": "Mat.8.27#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ποταπός",
+        "lemma": "G4217",
+        "forma": "ποταπός",
+        "morph": "I-NSM",
+        "glosa": "What kind [of man]",
+        "id": "Mat.8.27#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "of what kind?"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is",
+        "id": "Mat.8.27#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to be"
+      },
+      {
+        "t": "οὗτος",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-NSM",
+        "glosa": "this",
+        "id": "Mat.8.27#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.8.27#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "even",
+        "id": "Mat.8.27#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.8.27#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἄνεμοι",
+        "lemma": "G0417",
+        "forma": "ἄνεμος",
+        "morph": "N-NPM",
+        "glosa": "winds",
+        "id": "Mat.8.27#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "wind"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.27#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.8.27#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θάλασσα",
+        "lemma": "G2281",
+        "forma": "θάλασσα",
+        "morph": "N-NSF",
+        "glosa": "sea",
+        "id": "Mat.8.27#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "sea"
+      },
+      {
+        "t": "ὑπακούουσιν;",
+        "lemma": "G5219",
+        "forma": "ὑπακούω",
+        "morph": "V-PAI-3P",
+        "glosa": "obey",
+        "id": "Mat.8.27#17",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to obey"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po rodzajniku, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "uwaga": "Οἱ ἄνθρωποι oddane jako „ludzie”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [],
+      "uwaga": "„się” stoi przy „dziwowali”, a ἐθαύμασαν jest stroną czynną.",
+      "uzasadnienie": "„dziwować się” jest polskim czasownikiem zwrotnym dla czynnego ἐθαύμασαν; partykuła nie dodaje przedmiotu."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἐθαύμασαν oddane jako „dziwowali”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "λέγοντες oddane jako „mówiąc”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ποταπός oddane jako „Jakiż to”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐστιν oddane jako „jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "οὗτος oddane jako „ten”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ὅτι oddane jako „że”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [],
+      "uwaga": "„mu” podaje, komu są posłuszne wiatry, a ὑπακούουσιν nie ma dopełnienia.",
+      "uzasadnienie": "ὑπακούουσιν nie ma celownika. „mu” dopowiada Jezusa wskazanego przez οὗτος, bez zmiany tego, kto jest posłuszny."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "οἱ ἄνεμοι oddane jako „wiatry”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "ἡ θάλασσα oddane jako „morze”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        15,
+        16
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ὑπακούουσιν oddane jako „posłuszne są”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „się” należy do zwrotnego „dziwować się”, a „mu” dopowiada celownik, którego ὑπακούουσιν nie ma.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὑπακούουσιν nie ma dopełnienia. BG dodaje „mu” i rozbija czasownik na „posłuszne są”.",
+      "tokeny_bg": [
+        10,
+        15,
+        16
+      ],
+      "tokeny_zrodla": [
+        15
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐθαύμασαν jest stroną czynną. „się” przy „dziwowali” nie ma osobnego tokenu greckiego.",
+      "tokeny_bg": [
+        2,
+        3
+      ],
+      "tokeny_zrodla": [
+        3
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Lidé pak divili se, řkouce: Kteraký jest tento, že ho i větrové i moře poslouchají?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}
