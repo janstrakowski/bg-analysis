@@ -1,0 +1,496 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.11",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 11
+  },
+  "tekst_bg": "Co widząc Faryzeuszowie, rzekli uczniom jego: Przeczże z celnikami i grzesznikami je nauczyciel wasz?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Co"
+    },
+    {
+      "i": 1,
+      "t": "widząc"
+    },
+    {
+      "i": 2,
+      "t": "Faryzeuszowie"
+    },
+    {
+      "i": 3,
+      "t": "rzekli"
+    },
+    {
+      "i": 4,
+      "t": "uczniom"
+    },
+    {
+      "i": 5,
+      "t": "jego"
+    },
+    {
+      "i": 6,
+      "t": "Przeczże"
+    },
+    {
+      "i": 7,
+      "t": "z"
+    },
+    {
+      "i": 8,
+      "t": "celnikami"
+    },
+    {
+      "i": 9,
+      "t": "i"
+    },
+    {
+      "i": 10,
+      "t": "grzesznikami"
+    },
+    {
+      "i": 11,
+      "t": "je"
+    },
+    {
+      "i": 12,
+      "t": "nauczyciel"
+    },
+    {
+      "i": 13,
+      "t": "wasz"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.11",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.11",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.11#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδόντες",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAP-NPM",
+        "glosa": "having seen [it]",
+        "id": "Mat.9.11#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.9.11#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Φαρισαῖοι",
+        "lemma": "G5330",
+        "forma": "Φαρισαῖος",
+        "morph": "N-NPM-T",
+        "glosa": "Pharisees",
+        "id": "Mat.9.11#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Pharisee"
+      },
+      {
+        "t": "εἶπον",
+        "lemma": "G2036",
+        "forma": "εἶπον",
+        "morph": "V-2AAI-3P",
+        "glosa": "they said",
+        "id": "Mat.9.11#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to say"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "to the",
+        "id": "Mat.9.11#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μαθηταῖς",
+        "lemma": "G3101",
+        "forma": "μαθητής",
+        "morph": "N-DPM",
+        "glosa": "disciples",
+        "id": "Mat.9.11#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "disciple"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him;",
+        "id": "Mat.9.11#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "διὰ",
+        "lemma": "G1223",
+        "forma": "διά",
+        "morph": "PREP",
+        "glosa": "Because of",
+        "id": "Mat.9.11#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "through/because of"
+      },
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-ASN",
+        "glosa": "why",
+        "id": "Mat.9.11#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "which?"
+      },
+      {
+        "t": "μετὰ",
+        "lemma": "G3326",
+        "forma": "μετά",
+        "morph": "PREP",
+        "glosa": "with",
+        "id": "Mat.9.11#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "with/after"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "the",
+        "id": "Mat.9.11#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "τελωνῶν",
+        "lemma": "G5057",
+        "forma": "τελώνης",
+        "morph": "N-GPM",
+        "glosa": "tax collectors",
+        "id": "Mat.9.11#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "tax collector"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.11#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἁμαρτωλῶν",
+        "lemma": "G0268",
+        "forma": "ἁμαρτωλός",
+        "morph": "A-GPM",
+        "glosa": "sinners",
+        "id": "Mat.9.11#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "sinful"
+      },
+      {
+        "t": "ἐσθίει",
+        "lemma": "G2068",
+        "forma": "ἐσθίω",
+        "morph": "V-PAI-3S",
+        "glosa": "eats",
+        "id": "Mat.9.11#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to eat"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.9.11#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "διδάσκαλος",
+        "lemma": "G1320",
+        "forma": "διδάσκαλος",
+        "morph": "N-NSM-T",
+        "glosa": "Teacher",
+        "id": "Mat.9.11#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "teacher"
+      },
+      {
+        "t": "ὑμῶν;",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you?",
+        "id": "Mat.9.11#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ, spójnik „And”, nie ma w polskim zdaniu osobnego słowa."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        0
+      ],
+      "zrodlo": [],
+      "uwaga": "„Co” dopowiada przedmiot imiesłowu ἰδόντες, który w TR nie ma dopełnienia.",
+      "uzasadnienie": "ἰδόντες nie ma dopełnienia. „Co” otwiera polski imiesłów przedmiotem, którego w tym wersecie nie ma."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἰδόντες oddane jako „widząc”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "οἱ Φαρισαῖοι oddane jako „Faryzeuszowie”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "εἶπον oddane jako „rzekli”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τοῖς μαθηταῖς oddane jako „uczniom”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "διὰ τί, „Because of why”, oddane jednym „Przeczże”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "μετὰ oddane jako „z”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τῶν τελωνῶν oddane jako „celnikami”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ἁμαρτωλῶν oddane jako „grzesznikami”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἐσθίει oddane jako „je”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        16,
+        17
+      ],
+      "uwaga": "ὁ διδάσκαλος oddane jako „nauczyciel”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ὑμῶν oddane jako „wasz”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Początkowe καὶ nie ma polskiego odpowiednika. „Co” jest dopowiedzeniem przedmiotu przy ἰδόντες, ale brak spójnika zostaje.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      0
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Werset grecki zaczyna się od καὶ ἰδόντες. BG zaczyna od „Co widząc” i nie oddaje καὶ osobnym słowem.",
+      "tokeny_bg": [
+        0,
+        1
+      ],
+      "tokeny_zrodla": [
+        0,
+        1
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "διὰ τί to dwa tokeny, przyimek i zaimek. BG zlewa je w jedno „Przeczże”.",
+      "tokeny_bg": [
+        6
+      ],
+      "tokeny_zrodla": [
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A vidouce to farizeové, řekli učedlníkům jeho: Proč s celnými a hříšníky jí Mistr váš?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

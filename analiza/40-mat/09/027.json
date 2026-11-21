@@ -1,0 +1,477 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.27",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 27
+  },
+  "tekst_bg": "A gdy Jezus odchodził stamtąd, szli za nim dwaj ślepi, wołając i mówiąc: Synu Dawidowy! zmiłuj się nad nami.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "Jezus"
+    },
+    {
+      "i": 3,
+      "t": "odchodził"
+    },
+    {
+      "i": 4,
+      "t": "stamtąd"
+    },
+    {
+      "i": 5,
+      "t": "szli"
+    },
+    {
+      "i": 6,
+      "t": "za"
+    },
+    {
+      "i": 7,
+      "t": "nim"
+    },
+    {
+      "i": 8,
+      "t": "dwaj"
+    },
+    {
+      "i": 9,
+      "t": "ślepi"
+    },
+    {
+      "i": 10,
+      "t": "wołając"
+    },
+    {
+      "i": 11,
+      "t": "i"
+    },
+    {
+      "i": 12,
+      "t": "mówiąc"
+    },
+    {
+      "i": 13,
+      "t": "Synu"
+    },
+    {
+      "i": 14,
+      "t": "Dawidowy"
+    },
+    {
+      "i": 15,
+      "t": "zmiłuj"
+    },
+    {
+      "i": 16,
+      "t": "się"
+    },
+    {
+      "i": 17,
+      "t": "nad"
+    },
+    {
+      "i": 18,
+      "t": "nami"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.27",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.27",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.27#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "παράγοντι",
+        "lemma": "G3855",
+        "forma": "παράγω",
+        "morph": "V-PAP-DSM",
+        "glosa": "passing on",
+        "id": "Mat.9.27#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to pass"
+      },
+      {
+        "t": "ἐκεῖθεν",
+        "lemma": "G1564",
+        "forma": "ἐκεῖθεν",
+        "morph": "ADV",
+        "glosa": "from there",
+        "id": "Mat.9.27#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "from there"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "<the>",
+        "id": "Mat.9.27#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦ",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-DSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.9.27#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "ἠκολούθησαν",
+        "lemma": "G0190",
+        "forma": "ἀκολουθέω",
+        "morph": "V-AAI-3P",
+        "glosa": "followed",
+        "id": "Mat.9.27#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to follow"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "Him",
+        "id": "Mat.9.27#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "δύο",
+        "lemma": "G1417",
+        "forma": "δύο",
+        "morph": "A-NUI",
+        "glosa": "two",
+        "id": "Mat.9.27#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "two"
+      },
+      {
+        "t": "τυφλοὶ",
+        "lemma": "G5185",
+        "forma": "τυφλός",
+        "morph": "A-NPM",
+        "glosa": "blind [men]",
+        "id": "Mat.9.27#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "blind"
+      },
+      {
+        "t": "κράζοντες",
+        "lemma": "G2896",
+        "forma": "κράζω",
+        "morph": "V-PAP-NPM",
+        "glosa": "crying out",
+        "id": "Mat.9.27#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to cry"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.27#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "and"
+      },
+      {
+        "t": "λέγοντες",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NPM",
+        "glosa": "saying;",
+        "id": "Mat.9.27#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ἐλέησον",
+        "lemma": "G1653",
+        "forma": "ἐλεέω, ἐλεάω",
+        "morph": "V-AAM-2S",
+        "glosa": "do have mercy on",
+        "id": "Mat.9.27#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to have mercy"
+      },
+      {
+        "t": "ἡμᾶς",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1AP",
+        "glosa": "us,",
+        "id": "Mat.9.27#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "me"
+      },
+      {
+        "t": "υἱὲ",
+        "lemma": "G5207",
+        "forma": "υἱὲ",
+        "morph": "N-VSM",
+        "glosa": "Son",
+        "id": "Mat.9.27#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "son"
+      },
+      {
+        "t": "Δαυίδ",
+        "lemma": "G1138",
+        "forma": "Δαυείδ, Δαυίδ, Δαβίδ",
+        "morph": "N-GSM-P",
+        "glosa": "of David.",
+        "id": "Mat.9.27#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "David"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Καὶ oddane na początku jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        3
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "παράγοντι, imiesłów w celowniku „przechodzącemu”, rozbity na „gdy … odchodził”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐκεῖθεν oddane jako „stamtąd”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τῷ Ἰησοῦ, celownik, oddane mianownikiem „Jezus” w zdaniu z „gdy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἠκολούθησαν „szli za kimś” oddane jako „szli za”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "αὐτῷ oddane jako „nim”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "δύο oddane jako „dwaj”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "τυφλοὶ oddane jako „ślepi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "κράζοντες oddane jako „wołając”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "λέγοντες oddane jako „mówiąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "υἱὲ stoi po ἐλέησον, a BG daje „Synu” przed prośbą."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "Δαυίδ w dopełniaczu oddane przymiotnikiem „Dawidowy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        15,
+        16
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἐλέησον, rozkaźnik strony czynnej, oddane zwrotnym „zmiłuj się”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        17,
+        18
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἡμᾶς, biernik przy ἐλεέω, oddane jako „nad nami”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Imiesłów παράγοντι BG rozbija na „gdy … odchodził”. Każde słowo greckie ma odpowiednik i nic nie jest dopowiedziane.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "παράγοντι ἐκεῖθεν τῷ Ἰησοῦ to imiesłów w celowniku. BG rozbija go na zdanie „gdy Jezus odchodził stamtąd”.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A když šel odtud Ježíš, šli za ním dva slepí, volajíce a řkouce: Smiluj se nad námi, Synu Davidův.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.23",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 23
+  },
+  "tekst_bg": "A gdy przyszedł Jezus w dom przełożonego, i ujrzał piszczki i lud zgiełk czyniący,",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "przyszedł"
+    },
+    {
+      "i": 3,
+      "t": "Jezus"
+    },
+    {
+      "i": 4,
+      "t": "w"
+    },
+    {
+      "i": 5,
+      "t": "dom"
+    },
+    {
+      "i": 6,
+      "t": "przełożonego"
+    },
+    {
+      "i": 7,
+      "t": "i"
+    },
+    {
+      "i": 8,
+      "t": "ujrzał"
+    },
+    {
+      "i": 9,
+      "t": "piszczki"
+    },
+    {
+      "i": 10,
+      "t": "i"
+    },
+    {
+      "i": 11,
+      "t": "lud"
+    },
+    {
+      "i": 12,
+      "t": "zgiełk"
+    },
+    {
+      "i": 13,
+      "t": "czyniący"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.23",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.23",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.23#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐλθὼν",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having come",
+        "id": "Mat.9.23#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.9.23#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.9.23#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.9.23#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.9.23#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἰκίαν",
+        "lemma": "G3614G",
+        "forma": "οἰκία",
+        "morph": "N-ASF",
+        "glosa": "house",
+        "id": "Mat.9.23#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "home"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.9.23#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἄρχοντος",
+        "lemma": "G0758",
+        "forma": "ἄρχων",
+        "morph": "N-GSM",
+        "glosa": "ruler",
+        "id": "Mat.9.23#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "ruler"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.23#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδὼν",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having seen",
+        "id": "Mat.9.23#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.9.23#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "αὐλητὰς",
+        "lemma": "G0834",
+        "forma": "αὐλητής",
+        "morph": "N-APM",
+        "glosa": "flute players",
+        "id": "Mat.9.23#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "flute player"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.23#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "and"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.9.23#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὄχλον",
+        "lemma": "G3793",
+        "forma": "ὄχλος",
+        "morph": "N-ASM",
+        "glosa": "crowd",
+        "id": "Mat.9.23#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "crowd"
+      },
+      {
+        "t": "θορυβούμενον",
+        "lemma": "G2350",
+        "forma": "θορυβέω",
+        "morph": "V-PPP-ASM",
+        "glosa": "making a commotion",
+        "id": "Mat.9.23#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to make commotion"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane na początku jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐλθών, imiesłów „przyszedłszy”, rozbity na zdanie „gdy przyszedł”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "εἰς oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τὴν οἰκίαν oddane jako „dom”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τοῦ ἄρχοντος oddane jako „przełożonego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἰδών, imiesłów „ujrzawszy”, oddany orzeczeniem „ujrzał”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τοὺς αὐλητὰς „fletnistów” oddane jako „piszczki”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "τὸν ὄχλον oddane jako „lud”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        12,
+        13
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "θορυβούμενον, imiesłów „czyniący zgiełk”, oddane jako „zgiełk czyniący”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Imiesłowy ἐλθών i ἰδών BG oddaje zdaniami „gdy przyszedł” i „ujrzał”. Każde słowo greckie ma odpowiednik i nic nie jest dopowiedziane.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐλθών i ἰδών są imiesłowami. BG rozbija je na „gdy przyszedł … i ujrzał”, bez osobnego spójnika w grece.",
+      "tokeny_bg": [
+        1,
+        2,
+        8
+      ],
+      "tokeny_zrodla": [
+        1,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Přišed pak Ježíš do domu knížete, a uzřev tu trubače a zástup hlučící,",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,760 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.18",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 18
+  },
+  "tekst_bg": "To gdy on do nich mówił, oto niektóry przełożony bóżnicy przyszedłszy, pokłonił mu się, mówiąc: Córka moja dopiero skonała; ale pójdź a włóż na nią rękę twoję, a ożyje.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "To"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "on"
+    },
+    {
+      "i": 3,
+      "t": "do"
+    },
+    {
+      "i": 4,
+      "t": "nich"
+    },
+    {
+      "i": 5,
+      "t": "mówił"
+    },
+    {
+      "i": 6,
+      "t": "oto"
+    },
+    {
+      "i": 7,
+      "t": "niektóry"
+    },
+    {
+      "i": 8,
+      "t": "przełożony"
+    },
+    {
+      "i": 9,
+      "t": "bóżnicy"
+    },
+    {
+      "i": 10,
+      "t": "przyszedłszy"
+    },
+    {
+      "i": 11,
+      "t": "pokłonił"
+    },
+    {
+      "i": 12,
+      "t": "mu"
+    },
+    {
+      "i": 13,
+      "t": "się"
+    },
+    {
+      "i": 14,
+      "t": "mówiąc"
+    },
+    {
+      "i": 15,
+      "t": "Córka"
+    },
+    {
+      "i": 16,
+      "t": "moja"
+    },
+    {
+      "i": 17,
+      "t": "dopiero"
+    },
+    {
+      "i": 18,
+      "t": "skonała"
+    },
+    {
+      "i": 19,
+      "t": "ale"
+    },
+    {
+      "i": 20,
+      "t": "pójdź"
+    },
+    {
+      "i": 21,
+      "t": "a"
+    },
+    {
+      "i": 22,
+      "t": "włóż"
+    },
+    {
+      "i": 23,
+      "t": "na"
+    },
+    {
+      "i": 24,
+      "t": "nią"
+    },
+    {
+      "i": 25,
+      "t": "rękę"
+    },
+    {
+      "i": 26,
+      "t": "twoję"
+    },
+    {
+      "i": 27,
+      "t": "a"
+    },
+    {
+      "i": 28,
+      "t": "ożyje"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.18",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.18",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ταῦτα",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-APN",
+        "glosa": "These things",
+        "id": "Mat.9.18#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "when he",
+        "id": "Mat.9.18#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "λαλοῦντος",
+        "lemma": "G2980",
+        "forma": "λαλέω",
+        "morph": "V-PAP-GSM",
+        "glosa": "is speaking",
+        "id": "Mat.9.18#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to speak"
+      },
+      {
+        "t": "αὐτοῖς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DPM",
+        "glosa": "to them",
+        "id": "Mat.9.18#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "behold",
+        "id": "Mat.9.18#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "look!"
+      },
+      {
+        "t": "ἄρχων",
+        "lemma": "G0758",
+        "forma": "ἄρχων",
+        "morph": "N-NSM",
+        "glosa": "a ruler",
+        "id": "Mat.9.18#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "ruler"
+      },
+      {
+        "t": "ἐλθὼν",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having come",
+        "id": "Mat.9.18#08",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "προσεκύνει",
+        "lemma": "G4352",
+        "forma": "προσκυνέω",
+        "morph": "V-IAI-3S",
+        "glosa": "was kneeling down",
+        "id": "Mat.9.18#09",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to worship"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to Him",
+        "id": "Mat.9.18#10",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "λέγων",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NSM",
+        "glosa": "saying",
+        "id": "Mat.9.18#11",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.9.18#12",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "The",
+        "id": "Mat.9.18#13",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θυγάτηρ",
+        "lemma": "G2364",
+        "forma": "θυγάτηρ",
+        "morph": "N-NSF",
+        "glosa": "daughter",
+        "id": "Mat.9.18#14",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "daughter"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "of Mine",
+        "id": "Mat.9.18#15",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "me"
+      },
+      {
+        "t": "ἄρτι",
+        "lemma": "G0737",
+        "forma": "ἄρτι",
+        "morph": "ADV",
+        "glosa": "presently",
+        "id": "Mat.9.18#16",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "now"
+      },
+      {
+        "t": "ἐτελεύτησεν",
+        "lemma": "G5053",
+        "forma": "τελευτάω",
+        "morph": "V-AAI-3S",
+        "glosa": "has died;",
+        "id": "Mat.9.18#17",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to decease"
+      },
+      {
+        "t": "ἀλλ᾽",
+        "lemma": "G0235",
+        "forma": "ἀλλά",
+        "morph": "CONJ",
+        "glosa": "but",
+        "id": "Mat.9.18#18",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "but"
+      },
+      {
+        "t": "ἐλθὼν",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having come",
+        "id": "Mat.9.18#19",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "ἐπίθες",
+        "lemma": "G2007",
+        "forma": "ἐπιτίθημι",
+        "morph": "V-2AAM-2S",
+        "glosa": "do lay",
+        "id": "Mat.9.18#20",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to put/lay on"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.9.18#21",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "χεῖρά",
+        "lemma": "G5495",
+        "forma": "χείρ",
+        "morph": "N-ASF",
+        "glosa": "hand",
+        "id": "Mat.9.18#22",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "hand"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of You",
+        "id": "Mat.9.18#23",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἐπ᾽",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "upon",
+        "id": "Mat.9.18#24",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "αὐτήν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASF",
+        "glosa": "her,",
+        "id": "Mat.9.18#25",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.18#26",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "and"
+      },
+      {
+        "t": "ζήσεται",
+        "lemma": "G2198",
+        "forma": "ζάω",
+        "morph": "V-FDI-3S",
+        "glosa": "she will live.",
+        "id": "Mat.9.18#27",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "to live"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ταῦτα, liczba mnoga „These things”, oddane liczbą pojedynczą „To”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [],
+      "uwaga": "„gdy” otwiera zdanie czasowe, choć w TR nie ma spójnika ὅτε.",
+      "uzasadnienie": "Dopełniacz absolutny αὐτοῦ λαλοῦντος nie ma spójnika czasowego. „gdy” dopowiada polskie zdanie."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "αὐτοῦ w dopełniaczu absolutnym oddane jako „on”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "αὐτοῖς, celownik „to them”, oddane jako „do nich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "λαλοῦντος, imiesłów „is speaking”, oddane osobowo jako „mówił”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἰδοὺ oddane jako „oto”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [],
+      "uwaga": "„niektóry” zaznacza nieokreślony jeden urząd przy ἄρχων bez rodzajnika.",
+      "uzasadnienie": "ἄρχων nie ma rodzajnika ani τις. „niektóry” dopowiada, że to jeden, nieokreślony przełożony."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἄρχων, „a ruler”, oddane jako „przełożony”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [],
+      "uwaga": "„bóżnicy” nie odpowiada żadnemu tokenowi. ἄρχων nie nazywa bóżnicy."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐλθὼν oddane jako „przyszedłszy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        11,
+        13
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "προσεκύνει, „was kneeling down”, oddane jako „pokłonił się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "λέγων oddane jako „mówiąc”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ὅτι, spójnik „that” przed mową, nie ma w polskim zdaniu osobnego słowa."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "ἡ θυγάτηρ oddane jako „Córka”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "μου oddane jako „moja”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ἄρτι, „presently”, oddane jako „dopiero”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἐτελεύτησεν, „has died”, oddane jako „skonała”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἀλλ᾽ oddane jako „ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἐλθὼν, imiesłów „having come”, oddane rozkaźnikiem „pójdź”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        21
+      ],
+      "zrodlo": [],
+      "uwaga": "„a” łączy dwa rozkazy, choć między ἐλθὼν a ἐπίθες nie ma spójnika.",
+      "uzasadnienie": "Imiesłów i rozkaz nie są w TR połączone spójnikiem. „a” jest polskim łącznikiem tych dwóch form."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ἐπίθες, „do lay”, oddane jako „włóż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "ἐπ᾽ oddane jako „na”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "αὐτήν oddane jako „nią”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        19,
+        20
+      ],
+      "uwaga": "τὴν χεῖρά oddane jako „rękę”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        26
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "σου oddane jako „twoję”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        27
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        28
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "ζήσεται, „she will live”, oddane jako „ożyje”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "„bóżnicy” nie stoi na żadnym tokenie TR, a spójnik ὅτι przed mową nie ma polskiego słowa. „gdy”, „niektóry” i „a” są dopowiedzeniami uzasadnionymi składnią.",
+    "tokeny_bg": [
+      9
+    ],
+    "tokeny_zrodla": [
+      10
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἄρχων w widoku to „a ruler”, bez συναγωγή. BG dodaje „bóżnicy”, którego nie ma wśród tokenów greckich.",
+      "tokeny_bg": [
+        7,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        5
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "λέγων ὅτι wprowadza mowę spójnikiem ὅτι. BG ma samo „mówiąc” i nie oddaje ὅτι osobnym słowem.",
+      "tokeny_bg": [
+        14
+      ],
+      "tokeny_zrodla": [
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A když on toto k nim mluvil, aj, kníže jedno přistoupilo a klanělo se jemu, řka: Pane dcera má nyní umřela. Ale pojď, vlož na ni ruku svou, a budeť živa.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

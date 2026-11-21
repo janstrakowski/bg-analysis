@@ -1,0 +1,431 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.4",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 4
+  },
+  "tekst_bg": "A widząc Jezus myśli ich, rzekł: Przeczże wy myślicie złe rzeczy w sercach waszych?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "widząc"
+    },
+    {
+      "i": 2,
+      "t": "Jezus"
+    },
+    {
+      "i": 3,
+      "t": "myśli"
+    },
+    {
+      "i": 4,
+      "t": "ich"
+    },
+    {
+      "i": 5,
+      "t": "rzekł"
+    },
+    {
+      "i": 6,
+      "t": "Przeczże"
+    },
+    {
+      "i": 7,
+      "t": "wy"
+    },
+    {
+      "i": 8,
+      "t": "myślicie"
+    },
+    {
+      "i": 9,
+      "t": "złe"
+    },
+    {
+      "i": 10,
+      "t": "rzeczy"
+    },
+    {
+      "i": 11,
+      "t": "w"
+    },
+    {
+      "i": 12,
+      "t": "sercach"
+    },
+    {
+      "i": 13,
+      "t": "waszych"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.4",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.4",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.4#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδὼν",
+        "lemma": "G1492I",
+        "forma": "εἴδω",
+        "morph": "V-2AAP-NSM",
+        "glosa": "seeing",
+        "id": "Mat.9.4#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to perceive: know"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.9.4#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.9.4#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "τὰς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APF",
+        "glosa": "the",
+        "id": "Mat.9.4#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐνθυμήσεις",
+        "lemma": "G1761",
+        "forma": "ἐνθύμησις",
+        "morph": "N-APF",
+        "glosa": "thoughts",
+        "id": "Mat.9.4#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "reflection"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them",
+        "id": "Mat.9.4#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "εἶπεν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAI-3S",
+        "glosa": "He said;",
+        "id": "Mat.9.4#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ἱνατί",
+        "lemma": "G2443",
+        "forma": "ἵνα",
+        "morph": "CONJ + G5101=I-NSN",
+        "glosa": "so why",
+        "id": "Mat.9.4#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "in order that/to"
+      },
+      {
+        "t": "ὑμεῖς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2NP",
+        "glosa": "you yourselves",
+        "id": "Mat.9.4#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἐνθυμεῖσθε",
+        "lemma": "G1760",
+        "forma": "ἐνθυμέομαι",
+        "morph": "V-PNI-2P",
+        "glosa": "think",
+        "id": "Mat.9.4#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to reflect on"
+      },
+      {
+        "t": "πονηρὰ",
+        "lemma": "G4190",
+        "forma": "πονηρός",
+        "morph": "A-APN",
+        "glosa": "evil",
+        "id": "Mat.9.4#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "evil/bad"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.9.4#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ταῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPF",
+        "glosa": "the",
+        "id": "Mat.9.4#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "καρδίαις",
+        "lemma": "G2588",
+        "forma": "καρδία",
+        "morph": "N-DPF",
+        "glosa": "hearts",
+        "id": "Mat.9.4#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "heart"
+      },
+      {
+        "t": "ὑμῶν;",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you?",
+        "id": "Mat.9.4#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane na początku jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἰδὼν oddane jako „widząc”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τὰς ἐνθυμήσεις oddane jako „myśli”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "αὐτῶν oddane jako „ich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "εἶπεν oddane jako „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἱνατί, „so why”, oddane jako „Przeczże”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ὑμεῖς oddane jako „wy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἐνθυμεῖσθε oddane jako „myślicie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "πονηρὰ, przymiotnik „evil” użyty rzeczownikowo, oddane jako „złe rzeczy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "ταῖς καρδίαις oddane jako „sercach”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ὑμῶν oddane jako „waszych”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token grecki ma polski odpowiednik. „złe rzeczy” rozbija rzeczownikowy przymiotnik πονηρὰ, a rodzajniki wchodzą w rzeczowniki.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πονηρὰ jest samym przymiotnikiem w liczbie mnogiej, bez rzeczownika „rzecz”. BG oddaje je jako „złe rzeczy”.",
+      "tokeny_bg": [
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A viděv Ježíš myšlení jejich, řekl: Proč vy myslíte zlé věci v srdcích vašich?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

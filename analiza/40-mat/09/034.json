@@ -1,0 +1,318 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.34",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 34
+  },
+  "tekst_bg": "Ale Faryzeuszowie mówili: Przez książęcia dyjabelskiego wygania dyjabły.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "Faryzeuszowie"
+    },
+    {
+      "i": 2,
+      "t": "mówili"
+    },
+    {
+      "i": 3,
+      "t": "Przez"
+    },
+    {
+      "i": 4,
+      "t": "książęcia"
+    },
+    {
+      "i": 5,
+      "t": "dyjabelskiego"
+    },
+    {
+      "i": 6,
+      "t": "wygania"
+    },
+    {
+      "i": 7,
+      "t": "dyjabły"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.34",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.34",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "The",
+        "id": "Mat.9.34#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.9.34#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "Φαρισαῖοι",
+        "lemma": "G5330",
+        "forma": "Φαρισαῖος",
+        "morph": "N-NPM-T",
+        "glosa": "Pharisees",
+        "id": "Mat.9.34#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "Pharisee"
+      },
+      {
+        "t": "ἔλεγον",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-IAI-3P",
+        "glosa": "were saying;",
+        "id": "Mat.9.34#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "By",
+        "id": "Mat.9.34#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "the",
+        "id": "Mat.9.34#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἄρχοντι",
+        "lemma": "G0758",
+        "forma": "ἄρχων",
+        "morph": "N-DSM",
+        "glosa": "prince",
+        "id": "Mat.9.34#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "ruler"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPN",
+        "glosa": "of the",
+        "id": "Mat.9.34#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δαιμονίων",
+        "lemma": "G1140",
+        "forma": "δαιμόνιον",
+        "morph": "N-GPN",
+        "glosa": "demons",
+        "id": "Mat.9.34#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "demon"
+      },
+      {
+        "t": "ἐκβάλλει",
+        "lemma": "G1544",
+        "forma": "ἐκβάλλω",
+        "morph": "V-PAI-3S",
+        "glosa": "He casts out",
+        "id": "Mat.9.34#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to expel"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APN",
+        "glosa": "<the>",
+        "id": "Mat.9.34#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δαιμόνια",
+        "lemma": "G1140",
+        "forma": "δαιμόνιον",
+        "morph": "N-APN",
+        "glosa": "demons.",
+        "id": "Mat.9.34#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "demon"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po rodzajniku, a BG wynosi je na początek jako „Ale”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "uwaga": "οἱ Φαρισαῖοι oddane jako „Faryzeuszowie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἔλεγον, imperfectum, oddane jako „mówili”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐν w funkcji narzędnika oddane jako „Przez”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τῷ ἄρχοντι oddane jako „książęcia”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τῶν δαιμονίων, dopełniacz „demonów”, oddane przymiotnikiem „dyjabelskiego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἐκβάλλει oddane jako „wygania”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "τὰ δαιμόνια oddane jako „dyjabły”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajniki są wcielone w rzeczowniki, a dopełniacz τῶν δαιμονίων niesie przymiotnik „dyjabelskiego”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐν τῷ ἄρχοντι τῶν δαιμονίων BG oddaje jako „Przez książęcia dyjabelskiego”: ἐν jest „Przez”, a dopełniacz liczby mnogiej zlewa się w przymiotnik.",
+      "tokeny_bg": [
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Farizeové pak pravili: Mocí knížete ďábelského vymítá ďábly.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

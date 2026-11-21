@@ -1,0 +1,393 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.24",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 24
+  },
+  "tekst_bg": "Rzekł im: Ustąpcie; albowiem dzieweczka nie umarła, ale śpi. I naśmiewali się z niego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Rzekł"
+    },
+    {
+      "i": 1,
+      "t": "im"
+    },
+    {
+      "i": 2,
+      "t": "Ustąpcie"
+    },
+    {
+      "i": 3,
+      "t": "albowiem"
+    },
+    {
+      "i": 4,
+      "t": "dzieweczka"
+    },
+    {
+      "i": 5,
+      "t": "nie"
+    },
+    {
+      "i": 6,
+      "t": "umarła"
+    },
+    {
+      "i": 7,
+      "t": "ale"
+    },
+    {
+      "i": 8,
+      "t": "śpi"
+    },
+    {
+      "i": 9,
+      "t": "I"
+    },
+    {
+      "i": 10,
+      "t": "naśmiewali"
+    },
+    {
+      "i": 11,
+      "t": "się"
+    },
+    {
+      "i": 12,
+      "t": "z"
+    },
+    {
+      "i": 13,
+      "t": "niego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.24",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.24",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "λέγει",
+        "lemma": "G3004",
+        "forma": "λέγει",
+        "morph": "V-PAI-3S",
+        "glosa": "He says",
+        "id": "Mat.9.24#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτοῖς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DPM",
+        "glosa": "to them:",
+        "id": "Mat.9.24#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἀναχωρεῖτε",
+        "lemma": "G0402",
+        "forma": "ἀναχωρέω",
+        "morph": "V-PAM-2P",
+        "glosa": "do go away,",
+        "id": "Mat.9.24#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to leave"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.9.24#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "no"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.9.24#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "for"
+      },
+      {
+        "t": "ἀπέθανεν",
+        "lemma": "G0599",
+        "forma": "ἀποθνήσκω",
+        "morph": "V-2AAI-3S",
+        "glosa": "is dead",
+        "id": "Mat.9.24#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to die"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "the",
+        "id": "Mat.9.24#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κοράσιον",
+        "lemma": "G2877",
+        "forma": "κοράσιον",
+        "morph": "N-NSN",
+        "glosa": "girl",
+        "id": "Mat.9.24#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "girl"
+      },
+      {
+        "t": "ἀλλὰ",
+        "lemma": "G0235",
+        "forma": "ἀλλά",
+        "morph": "CONJ",
+        "glosa": "but",
+        "id": "Mat.9.24#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "but"
+      },
+      {
+        "t": "καθεύδει",
+        "lemma": "G2518",
+        "forma": "καθεύδω",
+        "morph": "V-PAI-3S",
+        "glosa": "sleeps.",
+        "id": "Mat.9.24#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to sleep"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.24#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "and"
+      },
+      {
+        "t": "κατεγέλων",
+        "lemma": "G2606",
+        "forma": "καταγελάω",
+        "morph": "V-IAI-3P",
+        "glosa": "they were mocking",
+        "id": "Mat.9.24#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to mock"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "Him.",
+        "id": "Mat.9.24#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "λέγει, praesens „mówi”, oddane jako „Rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "αὐτοῖς oddane jako „im”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἀναχωρεῖτε oddane jako „Ustąpcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "γὰρ stoi po οὐ, a BG wynosi je przed zdanie jako „albowiem”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τὸ κοράσιον oddane jako „dzieweczka”; w grece stoi po ἀπέθανεν."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "οὐ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἀπέθανεν oddane jako „umarła”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἀλλὰ oddane jako „ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "καθεύδει oddane jako „śpi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        10,
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "κατεγέλων, strona czynna, oddane zwrotnym „naśmiewali się”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        12,
+        13
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "αὐτοῦ, dopełniacz przy καταγελάω, oddane jako „z niego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. „się” należy do polskiego „naśmiewać się”, a „z” niesie dopełniacz αὐτοῦ.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὐ γὰρ ἀπέθανεν τὸ κοράσιον BG oddaje jako „albowiem dzieweczka nie umarła”: γὰρ jest na początku zdania, a rodzajnik wcielony w „dzieweczka”.",
+      "tokeny_bg": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Řekl jim: Odejdětež; nebť neumřela děvečka, ale spí. I posmívali se jemu.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

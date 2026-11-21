@@ -1,0 +1,309 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.32",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 32
+  },
+  "tekst_bg": "A gdy oni wychodzili, oto przywiedli mu człowieka niemego, opętanego od dyjabła.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "oni"
+    },
+    {
+      "i": 3,
+      "t": "wychodzili"
+    },
+    {
+      "i": 4,
+      "t": "oto"
+    },
+    {
+      "i": 5,
+      "t": "przywiedli"
+    },
+    {
+      "i": 6,
+      "t": "mu"
+    },
+    {
+      "i": 7,
+      "t": "człowieka"
+    },
+    {
+      "i": 8,
+      "t": "niemego"
+    },
+    {
+      "i": 9,
+      "t": "opętanego"
+    },
+    {
+      "i": 10,
+      "t": "od"
+    },
+    {
+      "i": 11,
+      "t": "dyjabła"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.32",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.32",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "[As] they",
+        "id": "Mat.9.32#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.9.32#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐξερχομένων",
+        "lemma": "G1831",
+        "forma": "ἐξέρχομαι",
+        "morph": "V-PNP-GPM",
+        "glosa": "were going out",
+        "id": "Mat.9.32#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to go out"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "behold",
+        "id": "Mat.9.32#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "look!"
+      },
+      {
+        "t": "προσήνεγκαν",
+        "lemma": "G4374",
+        "forma": "προσφέρω",
+        "morph": "V-AAI-3P",
+        "glosa": "they brought",
+        "id": "Mat.9.32#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to bring to"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to Him",
+        "id": "Mat.9.32#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἄνθρωπον",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-ASM",
+        "glosa": "a man",
+        "id": "Mat.9.32#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "a human"
+      },
+      {
+        "t": "κωφὸν",
+        "lemma": "G2974",
+        "forma": "κωφός",
+        "morph": "A-ASM",
+        "glosa": "mute [and]",
+        "id": "Mat.9.32#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "deaf/mute"
+      },
+      {
+        "t": "δαιμονιζόμενον",
+        "lemma": "G1139",
+        "forma": "δαιμονίζομαι",
+        "morph": "V-PNP-ASM",
+        "glosa": "demonised.",
+        "id": "Mat.9.32#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "be demonised"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po Αὐτῶν, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Αὐτῶν, dopełniacz absolutny, oddane jako „oni”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐξερχομένων, imiesłów „wychodzących”, rozbity na „gdy … wychodzili”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἰδοὺ oddane jako „oto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "προσήνεγκαν oddane jako „przywiedli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἄνθρωπον oddane jako „człowieka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "κωφὸν „niemego” oddane jako „niemego”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10,
+        11
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "δαιμονιζόμενον, imiesłów „opętany przez demona”, oddane jako „opętanego od dyjabła”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Dopełniacz absolutny Αὐτῶν ἐξερχομένων BG rozbija na „gdy oni wychodzili”. Każde słowo greckie ma odpowiednik i nic nie jest dopowiedziane.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Αὐτῶν δὲ ἐξερχομένων to dopełniacz absolutny. BG rozbija go na zdanie „A gdy oni wychodzili”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A když oni vycházeli, aj, přivedli mu člověka němého, majícího ďábelství.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.8",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 8
+  },
+  "tekst_bg": "Co ujrzawszy lud, dziwował się, i chwalił Boga, który dał taką moc ludziom.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Co"
+    },
+    {
+      "i": 1,
+      "t": "ujrzawszy"
+    },
+    {
+      "i": 2,
+      "t": "lud"
+    },
+    {
+      "i": 3,
+      "t": "dziwował"
+    },
+    {
+      "i": 4,
+      "t": "się"
+    },
+    {
+      "i": 5,
+      "t": "i"
+    },
+    {
+      "i": 6,
+      "t": "chwalił"
+    },
+    {
+      "i": 7,
+      "t": "Boga"
+    },
+    {
+      "i": 8,
+      "t": "który"
+    },
+    {
+      "i": 9,
+      "t": "dał"
+    },
+    {
+      "i": 10,
+      "t": "taką"
+    },
+    {
+      "i": 11,
+      "t": "moc"
+    },
+    {
+      "i": 12,
+      "t": "ludziom"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.8",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.8",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἰδόντες",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAP-NPM",
+        "glosa": "Having seen",
+        "id": "Mat.9.8#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.9.8#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.9.8#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὄχλοι",
+        "lemma": "G3793",
+        "forma": "ὄχλος",
+        "morph": "N-NPM",
+        "glosa": "crowds",
+        "id": "Mat.9.8#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "crowd"
+      },
+      {
+        "t": "ἐθαύμασαν",
+        "lemma": "G2296",
+        "forma": "ἐθαύμασαν",
+        "morph": "V-AAI-3P",
+        "glosa": "marveled",
+        "id": "Mat.9.8#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to marvel"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.8#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐδόξασαν",
+        "lemma": "G1392",
+        "forma": "δοξάζω",
+        "morph": "V-AAI-3P",
+        "glosa": "glorified",
+        "id": "Mat.9.8#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to glorify"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.9.8#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θεὸν",
+        "lemma": "G2316",
+        "forma": "θεός",
+        "morph": "N-ASM-T",
+        "glosa": "God",
+        "id": "Mat.9.8#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "God"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the [One]",
+        "id": "Mat.9.8#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δόντα",
+        "lemma": "G1325",
+        "forma": "δίδωμι",
+        "morph": "V-2AAP-ASM",
+        "glosa": "having given",
+        "id": "Mat.9.8#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to give"
+      },
+      {
+        "t": "ἐξουσίαν",
+        "lemma": "G1849",
+        "forma": "ἐξουσία",
+        "morph": "N-ASF",
+        "glosa": "authority",
+        "id": "Mat.9.8#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "authority"
+      },
+      {
+        "t": "τοιαύτην",
+        "lemma": "G5108",
+        "forma": "τοιοῦτος",
+        "morph": "D-ASF",
+        "glosa": "such",
+        "id": "Mat.9.8#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "such as this"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "<the>",
+        "id": "Mat.9.8#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀνθρώποις",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-DPM",
+        "glosa": "to men.",
+        "id": "Mat.9.8#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "a human"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        0
+      ],
+      "zrodlo": [],
+      "uwaga": "„Co” dopowiada przedmiot imiesłowu ἰδόντες, który w TR nie ma dopełnienia.",
+      "uzasadnienie": "ἰδόντες nie ma dopełnienia. „Co” otwiera polski imiesłów przedmiotem, którego w tym wersecie nie ma."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἰδόντες oddane jako „ujrzawszy”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ, spójnik „now”, nie ma w polskim zdaniu osobnego słowa."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "οἱ ὄχλοι, liczba mnoga „crowds”, oddane liczbą pojedynczą „lud”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐθαύμασαν, strona czynna „marveled”, oddane jako „dziwował się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐδόξασαν, „glorified”, oddane jako „chwalił”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τὸν θεὸν oddane jako „Boga”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [],
+      "uwaga": "„który” otwiera zdanie względne, choć w TR nie ma zaimka ὅς.",
+      "uzasadnienie": "Rodzajnik τὸν przy imiesłowie δόντα nie jest zaimkiem względnym. „który” dopowiada polskie zdanie względne."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τὸν δόντα, imiesłów „having given”, oddane osobowo jako „dał”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἐξουσίαν oddane jako „moc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "τοιαύτην oddane jako „taką”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τοῖς ἀνθρώποις oddane jako „ludziom”; rodzajnik nie ma osobnego słowa."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Spójnik δὲ nie ma polskiego odpowiednika. „Co” i „który” są dopowiedzeniami uzasadnionymi składnią, ale brak δὲ zostaje.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      1
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἰδόντες δὲ οἱ ὄχλοι ma spójnik δὲ. BG zaczyna od „Co ujrzawszy lud” i nie oddaje δὲ osobnym słowem.",
+      "tokeny_bg": [
+        0,
+        1,
+        2
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τὸν δόντα jest rodzajnikiem z imiesłowem „having given”, bez zaimka ὅς. BG dodaje „który” i mówi „dał”.",
+      "tokeny_bg": [
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A vidouce to zástupové, divili se a velebili Boha, kterýž dal takovou moc lidem.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

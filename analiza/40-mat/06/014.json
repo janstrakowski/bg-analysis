@@ -1,0 +1,430 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.14",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 14
+  },
+  "tekst_bg": "Bo jeźli odpuścicie ludziom upadki ich, odpuści i wam Ojciec wasz niebieski;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Bo"
+    },
+    {
+      "i": 1,
+      "t": "jeźli"
+    },
+    {
+      "i": 2,
+      "t": "odpuścicie"
+    },
+    {
+      "i": 3,
+      "t": "ludziom"
+    },
+    {
+      "i": 4,
+      "t": "upadki"
+    },
+    {
+      "i": 5,
+      "t": "ich"
+    },
+    {
+      "i": 6,
+      "t": "odpuści"
+    },
+    {
+      "i": 7,
+      "t": "i"
+    },
+    {
+      "i": 8,
+      "t": "wam"
+    },
+    {
+      "i": 9,
+      "t": "Ojciec"
+    },
+    {
+      "i": 10,
+      "t": "wasz"
+    },
+    {
+      "i": 11,
+      "t": "niebieski"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.14",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.14",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἐὰν",
+        "lemma": "G1437",
+        "forma": "ἐάν",
+        "morph": "COND",
+        "glosa": "If",
+        "id": "Mat.6.14#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "if"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.6.14#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "ἀφῆτε",
+        "lemma": "G0863H",
+        "forma": "ἀφίημι",
+        "morph": "V-2AAS-2P",
+        "glosa": "you shall forgive",
+        "id": "Mat.6.14#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to release: forgive"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "<the>",
+        "id": "Mat.6.14#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀνθρώποις",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-DPM",
+        "glosa": "men",
+        "id": "Mat.6.14#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "a human"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APN",
+        "glosa": "the",
+        "id": "Mat.6.14#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "παραπτώματα",
+        "lemma": "G3900",
+        "forma": "παράπτωμα",
+        "morph": "N-APN",
+        "glosa": "trespasses",
+        "id": "Mat.6.14#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "trespass"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them,",
+        "id": "Mat.6.14#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἀφήσει",
+        "lemma": "G0863H",
+        "forma": "ἀφίημι",
+        "morph": "V-FAI-3S",
+        "glosa": "will forgive",
+        "id": "Mat.6.14#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to release: forgive"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "also",
+        "id": "Mat.6.14#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "you",
+        "id": "Mat.6.14#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.6.14#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατὴρ",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-NSM-T",
+        "glosa": "Father",
+        "id": "Mat.6.14#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "father"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.6.14#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.6.14#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐράνιος",
+        "lemma": "G3770",
+        "forma": "οὐράνιος",
+        "morph": "A-NSM",
+        "glosa": "Heavenly.",
+        "id": "Mat.6.14#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "heavenly"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "γὰρ stoi po ἐὰν, a BG wynosi je na początek jako „Bo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἐὰν oddane jako „jeźli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἀφῆτε oddane jako „odpuścicie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τοῖς ἀνθρώποις oddane jako „ludziom”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τὰ παραπτώματα, „trespasses”, oddane jako „upadki”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "αὐτῶν oddane jako „ich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἀφήσει, czas przyszły, oddane jako „odpuści”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "καὶ, „also”, oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "ὁ πατὴρ oddane jako „Ojciec”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ὑμῶν oddane jako „wasz”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "ὁ οὐράνιος, „Heavenly”, oddane jako „niebieski”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. γὰρ stoi na początku jako „Bo”, a ὁ οὐράνιος wchodzi w „niebieski”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐὰν γὰρ ἀφῆτε ... ἀφήσει καὶ ὑμῖν ὁ πατὴρ ὑμῶν ὁ οὐράνιος BG oddaje jako „Bo jeźli odpuścicie ... odpuści i wam Ojciec wasz niebieski”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo budete-li odpouštěti lidem viny jejich, odpustíť i vám nebeský Otec váš.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

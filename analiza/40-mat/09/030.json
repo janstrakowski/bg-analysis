@@ -1,0 +1,452 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.30",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 30
+  },
+  "tekst_bg": "I otworzyły się oczy ich; i przygroził im srodze Jezus, mówiąc: Patrzcież, aby nikt o tem nie wiedział.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "otworzyły"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "oczy"
+    },
+    {
+      "i": 4,
+      "t": "ich"
+    },
+    {
+      "i": 5,
+      "t": "i"
+    },
+    {
+      "i": 6,
+      "t": "przygroził"
+    },
+    {
+      "i": 7,
+      "t": "im"
+    },
+    {
+      "i": 8,
+      "t": "srodze"
+    },
+    {
+      "i": 9,
+      "t": "Jezus"
+    },
+    {
+      "i": 10,
+      "t": "mówiąc"
+    },
+    {
+      "i": 11,
+      "t": "Patrzcież"
+    },
+    {
+      "i": 12,
+      "t": "aby"
+    },
+    {
+      "i": 13,
+      "t": "nikt"
+    },
+    {
+      "i": 14,
+      "t": "o"
+    },
+    {
+      "i": 15,
+      "t": "tem"
+    },
+    {
+      "i": 16,
+      "t": "nie"
+    },
+    {
+      "i": 17,
+      "t": "wiedział"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.30",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.30",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.30#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἠνεῴχθησαν",
+        "lemma": "G0455",
+        "forma": "ἀνοίγω",
+        "morph": "V-API-3P",
+        "glosa": "were opened",
+        "id": "Mat.9.30#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to open"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "their",
+        "id": "Mat.9.30#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "<the>",
+        "id": "Mat.9.30#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὀφθαλμοί",
+        "lemma": "G3788",
+        "forma": "ὀφθαλμός",
+        "morph": "N-NPM",
+        "glosa": "eyes.",
+        "id": "Mat.9.30#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "eye"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.30#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐνεβριμήσατο",
+        "lemma": "G1690",
+        "forma": "ἐνεβριμήσατο",
+        "morph": "V-ADI-3S",
+        "glosa": "he strictly instructed",
+        "id": "Mat.9.30#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "be agitated"
+      },
+      {
+        "t": "αὐτοῖς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DPM",
+        "glosa": "them",
+        "id": "Mat.9.30#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.9.30#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.9.30#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "λέγων",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NSM",
+        "glosa": "saying;",
+        "id": "Mat.9.30#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὁρᾶτε",
+        "lemma": "G3708",
+        "forma": "ὁράω",
+        "morph": "V-PAM-2P",
+        "glosa": "do see [that]",
+        "id": "Mat.9.30#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to see: see"
+      },
+      {
+        "t": "μηδεὶς",
+        "lemma": "G3367",
+        "forma": "μηδείς",
+        "morph": "A-NSM",
+        "glosa": "no one",
+        "id": "Mat.9.30#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "nothing"
+      },
+      {
+        "t": "γινωσκέτω",
+        "lemma": "G1097",
+        "forma": "γινώσκω",
+        "morph": "V-PAM-3S",
+        "glosa": "should know.",
+        "id": "Mat.9.30#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to know"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἠνεῴχθησαν, aoryst bierny „otworzyły się”, oddane jako „otworzyły się”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "οἱ ὀφθαλμοί oddane jako „oczy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "αὐτῶν oddane jako „ich”; w grece stoi przed οἱ ὀφθαλμοί."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        8
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐνεβριμήσατο „ostro przykazał” oddane jako „przygroził srodze”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "αὐτοῖς oddane jako „im”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "λέγων oddane jako „mówiąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ὁρᾶτε oddane jako „Patrzcież”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        13,
+        16
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "μηδείς „nikt” oddane jako „nikt … nie”: polskie „nikt” wymaga „nie” przy czasowniku."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        12,
+        17
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "γινωσκέτω, rozkaźnik „niech wie”, oddane jako „aby … wiedział”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [],
+      "uwaga": "„o” jest kursywą w 1632. ὁρᾶτε μηδεὶς γινωσκέτω nie ma przyimka „o”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [],
+      "uwaga": "„tem” dopowiada przedmiot wiedzy. W grece nie ma zaimka „to”.",
+      "uzasadnienie": "ὁρᾶτε μηδεὶς γινωσκέτω nie nazywa przedmiotu. „tem” go dopowiada, a „o” jest osobno kursywą."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „o tem” dopowiada przedmiot zakazu: „o” jest kursywą 1632, a „tem” uzasadnia osobny zaimek, którego TR nie ma.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὁρᾶτε μηδεὶς γινωσκέτω nie ma zaimka „to” ani przyimka „o”. BG dodaje „o tem”, z czego „o” jest kursywą w 1632.",
+      "tokeny_bg": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "tokeny_zrodla": [
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐνεβριμήσατο, jeden czasownik „ostro przykazał”, BG rozbija na „przygroził srodze”.",
+      "tokeny_bg": [
+        6,
+        8
+      ],
+      "tokeny_zrodla": [
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I otevříny jsou oči jejich. Zapověděl jim pak tuze Ježíš, řka: Viztež, ať nižádný o tom nezví.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

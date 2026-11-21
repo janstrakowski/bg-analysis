@@ -1,0 +1,250 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.11",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 11
+  },
+  "tekst_bg": "Chleba naszego powszedniego daj nam dzisiaj.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Chleba"
+    },
+    {
+      "i": 1,
+      "t": "naszego"
+    },
+    {
+      "i": 2,
+      "t": "powszedniego"
+    },
+    {
+      "i": 3,
+      "t": "daj"
+    },
+    {
+      "i": 4,
+      "t": "nam"
+    },
+    {
+      "i": 5,
+      "t": "dzisiaj"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.11",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.11",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "The",
+        "id": "Mat.6.11#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἄρτον",
+        "lemma": "G0740",
+        "forma": "ἄρτος",
+        "morph": "N-ASM",
+        "glosa": "bread",
+        "id": "Mat.6.11#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "bread"
+      },
+      {
+        "t": "ἡμῶν",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GP",
+        "glosa": "of us",
+        "id": "Mat.6.11#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "me"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.6.11#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐπιούσιον",
+        "lemma": "G1967",
+        "forma": "ἐπιούσιος",
+        "morph": "A-ASM",
+        "glosa": "daily",
+        "id": "Mat.6.11#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "daily"
+      },
+      {
+        "t": "δὸς",
+        "lemma": "G1325",
+        "forma": "δίδωμι",
+        "morph": "V-2AAM-2S",
+        "glosa": "do grant",
+        "id": "Mat.6.11#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to give"
+      },
+      {
+        "t": "ἡμῖν",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1DP",
+        "glosa": "us",
+        "id": "Mat.6.11#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "me"
+      },
+      {
+        "t": "σήμερον",
+        "lemma": "G4594",
+        "forma": "σήμερον",
+        "morph": "ADV",
+        "glosa": "today;",
+        "id": "Mat.6.11#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "today"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "zlanie",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0,
+        1
+      ],
+      "uwaga": "τὸν ἄρτον, biernik, oddane dopełniaczem „Chleba”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἡμῶν oddane jako „naszego”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τὸν ἐπιούσιον, „daily”, oddane jako „powszedniego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "δὸς oddane jako „daj”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἡμῖν oddane jako „nam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "σήμερον oddane jako „dzisiaj”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Oba rodzajniki wchodzą w „Chleba” i „powszedniego”, a biernik chleba schodzi do dopełniacza przy „daj”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δὸς ἡμῖν σήμερον BG oddaje jako „Chleba naszego powszedniego daj nam dzisiaj”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Chléb náš vezdejší dej nám dnes.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

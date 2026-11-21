@@ -1,0 +1,751 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.35",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 35
+  },
+  "tekst_bg": "I obchodził Jezus wszystkie miasta i miasteczka, nauczając w bóżnicach ich, i każąc Ewangieliją królestwa, a uzdrawiając wszelką chorobę, i wszelką niemoc między ludem.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "obchodził"
+    },
+    {
+      "i": 2,
+      "t": "Jezus"
+    },
+    {
+      "i": 3,
+      "t": "wszystkie"
+    },
+    {
+      "i": 4,
+      "t": "miasta"
+    },
+    {
+      "i": 5,
+      "t": "i"
+    },
+    {
+      "i": 6,
+      "t": "miasteczka"
+    },
+    {
+      "i": 7,
+      "t": "nauczając"
+    },
+    {
+      "i": 8,
+      "t": "w"
+    },
+    {
+      "i": 9,
+      "t": "bóżnicach"
+    },
+    {
+      "i": 10,
+      "t": "ich"
+    },
+    {
+      "i": 11,
+      "t": "i"
+    },
+    {
+      "i": 12,
+      "t": "każąc"
+    },
+    {
+      "i": 13,
+      "t": "Ewangieliją"
+    },
+    {
+      "i": 14,
+      "t": "królestwa"
+    },
+    {
+      "i": 15,
+      "t": "a"
+    },
+    {
+      "i": 16,
+      "t": "uzdrawiając"
+    },
+    {
+      "i": 17,
+      "t": "wszelką"
+    },
+    {
+      "i": 18,
+      "t": "chorobę"
+    },
+    {
+      "i": 19,
+      "t": "i"
+    },
+    {
+      "i": 20,
+      "t": "wszelką"
+    },
+    {
+      "i": 21,
+      "t": "niemoc"
+    },
+    {
+      "i": 22,
+      "t": "między"
+    },
+    {
+      "i": 23,
+      "t": "ludem"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.35",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.35",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.35#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "περιῆγεν",
+        "lemma": "G4013",
+        "forma": "περιάγω",
+        "morph": "V-IAI-3S",
+        "glosa": "was going throughout",
+        "id": "Mat.9.35#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to take/go around"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.9.35#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.9.35#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "τὰς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APF",
+        "glosa": "the",
+        "id": "Mat.9.35#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πόλεις",
+        "lemma": "G4172",
+        "forma": "πόλις",
+        "morph": "N-APF",
+        "glosa": "cities",
+        "id": "Mat.9.35#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "city"
+      },
+      {
+        "t": "πάσας",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-APF",
+        "glosa": "all",
+        "id": "Mat.9.35#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "all"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.35#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "τὰς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APF",
+        "glosa": "the",
+        "id": "Mat.9.35#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κώμας",
+        "lemma": "G2968",
+        "forma": "κώμη",
+        "morph": "N-APF",
+        "glosa": "villages",
+        "id": "Mat.9.35#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "village"
+      },
+      {
+        "t": "διδάσκων",
+        "lemma": "G1321",
+        "forma": "διδάσκω",
+        "morph": "V-PAP-NSM",
+        "glosa": "teaching",
+        "id": "Mat.9.35#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to teach"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.9.35#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ταῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPF",
+        "glosa": "the",
+        "id": "Mat.9.35#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "συναγωγαῖς",
+        "lemma": "G4864",
+        "forma": "συναγωγή",
+        "morph": "N-DPF",
+        "glosa": "synagogues",
+        "id": "Mat.9.35#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "synagogue"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them",
+        "id": "Mat.9.35#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.35#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "and"
+      },
+      {
+        "t": "κηρύσσων",
+        "lemma": "G2784",
+        "forma": "κηρύσσω",
+        "morph": "V-PAP-NSM",
+        "glosa": "proclaiming",
+        "id": "Mat.9.35#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to preach"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.9.35#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "εὐαγγέλιον",
+        "lemma": "G2098",
+        "forma": "εὐαγγέλιον",
+        "morph": "N-ASN",
+        "glosa": "gospel",
+        "id": "Mat.9.35#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "gospel"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "of the",
+        "id": "Mat.9.35#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βασιλείας",
+        "lemma": "G0932",
+        "forma": "βασιλεία",
+        "morph": "N-GSF",
+        "glosa": "kingdom",
+        "id": "Mat.9.35#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "kingdom"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.35#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "and"
+      },
+      {
+        "t": "θεραπεύων",
+        "lemma": "G2323",
+        "forma": "θεραπεύω",
+        "morph": "V-PAP-NSM",
+        "glosa": "healing",
+        "id": "Mat.9.35#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "to serve/heal"
+      },
+      {
+        "t": "πᾶσαν",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-ASF",
+        "glosa": "every",
+        "id": "Mat.9.35#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "all"
+      },
+      {
+        "t": "νόσον",
+        "lemma": "G3554",
+        "forma": "νόσος",
+        "morph": "N-ASF",
+        "glosa": "disease",
+        "id": "Mat.9.35#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "illness"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.35#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "and"
+      },
+      {
+        "t": "πᾶσαν",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-ASF",
+        "glosa": "every",
+        "id": "Mat.9.35#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "all"
+      },
+      {
+        "t": "μαλακίαν",
+        "lemma": "G3119",
+        "forma": "μαλακία",
+        "morph": "N-ASF",
+        "glosa": "sickness",
+        "id": "Mat.9.35#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "sickness"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.9.35#29",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "<the>",
+        "id": "Mat.9.35#30",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λαῷ",
+        "lemma": "G2992",
+        "forma": "λαός",
+        "morph": "N-DSM",
+        "glosa": "people.",
+        "id": "Mat.9.35#31",
+        "jezyk": "grc",
+        "i": 30,
+        "leksykon": "a people"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Καὶ oddane jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "περιῆγεν, imperfectum „obchodził”, oddane jako „obchodził”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "πάσας stoi po πόλεις, a BG daje „wszystkie” przed „miasta”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τὰς πόλεις oddane jako „miasta”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τὰς κώμας oddane jako „miasteczka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "διδάσκων oddane jako „nauczając”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "ταῖς συναγωγαῖς oddane jako „bóżnicach”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "αὐτῶν oddane jako „ich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "κηρύσσων oddane jako „każąc”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        17,
+        18
+      ],
+      "uwaga": "τὸ εὐαγγέλιον oddane jako „Ewangieliją”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        19,
+        20
+      ],
+      "uwaga": "τῆς βασιλείας oddane jako „królestwa”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "θεραπεύων oddane jako „uzdrawiając”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "πᾶσαν oddane jako „wszelką”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "νόσον oddane jako „chorobę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        26
+      ],
+      "uwaga": "Drugie πᾶσαν oddane jako „wszelką”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        27
+      ],
+      "uwaga": "μαλακίαν oddane jako „niemoc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        28
+      ],
+      "uwaga": "ἐν przy λαῷ oddane jako „między”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        29,
+        30
+      ],
+      "uwaga": "τῷ λαῷ oddane jako „ludem”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Imiesłowy zostają imiesłowami, a rodzajniki są wcielone w rzeczowniki.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τὰς πόλεις πάσας BG oddaje jako „wszystkie miasta”: πάσας stoi w grece po rzeczowniku.",
+      "tokeny_bg": [
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I obcházel Ježíš všecka města i městečka, uče v školách jejich a káže evangelium království, a uzdravuje všelikou nemoc i všeliký neduh v lidu.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

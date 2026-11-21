@@ -1,0 +1,366 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.17",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 17
+  },
+  "tekst_bg": "Ale ty, gdy pościsz, namaż głowę twoję, i umyj twarz twoję,",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "ty"
+    },
+    {
+      "i": 2,
+      "t": "gdy"
+    },
+    {
+      "i": 3,
+      "t": "pościsz"
+    },
+    {
+      "i": 4,
+      "t": "namaż"
+    },
+    {
+      "i": 5,
+      "t": "głowę"
+    },
+    {
+      "i": 6,
+      "t": "twoję"
+    },
+    {
+      "i": 7,
+      "t": "i"
+    },
+    {
+      "i": 8,
+      "t": "umyj"
+    },
+    {
+      "i": 9,
+      "t": "twarz"
+    },
+    {
+      "i": 10,
+      "t": "twoję"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.17",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.17",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "σὺ",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2NS",
+        "glosa": "You yourself",
+        "id": "Mat.6.17#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "you"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.6.17#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "νηστεύων",
+        "lemma": "G3522",
+        "forma": "νηστεύω",
+        "morph": "V-PAP-NSM",
+        "glosa": "fasting",
+        "id": "Mat.6.17#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to fast"
+      },
+      {
+        "t": "ἄλειψαί",
+        "lemma": "G0218",
+        "forma": "ἀλείφω",
+        "morph": "V-AMM-2S",
+        "glosa": "do anoint yourself",
+        "id": "Mat.6.17#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to anoint"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "your",
+        "id": "Mat.6.17#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "you"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "<the>",
+        "id": "Mat.6.17#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κεφαλὴν",
+        "lemma": "G2776",
+        "forma": "κεφαλή",
+        "morph": "N-ASF",
+        "glosa": "head",
+        "id": "Mat.6.17#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "head"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.6.17#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.6.17#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πρόσωπόν",
+        "lemma": "G4383",
+        "forma": "πρόσωπον",
+        "morph": "N-ASN",
+        "glosa": "face",
+        "id": "Mat.6.17#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "face"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.6.17#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "you"
+      },
+      {
+        "t": "νίψαι",
+        "lemma": "G3538",
+        "forma": "νίπτω",
+        "morph": "V-AMM-2S",
+        "glosa": "do wash, yourself",
+        "id": "Mat.6.17#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to wash"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po σὺ, a BG wynosi je na początek jako „Ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "σὺ oddane jako „ty”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "Imiesłów νηστεύων BG rozbija na zdanie „gdy pościsz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἄλειψαί, rozkazujący strony medialnej „anoint yourself”, oddane czynnym „namaż”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τὴν κεφαλὴν oddane jako „głowę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "σου oddane jako „twoję” i przesunięte za rzeczownik."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "νίψαι, rozkazujący strony medialnej „wash yourself”, oddane czynnym „umyj”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τὸ πρόσωπόν oddane jako „twarz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "σου oddane jako „twoję”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Nic nie dodano i nic nie opuszczono. Imiesłów νηστεύων BG rozbija na zdanie „gdy pościsz”. Rozkazujące medialne ἄλειψαί i νίψαι brzmią czynnie „namaż” i „umyj”, a przedmiotem zostaje własna głowa i twarz.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "νηστεύων to imiesłów „fasting”. BG rozbija go na zdanie „gdy pościsz”.",
+      "tokeny_bg": [
+        2,
+        3
+      ],
+      "tokeny_zrodla": [
+        2
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἄλειψαί i νίψαι są rozkazującymi strony medialnej. BG ma strony czynne „namaż” i „umyj” z przedmiotem „głowę twoję” i „twarz twoję”.",
+      "tokeny_bg": [
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ty pak, když se postíš, pomaž hlavy své a tvář svou umej,",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

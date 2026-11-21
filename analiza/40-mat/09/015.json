@@ -1,0 +1,793 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.15",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 15
+  },
+  "tekst_bg": "I rzekł im Jezus: Izali się mogą synowie łożnicy małżeńskiej smęcić, póki z nimi jest oblubieniec? Ale przyjdą dni, gdy od nich będzie oblubieniec odjęty, a tedy pościć będą.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "rzekł"
+    },
+    {
+      "i": 2,
+      "t": "im"
+    },
+    {
+      "i": 3,
+      "t": "Jezus"
+    },
+    {
+      "i": 4,
+      "t": "Izali"
+    },
+    {
+      "i": 5,
+      "t": "się"
+    },
+    {
+      "i": 6,
+      "t": "mogą"
+    },
+    {
+      "i": 7,
+      "t": "synowie"
+    },
+    {
+      "i": 8,
+      "t": "łożnicy"
+    },
+    {
+      "i": 9,
+      "t": "małżeńskiej"
+    },
+    {
+      "i": 10,
+      "t": "smęcić"
+    },
+    {
+      "i": 11,
+      "t": "póki"
+    },
+    {
+      "i": 12,
+      "t": "z"
+    },
+    {
+      "i": 13,
+      "t": "nimi"
+    },
+    {
+      "i": 14,
+      "t": "jest"
+    },
+    {
+      "i": 15,
+      "t": "oblubieniec"
+    },
+    {
+      "i": 16,
+      "t": "Ale"
+    },
+    {
+      "i": 17,
+      "t": "przyjdą"
+    },
+    {
+      "i": 18,
+      "t": "dni"
+    },
+    {
+      "i": 19,
+      "t": "gdy"
+    },
+    {
+      "i": 20,
+      "t": "od"
+    },
+    {
+      "i": 21,
+      "t": "nich"
+    },
+    {
+      "i": 22,
+      "t": "będzie"
+    },
+    {
+      "i": 23,
+      "t": "oblubieniec"
+    },
+    {
+      "i": 24,
+      "t": "odjęty"
+    },
+    {
+      "i": 25,
+      "t": "a"
+    },
+    {
+      "i": 26,
+      "t": "tedy"
+    },
+    {
+      "i": 27,
+      "t": "pościć"
+    },
+    {
+      "i": 28,
+      "t": "będą"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.15",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.15",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.15#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "εἶπεν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAI-3S",
+        "glosa": "said",
+        "id": "Mat.9.15#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτοῖς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DPM",
+        "glosa": "to them",
+        "id": "Mat.9.15#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.9.15#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus;",
+        "id": "Mat.9.15#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "Surely not",
+        "id": "Mat.9.15#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "not"
+      },
+      {
+        "t": "δύνανται",
+        "lemma": "G1410",
+        "forma": "δύναμαι",
+        "morph": "V-PNI-3P",
+        "glosa": "can",
+        "id": "Mat.9.15#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "be able"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.9.15#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "υἱοὶ",
+        "lemma": "G5207",
+        "forma": "υἱός",
+        "morph": "N-NPM",
+        "glosa": "sons",
+        "id": "Mat.9.15#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "son"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.9.15#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "νυμφῶνος",
+        "lemma": "G3567",
+        "forma": "νυμφών",
+        "morph": "N-GSM",
+        "glosa": "bridechamber",
+        "id": "Mat.9.15#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "bridegroom"
+      },
+      {
+        "t": "πενθεῖν",
+        "lemma": "G3996",
+        "forma": "πενθέω",
+        "morph": "V-PAN",
+        "glosa": "[are] to mourn",
+        "id": "Mat.9.15#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to mourn"
+      },
+      {
+        "t": "ἐφ᾽",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "as",
+        "id": "Mat.9.15#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "ὅσον",
+        "lemma": "G3745",
+        "forma": "ὅσος",
+        "morph": "K-ASN",
+        "glosa": "long as",
+        "id": "Mat.9.15#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "just as/how much"
+      },
+      {
+        "t": "μετ᾽",
+        "lemma": "G3326",
+        "forma": "μετά",
+        "morph": "PREP",
+        "glosa": "with",
+        "id": "Mat.9.15#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "with/after"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "them",
+        "id": "Mat.9.15#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is",
+        "id": "Mat.9.15#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.9.15#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "νυμφίος;",
+        "lemma": "G3566",
+        "forma": "νυμφίος",
+        "morph": "N-NSM",
+        "glosa": "bridegroom?",
+        "id": "Mat.9.15#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "bridegroom"
+      },
+      {
+        "t": "ἐλεύσονται",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-FDI-3P",
+        "glosa": "Will come",
+        "id": "Mat.9.15#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.9.15#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἡμέραι",
+        "lemma": "G2250",
+        "forma": "ἡμέρα",
+        "morph": "N-NPF",
+        "glosa": "days",
+        "id": "Mat.9.15#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "day"
+      },
+      {
+        "t": "ὅταν",
+        "lemma": "G3752",
+        "forma": "ὅταν",
+        "morph": "PREP",
+        "glosa": "when",
+        "id": "Mat.9.15#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "when(-ever)"
+      },
+      {
+        "t": "ἀπαρθῇ",
+        "lemma": "G0522",
+        "forma": "ἀπαίρω",
+        "morph": "V-APS-3S",
+        "glosa": "may have been taken away",
+        "id": "Mat.9.15#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "to take away"
+      },
+      {
+        "t": "ἀπ᾽",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.9.15#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "away from"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "them",
+        "id": "Mat.9.15#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.9.15#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "νυμφίος",
+        "lemma": "G3566",
+        "forma": "νυμφίος",
+        "morph": "N-NSM",
+        "glosa": "bridegroom,",
+        "id": "Mat.9.15#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "bridegroom"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.15#29",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "and"
+      },
+      {
+        "t": "τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "then",
+        "id": "Mat.9.15#30",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "then"
+      },
+      {
+        "t": "νηστεύσουσιν",
+        "lemma": "G3522",
+        "forma": "νηστεύω",
+        "morph": "V-FAI-3P",
+        "glosa": "they will fast.",
+        "id": "Mat.9.15#31",
+        "jezyk": "grc",
+        "i": 30,
+        "leksykon": "to fast"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Καὶ oddane na początku jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "εἶπεν oddane jako „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "αὐτοῖς oddane jako „im”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "μὴ, pytanie „Surely not”, oddane partykułą „Izali” bez osobnego „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "δύνανται oddane jako „mogą”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "οἱ υἱοὶ oddane jako „synowie”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τοῦ νυμφῶνος, „of the bridechamber”, oddane jako „łożnicy małżeńskiej”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "πενθεῖν, bezokolicznik „to mourn”, oddane jako „się smęcić”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "ἐφ᾽ ὅσον, „as long as”, oddane jednym „póki”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "μετ᾽ oddane jako „z”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "αὐτῶν oddane jako „nimi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἐστιν oddane jako „jest”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        17,
+        18
+      ],
+      "uwaga": "ὁ νυμφίος oddane jako „oblubieniec”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "δὲ stoi po ἐλεύσονται, a BG wynosi je na początek zdania jako „Ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "ἐλεύσονται oddane jako „przyjdą”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "ἡμέραι oddane jako „dni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "ὅταν oddane jako „gdy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "ἀπ᾽ oddane jako „od”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "αὐτῶν oddane jako „nich”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        22,
+        24
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "ἀπαρθῇ, strona bierna „may have been taken away”, oddane jako „będzie odjęty”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        26,
+        27
+      ],
+      "uwaga": "ὁ νυμφίος oddane jako „oblubieniec”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        28
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        26
+      ],
+      "zrodlo": [
+        29
+      ],
+      "uwaga": "τότε oddane jako „tedy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        27,
+        28
+      ],
+      "zrodlo": [
+        30
+      ],
+      "uwaga": "νηστεύσουσιν, czas przyszły „they will fast”, oddane jako „pościć będą”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token grecki ma polski odpowiednik. „się smęcić”, „będzie odjęty” i „pościć będą” rozbijają po jednym czasowniku, a „Izali” oddaje pytające μὴ.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "μὴ δύνανται οἱ υἱοὶ τοῦ νυμφῶνος πενθεῖν BG oddaje jako „Izali się mogą synowie łożnicy małżeńskiej smęcić”: μὴ nie ma osobnego „nie”, a τοῦ νυμφῶνος jest „łożnicy małżeńskiej”.",
+      "tokeny_bg": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I řekl jim Ježíš: Zdaliž mohou synové Ženichovi rmoutiti se, dokudž s nimi jest Ženich? Ale přijdou dnové, když bude od nich odjat Ženich, a tehdyť se budou postiti.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

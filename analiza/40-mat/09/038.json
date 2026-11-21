@@ -1,0 +1,362 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.38",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 38
+  },
+  "tekst_bg": "Proście tedy Pana żniwa, aby wypchnął robotniki na żniwo swoje.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Proście"
+    },
+    {
+      "i": 1,
+      "t": "tedy"
+    },
+    {
+      "i": 2,
+      "t": "Pana"
+    },
+    {
+      "i": 3,
+      "t": "żniwa"
+    },
+    {
+      "i": 4,
+      "t": "aby"
+    },
+    {
+      "i": 5,
+      "t": "wypchnął"
+    },
+    {
+      "i": 6,
+      "t": "robotniki"
+    },
+    {
+      "i": 7,
+      "t": "na"
+    },
+    {
+      "i": 8,
+      "t": "żniwo"
+    },
+    {
+      "i": 9,
+      "t": "swoje"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.38",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.38",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "δεήθητε",
+        "lemma": "G1189",
+        "forma": "δέομαι",
+        "morph": "V-AOM-2P",
+        "glosa": "do beseech",
+        "id": "Mat.9.38#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to pray"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "therefore",
+        "id": "Mat.9.38#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.9.38#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κυρίου",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-GSM-T",
+        "glosa": "Lord",
+        "id": "Mat.9.38#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.9.38#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θερισμοῦ",
+        "lemma": "G2326",
+        "forma": "θερισμός",
+        "morph": "N-GSM",
+        "glosa": "harvest",
+        "id": "Mat.9.38#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "harvest"
+      },
+      {
+        "t": "ὅπως",
+        "lemma": "G3704",
+        "forma": "ὅπως",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.9.38#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "that"
+      },
+      {
+        "t": "ἐκβάλῃ",
+        "lemma": "G1544",
+        "forma": "ἐκβάλλω",
+        "morph": "V-2AAS-3S",
+        "glosa": "He may send out",
+        "id": "Mat.9.38#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to expel"
+      },
+      {
+        "t": "ἐργάτας",
+        "lemma": "G2040",
+        "forma": "ἐργάτης",
+        "morph": "N-APM",
+        "glosa": "workmen",
+        "id": "Mat.9.38#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "worker"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.9.38#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.9.38#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θερισμὸν",
+        "lemma": "G2326",
+        "forma": "θερισμός",
+        "morph": "N-ASM",
+        "glosa": "harvest",
+        "id": "Mat.9.38#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "harvest"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him.",
+        "id": "Mat.9.38#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "δεήθητε oddane jako „Proście”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "οὖν stoi po δεήθητε i BG też daje „tedy” po „Proście”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "τοῦ κυρίου oddane jako „Pana”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τοῦ θερισμοῦ oddane jako „żniwa”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὅπως oddane jako „aby”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐκβάλῃ, aoryst coniunctivu „niech wypchnie”, oddane jako „wypchnął”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐργάτας oddane jako „robotniki”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "εἰς oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "τὸν θερισμὸν oddane jako „żniwo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "αὐτοῦ oddane jako „swoje”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajniki są wcielone w rzeczowniki, a ὅπως jest spójnikiem „aby”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "δεήθητε οὖν τοῦ κυρίου τοῦ θερισμοῦ BG oddaje jako „Proście tedy Pana żniwa”, a ὅπως ἐκβάλῃ jako „aby wypchnął”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Protož proste Pána žni, ať vypudí dělníky na žeň svou.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

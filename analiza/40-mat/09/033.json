@@ -1,0 +1,543 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.33",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 33
+  },
+  "tekst_bg": "A gdy był wygnany on dyjabeł, przemówił niemy; i dziwował się lud, mówiąc: Nigdy się taka rzecz niepokazała w Izraelu.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "był"
+    },
+    {
+      "i": 3,
+      "t": "wygnany"
+    },
+    {
+      "i": 4,
+      "t": "on"
+    },
+    {
+      "i": 5,
+      "t": "dyjabeł"
+    },
+    {
+      "i": 6,
+      "t": "przemówił"
+    },
+    {
+      "i": 7,
+      "t": "niemy"
+    },
+    {
+      "i": 8,
+      "t": "i"
+    },
+    {
+      "i": 9,
+      "t": "dziwował"
+    },
+    {
+      "i": 10,
+      "t": "się"
+    },
+    {
+      "i": 11,
+      "t": "lud"
+    },
+    {
+      "i": 12,
+      "t": "mówiąc"
+    },
+    {
+      "i": 13,
+      "t": "Nigdy"
+    },
+    {
+      "i": 14,
+      "t": "się"
+    },
+    {
+      "i": 15,
+      "t": "taka"
+    },
+    {
+      "i": 16,
+      "t": "rzecz"
+    },
+    {
+      "i": 17,
+      "t": "niepokazała"
+    },
+    {
+      "i": 18,
+      "t": "w"
+    },
+    {
+      "i": 19,
+      "t": "Izraelu"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.33",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.33",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.33#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐκβληθέντος",
+        "lemma": "G1544",
+        "forma": "ἐκβάλλω",
+        "morph": "V-APP-GSN",
+        "glosa": "when had been cast out",
+        "id": "Mat.9.33#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to expel"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSN",
+        "glosa": "the",
+        "id": "Mat.9.33#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δαιμονίου",
+        "lemma": "G1140",
+        "forma": "δαιμόνιον",
+        "morph": "N-GSN",
+        "glosa": "demon",
+        "id": "Mat.9.33#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "demon"
+      },
+      {
+        "t": "ἐλάλησεν",
+        "lemma": "G2980",
+        "forma": "λαλέω",
+        "morph": "V-AAI-3S",
+        "glosa": "spoke",
+        "id": "Mat.9.33#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to speak"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.9.33#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κωφός",
+        "lemma": "G2974",
+        "forma": "κωφός",
+        "morph": "A-NSM",
+        "glosa": "mute [man].",
+        "id": "Mat.9.33#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "deaf/mute"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.33#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐθαύμασαν",
+        "lemma": "G2296",
+        "forma": "θαυμάζω",
+        "morph": "V-AAI-3P",
+        "glosa": "marveled",
+        "id": "Mat.9.33#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to marvel"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.9.33#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὄχλοι",
+        "lemma": "G3793",
+        "forma": "ὄχλος",
+        "morph": "N-NPM",
+        "glosa": "crowds",
+        "id": "Mat.9.33#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "crowd"
+      },
+      {
+        "t": "λέγοντες",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NPM",
+        "glosa": "saying",
+        "id": "Mat.9.33#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that:",
+        "id": "Mat.9.33#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "οὐδέποτε",
+        "lemma": "G3763",
+        "forma": "οὐδέποτε",
+        "morph": "ADV-N",
+        "glosa": "Never",
+        "id": "Mat.9.33#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "never"
+      },
+      {
+        "t": "ἐφάνη",
+        "lemma": "G5316",
+        "forma": "φαίνω",
+        "morph": "V-2API-3S",
+        "glosa": "was it seen",
+        "id": "Mat.9.33#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to shine/appear"
+      },
+      {
+        "t": "οὕτως",
+        "lemma": "G3779",
+        "forma": "οὕτω, οὕτως",
+        "morph": "ADV",
+        "glosa": "thus",
+        "id": "Mat.9.33#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "thus(-ly)"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.9.33#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "<the>",
+        "id": "Mat.9.33#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰσραήλ",
+        "lemma": "G2474",
+        "forma": "Ἰσραήλ",
+        "morph": "N-DSM-L",
+        "glosa": "Israel.",
+        "id": "Mat.9.33#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "Israel"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane na początku jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2,
+        3
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐκβληθέντος, imiesłów bierny „wyrzuconego”, rozbity na „gdy był wygnany”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "τοῦ, rodzajnik przy δαιμονίου, oddane jako „on”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "δαιμονίου oddane jako „dyjabeł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐλάλησεν oddane jako „przemówił”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "ὁ κωφός oddane jako „niemy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐθαύμασαν, strona czynna, oddane zwrotnym „dziwował się”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "οἱ ὄχλοι, liczba mnoga „tłumy”, oddane zbiorowym „lud”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "λέγοντες oddane jako „mówiąc”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ὅτι, spójnik przy mowie, nie ma polskiego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "οὐδέποτε oddane jako „Nigdy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        14,
+        17
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ἐφάνη, aoryst bierny „ukazało się”, oddane jako „się … niepokazała”; „nie” w tokenie jest składnią przy „Nigdy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "οὕτως „tak” oddane przymiotnikiem „taka”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [],
+      "uwaga": "„rzecz” dopowiada podmiot przy „niepokazała”. W grece ἐφάνη nie ma rzeczownika.",
+      "uzasadnienie": "ἐφάνη οὕτως nie ma podmiotu „rzecz”. „taka rzecz” stawia go przy bezosobowym „ukazało się tak”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        17,
+        18
+      ],
+      "uwaga": "τῷ Ἰσραήλ oddane jako „Izraelu”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "ὅτι przy λέγοντες nie ma polskiego słowa. „rzecz” jest dopowiedziane i uzasadnione, ale spójnik zostaje opuszczony.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      12
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "λέγοντες ὅτι wprowadza mowę spójnikiem ὅτι. BG ma samo „mówiąc”, bez polskiego odpowiednika ὅτι.",
+      "tokeny_bg": [
+        12
+      ],
+      "tokeny_zrodla": [
+        11,
+        12
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐφάνη οὕτως nie ma rzeczownika. BG dodaje podmiot „rzecz” i oddaje οὕτως jako „taka”.",
+      "tokeny_bg": [
+        15,
+        16,
+        17
+      ],
+      "tokeny_zrodla": [
+        14,
+        15
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A když vyvrhl ďábelství, mluvil jest němý. I divili se zástupové, řkouce: Že nikdy se nic takového neukázalo v lidu Izraelském.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

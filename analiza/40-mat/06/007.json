@@ -1,0 +1,441 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.7",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 7
+  },
+  "tekst_bg": "A modląc się, nie bądźcie wielomówni, jako poganie; albowiem oni mniemają, że dla swojej wielomówności wysłuchani będą.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "modląc"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "nie"
+    },
+    {
+      "i": 4,
+      "t": "bądźcie"
+    },
+    {
+      "i": 5,
+      "t": "wielomówni"
+    },
+    {
+      "i": 6,
+      "t": "jako"
+    },
+    {
+      "i": 7,
+      "t": "poganie"
+    },
+    {
+      "i": 8,
+      "t": "albowiem"
+    },
+    {
+      "i": 9,
+      "t": "oni"
+    },
+    {
+      "i": 10,
+      "t": "mniemają"
+    },
+    {
+      "i": 11,
+      "t": "że"
+    },
+    {
+      "i": 12,
+      "t": "dla"
+    },
+    {
+      "i": 13,
+      "t": "swojej"
+    },
+    {
+      "i": 14,
+      "t": "wielomówności"
+    },
+    {
+      "i": 15,
+      "t": "wysłuchani"
+    },
+    {
+      "i": 16,
+      "t": "będą"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.7",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.7",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "προσευχόμενοι",
+        "lemma": "G4336",
+        "forma": "προσεύχομαι",
+        "morph": "V-PNP-NPM",
+        "glosa": "Praying",
+        "id": "Mat.6.7#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to pray"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.6.7#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.6.7#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "not"
+      },
+      {
+        "t": "βατταλογήσητε",
+        "lemma": "G0945",
+        "forma": "βαττολογέω",
+        "morph": "V-AAS-2P",
+        "glosa": "may use vain repetitions",
+        "id": "Mat.6.7#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to babble"
+      },
+      {
+        "t": "ὥσπερ",
+        "lemma": "G5618",
+        "forma": "ὥσπερ",
+        "morph": "CONJ",
+        "glosa": "like",
+        "id": "Mat.6.7#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "just as"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.6.7#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐθνικοί",
+        "lemma": "G1482",
+        "forma": "ἐθνικός",
+        "morph": "A-NPM",
+        "glosa": "pagans;",
+        "id": "Mat.6.7#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "Gentile-like"
+      },
+      {
+        "t": "δοκοῦσιν",
+        "lemma": "G1380",
+        "forma": "δοκέω",
+        "morph": "V-PAI-3P",
+        "glosa": "they think",
+        "id": "Mat.6.7#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to think"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.6.7#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "for"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.6.7#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.6.7#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.6.7#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πολυλογίᾳ",
+        "lemma": "G4180",
+        "forma": "πολυλογία",
+        "morph": "N-DSF",
+        "glosa": "many words",
+        "id": "Mat.6.7#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "wordiness"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them",
+        "id": "Mat.6.7#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "εἰσακουσθήσονται",
+        "lemma": "G1522",
+        "forma": "εἰσακούω",
+        "morph": "V-FPI-3P",
+        "glosa": "they will be heard.",
+        "id": "Mat.6.7#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to listen to"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po imiesłowie, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "προσευχόμενοι, imiesłów deponens, oddane jako „modląc się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "βατταλογήσητε, „may use vain repetitions”, oddane jako „bądźcie wielomówni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ὥσπερ oddane jako „jako”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "οἱ ἐθνικοί, „pagans”, oddane jako „poganie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "γὰρ oddane jako „albowiem” i przesunięte przed orzeczenie."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "δοκοῦσιν, „they think”, oddane z zaimkiem „oni mniemają”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ὅτι oddane jako „że”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἐν przy πολυλογίᾳ oddane jako „dla”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "αὐτῶν oddane zaimkiem zwrotnym „swojej”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τῇ πολυλογίᾳ, „many words”, oddane jako „wielomówności”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        15,
+        16
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "εἰσακουσθήσονται, czas przyszły strony biernej, oddane jako „wysłuchani będą”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. βατταλογήσητε rozbite jest na „bądźcie wielomówni”, a strona bierna εἰσακουσθήσονται na „wysłuchani będą”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "βατταλογήσητε, „may use vain repetitions”, BG rozbija na „bądźcie wielomówni”, a ἐν τῇ πολυλογίᾳ αὐτῶν na „dla swojej wielomówności”.",
+      "tokeny_bg": [
+        4,
+        5,
+        12,
+        13,
+        14
+      ],
+      "tokeny_zrodla": [
+        3,
+        10,
+        11,
+        12,
+        13
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Modléce se pak, nebuďtež marnomluvní jako pohané; nebo se domnívají, že mnohomluvností svou to způsobí, aby byli uslyšáni.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

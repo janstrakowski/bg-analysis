@@ -1,0 +1,431 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.25",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 25
+  },
+  "tekst_bg": "Ale gdy wygnany był on lud, wszedłszy, ujął ją za rękę jej, i wstała dzieweczka.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "wygnany"
+    },
+    {
+      "i": 3,
+      "t": "był"
+    },
+    {
+      "i": 4,
+      "t": "on"
+    },
+    {
+      "i": 5,
+      "t": "lud"
+    },
+    {
+      "i": 6,
+      "t": "wszedłszy"
+    },
+    {
+      "i": 7,
+      "t": "ujął"
+    },
+    {
+      "i": 8,
+      "t": "ją"
+    },
+    {
+      "i": 9,
+      "t": "za"
+    },
+    {
+      "i": 10,
+      "t": "rękę"
+    },
+    {
+      "i": 11,
+      "t": "jej"
+    },
+    {
+      "i": 12,
+      "t": "i"
+    },
+    {
+      "i": 13,
+      "t": "wstała"
+    },
+    {
+      "i": 14,
+      "t": "dzieweczka"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.25",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.25",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ὅτε",
+        "lemma": "G3753",
+        "forma": "ὅτε",
+        "morph": "CONJ",
+        "glosa": "When",
+        "id": "Mat.9.25#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "when"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.9.25#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐξεβλήθη",
+        "lemma": "G1544",
+        "forma": "ἐκβάλλω",
+        "morph": "V-API-3S",
+        "glosa": "was put outside",
+        "id": "Mat.9.25#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to expel"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.9.25#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὄχλος",
+        "lemma": "G3793",
+        "forma": "ὄχλος",
+        "morph": "N-NSM",
+        "glosa": "crowd,",
+        "id": "Mat.9.25#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "crowd"
+      },
+      {
+        "t": "εἰσελθὼν",
+        "lemma": "G1525",
+        "forma": "εἰσέρχομαι",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having entered",
+        "id": "Mat.9.25#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to enter"
+      },
+      {
+        "t": "ἐκράτησεν",
+        "lemma": "G2902",
+        "forma": "κρατέω",
+        "morph": "V-AAI-3S",
+        "glosa": "He took hold of",
+        "id": "Mat.9.25#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to grasp/seize"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "the",
+        "id": "Mat.9.25#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "χειρὸς",
+        "lemma": "G5495",
+        "forma": "χείρ",
+        "morph": "N-GSF",
+        "glosa": "hand",
+        "id": "Mat.9.25#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "hand"
+      },
+      {
+        "t": "αὐτῆς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSF",
+        "glosa": "of her,",
+        "id": "Mat.9.25#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.25#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἠγέρθη",
+        "lemma": "G1453",
+        "forma": "ἐγείρω",
+        "morph": "V-API-3S",
+        "glosa": "arose",
+        "id": "Mat.9.25#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to arise"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "the",
+        "id": "Mat.9.25#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κοράσιον",
+        "lemma": "G2877",
+        "forma": "κοράσιον",
+        "morph": "N-NSN",
+        "glosa": "girl.",
+        "id": "Mat.9.25#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "girl"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po ὅτε, a BG wynosi je na początek jako „Ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ὅτε oddane jako „gdy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐξεβλήθη, aoryst bierny „wyrzucono”, oddane jako „wygnany był”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὁ, rodzajnik przy ὄχλος, oddane jako „on”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ὄχλος oddane jako „lud”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "εἰσελθὼν oddane jako „wszedłszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐκράτησεν oddane jako „ujął”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [],
+      "uwaga": "„ją” stawia osobę w bierniku. Greckie ἐκράτησεν chwyta dopełniacz ręki, bez osobnego zaimka osoby.",
+      "uzasadnienie": "Polskie „ująć kogoś za rękę” wymaga biernika osoby. W TR osoba jest tylko w αὐτῆς przy χειρός."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τῆς χειρὸς, dopełniacz rzeczy chwytanej, oddane jako „za rękę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "αὐτῆς oddane jako „jej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἠγέρθη, aoryst bierny „wstała”, oddane jako „wstała”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τὸ κοράσιον oddane jako „dzieweczka”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „ją” dopowiada biernik osoby przy „ujął za rękę”, którego TR nie ma obok dopełniacza τῆς χειρός.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐκράτησεν τῆς χειρὸς αὐτῆς nie ma osobnego zaimka osoby. BG dodaje „ją” i oddaje dopełniacz ręki jako „za rękę jej”.",
+      "tokeny_bg": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐξεβλήθη, aoryst bierny, BG oddaje jako „wygnany był”, a rodzajnik ὁ jako „on”.",
+      "tokeny_bg": [
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        2,
+        3
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A když byl vyhnán zástup, všed tam, ujal ji za ruku její; i vstala jest děvečka.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}
