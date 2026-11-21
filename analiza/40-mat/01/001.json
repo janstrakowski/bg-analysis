@@ -1,0 +1,272 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.1.1",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 1,
+    "werset": 1
+  },
+  "tekst_bg": "Księga o rodzie Jezusa Chrystusa, syna Dawidowego, syna Abrahamowego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Księga"
+    },
+    {
+      "i": 1,
+      "t": "o"
+    },
+    {
+      "i": 2,
+      "t": "rodzie"
+    },
+    {
+      "i": 3,
+      "t": "Jezusa"
+    },
+    {
+      "i": 4,
+      "t": "Chrystusa"
+    },
+    {
+      "i": 5,
+      "t": "syna"
+    },
+    {
+      "i": 6,
+      "t": "Dawidowego"
+    },
+    {
+      "i": 7,
+      "t": "syna"
+    },
+    {
+      "i": 8,
+      "t": "Abrahamowego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.1.1",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.1.1",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Βίβλος",
+        "lemma": "G0976",
+        "forma": "βίβλος",
+        "morph": "N-NSF",
+        "glosa": "[The] book",
+        "id": "Mat.1.1#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "book"
+      },
+      {
+        "t": "γενέσεως",
+        "lemma": "G1078",
+        "forma": "γένεσις",
+        "morph": "N-GSF",
+        "glosa": "of [the] genealogy",
+        "id": "Mat.1.1#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "origin"
+      },
+      {
+        "t": "Ἰησοῦ",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-GSM-P",
+        "glosa": "of Jesus",
+        "id": "Mat.1.1#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "Χριστοῦ",
+        "lemma": "G5547",
+        "forma": "Χριστός",
+        "morph": "N-GSM-T",
+        "glosa": "Christ",
+        "id": "Mat.1.1#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Christ"
+      },
+      {
+        "t": "υἱοῦ",
+        "lemma": "G5207",
+        "forma": "υἱός",
+        "morph": "N-GSM",
+        "glosa": "son",
+        "id": "Mat.1.1#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "son"
+      },
+      {
+        "t": "Δαυὶδ",
+        "lemma": "G1138",
+        "forma": "Δαυείδ, Δαυίδ, Δαβίδ",
+        "morph": "N-GSM-P",
+        "glosa": "of David",
+        "id": "Mat.1.1#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "David"
+      },
+      {
+        "t": "υἱοῦ",
+        "lemma": "G5207",
+        "forma": "υἱός",
+        "morph": "N-GSM",
+        "glosa": "son",
+        "id": "Mat.1.1#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "son"
+      },
+      {
+        "t": "Ἀβραάμ",
+        "lemma": "G0011",
+        "forma": "Ἀβραάμ",
+        "morph": "N-GSM-P",
+        "glosa": "of Abraham.",
+        "id": "Mat.1.1#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "Abraham"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Βίβλος oddane jako „Księga”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "γενέσεως, dopełniacz „pochodzenia, rodowodu”, oddane jako „o rodzie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "Ἰησοῦ oddane jako „Jezusa”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "Χριστοῦ oddane jako „Chrystusa”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "υἱοῦ oddane jako „syna”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Δαυὶδ w dopełniaczu oddane przymiotnikiem „Dawidowego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "Drugie υἱοῦ oddane jako „syna”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "Ἀβραάμ oddane przymiotnikiem „Abrahamowego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. „o rodzie” rozbija jeden dopełniacz, a przymiotniki „Dawidowego” i „Abrahamowego” niosą dopełniacz imienia.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Βίβλος γενέσεως nie ma rodzajnika. BG oddaje to jako „Księga o rodzie”, bez dodanego „ta” albo „ona”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2
+      ],
+      "tokeny_zrodla": [
+        0,
+        1
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Kniha (o) rodu Ježíše Krista syna Davidova, syna Abrahamova.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

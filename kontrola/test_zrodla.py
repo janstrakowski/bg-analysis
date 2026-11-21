@@ -49,6 +49,19 @@ def test_comma_jest_w_textus_receptus(zrodla):
     assert all(token["jezyk"] == "grc" for token in paczka["zrodlo"]["tokeny"])
 
 
+def test_mateusz_bierze_wariant_textus_receptus(zrodla):
+    paczka = zbuduj(zrodla, "40-mat", 1, 18)
+    lematy = [token["lemma"] for token in paczka["zrodlo"]["tokeny"]]
+    powierzchnia = [token["t"] for token in paczka["zrodlo"]["tokeny"]]
+    assert "G1083" in lematy
+    assert "G1078" not in lematy
+    assert "γέννησις" in powierzchnia
+    niebo = zbuduj(zrodla, "40-mat", 5, 48)
+    slowa = [token["t"] for token in niebo["zrodlo"]["tokeny"]]
+    assert ["ἐν", "τοῖς", "οὐρανοῖς"] == slowa[slowa.index("ἐν") : slowa.index("ἐν") + 3]
+    assert "οὐράνιος" not in slowa
+
+
 def test_brzeskiej_jeszcze_nie_ma(zrodla):
     paralela = next(pozycja for pozycja in zbuduj(zrodla, "01-gen", 1, 1)["paralele"] if pozycja["id"] == "brz")
     assert paralela["dostepny"] is False
