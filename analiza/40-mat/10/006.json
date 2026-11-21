@@ -1,0 +1,332 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.6",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 6
+  },
+  "tekst_bg": "Ale raczej idźcie do owiec, które zginęły z domu Izraelskiego;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "raczej"
+    },
+    {
+      "i": 2,
+      "t": "idźcie"
+    },
+    {
+      "i": 3,
+      "t": "do"
+    },
+    {
+      "i": 4,
+      "t": "owiec"
+    },
+    {
+      "i": 5,
+      "t": "które"
+    },
+    {
+      "i": 6,
+      "t": "zginęły"
+    },
+    {
+      "i": 7,
+      "t": "z"
+    },
+    {
+      "i": 8,
+      "t": "domu"
+    },
+    {
+      "i": 9,
+      "t": "Izraelskiego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.6",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.6",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "πορεύεσθε",
+        "lemma": "G4198",
+        "forma": "πορεύω",
+        "morph": "V-PNM-2P",
+        "glosa": "do go",
+        "id": "Mat.10.6#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to travel"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.10.6#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "μᾶλλον",
+        "lemma": "G3123H",
+        "forma": "μᾶλλον",
+        "morph": "ADV",
+        "glosa": "rather",
+        "id": "Mat.10.6#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "more: rather"
+      },
+      {
+        "t": "πρὸς",
+        "lemma": "G4314",
+        "forma": "πρός",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.10.6#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to/with"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APN",
+        "glosa": "those",
+        "id": "Mat.10.6#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πρόβατα",
+        "lemma": "G4263",
+        "forma": "πρόβατον",
+        "morph": "N-APN",
+        "glosa": "sheep",
+        "id": "Mat.10.6#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "sheep"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APN",
+        "glosa": "the",
+        "id": "Mat.10.6#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀπολωλότα",
+        "lemma": "G0622",
+        "forma": "ἀπολλύω",
+        "morph": "V-2RAP-APN",
+        "glosa": "already perishing",
+        "id": "Mat.10.6#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to destroy"
+      },
+      {
+        "t": "οἴκου",
+        "lemma": "G3624H",
+        "forma": "οἶκος",
+        "morph": "N-GSM",
+        "glosa": "of [the] house",
+        "id": "Mat.10.6#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "house: household"
+      },
+      {
+        "t": "Ἰσραήλ",
+        "lemma": "G2474",
+        "forma": "Ἰσραήλ",
+        "morph": "N-GSM-L",
+        "glosa": "of Israel.",
+        "id": "Mat.10.6#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "Israel"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po czasowniku, a BG wynosi je na początek jako „Ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "μᾶλλον oddane jako „raczej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "πορεύεσθε oddane jako „idźcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "πρὸς oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τὰ πρόβατα oddane jako „owiec”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [],
+      "uwaga": "„które” otwiera zdanie względne przy τὰ ἀπολωλότα. W grece nie ma zaimka ὅς.",
+      "uzasadnienie": "Drugie τὰ przy imiesłowie ἀπολωλότα nie jest zaimkiem względnym. „które” buduje polskie zdanie o tych samych owcach."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τὰ ἀπολωλότα, imiesłów „zginione”, oddane jako „zginęły”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        7,
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "οἴκου, dopełniacz przynależności, oddany jako „z domu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "Ἰσραήλ oddane przymiotnikiem „Izraelskiego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "„które” rozwija drugie τὰ przy ἀπολωλότα. Dopełniacz οἴκου jest „z domu” jako przynależność owcy do domu Izraela; w wersecie nie ma ἀπό ani ἐκ. Polecenie zostaje to samo.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πορεύεσθε δὲ μᾶλλον πρὸς τὰ πρόβατα BG oddaje jako „Ale raczej idźcie do owiec”, z δέ wyniesionym na początek.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τὰ ἀπολωλότα οἴκου Ἰσραήλ BG oddaje jako „które zginęły z domu Izraelskiego”: „z” niesie dopełniacz οἴκου, a „które” otwiera zdanie względne.",
+      "tokeny_bg": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ale raději jděte k ovcem zahynulým z domu Izraelského.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

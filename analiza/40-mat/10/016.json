@@ -1,0 +1,540 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.16",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 16
+  },
+  "tekst_bg": "Oto Ja was posyłam jako owce między wilki; bądźcież tedy roztropnymi jako węże, a szczerymi jako gołębice,",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Oto"
+    },
+    {
+      "i": 1,
+      "t": "Ja"
+    },
+    {
+      "i": 2,
+      "t": "was"
+    },
+    {
+      "i": 3,
+      "t": "posyłam"
+    },
+    {
+      "i": 4,
+      "t": "jako"
+    },
+    {
+      "i": 5,
+      "t": "owce"
+    },
+    {
+      "i": 6,
+      "t": "między"
+    },
+    {
+      "i": 7,
+      "t": "wilki"
+    },
+    {
+      "i": 8,
+      "t": "bądźcież"
+    },
+    {
+      "i": 9,
+      "t": "tedy"
+    },
+    {
+      "i": 10,
+      "t": "roztropnymi"
+    },
+    {
+      "i": 11,
+      "t": "jako"
+    },
+    {
+      "i": 12,
+      "t": "węże"
+    },
+    {
+      "i": 13,
+      "t": "a"
+    },
+    {
+      "i": 14,
+      "t": "szczerymi"
+    },
+    {
+      "i": 15,
+      "t": "jako"
+    },
+    {
+      "i": 16,
+      "t": "gołębice"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.16",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.16",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "Behold",
+        "id": "Mat.10.16#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "look!"
+      },
+      {
+        "t": "ἐγὼ",
+        "lemma": "G1473",
+        "forma": "ἐγώ",
+        "morph": "P-1NS",
+        "glosa": "I myself",
+        "id": "Mat.10.16#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "ἀποστέλλω",
+        "lemma": "G0649",
+        "forma": "ἀποστέλλω",
+        "morph": "V-PAI-1S",
+        "glosa": "send forth",
+        "id": "Mat.10.16#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to send"
+      },
+      {
+        "t": "ὑμᾶς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2AP",
+        "glosa": "you",
+        "id": "Mat.10.16#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὡς",
+        "lemma": "G5613",
+        "forma": "ὡς",
+        "morph": "PRT",
+        "glosa": "as",
+        "id": "Mat.10.16#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "as/when"
+      },
+      {
+        "t": "πρόβατα",
+        "lemma": "G4263",
+        "forma": "πρόβατον",
+        "morph": "N-APN",
+        "glosa": "sheep",
+        "id": "Mat.10.16#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "sheep"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.10.16#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "μέσῳ",
+        "lemma": "G3319",
+        "forma": "μέσος",
+        "morph": "A-DSN",
+        "glosa": "[the] midst",
+        "id": "Mat.10.16#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "midst"
+      },
+      {
+        "t": "λύκων",
+        "lemma": "G3074",
+        "forma": "λύκος",
+        "morph": "N-GPM",
+        "glosa": "of wolves;",
+        "id": "Mat.10.16#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "wolf"
+      },
+      {
+        "t": "γίνεσθε",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-PNM-2P",
+        "glosa": "do be",
+        "id": "Mat.10.16#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to be"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "therefore",
+        "id": "Mat.10.16#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "φρόνιμοι",
+        "lemma": "G5429",
+        "forma": "φρόνιμος",
+        "morph": "A-NPM",
+        "glosa": "shrewd",
+        "id": "Mat.10.16#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "thoughtful"
+      },
+      {
+        "t": "ὡς",
+        "lemma": "G5613",
+        "forma": "ὡς",
+        "morph": "PRT",
+        "glosa": "as",
+        "id": "Mat.10.16#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "as/when"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.10.16#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὄφεις",
+        "lemma": "G3789",
+        "forma": "ὄφις",
+        "morph": "N-NPM",
+        "glosa": "serpents",
+        "id": "Mat.10.16#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "snake"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.16#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀκέραιοι",
+        "lemma": "G0185",
+        "forma": "ἀκέραιος",
+        "morph": "A-NPM",
+        "glosa": "innocent",
+        "id": "Mat.10.16#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "innocent"
+      },
+      {
+        "t": "ὡς",
+        "lemma": "G5613",
+        "forma": "ὡς",
+        "morph": "PRT",
+        "glosa": "as",
+        "id": "Mat.10.16#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "as/when"
+      },
+      {
+        "t": "αἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPF",
+        "glosa": "the",
+        "id": "Mat.10.16#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "περιστεραί",
+        "lemma": "G4058",
+        "forma": "περιστερά",
+        "morph": "N-NPF",
+        "glosa": "doves.",
+        "id": "Mat.10.16#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "dove"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἰδοὺ oddane jako „Oto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐγὼ oddane jako „Ja”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὑμᾶς oddane jako „was”; zaimek stoi przed czasownikiem."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἀποστέλλω oddane jako „posyłam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ὡς oddane jako „jako”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "πρόβατα oddane jako „owce”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "ἐν μέσῳ oddane jako „między”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "λύκων oddane jako „wilki”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "γίνεσθε oddane jako „bądźcież”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "οὖν oddane jako „tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "φρόνιμοι oddane jako „roztropnymi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ὡς oddane jako „jako”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "οἱ ὄφεις oddane jako „węże”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἀκέραιοι, w glosie „innocent”, oddane jako „szczerymi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ὡς oddane jako „jako”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "αἱ περιστεραί oddane jako „gołębice”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Posłanie między wilki oraz wezwanie, by być roztropnymi jak węże i szczerymi jak gołębice, jest pokryte. ἐν μέσῳ schodzi się w „między”, a rodzajniki wchodzą w rzeczowniki.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἰδοὺ ἐγὼ ἀποστέλλω ὑμᾶς ὡς πρόβατα ἐν μέσῳ λύκων BG oddaje jako „Oto Ja was posyłam jako owce między wilki”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Aj, já posílám vás jako ovce mezi vlky; protož buďte opatrní jako hadové, a sprostní jako holubice.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

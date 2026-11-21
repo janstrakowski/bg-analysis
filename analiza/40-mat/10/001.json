@@ -1,0 +1,612 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.1",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 1
+  },
+  "tekst_bg": "A zwoławszy dwunastu uczniów swoich, dał im moc nad duchy nieczystymi, aby je wyganiali, i aby uzdrawiali wszelką chorobę, i wszelką niemoc.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "zwoławszy"
+    },
+    {
+      "i": 2,
+      "t": "dwunastu"
+    },
+    {
+      "i": 3,
+      "t": "uczniów"
+    },
+    {
+      "i": 4,
+      "t": "swoich"
+    },
+    {
+      "i": 5,
+      "t": "dał"
+    },
+    {
+      "i": 6,
+      "t": "im"
+    },
+    {
+      "i": 7,
+      "t": "moc"
+    },
+    {
+      "i": 8,
+      "t": "nad"
+    },
+    {
+      "i": 9,
+      "t": "duchy"
+    },
+    {
+      "i": 10,
+      "t": "nieczystymi"
+    },
+    {
+      "i": 11,
+      "t": "aby"
+    },
+    {
+      "i": 12,
+      "t": "je"
+    },
+    {
+      "i": 13,
+      "t": "wyganiali"
+    },
+    {
+      "i": 14,
+      "t": "i"
+    },
+    {
+      "i": 15,
+      "t": "aby"
+    },
+    {
+      "i": 16,
+      "t": "uzdrawiali"
+    },
+    {
+      "i": 17,
+      "t": "wszelką"
+    },
+    {
+      "i": 18,
+      "t": "chorobę"
+    },
+    {
+      "i": 19,
+      "t": "i"
+    },
+    {
+      "i": 20,
+      "t": "wszelką"
+    },
+    {
+      "i": 21,
+      "t": "niemoc"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.1",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.1",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.10.1#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "προσκαλεσάμενος",
+        "lemma": "G4341",
+        "forma": "προσκαλέω",
+        "morph": "V-ADP-NSM",
+        "glosa": "having summoned",
+        "id": "Mat.10.1#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to call to/summon"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.10.1#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δώδεκα",
+        "lemma": "G1427",
+        "forma": "δώδεκα",
+        "morph": "A-NUI",
+        "glosa": "twelve",
+        "id": "Mat.10.1#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "twelve"
+      },
+      {
+        "t": "μαθητὰς",
+        "lemma": "G3101",
+        "forma": "μαθητής",
+        "morph": "N-APM",
+        "glosa": "disciples",
+        "id": "Mat.10.1#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "disciple"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him",
+        "id": "Mat.10.1#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἔδωκεν",
+        "lemma": "G1325",
+        "forma": "δίδωμι",
+        "morph": "V-AAI-3S",
+        "glosa": "He gave",
+        "id": "Mat.10.1#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to give"
+      },
+      {
+        "t": "αὐτοῖς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DPM",
+        "glosa": "to them",
+        "id": "Mat.10.1#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐξουσίαν",
+        "lemma": "G1849",
+        "forma": "ἐξουσία",
+        "morph": "N-ASF",
+        "glosa": "authority",
+        "id": "Mat.10.1#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "authority"
+      },
+      {
+        "t": "πνευμάτων",
+        "lemma": "G4151G",
+        "forma": "πνεῦμα",
+        "morph": "N-GPN",
+        "glosa": "over spirits",
+        "id": "Mat.10.1#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "spirit/breath: spirit"
+      },
+      {
+        "t": "ἀκαθάρτων",
+        "lemma": "G0169",
+        "forma": "ἀκάθαρτος",
+        "morph": "A-GPN",
+        "glosa": "unclean",
+        "id": "Mat.10.1#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "unclean"
+      },
+      {
+        "t": "ὥστε",
+        "lemma": "G5620",
+        "forma": "ὥστε",
+        "morph": "CONJ",
+        "glosa": "so as",
+        "id": "Mat.10.1#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "so"
+      },
+      {
+        "t": "ἐκβάλλειν",
+        "lemma": "G1544",
+        "forma": "ἐκβάλλω",
+        "morph": "V-PAN",
+        "glosa": "to cast out",
+        "id": "Mat.10.1#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to expel"
+      },
+      {
+        "t": "αὐτὰ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-APN",
+        "glosa": "them",
+        "id": "Mat.10.1#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.1#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "and"
+      },
+      {
+        "t": "θεραπεύειν",
+        "lemma": "G2323",
+        "forma": "θεραπεύω",
+        "morph": "V-PAN",
+        "glosa": "to heal",
+        "id": "Mat.10.1#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to serve/heal"
+      },
+      {
+        "t": "πᾶσαν",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-ASF",
+        "glosa": "every",
+        "id": "Mat.10.1#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "all"
+      },
+      {
+        "t": "νόσον",
+        "lemma": "G3554",
+        "forma": "νόσος",
+        "morph": "N-ASF",
+        "glosa": "disease",
+        "id": "Mat.10.1#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "illness"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.1#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "and"
+      },
+      {
+        "t": "πᾶσαν",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-ASF",
+        "glosa": "every",
+        "id": "Mat.10.1#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "all"
+      },
+      {
+        "t": "μαλακίαν",
+        "lemma": "G3119",
+        "forma": "μαλακία",
+        "morph": "N-ASF",
+        "glosa": "sickness.",
+        "id": "Mat.10.1#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "sickness"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "προσκαλεσάμενος, imiesłów „zwoławszy”, oddany jako „zwoławszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "δώδεκα oddane jako „dwunastu”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2,
+        4
+      ],
+      "uwaga": "τοὺς μαθητὰς oddane jako „uczniów”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "αὐτοῦ oddane jako „swoich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἔδωκεν oddane jako „dał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "αὐτοῖς oddane jako „im”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐξουσίαν oddane jako „moc”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "πνευμάτων, dopełniacz przy „moc”, oddany jako „nad duchy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἀκαθάρτων oddane jako „nieczystymi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ὥστε oddane jako „aby”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἐκβάλλειν oddane jako „wyganiali”; zaimek stoi po polsku wcześniej."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "αὐτὰ oddane jako „je”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [],
+      "uwaga": "Drugie „aby” jest kursywą w 1632. Jedno ὥστε obejmuje i ἐκβάλλειν, i θεραπεύειν."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "θεραπεύειν oddane jako „uzdrawiali”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "πᾶσαν oddane jako „wszelką”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "νόσον oddane jako „chorobę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "πᾶσαν oddane jako „wszelką”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "μαλακίαν oddane jako „niemoc”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Jedno ὥστε łączy oba bezokoliczniki, a drugie „aby” przed „uzdrawiali” jest kursywą 1632. Dopełniacz πνευμάτων rozbija się na „nad duchy”. Sens polecenia zostaje ten sam.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὥστε stoi raz przed ἐκβάλλειν i θεραπεύειν. BG powtarza „aby” przed „uzdrawiali”, i to drugie „aby” jest kursywą w 1632.",
+      "tokeny_bg": [
+        11,
+        15,
+        16
+      ],
+      "tokeny_zrodla": [
+        11,
+        12,
+        15
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐξουσίαν πνευμάτων ἀκαθάρτων BG oddaje jako „moc nad duchy nieczystymi”: „nad” niesie dopełniacz władzy, nie osobny przyimek grecki.",
+      "tokeny_bg": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A svolav k sobě dvanácte učedlníků svých, dal jim moc nad duchy nečistými, aby je vymítali, a aby uzdravovali všelikou nemoc, i všeliký neduh.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

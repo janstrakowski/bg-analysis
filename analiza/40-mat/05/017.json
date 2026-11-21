@@ -1,0 +1,407 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.17",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 17
+  },
+  "tekst_bg": "Nie mniemajcie, abym przyszedł rozwiązywać zakon albo proroki; nie przyszedłem rozwiązywać, ale wypełnić.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Nie"
+    },
+    {
+      "i": 1,
+      "t": "mniemajcie"
+    },
+    {
+      "i": 2,
+      "t": "abym"
+    },
+    {
+      "i": 3,
+      "t": "przyszedł"
+    },
+    {
+      "i": 4,
+      "t": "rozwiązywać"
+    },
+    {
+      "i": 5,
+      "t": "zakon"
+    },
+    {
+      "i": 6,
+      "t": "albo"
+    },
+    {
+      "i": 7,
+      "t": "proroki"
+    },
+    {
+      "i": 8,
+      "t": "nie"
+    },
+    {
+      "i": 9,
+      "t": "przyszedłem"
+    },
+    {
+      "i": 10,
+      "t": "rozwiązywać"
+    },
+    {
+      "i": 11,
+      "t": "ale"
+    },
+    {
+      "i": 12,
+      "t": "wypełnić"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.17",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.17",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.5.17#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "not"
+      },
+      {
+        "t": "νομίσητε",
+        "lemma": "G3543",
+        "forma": "νομίζω",
+        "morph": "V-AAS-2P",
+        "glosa": "may think",
+        "id": "Mat.5.17#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to think"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.5.17#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "ἦλθον",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAI-1S",
+        "glosa": "I have come",
+        "id": "Mat.5.17#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "καταλῦσαι",
+        "lemma": "G2647",
+        "forma": "καταλύω",
+        "morph": "V-AAN",
+        "glosa": "to abolish",
+        "id": "Mat.5.17#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to destroy/lodge"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.5.17#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "νόμον",
+        "lemma": "G3551",
+        "forma": "νόμος",
+        "morph": "N-ASM",
+        "glosa": "law",
+        "id": "Mat.5.17#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "law"
+      },
+      {
+        "t": "ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "or",
+        "id": "Mat.5.17#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "or"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.5.17#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "προφήτας",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-APM",
+        "glosa": "Prophets;",
+        "id": "Mat.5.17#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "prophet"
+      },
+      {
+        "t": "οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.5.17#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "no"
+      },
+      {
+        "t": "ἦλθον",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAI-1S",
+        "glosa": "I have come",
+        "id": "Mat.5.17#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "καταλῦσαι",
+        "lemma": "G2647",
+        "forma": "καταλύω",
+        "morph": "V-AAN",
+        "glosa": "to abolish",
+        "id": "Mat.5.17#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to destroy/lodge"
+      },
+      {
+        "t": "ἀλλὰ",
+        "lemma": "G0235",
+        "forma": "ἀλλά",
+        "morph": "CONJ",
+        "glosa": "but",
+        "id": "Mat.5.17#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "but"
+      },
+      {
+        "t": "πληρῶσαι",
+        "lemma": "G4137",
+        "forma": "πληρόω",
+        "morph": "V-AAN",
+        "glosa": "to fulfill.",
+        "id": "Mat.5.17#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to fulfill"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Μὴ oddane jako „Nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "νομίσητε, coniunctivus zakazu, oddane jako „mniemajcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ὅτι ἦλθον oddane jako „abym przyszedł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "καταλῦσαι, glosa „to abolish”, oddane jako „rozwiązywać”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τὸν νόμον oddane jako „zakon”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἢ oddane jako „albo”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τοὺς προφήτας oddane jako „proroki”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "οὐκ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "Drugie ἦλθον oddane jako „przyszedłem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "Drugie καταλῦσαι oddane jako „rozwiązywać”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἀλλὰ oddane jako „ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "πληρῶσαι oddane jako „wypełnić”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token ma odpowiednik. ὅτι ἦλθον oddane zwrotem „abym przyszedł”, a rodzajniki weszły w „zakon” i „proroki”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "καταλῦσαι ma glosę „to abolish”, a BG w obu miejscach daje „rozwiązywać”.",
+      "tokeny_bg": [
+        4,
+        10
+      ],
+      "tokeny_zrodla": [
+        4,
+        12
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nedomnívejte se, že bych přišel rušiti Zákon anebo Proroky. Nepřišelť jsem rušiti, ale naplniti.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

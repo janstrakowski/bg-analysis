@@ -1,0 +1,468 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.15",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 15
+  },
+  "tekst_bg": "Zaprawdę wam powiadam: Lżej będzie ziemi Sodomskiej i Gomorskiej w dzień sądny, niżeli miastu onemu.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Zaprawdę"
+    },
+    {
+      "i": 1,
+      "t": "wam"
+    },
+    {
+      "i": 2,
+      "t": "powiadam"
+    },
+    {
+      "i": 3,
+      "t": "Lżej"
+    },
+    {
+      "i": 4,
+      "t": "będzie"
+    },
+    {
+      "i": 5,
+      "t": "ziemi"
+    },
+    {
+      "i": 6,
+      "t": "Sodomskiej"
+    },
+    {
+      "i": 7,
+      "t": "i"
+    },
+    {
+      "i": 8,
+      "t": "Gomorskiej"
+    },
+    {
+      "i": 9,
+      "t": "w"
+    },
+    {
+      "i": 10,
+      "t": "dzień"
+    },
+    {
+      "i": 11,
+      "t": "sądny"
+    },
+    {
+      "i": 12,
+      "t": "niżeli"
+    },
+    {
+      "i": 13,
+      "t": "miastu"
+    },
+    {
+      "i": 14,
+      "t": "onemu"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.15",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.15",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἀμὴν",
+        "lemma": "G0281",
+        "forma": "ἀμήν",
+        "morph": "INJ-HEB",
+        "glosa": "Amen",
+        "id": "Mat.10.15#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "amen"
+      },
+      {
+        "t": "λέγω",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-1S",
+        "glosa": "I say",
+        "id": "Mat.10.15#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you;",
+        "id": "Mat.10.15#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἀνεκτότερον",
+        "lemma": "G0414",
+        "forma": "ἀνεκτός",
+        "morph": "A-NSN-C",
+        "glosa": "More tolerable",
+        "id": "Mat.10.15#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "bearable"
+      },
+      {
+        "t": "ἔσται",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-FDI-3S",
+        "glosa": "it will be",
+        "id": "Mat.10.15#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to be"
+      },
+      {
+        "t": "γῇ",
+        "lemma": "G1093H",
+        "forma": "γῆ",
+        "morph": "N-DSF",
+        "glosa": "for [the] land",
+        "id": "Mat.10.15#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "earth: country"
+      },
+      {
+        "t": "Σοδόμων",
+        "lemma": "G4670",
+        "forma": "Σόδομα",
+        "morph": "N-GPN-L",
+        "glosa": "of Sodom",
+        "id": "Mat.10.15#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "Sodom"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.15#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "Γομόρρων",
+        "lemma": "G1116",
+        "forma": "Γόμορρα",
+        "morph": "N-GPN-L",
+        "glosa": "of Gomorrah",
+        "id": "Mat.10.15#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "Gomorrah"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "on",
+        "id": "Mat.10.15#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ἡμέρᾳ",
+        "lemma": "G2250",
+        "forma": "ἡμέρα",
+        "morph": "N-DSF",
+        "glosa": "day",
+        "id": "Mat.10.15#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "day"
+      },
+      {
+        "t": "κρίσεως",
+        "lemma": "G2920",
+        "forma": "κρίσις",
+        "morph": "N-GSF",
+        "glosa": "of judgment",
+        "id": "Mat.10.15#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "judgment"
+      },
+      {
+        "t": "ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "than",
+        "id": "Mat.10.15#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "or"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.10.15#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πόλει",
+        "lemma": "G4172",
+        "forma": "πόλις",
+        "morph": "N-DSF",
+        "glosa": "city",
+        "id": "Mat.10.15#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "city"
+      },
+      {
+        "t": "ἐκείνῃ",
+        "lemma": "G1565",
+        "forma": "ἐκεῖνος",
+        "morph": "D-DSF",
+        "glosa": "for that.",
+        "id": "Mat.10.15#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "that"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἀμὴν oddane jako „Zaprawdę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”; zaimek stoi przed czasownikiem."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "λέγω oddane jako „powiadam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀνεκτότερον, w glosie „More tolerable”, oddane jako „Lżej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἔσται oddane jako „będzie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "γῇ oddane jako „ziemi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "Σοδόμων oddane przymiotnikiem „Sodomskiej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Γομόρρων oddane przymiotnikiem „Gomorskiej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἡμέρᾳ oddane jako „dzień”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "κρίσεως oddane przymiotnikiem „sądny”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἢ oddane jako „niżeli”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τῇ πόλει oddane jako „miastu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἐκείνῃ oddane jako „onemu”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Porównanie lżejszego losu ziemi Sodomy i Gomory z miastem onym jest pokryte. Rodzajnik przy πόλει wchodzi w „miastu”, a nazwy są przymiotnikami.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀνεκτότερον ἔσται γῇ Σοδόμων καὶ Γομόρρων ... ἢ τῇ πόλει ἐκείνῃ BG oddaje jako „Lżej będzie ziemi Sodomskiej i Gomorskiej ... niżeli miastu onemu”.",
+      "tokeny_bg": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        12,
+        13,
+        14
+      ],
+      "tokeny_zrodla": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        12,
+        13,
+        14,
+        15
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Amen pravím vám: Lehčeji bude zemi Sodomských a Gomorských v den soudný nežli městu tomu.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

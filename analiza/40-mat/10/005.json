@@ -1,0 +1,574 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.5",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 5
+  },
+  "tekst_bg": "Tych dwunastu posłał Jezus, rozkazując im i mówiąc: Na drogę poganów nie zachodźcie, i do miasta Samarytańczyków nie wchodźcie;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tych"
+    },
+    {
+      "i": 1,
+      "t": "dwunastu"
+    },
+    {
+      "i": 2,
+      "t": "posłał"
+    },
+    {
+      "i": 3,
+      "t": "Jezus"
+    },
+    {
+      "i": 4,
+      "t": "rozkazując"
+    },
+    {
+      "i": 5,
+      "t": "im"
+    },
+    {
+      "i": 6,
+      "t": "i"
+    },
+    {
+      "i": 7,
+      "t": "mówiąc"
+    },
+    {
+      "i": 8,
+      "t": "Na"
+    },
+    {
+      "i": 9,
+      "t": "drogę"
+    },
+    {
+      "i": 10,
+      "t": "poganów"
+    },
+    {
+      "i": 11,
+      "t": "nie"
+    },
+    {
+      "i": 12,
+      "t": "zachodźcie"
+    },
+    {
+      "i": 13,
+      "t": "i"
+    },
+    {
+      "i": 14,
+      "t": "do"
+    },
+    {
+      "i": 15,
+      "t": "miasta"
+    },
+    {
+      "i": 16,
+      "t": "Samarytańczyków"
+    },
+    {
+      "i": 17,
+      "t": "nie"
+    },
+    {
+      "i": 18,
+      "t": "wchodźcie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.5",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.5",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Τούτους",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-APM",
+        "glosa": "These",
+        "id": "Mat.10.5#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "<the>",
+        "id": "Mat.10.5#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δώδεκα",
+        "lemma": "G1427",
+        "forma": "δώδεκα",
+        "morph": "A-NUI",
+        "glosa": "twelve",
+        "id": "Mat.10.5#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "twelve"
+      },
+      {
+        "t": "ἀπέστειλεν",
+        "lemma": "G0649",
+        "forma": "ἀποστέλλω",
+        "morph": "V-AAI-3S",
+        "glosa": "sent forth",
+        "id": "Mat.10.5#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to send"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.10.5#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.10.5#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "παραγγείλας",
+        "lemma": "G3853",
+        "forma": "παραγγέλλω",
+        "morph": "V-AAP-NSM",
+        "glosa": "having instructed",
+        "id": "Mat.10.5#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to order"
+      },
+      {
+        "t": "αὐτοῖς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DPM",
+        "glosa": "them",
+        "id": "Mat.10.5#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "λέγων",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NSM",
+        "glosa": "saying;",
+        "id": "Mat.10.5#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to say"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "Into",
+        "id": "Mat.10.5#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "toward"
+      },
+      {
+        "t": "ὁδὸν",
+        "lemma": "G3598",
+        "forma": "ὁδός",
+        "morph": "N-ASF",
+        "glosa": "[the] way",
+        "id": "Mat.10.5#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "road"
+      },
+      {
+        "t": "ἐθνῶν",
+        "lemma": "G1484",
+        "forma": "ἔθνος",
+        "morph": "N-GPN",
+        "glosa": "of the Gentiles",
+        "id": "Mat.10.5#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "Gentiles"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.10.5#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "not"
+      },
+      {
+        "t": "ἀπέλθητε",
+        "lemma": "G0565",
+        "forma": "ἀπέρχομαι",
+        "morph": "V-2AAS-2P",
+        "glosa": "shall go off",
+        "id": "Mat.10.5#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to go away"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.5#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "and"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.10.5#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "toward"
+      },
+      {
+        "t": "πόλιν",
+        "lemma": "G4172",
+        "forma": "πόλις",
+        "morph": "N-ASF",
+        "glosa": "any city",
+        "id": "Mat.10.5#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "city"
+      },
+      {
+        "t": "Σαμαριτῶν",
+        "lemma": "G4541",
+        "forma": "Σαμαρείτης",
+        "morph": "N-GPM-LG",
+        "glosa": "of [the] Samaritans",
+        "id": "Mat.10.5#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "Samaritan"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.10.5#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "not"
+      },
+      {
+        "t": "εἰσέλθητε",
+        "lemma": "G1525",
+        "forma": "εἰσέρχομαι",
+        "morph": "V-2AAS-2P",
+        "glosa": "shall enter;",
+        "id": "Mat.10.5#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "to enter"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Τούτους oddane jako „Tych”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1,
+        2
+      ],
+      "uwaga": "τοὺς δώδεκα oddane jako „dwunastu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀπέστειλεν oddane jako „posłał”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "παραγγείλας, imiesłów aorystu, oddany jako „rozkazując”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "αὐτοῖς oddane jako „im”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [],
+      "uwaga": "„i” stoi między παραγγείλας a λέγων. W grece te imiesłowy nie mają spójnika.",
+      "uzasadnienie": "Dwa imiesłowy παραγγείλας i λέγων stoją obok siebie bez spójnika. „i” tylko je łączy i nie dodaje trzeciego rozkazu."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "λέγων oddane jako „mówiąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "εἰς oddane jako „Na”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ὁδὸν oddane jako „drogę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἐθνῶν oddane jako „poganów”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἀπέλθητε oddane jako „zachodźcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "πόλιν oddane jako „miasta”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "Σαμαριτῶν oddane jako „Samarytańczyków”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "εἰσέλθητε oddane jako „wchodźcie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "„i” między „rozkazując” a „mówiąc” spina dwa imiesłowy, które w TR stoją bez spójnika. Zakaz drogi pogan i miasta Samarytan jest pokryty.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Τούτους τοὺς δώδεκα ἀπέστειλεν ὁ Ἰησοῦς BG oddaje jako „Tych dwunastu posłał Jezus”, z rodzajnikami wcielonymi w „dwunastu” i „Jezus”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "παραγγείλας αὐτοῖς λέγων nie ma spójnika. BG wstawia „i” między „rozkazując im” a „mówiąc”.",
+      "tokeny_bg": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Těch dvanácte poslal Ježíš, přikazuje jim, řka: Na cestu pohanů nechoďte, a do měst Samaritánských nevcházejte.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.1",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 1
+  },
+  "tekst_bg": "A Jezus widząc lud, wstąpił na górę; a gdy usiadł, przystąpili do niego uczniowie jego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "Jezus"
+    },
+    {
+      "i": 2,
+      "t": "widząc"
+    },
+    {
+      "i": 3,
+      "t": "lud"
+    },
+    {
+      "i": 4,
+      "t": "wstąpił"
+    },
+    {
+      "i": 5,
+      "t": "na"
+    },
+    {
+      "i": 6,
+      "t": "górę"
+    },
+    {
+      "i": 7,
+      "t": "a"
+    },
+    {
+      "i": 8,
+      "t": "gdy"
+    },
+    {
+      "i": 9,
+      "t": "usiadł"
+    },
+    {
+      "i": 10,
+      "t": "przystąpili"
+    },
+    {
+      "i": 11,
+      "t": "do"
+    },
+    {
+      "i": 12,
+      "t": "niego"
+    },
+    {
+      "i": 13,
+      "t": "uczniowie"
+    },
+    {
+      "i": 14,
+      "t": "jego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.1",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.1",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἰδὼν",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAP-NSM",
+        "glosa": "Having seen",
+        "id": "Mat.5.1#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.5.1#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.5.1#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὄχλους",
+        "lemma": "G3793",
+        "forma": "ὄχλος",
+        "morph": "N-APM",
+        "glosa": "crowds",
+        "id": "Mat.5.1#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "crowd"
+      },
+      {
+        "t": "ἀνέβη",
+        "lemma": "G0305",
+        "forma": "ἀναβαίνω",
+        "morph": "V-2AAI-3S",
+        "glosa": "He went up",
+        "id": "Mat.5.1#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to ascend"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "on",
+        "id": "Mat.5.1#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.5.1#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὄρος",
+        "lemma": "G3735",
+        "forma": "ὄρος",
+        "morph": "N-ASN",
+        "glosa": "mountain,",
+        "id": "Mat.5.1#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "mountain"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.1#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "and"
+      },
+      {
+        "t": "καθίσαντος",
+        "lemma": "G2523",
+        "forma": "καθίζω",
+        "morph": "V-AAP-GSM",
+        "glosa": "when was sitting down",
+        "id": "Mat.5.1#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to seat"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "He",
+        "id": "Mat.5.1#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "προσῆλθαν",
+        "lemma": "G4334",
+        "forma": "προσέρχομαι",
+        "morph": "V-2AAI-3P",
+        "glosa": "they came",
+        "id": "Mat.5.1#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to come near/agree"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to Him",
+        "id": "Mat.5.1#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.5.1#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μαθηταὶ",
+        "lemma": "G3101",
+        "forma": "μαθητής",
+        "morph": "N-NPM",
+        "glosa": "disciples",
+        "id": "Mat.5.1#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "disciple"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him.",
+        "id": "Mat.5.1#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po imiesłowie, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [],
+      "uwaga": "„Jezus” nie ma w grece; podmiot ἀνέβη zostaje nienazwany, a wyraz jest kursywą 1632."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ἰδὼν, imiesłów aorystu „ujrzawszy”, oddane jako „widząc”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "τοὺς ὄχλους, biernik liczby mnogiej, oddane jako „lud”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἀνέβη oddane jako „wstąpił”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "εἰς oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τὸ ὄρος oddane jako „górę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "καθίσαντος αὐτοῦ, genetivus absolutus, oddane jako „gdy usiadł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "προσῆλθαν oddane jako „przystąpili”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        11,
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "αὐτῷ, celownik, oddane jako „do niego”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "οἱ μαθηταὶ oddane jako „uczniowie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Jedynym dodatkiem jest kursywne „Jezus”. Rodzajniki weszły w rzeczowniki, celownik αὐτῷ rozbity na „do niego”, a genetivus absolutus na „gdy usiadł”. Sens zostaje ten sam.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "„Jezus” jest kursywą 1632 i nie ma odpowiadającego mu tokenu w TR; orzeczenie ἀνέβη nie nazywa podmiotu.",
+      "tokeny_bg": [
+        1
+      ],
+      "tokeny_zrodla": [
+        4
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τοὺς ὄχλους to biernik liczby mnogiej, a BG ma jeden rzeczownik „lud”.",
+      "tokeny_bg": [
+        3
+      ],
+      "tokeny_zrodla": [
+        2,
+        3
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Vida pak Ježíš zástupy, vstoupil na horu; a když se posadil, přistoupili k němu učedlníci jeho.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

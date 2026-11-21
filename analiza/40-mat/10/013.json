@@ -1,0 +1,666 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.13",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 13
+  },
+  "tekst_bg": "A jeźliby on dom tego był godny, niech nań przyjdzie pokój wasz; a jeźliby nie był godny, pokój wasz niech się wróci do was.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "jeźliby"
+    },
+    {
+      "i": 2,
+      "t": "on"
+    },
+    {
+      "i": 3,
+      "t": "dom"
+    },
+    {
+      "i": 4,
+      "t": "tego"
+    },
+    {
+      "i": 5,
+      "t": "był"
+    },
+    {
+      "i": 6,
+      "t": "godny"
+    },
+    {
+      "i": 7,
+      "t": "niech"
+    },
+    {
+      "i": 8,
+      "t": "nań"
+    },
+    {
+      "i": 9,
+      "t": "przyjdzie"
+    },
+    {
+      "i": 10,
+      "t": "pokój"
+    },
+    {
+      "i": 11,
+      "t": "wasz"
+    },
+    {
+      "i": 12,
+      "t": "a"
+    },
+    {
+      "i": 13,
+      "t": "jeźliby"
+    },
+    {
+      "i": 14,
+      "t": "nie"
+    },
+    {
+      "i": 15,
+      "t": "był"
+    },
+    {
+      "i": 16,
+      "t": "godny"
+    },
+    {
+      "i": 17,
+      "t": "pokój"
+    },
+    {
+      "i": 18,
+      "t": "wasz"
+    },
+    {
+      "i": 19,
+      "t": "niech"
+    },
+    {
+      "i": 20,
+      "t": "się"
+    },
+    {
+      "i": 21,
+      "t": "wróci"
+    },
+    {
+      "i": 22,
+      "t": "do"
+    },
+    {
+      "i": 23,
+      "t": "was"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.13",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.13",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.10.13#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐὰν",
+        "lemma": "G1437",
+        "forma": "ἐάν",
+        "morph": "COND",
+        "glosa": "if",
+        "id": "Mat.10.13#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "if"
+      },
+      {
+        "t": "μὲν",
+        "lemma": "G3303",
+        "forma": "μέν",
+        "morph": "PRT",
+        "glosa": "indeed",
+        "id": "Mat.10.13#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "on the other hand"
+      },
+      {
+        "t": "ᾖ",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAS-3S",
+        "glosa": "shall be",
+        "id": "Mat.10.13#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.10.13#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἰκία",
+        "lemma": "G3614H",
+        "forma": "οἰκία",
+        "morph": "N-NSF",
+        "glosa": "house",
+        "id": "Mat.10.13#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "home: household"
+      },
+      {
+        "t": "ἀξία",
+        "lemma": "G0514",
+        "forma": "ἄξιος",
+        "morph": "A-NSF",
+        "glosa": "worthy,",
+        "id": "Mat.10.13#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "worthy"
+      },
+      {
+        "t": "ἐλθάτω",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAM-3S",
+        "glosa": "should come",
+        "id": "Mat.10.13#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.10.13#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "εἰρήνη",
+        "lemma": "G1515",
+        "forma": "εἰρήνη",
+        "morph": "N-NSF",
+        "glosa": "peace",
+        "id": "Mat.10.13#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "peace"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.10.13#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἐπ᾽",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "upon",
+        "id": "Mat.10.13#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "αὐτήν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASF",
+        "glosa": "it;",
+        "id": "Mat.10.13#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐὰν",
+        "lemma": "G1437",
+        "forma": "ἐάν",
+        "morph": "COND",
+        "glosa": "only",
+        "id": "Mat.10.13#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "if"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.10.13#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "then"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "unless",
+        "id": "Mat.10.13#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "not"
+      },
+      {
+        "t": "ᾖ",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAS-3S",
+        "glosa": "it shall be",
+        "id": "Mat.10.13#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἀξία",
+        "lemma": "G0514",
+        "forma": "ἄξιος",
+        "morph": "A-NSF",
+        "glosa": "worthy,",
+        "id": "Mat.10.13#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "worthy"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.10.13#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "εἰρήνη",
+        "lemma": "G1515",
+        "forma": "εἰρήνη",
+        "morph": "N-NSF",
+        "glosa": "peace",
+        "id": "Mat.10.13#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "peace"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.10.13#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "you"
+      },
+      {
+        "t": "πρὸς",
+        "lemma": "G4314",
+        "forma": "πρός",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.10.13#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "to/with"
+      },
+      {
+        "t": "ὑμᾶς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2AP",
+        "glosa": "you",
+        "id": "Mat.10.13#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἐπιστραφήτω",
+        "lemma": "G1994",
+        "forma": "ἐπιστρέφω",
+        "morph": "V-2APM-3S",
+        "glosa": "should return.",
+        "id": "Mat.10.13#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "to turn"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1,
+        2
+      ],
+      "uwaga": "ἐὰν μὲν oddane jako „jeźliby”; partykuła μὲν nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἡ oddane wskazującym „on”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "οἰκία oddane jako „dom”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [],
+      "uwaga": "„tego” nie jest kursywą. ἀξία nie ma dopełnienia „tego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ᾖ oddane jako „był”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἀξία oddane jako „godny”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        7,
+        9
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐλθάτω oddane jako „niech ... przyjdzie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "ἐπ᾽ αὐτήν oddane jednym słowem „nań”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "ἡ εἰρήνη oddane jako „pokój”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ὑμῶν oddane jako „wasz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "δὲ stoi po ἐὰν, a BG stawia „a” na początku drugiej części."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἐὰν oddane jako „jeźliby”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ᾖ oddane jako „był”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἀξία oddane jako „godny”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "ἡ εἰρήνη oddane jako „pokój”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ὑμῶν oddane jako „wasz”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        19,
+        20,
+        21
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "ἐπιστραφήτω, tryb rozkazujący strony biernej, oddany jako „niech się wróci”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "πρὸς oddane jako „do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "ὑμᾶς oddane jako „was”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Pierwsze ἀξία nie ma dopełnienia, a BG dodaje „tego”, które nie jest kursywą. Druga część, z powrotem pokoju, jest pokryta.",
+    "tokeny_bg": [
+      4
+    ],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐὰν μὲν ᾖ ἡ οἰκία ἀξία BG oddaje jako „jeźliby on dom tego był godny”. „tego” nie ma przy ἀξία i nie jest kursywą 1632.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐπιστραφήτω BG rozbija na „niech się wróci”, a ἐπ᾽ αὐτήν schodzi się w „nań”.",
+      "tokeny_bg": [
+        8,
+        19,
+        20,
+        21
+      ],
+      "tokeny_zrodla": [
+        11,
+        12,
+        23
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A jestližeť bude dům ten hodný, pokoj váš přijdiž naň; pakliť by nebyl hodný, pokoj váš navratiž se k vám.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

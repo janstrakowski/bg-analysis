@@ -1,0 +1,242 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.5",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 5
+  },
+  "tekst_bg": "Błogosławieni ciszy; albowiem oni odziedziczą ziemię.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Błogosławieni"
+    },
+    {
+      "i": 1,
+      "t": "ciszy"
+    },
+    {
+      "i": 2,
+      "t": "albowiem"
+    },
+    {
+      "i": 3,
+      "t": "oni"
+    },
+    {
+      "i": 4,
+      "t": "odziedziczą"
+    },
+    {
+      "i": 5,
+      "t": "ziemię"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.5",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.5",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Μακάριοι",
+        "lemma": "G3107",
+        "forma": "μακάριος",
+        "morph": "A-NPM",
+        "glosa": "Blessed [are]",
+        "id": "Mat.5.5#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "blessed"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.5.5#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πραεῖς",
+        "lemma": "G4235",
+        "forma": "πραΰς",
+        "morph": "A-NPM",
+        "glosa": "meek,",
+        "id": "Mat.5.5#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "gentle"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.5.5#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "αὐτοὶ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-NPM",
+        "glosa": "they themselves",
+        "id": "Mat.5.5#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "κληρονομήσουσιν",
+        "lemma": "G2816",
+        "forma": "κληρονομέω",
+        "morph": "V-FAI-3P",
+        "glosa": "will inherit",
+        "id": "Mat.5.5#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to inherit"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.5.5#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γῆν",
+        "lemma": "G1093G",
+        "forma": "γῆ",
+        "morph": "N-ASF",
+        "glosa": "earth.",
+        "id": "Mat.5.5#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "earth: planet"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Μακάριοι oddane jako „Błogosławieni”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1,
+        2
+      ],
+      "uwaga": "οἱ πραεῖς oddane jako „ciszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὅτι oddane jako „albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτοὶ oddane jako „oni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "κληρονομήσουσιν oddane jako „odziedziczą”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τὴν γῆν oddane jako „ziemię”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajniki weszły w „ciszy” i „ziemię”, a αὐτοὶ zostało jako „oni”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οἱ πραεῖς, glosa „meek”, oddane jednym słowem „ciszy”, a τὴν γῆν jako „ziemię”.",
+      "tokeny_bg": [
+        1,
+        5
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Blahoslavení tiší, nebo oni dědictví obdrží na zemi.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

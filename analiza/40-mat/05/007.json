@@ -1,0 +1,207 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.7",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 7
+  },
+  "tekst_bg": "Błogosławieni miłosierni; albowiem oni miłosierdzia dostąpią.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Błogosławieni"
+    },
+    {
+      "i": 1,
+      "t": "miłosierni"
+    },
+    {
+      "i": 2,
+      "t": "albowiem"
+    },
+    {
+      "i": 3,
+      "t": "oni"
+    },
+    {
+      "i": 4,
+      "t": "miłosierdzia"
+    },
+    {
+      "i": 5,
+      "t": "dostąpią"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.7",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.7",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Μακάριοι",
+        "lemma": "G3107",
+        "forma": "μακάριος",
+        "morph": "A-NPM",
+        "glosa": "Blessed [are]",
+        "id": "Mat.5.7#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "blessed"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.5.7#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐλεήμονες",
+        "lemma": "G1655",
+        "forma": "ἐλεήμων",
+        "morph": "A-NPM",
+        "glosa": "merciful,",
+        "id": "Mat.5.7#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "merciful"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.5.7#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "αὐτοὶ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-NPM",
+        "glosa": "they themselves",
+        "id": "Mat.5.7#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐλεηθήσονται",
+        "lemma": "G1653",
+        "forma": "ἐλεέω, ἐλεάω",
+        "morph": "V-FPI-3P",
+        "glosa": "will receive mercy.",
+        "id": "Mat.5.7#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to have mercy"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Μακάριοι oddane jako „Błogosławieni”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1,
+        2
+      ],
+      "uwaga": "οἱ ἐλεήμονες oddane jako „miłosierni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὅτι oddane jako „albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτοὶ oddane jako „oni”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἐλεηθήσονται, futurum bierne „dostąpią miłosierdzia”, oddane jako „miłosierdzia dostąpią”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Nie ma dopowiedzenia ani opuszczenia. Strona bierna ἐλεηθήσονται rozpisana na „miłosierdzia dostąpią”, a odbiorcami zostają ci sami „oni”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐλεηθήσονται to futurum bierne, glosa „will receive mercy”, i BG oddaje je przez „miłosierdzia dostąpią”.",
+      "tokeny_bg": [
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        5
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Blahoslavení milosrdní, nebo oni milosrdenství důjdou.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

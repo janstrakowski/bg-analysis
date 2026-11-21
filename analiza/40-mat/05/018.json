@@ -1,0 +1,688 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.18",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 18
+  },
+  "tekst_bg": "Zaprawdę bowiem powiadam wam: Aż przeminie niebo i ziemia, jedna jota albo kreska nie przeminie z zakonu, ażby się wszystko stało.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Zaprawdę"
+    },
+    {
+      "i": 1,
+      "t": "bowiem"
+    },
+    {
+      "i": 2,
+      "t": "powiadam"
+    },
+    {
+      "i": 3,
+      "t": "wam"
+    },
+    {
+      "i": 4,
+      "t": "Aż"
+    },
+    {
+      "i": 5,
+      "t": "przeminie"
+    },
+    {
+      "i": 6,
+      "t": "niebo"
+    },
+    {
+      "i": 7,
+      "t": "i"
+    },
+    {
+      "i": 8,
+      "t": "ziemia"
+    },
+    {
+      "i": 9,
+      "t": "jedna"
+    },
+    {
+      "i": 10,
+      "t": "jota"
+    },
+    {
+      "i": 11,
+      "t": "albo"
+    },
+    {
+      "i": 12,
+      "t": "kreska"
+    },
+    {
+      "i": 13,
+      "t": "nie"
+    },
+    {
+      "i": 14,
+      "t": "przeminie"
+    },
+    {
+      "i": 15,
+      "t": "z"
+    },
+    {
+      "i": 16,
+      "t": "zakonu"
+    },
+    {
+      "i": 17,
+      "t": "ażby"
+    },
+    {
+      "i": 18,
+      "t": "się"
+    },
+    {
+      "i": 19,
+      "t": "wszystko"
+    },
+    {
+      "i": 20,
+      "t": "stało"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.18",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.18",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἀμὴν",
+        "lemma": "G0281",
+        "forma": "ἀμήν",
+        "morph": "INJ-HEB",
+        "glosa": "Amen",
+        "id": "Mat.5.18#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "amen"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.5.18#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "λέγω",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-1S",
+        "glosa": "I say",
+        "id": "Mat.5.18#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you;",
+        "id": "Mat.5.18#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἕως",
+        "lemma": "G2193",
+        "forma": "ἕως",
+        "morph": "PREP",
+        "glosa": "until",
+        "id": "Mat.5.18#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "until"
+      },
+      {
+        "t": "ἂν",
+        "lemma": "G0302",
+        "forma": "ἄν",
+        "morph": "PRT",
+        "glosa": "when",
+        "id": "Mat.5.18#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "if"
+      },
+      {
+        "t": "παρέλθῃ",
+        "lemma": "G3928",
+        "forma": "παρέρχομαι",
+        "morph": "V-2AAS-3S",
+        "glosa": "may pass away",
+        "id": "Mat.5.18#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to pass by"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.5.18#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανὸς",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-NSM",
+        "glosa": "heaven",
+        "id": "Mat.5.18#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "heaven"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.18#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.5.18#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γῆ",
+        "lemma": "G1093G",
+        "forma": "γῆ",
+        "morph": "N-NSF",
+        "glosa": "earth,",
+        "id": "Mat.5.18#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "earth: planet"
+      },
+      {
+        "t": "ἰῶτα",
+        "lemma": "G2503",
+        "forma": "ἰῶτα",
+        "morph": "N-NSN",
+        "glosa": "iota",
+        "id": "Mat.5.18#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "iota"
+      },
+      {
+        "t": "ἓν",
+        "lemma": "G1520",
+        "forma": "εἷς",
+        "morph": "A-NSN",
+        "glosa": "one",
+        "id": "Mat.5.18#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "one"
+      },
+      {
+        "t": "ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "or",
+        "id": "Mat.5.18#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "or"
+      },
+      {
+        "t": "μία",
+        "lemma": "G1520",
+        "forma": "εἷς",
+        "morph": "A-NSF",
+        "glosa": "one",
+        "id": "Mat.5.18#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "one"
+      },
+      {
+        "t": "κεραία",
+        "lemma": "G2762",
+        "forma": "κεραία",
+        "morph": "N-NSF",
+        "glosa": "stroke of a letter",
+        "id": "Mat.5.18#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "tittle"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "certainly",
+        "id": "Mat.5.18#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "no"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.5.18#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "not"
+      },
+      {
+        "t": "παρέλθῃ",
+        "lemma": "G3928",
+        "forma": "παρέρχομαι",
+        "morph": "V-2AAS-3S",
+        "glosa": "may pass away",
+        "id": "Mat.5.18#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "to pass by"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.5.18#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "away from"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.5.18#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "νόμου",
+        "lemma": "G3551",
+        "forma": "νόμος",
+        "morph": "N-GSM",
+        "glosa": "law",
+        "id": "Mat.5.18#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "law"
+      },
+      {
+        "t": "ἕως",
+        "lemma": "G2193",
+        "forma": "ἕως",
+        "morph": "PREP",
+        "glosa": "until",
+        "id": "Mat.5.18#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "until"
+      },
+      {
+        "t": "ἂν",
+        "lemma": "G0302",
+        "forma": "ἄν",
+        "morph": "PRT",
+        "glosa": "when",
+        "id": "Mat.5.18#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "if"
+      },
+      {
+        "t": "πάντα",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NPN",
+        "glosa": "everything",
+        "id": "Mat.5.18#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "all"
+      },
+      {
+        "t": "γένηται",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-2ADS-3S",
+        "glosa": "may happen.",
+        "id": "Mat.5.18#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "to be"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἀμὴν oddane jako „Zaprawdę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "γὰρ stoi po ἀμὴν, a „bowiem” stoi po „Zaprawdę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "λέγω oddane jako „powiadam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "Pierwsze ἕως oddane jako „Aż”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Pierwsze ἂν, partykuła przy coniunctivie, nie ma osobnego słowa przy „przeminie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "Pierwsze παρέλθῃ oddane jako „przeminie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "ὁ οὐρανὸς oddane jako „niebo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "ἡ γῆ oddane jako „ziemia”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἰῶτα oddane jako „jota”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἓν oddane jako „jedna” i stoi przed „jota”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ἢ oddane jako „albo”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "μία, liczebnik przy κεραία, nie ma drugiego „jedna” przy „kreska”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "κεραία oddane jako „kreska”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        17,
+        18
+      ],
+      "uwaga": "οὐ μὴ, podwójne przeczenie, oddane jednym „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "Drugie παρέλθῃ oddane jako „przeminie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ἀπὸ oddane jako „z”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        21,
+        22
+      ],
+      "uwaga": "τοῦ νόμου oddane jako „zakonu”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        23,
+        24
+      ],
+      "uwaga": "Drugie ἕως ἂν oddane jako „ażby”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "πάντα oddane jako „wszystko”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        18,
+        20
+      ],
+      "zrodlo": [
+        26
+      ],
+      "uwaga": "γένηται, forma z partykułą strony D, oddane jako „się stało”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Pierwsze ἂν nie ma odpowiednika przy „Aż przeminie”, a μία nie ma drugiego liczebnika przy „kreska”. Drugie ἂν weszło w „ażby”, a οὐ μὴ zlało się w jedno „nie”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      5,
+      15
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Pierwsze ἂν stoi między ἕως a παρέλθῃ, a polskie „Aż przeminie” nie ma partykuły obok przyszłego „przeminie”.",
+      "tokeny_bg": [
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἓν i μία to dwa liczebniki, przy ἰῶτα i przy κεραία, a BG ma jedno „jedna” tylko przy „jota”.",
+      "tokeny_bg": [
+        9,
+        10,
+        12
+      ],
+      "tokeny_zrodla": [
+        12,
+        13,
+        15,
+        16
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Amen zajisté pravím vám: Dokudž nepomine nebe i země, jediná literka aneb jediný puňktík nepomine z Zákona, až se všecky věci stanou.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

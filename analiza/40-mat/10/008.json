@@ -1,0 +1,358 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.8",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 8
+  },
+  "tekst_bg": "Chore uzdrawiajcie, trędowate oczyszczajcie, umarłe wskrzeszajcie, dyjabły wyganiajcie; darmoście wzięli, darmo dawajcie.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Chore"
+    },
+    {
+      "i": 1,
+      "t": "uzdrawiajcie"
+    },
+    {
+      "i": 2,
+      "t": "trędowate"
+    },
+    {
+      "i": 3,
+      "t": "oczyszczajcie"
+    },
+    {
+      "i": 4,
+      "t": "umarłe"
+    },
+    {
+      "i": 5,
+      "t": "wskrzeszajcie"
+    },
+    {
+      "i": 6,
+      "t": "dyjabły"
+    },
+    {
+      "i": 7,
+      "t": "wyganiajcie"
+    },
+    {
+      "i": 8,
+      "t": "darmoście"
+    },
+    {
+      "i": 9,
+      "t": "wzięli"
+    },
+    {
+      "i": 10,
+      "t": "darmo"
+    },
+    {
+      "i": 11,
+      "t": "dawajcie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.8",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.8",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἀσθενοῦντας",
+        "lemma": "G0770H",
+        "forma": "ἀσθενέω",
+        "morph": "V-PAP-APM",
+        "glosa": "[Those] ailing",
+        "id": "Mat.10.8#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "be weak: ill"
+      },
+      {
+        "t": "θεραπεύετε",
+        "lemma": "G2323",
+        "forma": "θεραπεύω",
+        "morph": "V-PAM-2P",
+        "glosa": "do heal,",
+        "id": "Mat.10.8#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to serve/heal"
+      },
+      {
+        "t": "νεκροὺς",
+        "lemma": "G3498",
+        "forma": "νεκρός",
+        "morph": "A-APM",
+        "glosa": "dead",
+        "id": "Mat.10.8#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "dead"
+      },
+      {
+        "t": "ἐγείρετε",
+        "lemma": "G1453",
+        "forma": "ἐγείρω",
+        "morph": "V-PAM-2P",
+        "glosa": "do raise,",
+        "id": "Mat.10.8#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to arise"
+      },
+      {
+        "t": "δαιμόνια",
+        "lemma": "G1140",
+        "forma": "δαιμόνιον",
+        "morph": "N-APN",
+        "glosa": "demons",
+        "id": "Mat.10.8#07",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "demon"
+      },
+      {
+        "t": "ἐκβάλλετε",
+        "lemma": "G1544",
+        "forma": "ἐκβάλλω",
+        "morph": "V-PAM-2P",
+        "glosa": "do cast out;",
+        "id": "Mat.10.8#08",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to expel"
+      },
+      {
+        "t": "δωρεὰν",
+        "lemma": "G1432",
+        "forma": "δωρεάν",
+        "morph": "ADV",
+        "glosa": "freely",
+        "id": "Mat.10.8#09",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "freely"
+      },
+      {
+        "t": "ἐλάβετε",
+        "lemma": "G2983",
+        "forma": "λαμβάνω",
+        "morph": "V-2AAI-2P",
+        "glosa": "you received,",
+        "id": "Mat.10.8#10",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to take"
+      },
+      {
+        "t": "δωρεὰν",
+        "lemma": "G1432",
+        "forma": "δωρεάν",
+        "morph": "ADV",
+        "glosa": "freely",
+        "id": "Mat.10.8#11",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "freely"
+      },
+      {
+        "t": "δότε",
+        "lemma": "G1325",
+        "forma": "δίδωμι",
+        "morph": "V-2AAM-2P",
+        "glosa": "do give.",
+        "id": "Mat.10.8#12",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to give"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἀσθενοῦντας oddane jako „Chore”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "θεραπεύετε oddane jako „uzdrawiajcie”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [],
+      "uwaga": "„trędowate oczyszczajcie” nie ma w TR tokenu. Między θεραπεύετε a νεκροὺς nie ma λεπροὺς ani καθαρίζετε."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "νεκροὺς oddane jako „umarłe”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἐγείρετε oddane jako „wskrzeszajcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "δαιμόνια oddane jako „dyjabły”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἐκβάλλετε oddane jako „wyganiajcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "δωρεὰν oddane jako „darmoście”; końcówka -ście niesie osobę ἐλάβετε."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐλάβετε oddane jako „wzięli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "δωρεὰν oddane jako „darmo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "δότε oddane jako „dawajcie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "„trędowate oczyszczajcie” nie odpowiada żadnemu tokenowi TR i nie jest kursywą 1632. Chorych, umarłych, demony oraz „darmoście wzięli, darmo dawajcie” BG oddaje.",
+    "tokeny_bg": [
+      2,
+      3
+    ],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "TR ma ἀσθενοῦντας θεραπεύετε, νεκροὺς ἐγείρετε, δαιμόνια ἐκβάλλετε. BG między uzdrawianiem a umarłymi wstawia „trędowate oczyszczajcie”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "δωρεὰν ἐλάβετε, δωρεὰν δότε BG oddaje jako „darmoście wzięli, darmo dawajcie”.",
+      "tokeny_bg": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nemocné uzdravujte, malomocné čisťte, mrtvé křeste, ďábelství vymítejte; darmo jste vzali, darmo dejte.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}
