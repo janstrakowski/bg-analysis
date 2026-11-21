@@ -13,6 +13,8 @@ WZORCE = [
     ("43-joh", 1, 1, "wierny"),
     ("62-joh", 5, 7, "wierny"),
     ("19-psa", 22, 17, "nieoddane"),
+    ("01-gen", 3, 4, "sens_zachowany_forma_wolna"),
+    ("19-psa", 8, 6, "sens_przesuniety"),
 ]
 
 
@@ -28,8 +30,8 @@ def test_wzorce_przechodza_bramke():
     for ksiega, rozdzial, werset, oczekiwany in WZORCE:
         assert werdykty[f"{ksiega}.{rozdzial}.{werset}"] == oczekiwany
     stat = policz(31102, rekordy)
-    assert stat["werdykty"]["wierny"] >= 1
-    assert stat["werdykty"]["nieoddane"] >= 1
+    for werdykt in WERDYKTY:
+        assert stat["werdykty"][werdykt] >= 1, werdykt
     html = srodowisko().get_template("index.html").render(
         tytul="test",
         korzen="",
