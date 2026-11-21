@@ -1,0 +1,237 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.12",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 12
+  },
+  "tekst_bg": "A wszedłszy w dom, pozdrówcie go.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "wszedłszy"
+    },
+    {
+      "i": 2,
+      "t": "w"
+    },
+    {
+      "i": 3,
+      "t": "dom"
+    },
+    {
+      "i": 4,
+      "t": "pozdrówcie"
+    },
+    {
+      "i": 5,
+      "t": "go"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.12",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.12",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "εἰσερχόμενοι",
+        "lemma": "G1525",
+        "forma": "εἰσέρχομαι",
+        "morph": "V-PNP-NPM",
+        "glosa": "Entering",
+        "id": "Mat.10.12#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to enter"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.10.12#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.10.12#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.10.12#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἰκίαν",
+        "lemma": "G3614G",
+        "forma": "οἰκία",
+        "morph": "N-ASF",
+        "glosa": "house",
+        "id": "Mat.10.12#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "home"
+      },
+      {
+        "t": "ἀσπάσασθε",
+        "lemma": "G0782",
+        "forma": "ἀσπάζομαι",
+        "morph": "V-ADM-2P",
+        "glosa": "do greet",
+        "id": "Mat.10.12#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to pay respects to"
+      },
+      {
+        "t": "αὐτήν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASF",
+        "glosa": "it.",
+        "id": "Mat.10.12#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po imiesłowie, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "εἰσερχόμενοι, imiesłów teraźniejszy „wchodząc”, oddany jako „wszedłszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "εἰς oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τὴν οἰκίαν oddane jako „dom”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἀσπάσασθε oddane jako „pozdrówcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "αὐτήν oddane jako „go”; dom jest w polskim rodzaju męskim."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Wejście do domu i pozdrowienie są pokryte. Rodzajnik przy οἰκίαν wchodzi w „dom”, a imiesłów teraźniejszy jest uprzednim „wszedłszy”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "εἰσερχόμενοι δὲ εἰς τὴν οἰκίαν ἀσπάσασθε αὐτήν BG oddaje jako „A wszedłszy w dom, pozdrówcie go”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A vcházejíce do domu, pozdravtež ho.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

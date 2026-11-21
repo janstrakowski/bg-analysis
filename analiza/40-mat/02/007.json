@@ -1,0 +1,434 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.2.7",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 2,
+    "werset": 7
+  },
+  "tekst_bg": "Tedy Herod wezwawszy potajemnie onych mędrców, pilnie się wywiadywał od nich o czasie, którego się gwiazda ukazała.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tedy"
+    },
+    {
+      "i": 1,
+      "t": "Herod"
+    },
+    {
+      "i": 2,
+      "t": "wezwawszy"
+    },
+    {
+      "i": 3,
+      "t": "potajemnie"
+    },
+    {
+      "i": 4,
+      "t": "onych"
+    },
+    {
+      "i": 5,
+      "t": "mędrców"
+    },
+    {
+      "i": 6,
+      "t": "pilnie"
+    },
+    {
+      "i": 7,
+      "t": "się"
+    },
+    {
+      "i": 8,
+      "t": "wywiadywał"
+    },
+    {
+      "i": 9,
+      "t": "od"
+    },
+    {
+      "i": 10,
+      "t": "nich"
+    },
+    {
+      "i": 11,
+      "t": "o"
+    },
+    {
+      "i": 12,
+      "t": "czasie"
+    },
+    {
+      "i": 13,
+      "t": "którego"
+    },
+    {
+      "i": 14,
+      "t": "się"
+    },
+    {
+      "i": 15,
+      "t": "gwiazda"
+    },
+    {
+      "i": 16,
+      "t": "ukazała"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.2.7",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.2.7",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "Then",
+        "id": "Mat.2.7#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "then"
+      },
+      {
+        "t": "Ἡρῴδης",
+        "lemma": "G2264G",
+        "forma": "Ἡρώδης",
+        "morph": "N-NSM-P",
+        "glosa": "Herod",
+        "id": "Mat.2.7#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "Herod"
+      },
+      {
+        "t": "λάθρᾳ",
+        "lemma": "G2977",
+        "forma": "λάθρα",
+        "morph": "ADV",
+        "glosa": "secretly",
+        "id": "Mat.2.7#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "quietly"
+      },
+      {
+        "t": "καλέσας",
+        "lemma": "G2564G",
+        "forma": "καλέω",
+        "morph": "V-AAP-NSM",
+        "glosa": "having called",
+        "id": "Mat.2.7#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to call: call"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.2.7#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μάγους",
+        "lemma": "G3097",
+        "forma": "μάγος",
+        "morph": "N-APM",
+        "glosa": "Magi",
+        "id": "Mat.2.7#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "sage"
+      },
+      {
+        "t": "ἠκρίβωσεν",
+        "lemma": "G0198",
+        "forma": "ἀκριβόω",
+        "morph": "V-AAI-3S",
+        "glosa": "inquired exactly",
+        "id": "Mat.2.7#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "be exactly"
+      },
+      {
+        "t": "παρ᾽",
+        "lemma": "G3844",
+        "forma": "παρά",
+        "morph": "PREP",
+        "glosa": "of",
+        "id": "Mat.2.7#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "from/with/beside"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "them",
+        "id": "Mat.2.7#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.2.7#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "χρόνον",
+        "lemma": "G5550",
+        "forma": "χρόνος",
+        "morph": "N-ASM",
+        "glosa": "time",
+        "id": "Mat.2.7#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "time"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.2.7#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "φαινομένου",
+        "lemma": "G5316",
+        "forma": "φαίνω",
+        "morph": "V-PEP-GSM",
+        "glosa": "appearing",
+        "id": "Mat.2.7#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to shine/appear"
+      },
+      {
+        "t": "ἀστέρος",
+        "lemma": "G0792",
+        "forma": "ἀστήρ",
+        "morph": "N-GSM",
+        "glosa": "star,",
+        "id": "Mat.2.7#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "star"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Τότε oddane jako „Tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "Ἡρῴδης oddane jako „Herod”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "καλέσας oddane jako „wezwawszy”; w grece stoi po λάθρᾳ."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "λάθρᾳ oddane jako „potajemnie”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [],
+      "uwaga": "„onych” jest kursywą w 1632. TR ma tylko τοὺς μάγους, bez zaimka wskazującego."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τοὺς μάγους oddane jako „mędrców”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        7,
+        8
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἠκρίβωσεν, „inquired exactly”, rozbite na „pilnie się wywiadywał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "παρ᾽ oddane jako „od”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "αὐτῶν oddane jako „nich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11,
+        12
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τὸν χρόνον, biernik przedmiotu, oddane jako „o czasie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "τοῦ, rodzajnik dopełniacza przy imiesłowie, oddane jako „którego”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        14,
+        16
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "φαινομένου, imiesłów medialny „appearing”, oddane jako „się ukazała”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἀστέρος oddane jako „gwiazda”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. Kursywa „onych” dopowiada zaimek przy τοὺς μάγους. Pytanie o czas gwiazdy zostaje to samo.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "„onych” jest w kursywie 1632. Greka ma tylko rodzajnik τοὺς przy μάγους.",
+      "tokeny_bg": [
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        4,
+        5
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἠκρίβωσεν ma glosę „inquired exactly”. BG rozbija je na „pilnie się wywiadywał”.",
+      "tokeny_bg": [
+        6,
+        7,
+        8
+      ],
+      "tokeny_zrodla": [
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Tedy Herodes tajně povolav mudrců, pilně se jich ptal, kterého by se jim času hvězda ukázala.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

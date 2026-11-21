@@ -1,0 +1,309 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.7",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 7
+  },
+  "tekst_bg": "I rzekł mu Jezus: Ja przyjdę i uzdrowię go.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "rzekł"
+    },
+    {
+      "i": 2,
+      "t": "mu"
+    },
+    {
+      "i": 3,
+      "t": "Jezus"
+    },
+    {
+      "i": 4,
+      "t": "Ja"
+    },
+    {
+      "i": 5,
+      "t": "przyjdę"
+    },
+    {
+      "i": 6,
+      "t": "i"
+    },
+    {
+      "i": 7,
+      "t": "uzdrowię"
+    },
+    {
+      "i": 8,
+      "t": "go"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.7",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.7",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.7#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "λέγει",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-3S",
+        "glosa": "He says",
+        "id": "Mat.8.7#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to him",
+        "id": "Mat.8.7#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.8.7#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus:",
+        "id": "Mat.8.7#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "ἐγὼ",
+        "lemma": "G1473",
+        "forma": "ἐγώ",
+        "morph": "P-1NS",
+        "glosa": "I myself",
+        "id": "Mat.8.7#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "ἐλθὼν",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having come",
+        "id": "Mat.8.7#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "θεραπεύσω",
+        "lemma": "G2323",
+        "forma": "θεραπεύω",
+        "morph": "V-FAI-1S",
+        "glosa": "will heal",
+        "id": "Mat.8.7#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to serve/heal"
+      },
+      {
+        "t": "αὐτόν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "him.",
+        "id": "Mat.8.7#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "λέγει, praesens historicum, oddane jako „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἐγὼ oddane jako „Ja”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐλθὼν, imiesłów „having come”, oddane orzeczeniem „przyjdę”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [],
+      "uwaga": "„i” stoi między „przyjdę” a „uzdrowię”, a ἐλθὼν θεραπεύσω nie ma καί.",
+      "uzasadnienie": "Imiesłów i czasownik przyszły nie są w TR połączone spójnikiem. „i” zestawia po polsku dwa orzeczenia."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "θεραπεύσω oddane jako „uzdrowię”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "αὐτόν oddane jako „go”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. ἐγὼ ἐλθὼν θεραπεύσω αὐτόν znaczy „ja, przyszedłszy, uzdrowię go”, a „i” tylko łączy po polsku „przyjdę” z „uzdrowię”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐλθὼν θεραπεύσω nie zawiera καί. BG rozdziela imiesłów na „przyjdę i uzdrowię”.",
+      "tokeny_bg": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "λέγει αὐτῷ ὁ Ἰησοῦς oddane jako „rzekł mu Jezus”; praesens greckie ma polski czas przeszły.",
+      "tokeny_bg": [
+        1,
+        2,
+        3
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I dí mu Ježíš: Já přijdu a uzdravím ho.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,741 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.28",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 28
+  },
+  "tekst_bg": "A nie bójcie się tych, którzy zabijają ciało, lecz duszy zabić nie mogą; ale raczej bójcie się tego, który może i duszę i ciało zatracić w piekielnym ogniu.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "nie"
+    },
+    {
+      "i": 2,
+      "t": "bójcie"
+    },
+    {
+      "i": 3,
+      "t": "się"
+    },
+    {
+      "i": 4,
+      "t": "tych"
+    },
+    {
+      "i": 5,
+      "t": "którzy"
+    },
+    {
+      "i": 6,
+      "t": "zabijają"
+    },
+    {
+      "i": 7,
+      "t": "ciało"
+    },
+    {
+      "i": 8,
+      "t": "lecz"
+    },
+    {
+      "i": 9,
+      "t": "duszy"
+    },
+    {
+      "i": 10,
+      "t": "zabić"
+    },
+    {
+      "i": 11,
+      "t": "nie"
+    },
+    {
+      "i": 12,
+      "t": "mogą"
+    },
+    {
+      "i": 13,
+      "t": "ale"
+    },
+    {
+      "i": 14,
+      "t": "raczej"
+    },
+    {
+      "i": 15,
+      "t": "bójcie"
+    },
+    {
+      "i": 16,
+      "t": "się"
+    },
+    {
+      "i": 17,
+      "t": "tego"
+    },
+    {
+      "i": 18,
+      "t": "który"
+    },
+    {
+      "i": 19,
+      "t": "może"
+    },
+    {
+      "i": 20,
+      "t": "i"
+    },
+    {
+      "i": 21,
+      "t": "duszę"
+    },
+    {
+      "i": 22,
+      "t": "i"
+    },
+    {
+      "i": 23,
+      "t": "ciało"
+    },
+    {
+      "i": 24,
+      "t": "zatracić"
+    },
+    {
+      "i": 25,
+      "t": "w"
+    },
+    {
+      "i": 26,
+      "t": "piekielnym"
+    },
+    {
+      "i": 27,
+      "t": "ogniu"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.28",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.28",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.10.28#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.10.28#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "not"
+      },
+      {
+        "t": "φοβηθῆτε",
+        "lemma": "G5399",
+        "forma": "φοβηθῆτε",
+        "morph": "V-AOM-2P",
+        "glosa": "do be afraid",
+        "id": "Mat.10.28#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to fear"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "of",
+        "id": "Mat.10.28#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "away from"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "those",
+        "id": "Mat.10.28#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀποκτεννόντων",
+        "lemma": "G0615",
+        "forma": "ἀποκτείνω",
+        "morph": "V-PAP-GPM",
+        "glosa": "killing",
+        "id": "Mat.10.28#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to kill"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.10.28#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "σῶμα",
+        "lemma": "G4983",
+        "forma": "σῶμα",
+        "morph": "N-ASN",
+        "glosa": "body,",
+        "id": "Mat.10.28#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "body"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.10.28#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.10.28#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "then"
+      },
+      {
+        "t": "ψυχὴν",
+        "lemma": "G5590G",
+        "forma": "ψυχή",
+        "morph": "N-ASF",
+        "glosa": "soul",
+        "id": "Mat.10.28#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "soul"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.10.28#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "not"
+      },
+      {
+        "t": "δυναμένων",
+        "lemma": "G1410",
+        "forma": "δύναμαι",
+        "morph": "V-PNP-GPM",
+        "glosa": "being able",
+        "id": "Mat.10.28#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "be able"
+      },
+      {
+        "t": "ἀποκτεῖναι",
+        "lemma": "G0615",
+        "forma": "ἀποκτείνω",
+        "morph": "V-AAN",
+        "glosa": "to kill;",
+        "id": "Mat.10.28#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to kill"
+      },
+      {
+        "t": "φοβήθητε",
+        "lemma": "G5399",
+        "forma": "φοβήθητε",
+        "morph": "V-AOM-2P",
+        "glosa": "do be afraid",
+        "id": "Mat.10.28#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to fear"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.10.28#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "then"
+      },
+      {
+        "t": "μᾶλλον",
+        "lemma": "G3123H",
+        "forma": "μᾶλλον",
+        "morph": "ADV",
+        "glosa": "rather",
+        "id": "Mat.10.28#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "more: rather"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the [One]",
+        "id": "Mat.10.28#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δυνάμενον",
+        "lemma": "G1410",
+        "forma": "δύναμαι",
+        "morph": "V-PNP-ASM",
+        "glosa": "being able",
+        "id": "Mat.10.28#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "be able"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "both",
+        "id": "Mat.10.28#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "and"
+      },
+      {
+        "t": "ψυχὴν",
+        "lemma": "G5590G",
+        "forma": "ψυχή",
+        "morph": "N-ASF",
+        "glosa": "soul",
+        "id": "Mat.10.28#22",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "soul"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.28#23",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "and"
+      },
+      {
+        "t": "σῶμα",
+        "lemma": "G4983",
+        "forma": "σῶμα",
+        "morph": "N-ASN",
+        "glosa": "body",
+        "id": "Mat.10.28#25",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "body"
+      },
+      {
+        "t": "ἀπολέσαι",
+        "lemma": "G0622",
+        "forma": "ἀπολλύω",
+        "morph": "V-AAN",
+        "glosa": "to destroy",
+        "id": "Mat.10.28#26",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "to destroy"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.10.28#27",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "γεέννῃ",
+        "lemma": "G1067",
+        "forma": "γέεννα",
+        "morph": "N-DSF-T",
+        "glosa": "hell.",
+        "id": "Mat.10.28#28",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "hell: Gehenna"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "rozbicie",
+      "uwaga": "φοβηθῆτε, rozkaźnik strony medialnej, oddane jako „bójcie się”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "rola": "zlanie",
+      "uwaga": "ἀπὸ τῶν, „od tych”, ściągnięte do dopełniacza „tych” przy „bać się”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [],
+      "rola": "dopelnienie",
+      "uwaga": "„którzy” otwiera zdanie przy imiesłowie ἀποκτεννόντων. W TR nie ma zaimka ὅς.",
+      "uzasadnienie": "Rodzajnik τῶν z imiesłowem ἀποκτεννόντων nie jest zaimkiem względnym. „którzy” otwiera zdanie, którego w TR nie ma."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἀποκτεννόντων, imiesłów, oddane jako „zabijają”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸ σῶμα oddane jako „ciało”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po τὴν, a „lecz” otwiera człon."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8,
+        10
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὴν ψυχὴν w bierniku oddane dopełniaczem „duszy” przy przeczeniu."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        13
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἀποκτεῖναι oddane jako „zabić”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "δυναμένων, imiesłów „mogący”, oddane jako „mogą”."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po φοβήθητε, a „ale” przed „raczej”."
+    },
+    {
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "rola": "przeklad",
+      "uwaga": "μᾶλλον oddane jako „raczej”."
+    },
+    {
+      "bg": [
+        15,
+        16
+      ],
+      "zrodlo": [
+        14
+      ],
+      "rola": "rozbicie",
+      "uwaga": "φοβήθητε, rozkaźnik strony medialnej, oddane jako „bójcie się”."
+    },
+    {
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        17
+      ],
+      "rola": "przeklad",
+      "uwaga": "τὸν, rodzajnik przy imiesłowie, oddane jako „tego”."
+    },
+    {
+      "bg": [
+        18
+      ],
+      "zrodlo": [],
+      "rola": "dopelnienie",
+      "uwaga": "„który” otwiera zdanie przy imiesłowie δυνάμενον. W TR nie ma zaimka ὅς.",
+      "uzasadnienie": "Rodzajnik τὸν z imiesłowem δυνάμενον nie jest zaimkiem względnym. „który” otwiera zdanie, którego w TR nie ma."
+    },
+    {
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        18
+      ],
+      "rola": "przeklad",
+      "uwaga": "δυνάμενον, imiesłów, oddane jako „może”."
+    },
+    {
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        19
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        20
+      ],
+      "rola": "przeklad",
+      "uwaga": "ψυχὴν oddane jako „duszę”."
+    },
+    {
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        21
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        22
+      ],
+      "rola": "przeklad",
+      "uwaga": "σῶμα oddane jako „ciało”."
+    },
+    {
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        23
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἀπολέσαι oddane jako „zatracić”."
+    },
+    {
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        24
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "bg": [
+        26,
+        27
+      ],
+      "zrodlo": [
+        25
+      ],
+      "rola": "rozbicie",
+      "uwaga": "γεέννῃ, glosa „hell”, oddane jako „piekielnym ogniu”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „którzy” i „który” dopowiadają zdanie względne przy imiesłowach, bo rodzajnik nie jest zaimkiem ὅς. ἀπὸ τῶν jest ściągnięte do „tych”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "μὴ φοβηθῆτε ἀπὸ τῶν ἀποκτεννόντων τὸ σῶμα BG oddaje jako „nie bójcie się tych, którzy zabijają ciało”. „którzy” nie ma odpowiednika ὅς.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "γεέννῃ ma glosę „hell” i leksykon „hell: Gehenna”. BG rozbija ten jeden rzeczownik na „piekielnym ogniu”.",
+      "tokeny_bg": [
+        25,
+        26,
+        27
+      ],
+      "tokeny_zrodla": [
+        24,
+        25
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A nebojte se těch, kteříž zabíjejí tělo, ale duše nemohou zabíti; než bojte se raději toho, kterýž může i duši i tělo zatratiti v pekelném ohni.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

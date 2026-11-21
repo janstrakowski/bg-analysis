@@ -1,0 +1,459 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.32",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 32
+  },
+  "tekst_bg": "Boć tego wszystkiego poganie szukają; wieć bowiem Ojciec wasz niebieski, że tego wszystkiego potrzebujecie.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Boć"
+    },
+    {
+      "i": 1,
+      "t": "tego"
+    },
+    {
+      "i": 2,
+      "t": "wszystkiego"
+    },
+    {
+      "i": 3,
+      "t": "poganie"
+    },
+    {
+      "i": 4,
+      "t": "szukają"
+    },
+    {
+      "i": 5,
+      "t": "wieć"
+    },
+    {
+      "i": 6,
+      "t": "bowiem"
+    },
+    {
+      "i": 7,
+      "t": "Ojciec"
+    },
+    {
+      "i": 8,
+      "t": "wasz"
+    },
+    {
+      "i": 9,
+      "t": "niebieski"
+    },
+    {
+      "i": 10,
+      "t": "że"
+    },
+    {
+      "i": 11,
+      "t": "tego"
+    },
+    {
+      "i": 12,
+      "t": "wszystkiego"
+    },
+    {
+      "i": 13,
+      "t": "potrzebujecie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.32",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.32",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "πάντα",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-APN",
+        "glosa": "All",
+        "id": "Mat.6.32#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "all"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.6.32#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "ταῦτα",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-APN",
+        "glosa": "these things",
+        "id": "Mat.6.32#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPN",
+        "glosa": "the",
+        "id": "Mat.6.32#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἔθνη",
+        "lemma": "G1484",
+        "forma": "ἔθνος",
+        "morph": "N-NPN",
+        "glosa": "Gentiles",
+        "id": "Mat.6.32#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Gentiles"
+      },
+      {
+        "t": "ἐπιζητεῖ",
+        "lemma": "G1934",
+        "forma": "ἐπιζητεῖ",
+        "morph": "V-PAI-3S",
+        "glosa": "seeks after",
+        "id": "Mat.6.32#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to seek after"
+      },
+      {
+        "t": "οἶδεν",
+        "lemma": "G6063",
+        "forma": "εἴδω",
+        "morph": "V-RAI-3S",
+        "glosa": "knows",
+        "id": "Mat.6.32#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to know"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.6.32#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "for"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.6.32#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατὴρ",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-NSM-T",
+        "glosa": "Father",
+        "id": "Mat.6.32#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "father"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.6.32#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.6.32#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐράνιος",
+        "lemma": "G3770",
+        "forma": "οὐράνιος",
+        "morph": "A-NSM",
+        "glosa": "Heavenly",
+        "id": "Mat.6.32#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "heavenly"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.6.32#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "χρῄζετε",
+        "lemma": "G5535",
+        "forma": "χρῄζω",
+        "morph": "V-PAI-2P",
+        "glosa": "you need",
+        "id": "Mat.6.32#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to need"
+      },
+      {
+        "t": "τούτων",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-GPN",
+        "glosa": "of them",
+        "id": "Mat.6.32#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "ἁπάντων",
+        "lemma": "G0537",
+        "forma": "ἅπας",
+        "morph": "A-GPN",
+        "glosa": "all.",
+        "id": "Mat.6.32#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "all"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "γάρ stoi po πάντα, a BG wynosi je na początek jako „Boć”, z partykułą -ć."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ταῦτα, liczba mnoga „these things”, oddane jako „tego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "πάντα oddane jako „wszystkiego”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τὰ ἔθνη, „Gentiles”, oddane jako „poganie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἐπιζητεῖ, liczba pojedyncza przy neutrum τὰ ἔθνη, oddane jako „szukają”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "οἶδεν oddane jako „wieć”, z partykułą -ć."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "γάρ oddane jako „bowiem”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "ὁ πατήρ oddane jako „Ojciec”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ὑμῶν oddane jako „wasz”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "ὁ οὐράνιος oddane jako „niebieski”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ὅτι oddane jako „że”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "τούτων, dopełniacz liczby mnogiej „of them”, oddane jako „tego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἁπάντων oddane jako „wszystkiego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "χρῄζετε, „you need”, oddane jako „potrzebujecie” i przesunięte na koniec."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. „tego wszystkiego” nazywa te same πάντα ταῦτα, a „szukają” te same τὰ ἔθνη, choć ἐπιζητεῖ jest w liczbie pojedynczej.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πάντα γὰρ ταῦτα τὰ ἔθνη ἐπιζητεῖ BG oddaje jako „Boć tego wszystkiego poganie szukają”. γάρ stoi na początku jako „Boć”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo toho všeho pohané hledají. Víť zajisté Otec váš nebeský, že toho všeho potřebujete.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

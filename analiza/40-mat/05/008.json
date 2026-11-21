@@ -1,0 +1,291 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.8",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 8
+  },
+  "tekst_bg": "Błogosławieni czystego serca; albowiem oni Boga oglądają.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Błogosławieni"
+    },
+    {
+      "i": 1,
+      "t": "czystego"
+    },
+    {
+      "i": 2,
+      "t": "serca"
+    },
+    {
+      "i": 3,
+      "t": "albowiem"
+    },
+    {
+      "i": 4,
+      "t": "oni"
+    },
+    {
+      "i": 5,
+      "t": "Boga"
+    },
+    {
+      "i": 6,
+      "t": "oglądają"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.8",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.8",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Μακάριοι",
+        "lemma": "G3107",
+        "forma": "μακάριος",
+        "morph": "A-NPM",
+        "glosa": "Blessed [are]",
+        "id": "Mat.5.8#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "blessed"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.5.8#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "καθαροὶ",
+        "lemma": "G2513",
+        "forma": "καθαρός",
+        "morph": "A-NPM",
+        "glosa": "pure",
+        "id": "Mat.5.8#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "clean"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "<the>",
+        "id": "Mat.5.8#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "καρδίᾳ",
+        "lemma": "G2588",
+        "forma": "καρδία",
+        "morph": "N-DSF",
+        "glosa": "in heart,",
+        "id": "Mat.5.8#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "heart"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.5.8#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "αὐτοὶ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-NPM",
+        "glosa": "they themselves",
+        "id": "Mat.5.8#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.5.8#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θεὸν",
+        "lemma": "G2316",
+        "forma": "θεός",
+        "morph": "N-ASM-T",
+        "glosa": "God",
+        "id": "Mat.5.8#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "God"
+      },
+      {
+        "t": "ὄψονται",
+        "lemma": "G3700G",
+        "forma": "ὁράω",
+        "morph": "V-FDI-3P",
+        "glosa": "will see.",
+        "id": "Mat.5.8#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to appear"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Μακάριοι oddane jako „Błogosławieni”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1,
+        2
+      ],
+      "uwaga": "οἱ καθαροὶ oddane jako „czystego”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τῇ καρδίᾳ, celownik „w sercu”, oddane dopełniaczem „serca”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ὅτι oddane jako „albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "αὐτοὶ oddane jako „oni”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τὸν θεὸν oddane jako „Boga”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ὄψονται, futurum, oddane czasem teraźniejszym „oglądają”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_przesuniety",
+    "uzasadnienie": "ὄψονται to futurum „ujrzą”, a „oglądają” jest czasem teraźniejszym. Obietnica na później staje się zdaniem o teraźniejszości. Innych dopowiedzeń i opuszczeń nie ma.",
+    "tokeny_bg": [
+      6
+    ],
+    "tokeny_zrodla": [
+      9
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὄψονται ma morfologię V-FDI-3P i glosę „will see”, a polskie orzeczenie brzmi „oglądają”.",
+      "tokeny_bg": [
+        6
+      ],
+      "tokeny_zrodla": [
+        9
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τῇ καρδίᾳ to celownik bez przyimka, oddany w zwrocie „czystego serca”.",
+      "tokeny_bg": [
+        1,
+        2
+      ],
+      "tokeny_zrodla": [
+        3,
+        4
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Blahoslavení čistého srdce, nebo oni Boha viděti budou.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

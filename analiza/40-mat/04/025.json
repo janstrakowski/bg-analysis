@@ -1,0 +1,530 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.25",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 25
+  },
+  "tekst_bg": "A szedł za nim lud wielki z Galilei, i z dziesięciu miast, i z Jeruzalemu, i z Judzkiej ziemi, i z Za-Jordania.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "szedł"
+    },
+    {
+      "i": 2,
+      "t": "za"
+    },
+    {
+      "i": 3,
+      "t": "nim"
+    },
+    {
+      "i": 4,
+      "t": "lud"
+    },
+    {
+      "i": 5,
+      "t": "wielki"
+    },
+    {
+      "i": 6,
+      "t": "z"
+    },
+    {
+      "i": 7,
+      "t": "Galilei"
+    },
+    {
+      "i": 8,
+      "t": "i"
+    },
+    {
+      "i": 9,
+      "t": "z"
+    },
+    {
+      "i": 10,
+      "t": "dziesięciu"
+    },
+    {
+      "i": 11,
+      "t": "miast"
+    },
+    {
+      "i": 12,
+      "t": "i"
+    },
+    {
+      "i": 13,
+      "t": "z"
+    },
+    {
+      "i": 14,
+      "t": "Jeruzalemu"
+    },
+    {
+      "i": 15,
+      "t": "i"
+    },
+    {
+      "i": 16,
+      "t": "z"
+    },
+    {
+      "i": 17,
+      "t": "Judzkiej"
+    },
+    {
+      "i": 18,
+      "t": "ziemi"
+    },
+    {
+      "i": 19,
+      "t": "i"
+    },
+    {
+      "i": 20,
+      "t": "z"
+    },
+    {
+      "i": 21,
+      "t": "Za-Jordania"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.25",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.25",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.4.25#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἠκολούθησαν",
+        "lemma": "G0190",
+        "forma": "ἀκολουθέω",
+        "morph": "V-AAI-3P",
+        "glosa": "followed",
+        "id": "Mat.4.25#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to follow"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "Him",
+        "id": "Mat.4.25#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὄχλοι",
+        "lemma": "G3793",
+        "forma": "ὄχλος",
+        "morph": "N-NPM",
+        "glosa": "crowds",
+        "id": "Mat.4.25#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "crowd"
+      },
+      {
+        "t": "πολλοὶ",
+        "lemma": "G4183",
+        "forma": "πολύς",
+        "morph": "A-NPM",
+        "glosa": "great",
+        "id": "Mat.4.25#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "much"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.4.25#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "away from"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "<the>",
+        "id": "Mat.4.25#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Γαλιλαίας",
+        "lemma": "G1056G",
+        "forma": "Γαλιλαία",
+        "morph": "N-GSF-L",
+        "glosa": "Galilee",
+        "id": "Mat.4.25#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "Galilee"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.25#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "and"
+      },
+      {
+        "t": "Δεκαπόλεως",
+        "lemma": "G1179",
+        "forma": "Δεκάπολις",
+        "morph": "N-GSF-L",
+        "glosa": "[the] Decapolis",
+        "id": "Mat.4.25#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "Decapolis"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.25#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "and"
+      },
+      {
+        "t": "Ἱεροσολύμων",
+        "lemma": "G2414",
+        "forma": "Ἱεροσόλυμα",
+        "morph": "N-GPN-L",
+        "glosa": "Jerusalem",
+        "id": "Mat.4.25#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "Jerusalem"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.25#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "Ἰουδαίας",
+        "lemma": "G2449",
+        "forma": "Ἰουδαία",
+        "morph": "N-GSF-L",
+        "glosa": "Judea",
+        "id": "Mat.4.25#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "Judea"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.25#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "and"
+      },
+      {
+        "t": "πέραν",
+        "lemma": "G4008",
+        "forma": "πέραν",
+        "morph": "PREP",
+        "glosa": "beyond",
+        "id": "Mat.4.25#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "other side"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.4.25#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰορδάνου",
+        "lemma": "G2446",
+        "forma": "Ἰορδάνης",
+        "morph": "N-GSM-L",
+        "glosa": "Jordan.",
+        "id": "Mat.4.25#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "Jordan"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἠκολούθησαν, liczba mnoga, oddane jako „szedł za”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "αὐτῷ oddane jako „nim”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὄχλοι, liczba mnoga, oddane liczbą pojedynczą „lud”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "πολλοὶ oddane jako „wielki”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        9,
+        13,
+        16,
+        20
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Jedno ἀπὸ obejmuje wszystkie dopełniacze, a BG powtarza je jako „z”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τῆς Γαλιλαίας oddane jako „Galilei”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        10,
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "Δεκαπόλεως, glosa „Decapolis”, oddane jako „dziesięciu miast”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "Ἱεροσολύμων oddane jako „Jeruzalemu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        17,
+        18
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "Ἰουδαίας oddane jako „Judzkiej ziemi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        15,
+        16,
+        17
+      ],
+      "uwaga": "πέραν τοῦ Ἰορδάνου oddane jako „Za-Jordania”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Za Jezusem idzie wielki lud z Galilei, Dekapolu, Jerozolimy, Judei i Zajordania. Jedno ἀπὸ jest powtórzone przy każdym miejscu, a liczba mnoga ὄχλοι brzmi „lud”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὄχλοι πολλοὶ to liczba mnoga. BG nazywa ten tłum liczbą pojedynczą „lud wielki”, a ἠκολούθησαν oddaje przez „szedł za”.",
+      "tokeny_bg": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Δεκαπόλεως BG rozbija na „dziesięciu miast”, a πέραν τοῦ Ἰορδάνου skupia w „Za-Jordania”.",
+      "tokeny_bg": [
+        10,
+        11,
+        21
+      ],
+      "tokeny_zrodla": [
+        9,
+        15,
+        16,
+        17
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I šli za ním zástupové mnozí z Galilee a z krajiny Desíti měst, i z Jeruzaléma i z Judstva i z Zajordání.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

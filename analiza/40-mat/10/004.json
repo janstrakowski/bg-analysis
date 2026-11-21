@@ -1,0 +1,318 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.4",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 4
+  },
+  "tekst_bg": "Szymon Kananejczyk, i Judasz Iszkaryjot, który go też wydał.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Szymon"
+    },
+    {
+      "i": 1,
+      "t": "Kananejczyk"
+    },
+    {
+      "i": 2,
+      "t": "i"
+    },
+    {
+      "i": 3,
+      "t": "Judasz"
+    },
+    {
+      "i": 4,
+      "t": "Iszkaryjot"
+    },
+    {
+      "i": 5,
+      "t": "który"
+    },
+    {
+      "i": 6,
+      "t": "go"
+    },
+    {
+      "i": 7,
+      "t": "też"
+    },
+    {
+      "i": 8,
+      "t": "wydał"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.4",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.4",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Σίμων",
+        "lemma": "G4613G",
+        "forma": "Σίμων",
+        "morph": "N-NSM-P",
+        "glosa": "Simon",
+        "id": "Mat.10.4#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "Simon"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.10.4#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Καναναῖος",
+        "lemma": "G2581",
+        "forma": "Κανανίτης, Καναναῖος",
+        "morph": "N-NSM-T",
+        "glosa": "Zealot",
+        "id": "Mat.10.4#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "Zealot"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.4#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "and"
+      },
+      {
+        "t": "Ἰούδας",
+        "lemma": "G2455H",
+        "forma": "Ἰούδας",
+        "morph": "N-NSM-P",
+        "glosa": "Judas",
+        "id": "Mat.10.4#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Judas"
+      },
+      {
+        "t": "Ἰσκαριώτης",
+        "lemma": "G2469",
+        "forma": "Ἰσκαριώτης, Ἰσκαριώθ",
+        "morph": "N-NSM-P",
+        "glosa": "Iscariot",
+        "id": "Mat.10.4#07",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Iscariot"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the [one]",
+        "id": "Mat.10.4#08",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "also",
+        "id": "Mat.10.4#09",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "παραδοὺς",
+        "lemma": "G3860",
+        "forma": "παραδίδωμι",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having betrayed",
+        "id": "Mat.10.4#10",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to deliver"
+      },
+      {
+        "t": "αὐτόν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "Him.",
+        "id": "Mat.10.4#11",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Σίμων oddane jako „Szymon”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1,
+        2
+      ],
+      "uwaga": "ὁ Καναναῖος, w glosie „Zealot”, oddane imieniem „Kananejczyk”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "Ἰούδας oddane jako „Judasz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Ἰσκαριώτης oddane jako „Iszkaryjot”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [],
+      "uwaga": "„który” otwiera zdanie względne przy ὁ παραδοὺς. W grece nie ma zaimka ὅς.",
+      "uzasadnienie": "Rodzajnik ὁ przy imiesłowie παραδούς nie jest zaimkiem względnym. „który” buduje polskie zdanie o tej samej osobie."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "αὐτόν oddane jako „go”; zaimek stoi przed „też”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ, „także”, oddane jako „też”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        6,
+        8
+      ],
+      "uwaga": "ὁ παραδοὺς, imiesłów „wydawszy”, oddane jako „wydał”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "„który” rozwija ὁ παραδούς w zdanie względne. „też” jest καί, a „go” jest αὐτόν. Zdanie nadal mówi, że Judasz go wydał.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὁ καὶ παραδοὺς αὐτόν BG oddaje jako „który go też wydał”: „też” stoi przy καί, a „który” otwiera zdanie względne.",
+      "tokeny_bg": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "tokeny_zrodla": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Καναναῖος ma w paczce glosę „Zealot”, a BG oddaje formę imienia jako „Kananejczyk”.",
+      "tokeny_bg": [
+        1
+      ],
+      "tokeny_zrodla": [
+        1,
+        2
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Šimon Kananitský a Jidáš Iškariotský, kterýž i zradil ho.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.8",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 8
+  },
+  "tekst_bg": "Każdy bowiem, kto prosi, bierze; a kto szuka, znajduje; a temu, co kołacze, będzie otworzono.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Każdy"
+    },
+    {
+      "i": 1,
+      "t": "bowiem"
+    },
+    {
+      "i": 2,
+      "t": "kto"
+    },
+    {
+      "i": 3,
+      "t": "prosi"
+    },
+    {
+      "i": 4,
+      "t": "bierze"
+    },
+    {
+      "i": 5,
+      "t": "a"
+    },
+    {
+      "i": 6,
+      "t": "kto"
+    },
+    {
+      "i": 7,
+      "t": "szuka"
+    },
+    {
+      "i": 8,
+      "t": "znajduje"
+    },
+    {
+      "i": 9,
+      "t": "a"
+    },
+    {
+      "i": 10,
+      "t": "temu"
+    },
+    {
+      "i": 11,
+      "t": "co"
+    },
+    {
+      "i": 12,
+      "t": "kołacze"
+    },
+    {
+      "i": 13,
+      "t": "będzie"
+    },
+    {
+      "i": 14,
+      "t": "otworzono"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.8",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.8",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "πᾶς",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NSM",
+        "glosa": "Everyone",
+        "id": "Mat.7.8#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "all"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.7.8#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "who",
+        "id": "Mat.7.8#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "αἰτῶν",
+        "lemma": "G0154",
+        "forma": "αἰτέω",
+        "morph": "V-PAP-NSM",
+        "glosa": "is asking",
+        "id": "Mat.7.8#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to ask"
+      },
+      {
+        "t": "λαμβάνει",
+        "lemma": "G2983",
+        "forma": "λαμβάνω",
+        "morph": "V-PAI-3S",
+        "glosa": "receives,",
+        "id": "Mat.7.8#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to take"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.8#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the [one]",
+        "id": "Mat.7.8#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ζητῶν",
+        "lemma": "G2212",
+        "forma": "ζητέω",
+        "morph": "V-PAP-NSM",
+        "glosa": "seeking",
+        "id": "Mat.7.8#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to seek"
+      },
+      {
+        "t": "εὑρίσκει",
+        "lemma": "G2147",
+        "forma": "εὑρίσκω",
+        "morph": "V-PAI-3S",
+        "glosa": "finds,",
+        "id": "Mat.7.8#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to find/meet"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.8#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "to the [one]",
+        "id": "Mat.7.8#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κρούοντι",
+        "lemma": "G2925",
+        "forma": "κρούω",
+        "morph": "V-PAP-DSM",
+        "glosa": "knocking",
+        "id": "Mat.7.8#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to knock"
+      },
+      {
+        "t": "ἀνοιγήσεται",
+        "lemma": "G0455",
+        "forma": "ἀνοίγω",
+        "morph": "V-2FPI-3S",
+        "glosa": "it will be opened.",
+        "id": "Mat.7.8#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to open"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "πᾶς oddane jako „Każdy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "γὰρ oddane jako „bowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὁ, glosa „who”, oddane jako „kto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "αἰτῶν, imiesłów, oddane jako „prosi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "λαμβάνει oddane jako „bierze”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "Drugi ὁ oddany jako „kto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ζητῶν oddane jako „szuka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "εὑρίσκει oddane jako „znajduje”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "Drugie καὶ oddane jako „a”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        10,
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "τῷ, celownik „temu, który”, rozbite na „temu, co”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "κρούοντι, imiesłów, oddane jako „kołacze”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        13,
+        14
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἀνοιγήσεται oddane jako „będzie otworzono”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Trzy człony są pokryte. Rodzajnik τῷ rozbity na „temu, co”, a strona bierna na „będzie otworzono”. W tym wersecie nie ma ὑμῖν.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὁ αἰτῶν, ὁ ζητῶν i τῷ κρούοντι BG oddaje jako „kto prosi”, „kto szuka” i „temu, co kołacze”. ἀνοιγήσεται nie ma przy sobie ὑμῖν.",
+      "tokeny_bg": [
+        2,
+        3,
+        6,
+        7,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "tokeny_zrodla": [
+        2,
+        3,
+        6,
+        7,
+        10,
+        11,
+        12
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo každý, kdož prosí, béře; a kdož hledá, nalézá; a tomu, jenž tluče, bude otevříno.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,632 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.9",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 9
+  },
+  "tekst_bg": "A odchodząc stamtąd Jezus, ujrzał człowieka siedzącego na cle, którego zwano Mateusz, i rzekł mu: Pójdź za mną; tedy wstawszy, szedł za nim.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "odchodząc"
+    },
+    {
+      "i": 2,
+      "t": "stamtąd"
+    },
+    {
+      "i": 3,
+      "t": "Jezus"
+    },
+    {
+      "i": 4,
+      "t": "ujrzał"
+    },
+    {
+      "i": 5,
+      "t": "człowieka"
+    },
+    {
+      "i": 6,
+      "t": "siedzącego"
+    },
+    {
+      "i": 7,
+      "t": "na"
+    },
+    {
+      "i": 8,
+      "t": "cle"
+    },
+    {
+      "i": 9,
+      "t": "którego"
+    },
+    {
+      "i": 10,
+      "t": "zwano"
+    },
+    {
+      "i": 11,
+      "t": "Mateusz"
+    },
+    {
+      "i": 12,
+      "t": "i"
+    },
+    {
+      "i": 13,
+      "t": "rzekł"
+    },
+    {
+      "i": 14,
+      "t": "mu"
+    },
+    {
+      "i": 15,
+      "t": "Pójdź"
+    },
+    {
+      "i": 16,
+      "t": "za"
+    },
+    {
+      "i": 17,
+      "t": "mną"
+    },
+    {
+      "i": 18,
+      "t": "tedy"
+    },
+    {
+      "i": 19,
+      "t": "wstawszy"
+    },
+    {
+      "i": 20,
+      "t": "szedł"
+    },
+    {
+      "i": 21,
+      "t": "za"
+    },
+    {
+      "i": 22,
+      "t": "nim"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.9",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.9",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.9#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "παράγων",
+        "lemma": "G3855",
+        "forma": "παράγω",
+        "morph": "V-PAP-NSM",
+        "glosa": "passing on",
+        "id": "Mat.9.9#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to pass"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.9.9#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.9.9#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "ἐκεῖθεν",
+        "lemma": "G1564",
+        "forma": "ἐκεῖθεν",
+        "morph": "ADV",
+        "glosa": "from there",
+        "id": "Mat.9.9#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "from there"
+      },
+      {
+        "t": "εἶδεν",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAI-3S",
+        "glosa": "He saw",
+        "id": "Mat.9.9#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "ἄνθρωπον",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-ASM",
+        "glosa": "a man",
+        "id": "Mat.9.9#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "a human"
+      },
+      {
+        "t": "καθήμενον",
+        "lemma": "G2521",
+        "forma": "κάθημαι",
+        "morph": "V-PNP-ASM",
+        "glosa": "sitting",
+        "id": "Mat.9.9#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to sit"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "at",
+        "id": "Mat.9.9#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.9.9#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "τελώνιον",
+        "lemma": "G5058",
+        "forma": "τελώνιον",
+        "morph": "N-ASN",
+        "glosa": "tax booth,",
+        "id": "Mat.9.9#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "tax booth"
+      },
+      {
+        "t": "Μαθθαῖον",
+        "lemma": "G3156",
+        "forma": "Ματθαῖος",
+        "morph": "N-ASM-P",
+        "glosa": "Matthew",
+        "id": "Mat.9.9#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "Matthew"
+      },
+      {
+        "t": "λεγόμενον",
+        "lemma": "G3004H",
+        "forma": "λέγω",
+        "morph": "V-PPP-ASM",
+        "glosa": "named,",
+        "id": "Mat.9.9#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to say: call"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.9#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "and"
+      },
+      {
+        "t": "λέγει",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-3S",
+        "glosa": "He says",
+        "id": "Mat.9.9#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to him;",
+        "id": "Mat.9.9#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἀκολούθει",
+        "lemma": "G0190",
+        "forma": "ἀκολουθέω",
+        "morph": "V-PAM-2S",
+        "glosa": "do follow",
+        "id": "Mat.9.9#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to follow"
+      },
+      {
+        "t": "μοι",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1DS",
+        "glosa": "Me.",
+        "id": "Mat.9.9#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "me"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.9#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀναστὰς",
+        "lemma": "G0450",
+        "forma": "ἀνίστημι",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having arisen",
+        "id": "Mat.9.9#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "to arise"
+      },
+      {
+        "t": "ἠκολούθησεν",
+        "lemma": "G0190",
+        "forma": "ἀκολουθέω",
+        "morph": "V-AAI-3S",
+        "glosa": "he followed",
+        "id": "Mat.9.9#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "to follow"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "Him.",
+        "id": "Mat.9.9#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Καὶ oddane na początku jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "παράγων, „passing on”, oddane jako „odchodząc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐκεῖθεν oddane jako „stamtąd”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "εἶδεν oddane jako „ujrzał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἄνθρωπον oddane jako „człowieka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καθήμενον oddane jako „siedzącego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐπὶ oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τὸ τελώνιον oddane jako „cle”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [],
+      "uwaga": "„którego” otwiera zdanie względne, choć w TR nie ma zaimka ὅς.",
+      "uzasadnienie": "Μαθθαῖον λεγόμενον jest imiesłowem „named”, bez zaimka względnego. „którego” dopowiada polskie zdanie."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "λεγόμενον, imiesłów bierny „named”, oddane jako „zwano”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "Μαθθαῖον oddane jako „Mateusz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "λέγει, czas teraźniejszy „He says”, oddane czasem przeszłym „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        15,
+        16
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἀκολούθει, „do follow”, oddane jako „Pójdź za”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "μοι oddane jako „mną”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "καὶ oddane jako „tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "ἀναστὰς oddane jako „wstawszy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        20,
+        21
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ἠκολούθησεν, „he followed”, oddane jako „szedł za”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "αὐτῷ oddane jako „nim”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „którego” dopowiada zdanie względne przy imiesłowie λεγόμενον, który w TR nie ma zaimka ὅς.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Μαθθαῖον λεγόμενον nie ma zaimka ὅς. BG wstawia „którego” i mówi „którego zwano Mateusz”.",
+      "tokeny_bg": [
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        11,
+        12
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀκολούθει μοι i ἠκολούθησεν αὐτῷ nie mają przyimka. BG rozbija oba czasowniki na „Pójdź za mną” i „szedł za nim”.",
+      "tokeny_bg": [
+        15,
+        16,
+        17,
+        20,
+        21,
+        22
+      ],
+      "tokeny_zrodla": [
+        16,
+        17,
+        20,
+        21
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A jda odtud Ježíš, uzřel člověka sedícího na cle, jménem Matouše. I dí mu: Pojď za mnou. A on vstav, šel za ním.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

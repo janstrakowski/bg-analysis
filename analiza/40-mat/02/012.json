@@ -1,0 +1,493 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.2.12",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 2,
+    "werset": 12
+  },
+  "tekst_bg": "Lecz będąc upomnieni od Boga we śnie, aby się nie wracali do Heroda, inszą drogą wrócili się do krainy swojej.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Lecz"
+    },
+    {
+      "i": 1,
+      "t": "będąc"
+    },
+    {
+      "i": 2,
+      "t": "upomnieni"
+    },
+    {
+      "i": 3,
+      "t": "od"
+    },
+    {
+      "i": 4,
+      "t": "Boga"
+    },
+    {
+      "i": 5,
+      "t": "we"
+    },
+    {
+      "i": 6,
+      "t": "śnie"
+    },
+    {
+      "i": 7,
+      "t": "aby"
+    },
+    {
+      "i": 8,
+      "t": "się"
+    },
+    {
+      "i": 9,
+      "t": "nie"
+    },
+    {
+      "i": 10,
+      "t": "wracali"
+    },
+    {
+      "i": 11,
+      "t": "do"
+    },
+    {
+      "i": 12,
+      "t": "Heroda"
+    },
+    {
+      "i": 13,
+      "t": "inszą"
+    },
+    {
+      "i": 14,
+      "t": "drogą"
+    },
+    {
+      "i": 15,
+      "t": "wrócili"
+    },
+    {
+      "i": 16,
+      "t": "się"
+    },
+    {
+      "i": 17,
+      "t": "do"
+    },
+    {
+      "i": 18,
+      "t": "krainy"
+    },
+    {
+      "i": 19,
+      "t": "swojej"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.2.12",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.2.12",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.2.12#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "χρηματισθέντες",
+        "lemma": "G5537",
+        "forma": "χρηματίζω",
+        "morph": "V-APP-NPM",
+        "glosa": "having been divinely warned",
+        "id": "Mat.2.12#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to announce"
+      },
+      {
+        "t": "κατ᾽",
+        "lemma": "G2596",
+        "forma": "κατά",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.2.12#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "according to"
+      },
+      {
+        "t": "ὄναρ",
+        "lemma": "G3677",
+        "forma": "ὄναρ",
+        "morph": "N-ASN",
+        "glosa": "a dream",
+        "id": "Mat.2.12#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "dream"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.2.12#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "not"
+      },
+      {
+        "t": "ἀνακάμψαι",
+        "lemma": "G0344",
+        "forma": "ἀνακάμπτω",
+        "morph": "V-AAN",
+        "glosa": "to return",
+        "id": "Mat.2.12#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to return"
+      },
+      {
+        "t": "πρὸς",
+        "lemma": "G4314",
+        "forma": "πρός",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.2.12#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to/with"
+      },
+      {
+        "t": "Ἡρῴδην",
+        "lemma": "G2264G",
+        "forma": "Ἡρώδης",
+        "morph": "N-ASM-P",
+        "glosa": "Herod,",
+        "id": "Mat.2.12#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "Herod"
+      },
+      {
+        "t": "δι᾽",
+        "lemma": "G1223",
+        "forma": "διά",
+        "morph": "PREP",
+        "glosa": "through",
+        "id": "Mat.2.12#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "through/because of"
+      },
+      {
+        "t": "ἄλλης",
+        "lemma": "G0243",
+        "forma": "ἄλλος",
+        "morph": "A-GSF",
+        "glosa": "another",
+        "id": "Mat.2.12#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "another"
+      },
+      {
+        "t": "ὁδοῦ",
+        "lemma": "G3598",
+        "forma": "ὁδός",
+        "morph": "N-GSF",
+        "glosa": "route",
+        "id": "Mat.2.12#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "road"
+      },
+      {
+        "t": "ἀνεχώρησαν",
+        "lemma": "G0402",
+        "forma": "ἀναχωρέω",
+        "morph": "V-AAI-3P",
+        "glosa": "they withdrew",
+        "id": "Mat.2.12#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to leave"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.2.12#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.2.12#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "χώραν",
+        "lemma": "G5561",
+        "forma": "χώρα",
+        "morph": "N-ASF",
+        "glosa": "country",
+        "id": "Mat.2.12#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "country"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them.",
+        "id": "Mat.2.12#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καί, glosa „And”, oddane jako „Lecz”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "χρηματισθέντες, imiesłów bierny „divinely warned”, oddane jako „będąc upomnieni”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [],
+      "uwaga": "„od Boga” nie ma tokenu θεός. Glosa czasownika mówi „divinely warned”.",
+      "uzasadnienie": "Sprawcę ostrzeżenia TR zostawia w czasowniku χρηματίζω. „od Boga” nazywa go osobno."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "κατ᾽ w zwrocie κατ᾽ ὄναρ oddane jako „we”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὄναρ oddane jako „śnie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "μή oddane jako „nie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        7,
+        8,
+        10
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἀνακάμψαι, bezokolicznik, rozbite na „aby się wracali”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "πρός oddane jako „do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "Ἡρῴδην oddane jako „Heroda”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἄλλης oddane jako „inszą”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        8,
+        10
+      ],
+      "uwaga": "δι᾽ ὁδοῦ oddane narzędnikiem „drogą”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        15,
+        16
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἀνεχώρησαν, glosa „they withdrew”, oddane jako „wrócili się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τὴν χώραν oddane jako „krainy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "αὐτῶν oddane jako „swojej”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „od Boga” dopowiada sprawcę, którego χρηματισθέντες niesie w glosie „divinely warned”, bez osobnego θεός.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "χρηματισθέντες ma glosę „having been divinely warned”. W wersecie nie ma θεός, a BG dodaje „od Boga”.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        1
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "μή ἀνακάμψαι to bezokolicznik „not to return”. BG rozbija go na „aby się nie wracali”.",
+      "tokeny_bg": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        4,
+        5
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A od Boha napomenuti jsouce ve snách, aby se nenavraceli k Herodesovi, jinou cestou navrátili se do krajiny své.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.36",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 36
+  },
+  "tekst_bg": "A widząc on lud, użalił się go, iż był strudzony i rozproszony jako owce niemające pasterza.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "widząc"
+    },
+    {
+      "i": 2,
+      "t": "on"
+    },
+    {
+      "i": 3,
+      "t": "lud"
+    },
+    {
+      "i": 4,
+      "t": "użalił"
+    },
+    {
+      "i": 5,
+      "t": "się"
+    },
+    {
+      "i": 6,
+      "t": "go"
+    },
+    {
+      "i": 7,
+      "t": "iż"
+    },
+    {
+      "i": 8,
+      "t": "był"
+    },
+    {
+      "i": 9,
+      "t": "strudzony"
+    },
+    {
+      "i": 10,
+      "t": "i"
+    },
+    {
+      "i": 11,
+      "t": "rozproszony"
+    },
+    {
+      "i": 12,
+      "t": "jako"
+    },
+    {
+      "i": 13,
+      "t": "owce"
+    },
+    {
+      "i": 14,
+      "t": "niemające"
+    },
+    {
+      "i": 15,
+      "t": "pasterza"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.36",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.36",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἰδὼν",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAP-NSM",
+        "glosa": "Having seen",
+        "id": "Mat.9.36#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.9.36#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.9.36#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὄχλους",
+        "lemma": "G3793",
+        "forma": "ὄχλος",
+        "morph": "N-APM",
+        "glosa": "crowds",
+        "id": "Mat.9.36#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "crowd"
+      },
+      {
+        "t": "ἐσπλαγχνίσθη",
+        "lemma": "G4697",
+        "forma": "σπλαγχνίζω",
+        "morph": "V-AOI-3S",
+        "glosa": "He was moved with compassion",
+        "id": "Mat.9.36#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to pity"
+      },
+      {
+        "t": "περὶ",
+        "lemma": "G4012",
+        "forma": "περί",
+        "morph": "PREP",
+        "glosa": "for",
+        "id": "Mat.9.36#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "about"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "them",
+        "id": "Mat.9.36#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "because",
+        "id": "Mat.9.36#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "ἦσαν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-IAI-3P",
+        "glosa": "they were",
+        "id": "Mat.9.36#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἐκλελυμένοι",
+        "lemma": "G1590",
+        "forma": "ἐκλελυμένοι",
+        "morph": "V-RPP-NPM",
+        "glosa": "wearied",
+        "id": "Mat.9.36#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to faint"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.36#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐρριμμένοι",
+        "lemma": "G4496",
+        "forma": "ῥίπτω",
+        "morph": "V-RPP-NPM",
+        "glosa": "cast away",
+        "id": "Mat.9.36#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to throw/lay down"
+      },
+      {
+        "t": "ὡσεὶ",
+        "lemma": "G5616",
+        "forma": "ὡσεί",
+        "morph": "PREP",
+        "glosa": "as",
+        "id": "Mat.9.36#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "like/as/about"
+      },
+      {
+        "t": "πρόβατα",
+        "lemma": "G4263",
+        "forma": "πρόβατον",
+        "morph": "N-NPN",
+        "glosa": "sheep",
+        "id": "Mat.9.36#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "sheep"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.9.36#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "not"
+      },
+      {
+        "t": "ἔχοντα",
+        "lemma": "G2192",
+        "forma": "ἔχω",
+        "morph": "V-PAP-NPN",
+        "glosa": "having",
+        "id": "Mat.9.36#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to have/be"
+      },
+      {
+        "t": "ποιμένα",
+        "lemma": "G4166",
+        "forma": "ποιμήν",
+        "morph": "N-ASM",
+        "glosa": "a shepherd.",
+        "id": "Mat.9.36#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "shepherd"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po Ἰδών, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ἰδών oddane jako „widząc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "τοὺς, rodzajnik przy ὄχλους, oddane jako „on”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὄχλους, liczba mnoga „tłumy”, oddane zbiorowym „lud”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐσπλαγχνίσθη, aoryst strony biernej „użalił się”, oddane jako „użalił się”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "περὶ αὐτῶν „o nich” oddane samym dopełniaczem „go”; liczba mnoga idzie za zbiorowym „lud”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ὅτι oddane jako „iż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἦσαν, liczba mnoga „byli”, oddane jako „był” przy zbiorowym „lud”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἐκλελυμένοι „strudzeni” oddane jako „strudzony”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἐρριμμένοι „porzucone” oddane jako „rozproszony”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ὡσεὶ oddane jako „jako”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "πρόβατα oddane jako „owce”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "μὴ ἔχοντα oddane jako „niemające”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ποιμένα oddane jako „pasterza”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Liczba mnoga tłumów jest zbiorowym „lud”, a περὶ αὐτῶν zlewa się w dopełniacz „go”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τοὺς ὄχλους, ἦσαν i αὐτῶν są w liczbie mnogiej, a BG daje zbiorowe „lud”, „był” i „go”. Mowa o tym samym tłumie.",
+      "tokeny_bg": [
+        2,
+        3,
+        6,
+        8
+      ],
+      "tokeny_zrodla": [
+        2,
+        3,
+        5,
+        6,
+        8
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A když hleděl na zástupy, slitovalo se mu jich, že byli tak opuštěni a rozptýleni jako ovce, nemajíce pastýře.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

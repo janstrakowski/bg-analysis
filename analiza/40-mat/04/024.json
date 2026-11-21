@@ -1,0 +1,837 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.24",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 24
+  },
+  "tekst_bg": "I rozeszła się wieść o nim po wszystkiej Syryi; i przywodzono do niego wszystkie źle się mające, a rozmaitemi chorobami i mękami zdjęte, także i opętane, i lunatyki i powietrzem ruszone; i uzdrawiał je.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "rozeszła"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "wieść"
+    },
+    {
+      "i": 4,
+      "t": "o"
+    },
+    {
+      "i": 5,
+      "t": "nim"
+    },
+    {
+      "i": 6,
+      "t": "po"
+    },
+    {
+      "i": 7,
+      "t": "wszystkiej"
+    },
+    {
+      "i": 8,
+      "t": "Syryi"
+    },
+    {
+      "i": 9,
+      "t": "i"
+    },
+    {
+      "i": 10,
+      "t": "przywodzono"
+    },
+    {
+      "i": 11,
+      "t": "do"
+    },
+    {
+      "i": 12,
+      "t": "niego"
+    },
+    {
+      "i": 13,
+      "t": "wszystkie"
+    },
+    {
+      "i": 14,
+      "t": "źle"
+    },
+    {
+      "i": 15,
+      "t": "się"
+    },
+    {
+      "i": 16,
+      "t": "mające"
+    },
+    {
+      "i": 17,
+      "t": "a"
+    },
+    {
+      "i": 18,
+      "t": "rozmaitemi"
+    },
+    {
+      "i": 19,
+      "t": "chorobami"
+    },
+    {
+      "i": 20,
+      "t": "i"
+    },
+    {
+      "i": 21,
+      "t": "mękami"
+    },
+    {
+      "i": 22,
+      "t": "zdjęte"
+    },
+    {
+      "i": 23,
+      "t": "także"
+    },
+    {
+      "i": 24,
+      "t": "i"
+    },
+    {
+      "i": 25,
+      "t": "opętane"
+    },
+    {
+      "i": 26,
+      "t": "i"
+    },
+    {
+      "i": 27,
+      "t": "lunatyki"
+    },
+    {
+      "i": 28,
+      "t": "i"
+    },
+    {
+      "i": 29,
+      "t": "powietrzem"
+    },
+    {
+      "i": 30,
+      "t": "ruszone"
+    },
+    {
+      "i": 31,
+      "t": "i"
+    },
+    {
+      "i": 32,
+      "t": "uzdrawiał"
+    },
+    {
+      "i": 33,
+      "t": "je"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.24",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.24",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.4.24#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀπῆλθεν",
+        "lemma": "G0565",
+        "forma": "ἀπέρχομαι",
+        "morph": "V-2AAI-3S",
+        "glosa": "went out",
+        "id": "Mat.4.24#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to go away"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.4.24#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀκοὴ",
+        "lemma": "G0189",
+        "forma": "ἀκοή",
+        "morph": "N-NSF",
+        "glosa": "news",
+        "id": "Mat.4.24#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "hearing"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him",
+        "id": "Mat.4.24#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.4.24#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "toward"
+      },
+      {
+        "t": "ὅλην",
+        "lemma": "G3650",
+        "forma": "ὅλος",
+        "morph": "A-ASF",
+        "glosa": "all",
+        "id": "Mat.4.24#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "all"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "<the>",
+        "id": "Mat.4.24#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Συρίαν",
+        "lemma": "G4947",
+        "forma": "Συρία",
+        "morph": "N-ASF-L",
+        "glosa": "Syria;",
+        "id": "Mat.4.24#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "Syria"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.4.24#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "προσήνεγκαν",
+        "lemma": "G4374",
+        "forma": "προσφέρω",
+        "morph": "V-AAI-3P",
+        "glosa": "they brought",
+        "id": "Mat.4.24#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to bring to"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to Him",
+        "id": "Mat.4.24#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "πάντας",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-APM",
+        "glosa": "all",
+        "id": "Mat.4.24#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "all"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.4.24#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κακῶς",
+        "lemma": "G2560",
+        "forma": "κακῶς",
+        "morph": "ADV",
+        "glosa": "sick",
+        "id": "Mat.4.24#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "badly"
+      },
+      {
+        "t": "ἔχοντας",
+        "lemma": "G2192",
+        "forma": "ἔχω",
+        "morph": "V-PAP-APM",
+        "glosa": "having",
+        "id": "Mat.4.24#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to have/be"
+      },
+      {
+        "t": "ποικίλαις",
+        "lemma": "G4164",
+        "forma": "ποικίλος",
+        "morph": "A-DPF",
+        "glosa": "various",
+        "id": "Mat.4.24#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "various"
+      },
+      {
+        "t": "νόσοις",
+        "lemma": "G3554",
+        "forma": "νόσος",
+        "morph": "N-DPF",
+        "glosa": "diseases",
+        "id": "Mat.4.24#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "illness"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.24#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "and"
+      },
+      {
+        "t": "βασάνοις",
+        "lemma": "G0931",
+        "forma": "βάσανος",
+        "morph": "N-DPF",
+        "glosa": "by pains",
+        "id": "Mat.4.24#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "torment"
+      },
+      {
+        "t": "συνεχομένους",
+        "lemma": "G4912",
+        "forma": "συνέχω",
+        "morph": "V-PPP-APM",
+        "glosa": "oppressing,",
+        "id": "Mat.4.24#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "to hold/oppress"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.24#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "and"
+      },
+      {
+        "t": "δαιμονιζομένους",
+        "lemma": "G1139",
+        "forma": "δαιμονίζομαι",
+        "morph": "V-PNP-APM",
+        "glosa": "those being demonised",
+        "id": "Mat.4.24#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "be demonised"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.24#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "and"
+      },
+      {
+        "t": "σεληνιαζομένους",
+        "lemma": "G4583",
+        "forma": "σεληνιάζομαι",
+        "morph": "V-PNP-APM",
+        "glosa": "those being epileptic",
+        "id": "Mat.4.24#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "be epileptic"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.24#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "and"
+      },
+      {
+        "t": "παραλυτικούς",
+        "lemma": "G3885",
+        "forma": "παραλυτικός",
+        "morph": "A-APM",
+        "glosa": "those paralytic;",
+        "id": "Mat.4.24#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "paralytic"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.24#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐθεράπευσεν",
+        "lemma": "G2323",
+        "forma": "θεραπεύω",
+        "morph": "V-AAI-3S",
+        "glosa": "He healed",
+        "id": "Mat.4.24#29",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "to serve/heal"
+      },
+      {
+        "t": "αὐτούς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-APM",
+        "glosa": "them.",
+        "id": "Mat.4.24#30",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Καὶ oddane jako „I”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἀπῆλθεν oddane jako „rozeszła się”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ἡ ἀκοὴ oddane jako „wieść”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτοῦ, dopełniacz, oddane jako „o nim”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "εἰς oddane jako „po”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὅλην oddane jako „wszystkiej”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τὴν Συρίαν oddane jako „Syryi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "προσήνεγκαν, „przynieśli”, oddane bezosobowo „przywodzono”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        11,
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "αὐτῷ, celownik, oddane jako „do niego”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "πάντας τοὺς oddane jako „wszystkie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "κακῶς oddane jako „źle”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        15,
+        16
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἔχοντας oddane jako „się mające”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        17
+      ],
+      "zrodlo": [],
+      "uwaga": "„a” łączy „mające” ze „zdjęte”.",
+      "uzasadnienie": "Między ἔχοντας a ποικίλαις nie ma spójnika. „a” spina po polsku dwa opisy chorych."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ποικίλαις oddane jako „rozmaitemi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "νόσοις oddane jako „chorobami”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "βασάνοις oddane jako „mękami”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "συνεχομένους oddane jako „zdjęte”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        23,
+        24
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "καὶ przed δαιμονιζομένους oddane zwrotem „także i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "δαιμονιζομένους oddane jako „opętane”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        26
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        27
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "σεληνιαζομένους, glosa „those being epileptic”, oddane jako „lunatyki”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        28
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        29,
+        30
+      ],
+      "zrodlo": [
+        26
+      ],
+      "uwaga": "παραλυτικούς, glosa „those paralytic”, oddane jako „powietrzem ruszone”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        31
+      ],
+      "zrodlo": [
+        27
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        32
+      ],
+      "zrodlo": [
+        28
+      ],
+      "uwaga": "ἐθεράπευσεν, aoryst, oddane niedokonanie „uzdrawiał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        33
+      ],
+      "zrodlo": [
+        29
+      ],
+      "uwaga": "αὐτούς oddane jako „je”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Wieść idzie po Syrii, a do Jezusa przynoszą chorych, opętanych, lunatyków i paralityków, i on ich uzdrawia. „a” dopowiada spójnik między dwoma opisami.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἔχοντας ποικίλαις νόσοις nie ma spójnika przed ποικίλαις. BG wstawia „a” przed „rozmaitemi chorobami”.",
+      "tokeny_bg": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "tokeny_zrodla": [
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "παραλυτικούς, glosa „those paralytic”, BG rozbija na „powietrzem ruszone”, a σεληνιαζομένους oddaje jako „lunatyki”.",
+      "tokeny_bg": [
+        27,
+        29,
+        30
+      ],
+      "tokeny_zrodla": [
+        24,
+        26
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A rozešla se o něm pověst po vší Syrii. I přivedli k němu všecky nemocné, rozličnými neduhy a trápeními poražené, i ďábelníky, i náměsičníky, i šlakem poražené; a uzdravoval je.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

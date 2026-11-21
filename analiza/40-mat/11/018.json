@@ -1,0 +1,357 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.18",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 18
+  },
+  "tekst_bg": "Albowiem przyszedł Jan ani jedząc ani pijąc, a mówią: Iż dyjabelstwo ma.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Albowiem"
+    },
+    {
+      "i": 1,
+      "t": "przyszedł"
+    },
+    {
+      "i": 2,
+      "t": "Jan"
+    },
+    {
+      "i": 3,
+      "t": "ani"
+    },
+    {
+      "i": 4,
+      "t": "jedząc"
+    },
+    {
+      "i": 5,
+      "t": "ani"
+    },
+    {
+      "i": 6,
+      "t": "pijąc"
+    },
+    {
+      "i": 7,
+      "t": "a"
+    },
+    {
+      "i": 8,
+      "t": "mówią"
+    },
+    {
+      "i": 9,
+      "t": "Iż"
+    },
+    {
+      "i": 10,
+      "t": "dyjabelstwo"
+    },
+    {
+      "i": 11,
+      "t": "ma"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.18",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.18",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἦλθεν",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAI-3S",
+        "glosa": "Came",
+        "id": "Mat.11.18#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.11.18#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "Ἰωάννης",
+        "lemma": "G2491G",
+        "forma": "Ἰωάννης",
+        "morph": "N-NSM-P",
+        "glosa": "John",
+        "id": "Mat.11.18#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "John"
+      },
+      {
+        "t": "μήτε",
+        "lemma": "G3383",
+        "forma": "μήτε",
+        "morph": "CONJ-N",
+        "glosa": "neither",
+        "id": "Mat.11.18#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "neither"
+      },
+      {
+        "t": "ἐσθίων",
+        "lemma": "G2068",
+        "forma": "ἐσθίω",
+        "morph": "V-PAP-NSM",
+        "glosa": "eating",
+        "id": "Mat.11.18#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to eat"
+      },
+      {
+        "t": "μήτε",
+        "lemma": "G3383",
+        "forma": "μήτε",
+        "morph": "CONJ-N",
+        "glosa": "nor",
+        "id": "Mat.11.18#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "neither"
+      },
+      {
+        "t": "πίνων",
+        "lemma": "G4095",
+        "forma": "πίνω",
+        "morph": "V-PAP-NSM",
+        "glosa": "drinking,",
+        "id": "Mat.11.18#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to drink"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.18#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "λέγουσιν",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-3P",
+        "glosa": "they say;",
+        "id": "Mat.11.18#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to say"
+      },
+      {
+        "t": "δαιμόνιον",
+        "lemma": "G1140",
+        "forma": "δαιμόνιον",
+        "morph": "N-ASN",
+        "glosa": "A demon",
+        "id": "Mat.11.18#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "demon"
+      },
+      {
+        "t": "ἔχει",
+        "lemma": "G2192",
+        "forma": "ἔχω",
+        "morph": "V-PAI-3S",
+        "glosa": "he has!",
+        "id": "Mat.11.18#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to have/be"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "γὰρ stoi po ἦλθεν, a BG wynosi je na początek jako „Albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἦλθεν oddane jako „przyszedł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "Ἰωάννης oddane jako „Jan”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "μήτε oddane jako „ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐσθίων oddane jako „jedząc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Drugie μήτε oddane jako „ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "πίνων oddane jako „pijąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "λέγουσιν oddane jako „mówią”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [],
+      "uwaga": "„Iż” otwiera przytoczenie. Po λέγουσιν nie ma ὅτι.",
+      "uzasadnienie": "„Iż” jest partykułą mowy zależnej. Treść zarzutu δαιμόνιον ἔχει zostaje ta sama, a w TR przytoczenie jest niezależne."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "δαιμόνιον oddane jako „dyjabelstwo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἔχει oddane jako „ma”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „Iż” dopowiada partykułę przytoczenia, której po λέγουσιν nie ma. Zarzut „dyjabelstwo ma” oddaje δαιμόνιον ἔχει.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "λέγουσιν· δαιμόνιον ἔχει nie ma ὅτι. BG wstawia „Iż” przed „dyjabelstwo ma”.",
+      "tokeny_bg": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Přišel zajisté Jan, nejeda ani pije, a oni řkou: Ďábelství má.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

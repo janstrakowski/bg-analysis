@@ -1,0 +1,408 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.21",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 21
+  },
+  "tekst_bg": "Słyszeliście, iż rzeczono starym: Nie będziesz zabijał; a ktobykolwiek zabił, będzie winien sądu;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Słyszeliście"
+    },
+    {
+      "i": 1,
+      "t": "iż"
+    },
+    {
+      "i": 2,
+      "t": "rzeczono"
+    },
+    {
+      "i": 3,
+      "t": "starym"
+    },
+    {
+      "i": 4,
+      "t": "Nie"
+    },
+    {
+      "i": 5,
+      "t": "będziesz"
+    },
+    {
+      "i": 6,
+      "t": "zabijał"
+    },
+    {
+      "i": 7,
+      "t": "a"
+    },
+    {
+      "i": 8,
+      "t": "ktobykolwiek"
+    },
+    {
+      "i": 9,
+      "t": "zabił"
+    },
+    {
+      "i": 10,
+      "t": "będzie"
+    },
+    {
+      "i": 11,
+      "t": "winien"
+    },
+    {
+      "i": 12,
+      "t": "sądu"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.21",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.21",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἠκούσατε",
+        "lemma": "G0191",
+        "forma": "ἀκούω",
+        "morph": "V-AAI-2P",
+        "glosa": "You have heard",
+        "id": "Mat.5.21#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to hear"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.5.21#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "ἐρρέθη",
+        "lemma": "G2046",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-API-3S",
+        "glosa": "it was said",
+        "id": "Mat.5.21#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to say"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "to the",
+        "id": "Mat.5.21#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀρχαίοις",
+        "lemma": "G0744",
+        "forma": "ἀρχαῖος",
+        "morph": "A-DPM",
+        "glosa": "ancients;",
+        "id": "Mat.5.21#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "ancient"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.5.21#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "no"
+      },
+      {
+        "t": "φονεύσεις",
+        "lemma": "G5407",
+        "forma": "φονεύω",
+        "morph": "V-FAI-2S",
+        "glosa": "you will murder;",
+        "id": "Mat.5.21#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to murder"
+      },
+      {
+        "t": "ὃς",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-NSM",
+        "glosa": "who[ever]",
+        "id": "Mat.5.21#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "which"
+      },
+      {
+        "t": "δ᾽",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.5.21#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἂν",
+        "lemma": "G0302",
+        "forma": "ἄν",
+        "morph": "PRT",
+        "glosa": "maybe",
+        "id": "Mat.5.21#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "if"
+      },
+      {
+        "t": "φονεύσῃ",
+        "lemma": "G5407",
+        "forma": "φονεύω",
+        "morph": "V-AAS-3S",
+        "glosa": "may murder,",
+        "id": "Mat.5.21#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to murder"
+      },
+      {
+        "t": "ἔνοχος",
+        "lemma": "G1777",
+        "forma": "ἔνοχος",
+        "morph": "A-NSM",
+        "glosa": "liable",
+        "id": "Mat.5.21#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "liable for"
+      },
+      {
+        "t": "ἔσται",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-FDI-3S",
+        "glosa": "will be",
+        "id": "Mat.5.21#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to be"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "to the",
+        "id": "Mat.5.21#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κρίσει",
+        "lemma": "G2920",
+        "forma": "κρίσις",
+        "morph": "N-DSF",
+        "glosa": "judgment;’",
+        "id": "Mat.5.21#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "judgment"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ἠκούσατε oddane jako „Słyszeliście”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ὅτι oddane jako „iż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐρρέθη, strona bierna, oddane jako „rzeczono”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τοῖς ἀρχαίοις oddane jako „starym”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "οὐ oddane jako „Nie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "φονεύσεις, futurum, oddane jako „będziesz zabijał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "δ᾽ stoi po ὃς, a BG daje „a” przed „ktobykolwiek”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7,
+        9
+      ],
+      "uwaga": "ὃς ἂν oddane jako „ktobykolwiek”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "φονεύσῃ oddane jako „zabił”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἔνοχος oddane jako „winien”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἔσται oddane jako „będzie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τῇ κρίσει, celownik, oddane dopełniaczem „sądu”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Nie ma dopowiedzenia ani opuszczenia. φονεύσεις rozbite na „będziesz zabijał”, a ὃς ἂν weszło w „ktobykolwiek”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὐ φονεύσεις to futurum z przeczeniem, a BG oddaje je przez „Nie będziesz zabijał”.",
+      "tokeny_bg": [
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Slyšeli jste, že řečeno jest od starých: Nezabiješ. Pakli by kdo zabil, povinen bude státi k soudu.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

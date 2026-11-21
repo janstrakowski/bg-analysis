@@ -1,0 +1,989 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.22",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 22
+  },
+  "tekst_bg": "Ale ja wam powiadam: Iż każdy, kto się gniewa na brata swego bez przyczyny, będzie winien sądu; a ktokolwiek rzecze bratu swemu: Racha; będzie winien rady, a ktokolwiek rzecze: Błaźnie! będzie winien ognia piekielnego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "ja"
+    },
+    {
+      "i": 2,
+      "t": "wam"
+    },
+    {
+      "i": 3,
+      "t": "powiadam"
+    },
+    {
+      "i": 4,
+      "t": "Iż"
+    },
+    {
+      "i": 5,
+      "t": "każdy"
+    },
+    {
+      "i": 6,
+      "t": "kto"
+    },
+    {
+      "i": 7,
+      "t": "się"
+    },
+    {
+      "i": 8,
+      "t": "gniewa"
+    },
+    {
+      "i": 9,
+      "t": "na"
+    },
+    {
+      "i": 10,
+      "t": "brata"
+    },
+    {
+      "i": 11,
+      "t": "swego"
+    },
+    {
+      "i": 12,
+      "t": "bez"
+    },
+    {
+      "i": 13,
+      "t": "przyczyny"
+    },
+    {
+      "i": 14,
+      "t": "będzie"
+    },
+    {
+      "i": 15,
+      "t": "winien"
+    },
+    {
+      "i": 16,
+      "t": "sądu"
+    },
+    {
+      "i": 17,
+      "t": "a"
+    },
+    {
+      "i": 18,
+      "t": "ktokolwiek"
+    },
+    {
+      "i": 19,
+      "t": "rzecze"
+    },
+    {
+      "i": 20,
+      "t": "bratu"
+    },
+    {
+      "i": 21,
+      "t": "swemu"
+    },
+    {
+      "i": 22,
+      "t": "Racha"
+    },
+    {
+      "i": 23,
+      "t": "będzie"
+    },
+    {
+      "i": 24,
+      "t": "winien"
+    },
+    {
+      "i": 25,
+      "t": "rady"
+    },
+    {
+      "i": 26,
+      "t": "a"
+    },
+    {
+      "i": 27,
+      "t": "ktokolwiek"
+    },
+    {
+      "i": 28,
+      "t": "rzecze"
+    },
+    {
+      "i": 29,
+      "t": "Błaźnie"
+    },
+    {
+      "i": 30,
+      "t": "będzie"
+    },
+    {
+      "i": 31,
+      "t": "winien"
+    },
+    {
+      "i": 32,
+      "t": "ognia"
+    },
+    {
+      "i": 33,
+      "t": "piekielnego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.22",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.22",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἐγὼ",
+        "lemma": "G1473",
+        "forma": "ἐγώ",
+        "morph": "P-1NS",
+        "glosa": "I myself",
+        "id": "Mat.5.22#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.5.22#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "λέγω",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-1S",
+        "glosa": "say",
+        "id": "Mat.5.22#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you",
+        "id": "Mat.5.22#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.5.22#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "πᾶς",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NSM",
+        "glosa": "everyone",
+        "id": "Mat.5.22#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "all"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "who",
+        "id": "Mat.5.22#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὀργιζόμενος",
+        "lemma": "G3710",
+        "forma": "ὀργίζω",
+        "morph": "V-PMP-NSM",
+        "glosa": "is being angry with",
+        "id": "Mat.5.22#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to anger"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "the",
+        "id": "Mat.5.22#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀδελφῷ",
+        "lemma": "G0080",
+        "forma": "ἀδελφός",
+        "morph": "N-DSM",
+        "glosa": "brother",
+        "id": "Mat.5.22#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "brother"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him",
+        "id": "Mat.5.22#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "εἰκῆ",
+        "lemma": "G1500",
+        "forma": "εἰκῇ",
+        "morph": "ADV",
+        "glosa": "in vain",
+        "id": "Mat.5.22#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "in vain"
+      },
+      {
+        "t": "ἔνοχος",
+        "lemma": "G1777",
+        "forma": "ἔνοχος",
+        "morph": "A-NSM",
+        "glosa": "liable",
+        "id": "Mat.5.22#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "liable for"
+      },
+      {
+        "t": "ἔσται",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-FDI-3S",
+        "glosa": "will be",
+        "id": "Mat.5.22#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to be"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "to the",
+        "id": "Mat.5.22#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κρίσει",
+        "lemma": "G2920",
+        "forma": "κρίσις",
+        "morph": "N-DSF",
+        "glosa": "judgment;",
+        "id": "Mat.5.22#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "judgment"
+      },
+      {
+        "t": "ὃς",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-NSM",
+        "glosa": "who[ever]",
+        "id": "Mat.5.22#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "which"
+      },
+      {
+        "t": "δ᾽",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.5.22#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἂν",
+        "lemma": "G0302",
+        "forma": "ἄν",
+        "morph": "PRT",
+        "glosa": "maybe",
+        "id": "Mat.5.22#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "if"
+      },
+      {
+        "t": "εἴπῃ",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAS-3S",
+        "glosa": "may say",
+        "id": "Mat.5.22#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "to say"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "to the",
+        "id": "Mat.5.22#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀδελφῷ",
+        "lemma": "G0080",
+        "forma": "ἀδελφός",
+        "morph": "N-DSM",
+        "glosa": "brother",
+        "id": "Mat.5.22#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "brother"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him;",
+        "id": "Mat.5.22#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ῥακά",
+        "lemma": "G4469",
+        "forma": "ῥακά",
+        "morph": "N-VSM-ARAM",
+        "glosa": "Raca,’",
+        "id": "Mat.5.22#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "fool"
+      },
+      {
+        "t": "ἔνοχος",
+        "lemma": "G1777",
+        "forma": "ἔνοχος",
+        "morph": "A-NSM",
+        "glosa": "liable",
+        "id": "Mat.5.22#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "liable for"
+      },
+      {
+        "t": "ἔσται",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-FDI-3S",
+        "glosa": "will be",
+        "id": "Mat.5.22#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "to be"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSN",
+        "glosa": "to the",
+        "id": "Mat.5.22#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "συνεδρίῳ",
+        "lemma": "G4892",
+        "forma": "συνέδριον",
+        "morph": "N-DSN",
+        "glosa": "Sanhedrin;",
+        "id": "Mat.5.22#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "council"
+      },
+      {
+        "t": "ὃς",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-NSM",
+        "glosa": "who[ever]",
+        "id": "Mat.5.22#29",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "which"
+      },
+      {
+        "t": "δ᾽",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.5.22#30",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἂν",
+        "lemma": "G0302",
+        "forma": "ἄν",
+        "morph": "PRT",
+        "glosa": "maybe",
+        "id": "Mat.5.22#31",
+        "jezyk": "grc",
+        "i": 30,
+        "leksykon": "if"
+      },
+      {
+        "t": "εἴπῃ",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAS-3S",
+        "glosa": "may say;",
+        "id": "Mat.5.22#32",
+        "jezyk": "grc",
+        "i": 31,
+        "leksykon": "to say"
+      },
+      {
+        "t": "μωρέ",
+        "lemma": "G3474",
+        "forma": "μωρός",
+        "morph": "A-VSM",
+        "glosa": "Fool,",
+        "id": "Mat.5.22#33",
+        "jezyk": "grc",
+        "i": 32,
+        "leksykon": "foolish"
+      },
+      {
+        "t": "ἔνοχος",
+        "lemma": "G1777",
+        "forma": "ἔνοχος",
+        "morph": "A-NSM",
+        "glosa": "liable",
+        "id": "Mat.5.22#34",
+        "jezyk": "grc",
+        "i": 33,
+        "leksykon": "liable for"
+      },
+      {
+        "t": "ἔσται",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-FDI-3S",
+        "glosa": "will be",
+        "id": "Mat.5.22#35",
+        "jezyk": "grc",
+        "i": 34,
+        "leksykon": "to be"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.5.22#36",
+        "jezyk": "grc",
+        "i": 35,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.5.22#37",
+        "jezyk": "grc",
+        "i": 36,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γέενναν",
+        "lemma": "G1067",
+        "forma": "γέεννα",
+        "morph": "N-ASF-T",
+        "glosa": "hell",
+        "id": "Mat.5.22#38",
+        "jezyk": "grc",
+        "i": 37,
+        "leksykon": "hell: Gehenna"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSN",
+        "glosa": "<the>",
+        "id": "Mat.5.22#39",
+        "jezyk": "grc",
+        "i": 38,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πυρός",
+        "lemma": "G4442",
+        "forma": "πῦρ",
+        "morph": "N-GSN",
+        "glosa": "of fire.",
+        "id": "Mat.5.22#40",
+        "jezyk": "grc",
+        "i": 39,
+        "leksykon": "fire"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po ἐγὼ, a BG wynosi je na początek jako „Ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἐγὼ oddane jako „ja”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "λέγω oddane jako „powiadam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ὅτι oddane jako „Iż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "πᾶς oddane jako „każdy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὁ przy imiesłowie oddane jako „kto”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        7,
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ὀργιζόμενος, imiesłów strony medialnej, oddane jako „się gniewa”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τῷ ἀδελφῷ, celownik, oddane jako „na brata”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "Pierwsze αὐτοῦ oddane jako „swego”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        12,
+        13
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "εἰκῆ, glosa „in vain”, oddane jako „bez przyczyny”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "Pierwsze ἔνοχος oddane jako „winien”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "Pierwsze ἔσται oddane jako „będzie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "τῇ κρίσει oddane jako „sądu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "Pierwsze δ᾽ stoi po ὃς, a BG daje „a” przed „ktokolwiek”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        16,
+        18
+      ],
+      "uwaga": "Pierwsze ὃς ἂν oddane jako „ktokolwiek”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "Pierwsze εἴπῃ oddane jako „rzecze”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        20,
+        21
+      ],
+      "uwaga": "τῷ ἀδελφῷ oddane jako „bratu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "Drugie αὐτοῦ oddane jako „swemu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "ῥακά oddane jako „Racha”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "Drugie ἔνοχος oddane jako „winien”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "Drugie ἔσται oddane jako „będzie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        26,
+        27
+      ],
+      "uwaga": "τῷ συνεδρίῳ, glosa „Sanhedrin”, oddane jako „rady”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        26
+      ],
+      "zrodlo": [
+        29
+      ],
+      "uwaga": "Drugie δ᾽ stoi po ὃς, a BG daje „a” przed „ktokolwiek”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        27
+      ],
+      "zrodlo": [
+        28,
+        30
+      ],
+      "uwaga": "Drugie ὃς ἂν oddane jako „ktokolwiek”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        28
+      ],
+      "zrodlo": [
+        31
+      ],
+      "uwaga": "Drugie εἴπῃ oddane jako „rzecze”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        29
+      ],
+      "zrodlo": [
+        32
+      ],
+      "uwaga": "μωρέ, glosa „Fool”, oddane jako „Błaźnie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        31
+      ],
+      "zrodlo": [
+        33
+      ],
+      "uwaga": "Trzecie ἔνοχος oddane jako „winien”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        30
+      ],
+      "zrodlo": [
+        34
+      ],
+      "uwaga": "Trzecie ἔσται oddane jako „będzie”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        35
+      ],
+      "uwaga": "εἰς przed γέενναν nie ma polskiego przyimka przy „ognia piekielnego”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        33
+      ],
+      "zrodlo": [
+        36,
+        37
+      ],
+      "uwaga": "τὴν γέενναν, glosa „hell”, oddane przymiotnikiem „piekielnego”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        32
+      ],
+      "zrodlo": [
+        38,
+        39
+      ],
+      "uwaga": "τοῦ πυρός oddane jako „ognia”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Przyimek εἰς przed τὴν γέενναν nie ma polskiego odpowiednika. Reszta wersetu jest pokryta, a „ognia piekielnego” oddaje γέενναν τοῦ πυρός.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      35
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "εἰς τὴν γέενναν τοῦ πυρός ma przyimek εἰς, a BG ma sam dopełniacz „ognia piekielnego” bez przyimka.",
+      "tokeny_bg": [
+        32,
+        33
+      ],
+      "tokeny_zrodla": [
+        35,
+        36,
+        37,
+        38,
+        39
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὀργιζόμενος to imiesłów strony medialnej, a BG rozbija go na zdanie „kto się gniewa”.",
+      "tokeny_bg": [
+        6,
+        7,
+        8
+      ],
+      "tokeny_zrodla": [
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ale jáť pravím vám: Že každý, kdož se hněvá na bratra svého bez příčiny, povinen k soudu státi. Kdož by pak řekl bratru svému: Rácha, povinen bude před radou státi; a kdož by řekl: Blázne, povinen bude pekelný oheň trpěti.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.13",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 13
+  },
+  "tekst_bg": "Owszem idźcie, a nauczcie się, co to jest: Miłosierdzia chcę, a nie ofiary; bom nie przyszedł, wzywać sprawiedliwych, ale grzesznych do pokuty.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Owszem"
+    },
+    {
+      "i": 1,
+      "t": "idźcie"
+    },
+    {
+      "i": 2,
+      "t": "a"
+    },
+    {
+      "i": 3,
+      "t": "nauczcie"
+    },
+    {
+      "i": 4,
+      "t": "się"
+    },
+    {
+      "i": 5,
+      "t": "co"
+    },
+    {
+      "i": 6,
+      "t": "to"
+    },
+    {
+      "i": 7,
+      "t": "jest"
+    },
+    {
+      "i": 8,
+      "t": "Miłosierdzia"
+    },
+    {
+      "i": 9,
+      "t": "chcę"
+    },
+    {
+      "i": 10,
+      "t": "a"
+    },
+    {
+      "i": 11,
+      "t": "nie"
+    },
+    {
+      "i": 12,
+      "t": "ofiary"
+    },
+    {
+      "i": 13,
+      "t": "bom"
+    },
+    {
+      "i": 14,
+      "t": "nie"
+    },
+    {
+      "i": 15,
+      "t": "przyszedł"
+    },
+    {
+      "i": 16,
+      "t": "wzywać"
+    },
+    {
+      "i": 17,
+      "t": "sprawiedliwych"
+    },
+    {
+      "i": 18,
+      "t": "ale"
+    },
+    {
+      "i": 19,
+      "t": "grzesznych"
+    },
+    {
+      "i": 20,
+      "t": "do"
+    },
+    {
+      "i": 21,
+      "t": "pokuty"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.13",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.13",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "πορευθέντες",
+        "lemma": "G4198",
+        "forma": "πορεύω",
+        "morph": "V-AOP-NPM",
+        "glosa": "Having gone",
+        "id": "Mat.9.13#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to travel"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.9.13#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "μάθετε",
+        "lemma": "G3129",
+        "forma": "μανθάνω",
+        "morph": "V-2AAM-2P",
+        "glosa": "do learn",
+        "id": "Mat.9.13#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to learn"
+      },
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-NSN",
+        "glosa": "what",
+        "id": "Mat.9.13#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "which?"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is;",
+        "id": "Mat.9.13#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἔλεος",
+        "lemma": "G1656",
+        "forma": "ἔλεος",
+        "morph": "N-ASN",
+        "glosa": "Mercy",
+        "id": "Mat.9.13#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "mercy"
+      },
+      {
+        "t": "θέλω",
+        "lemma": "G2309",
+        "forma": "θέλω",
+        "morph": "V-PAI-1S",
+        "glosa": "I desire",
+        "id": "Mat.9.13#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to will/desire"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.13#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not [desire]",
+        "id": "Mat.9.13#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "no"
+      },
+      {
+        "t": "θυσίαν",
+        "lemma": "G2378",
+        "forma": "θυσία",
+        "morph": "N-ASF",
+        "glosa": "sacrifice;’",
+        "id": "Mat.9.13#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "sacrifice"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.9.13#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "no"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.9.13#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "for"
+      },
+      {
+        "t": "ἦλθον",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAI-1S",
+        "glosa": "I came",
+        "id": "Mat.9.13#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "καλέσαι",
+        "lemma": "G2564G",
+        "forma": "καλέω",
+        "morph": "V-AAN",
+        "glosa": "to call",
+        "id": "Mat.9.13#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to call: call"
+      },
+      {
+        "t": "δικαίους",
+        "lemma": "G1342",
+        "forma": "δίκαιος",
+        "morph": "A-APM",
+        "glosa": "[the] righteous",
+        "id": "Mat.9.13#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "just"
+      },
+      {
+        "t": "ἀλλ᾽",
+        "lemma": "G0235",
+        "forma": "ἀλλά",
+        "morph": "CONJ",
+        "glosa": "but",
+        "id": "Mat.9.13#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "but"
+      },
+      {
+        "t": "ἁμαρτωλούς",
+        "lemma": "G0268",
+        "forma": "ἁμαρτωλός",
+        "morph": "A-APM",
+        "glosa": "sinners",
+        "id": "Mat.9.13#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "sinful"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.9.13#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "toward"
+      },
+      {
+        "t": "μετάνοιαν",
+        "lemma": "G3341",
+        "forma": "μετάνοια",
+        "morph": "N-ASF",
+        "glosa": "repentance.",
+        "id": "Mat.9.13#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "repentance"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po imiesłowie, a BG wynosi je na początek jako „Owszem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "πορευθέντες, imiesłów „Having gone”, oddane rozkaźnikiem „idźcie”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [],
+      "uwaga": "„a” łączy dwa rozkazy, choć między πορευθέντες a μάθετε nie ma spójnika.",
+      "uzasadnienie": "Imiesłów i rozkaz nie są w TR połączone spójnikiem. „a” jest polskim łącznikiem tych dwóch form."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "μάθετε, rozkaz strony czynnej „do learn”, oddane jako „nauczcie się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "τί oddane jako „co”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [],
+      "uwaga": "„to” jest kursywą w 1632. τί ἐστιν nie ma zaimka wskazującego."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐστιν oddane jako „jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἔλεος oddane jako „Miłosierdzia”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "θέλω oddane jako „chcę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "οὐ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "θυσίαν oddane jako „ofiary”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "γὰρ stoi po οὐ, a BG wynosi je przed przeczenie jako „bom”; „-m” powtarza osobę z ἦλθον."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "Drugie οὐ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἦλθον oddane jako „przyszedł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "καλέσαι, „to call”, oddane jako „wzywać”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "δικαίους oddane jako „sprawiedliwych”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἀλλ᾽ oddane jako „ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἁμαρτωλούς oddane jako „grzesznych”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "μετάνοιαν oddane jako „pokuty”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „a” łączy dwa polskie rozkazy, których TR nie spina spójnikiem, a „to” w „co to jest” jest kursywą w 1632.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πορευθέντες δὲ μάθετε nie ma spójnika między imiesłowem a rozkazem. BG daje „Owszem idźcie, a nauczcie się”, a „a” nie stoi na żadnym tokenie greckim.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τί ἐστιν nie ma zaimka wskazującego. BG dodaje „to”, i to słowo jest kursywą w 1632.",
+      "tokeny_bg": [
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        3,
+        4
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Jděte vy raději a učte se, co jest to: Milosrdenství chci a ne oběti. Nebo nepřišel jsem volati spravedlivých, ale hříšných ku pokání.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

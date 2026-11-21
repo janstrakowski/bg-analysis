@@ -1,0 +1,425 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.1.16",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 1,
+    "werset": 16
+  },
+  "tekst_bg": "A Jakób spłodził Józefa, męża Maryi, z której się narodził Jezus, którego zowią Chrystus.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "Jakób"
+    },
+    {
+      "i": 2,
+      "t": "spłodził"
+    },
+    {
+      "i": 3,
+      "t": "Józefa"
+    },
+    {
+      "i": 4,
+      "t": "męża"
+    },
+    {
+      "i": 5,
+      "t": "Maryi"
+    },
+    {
+      "i": 6,
+      "t": "z"
+    },
+    {
+      "i": 7,
+      "t": "której"
+    },
+    {
+      "i": 8,
+      "t": "się"
+    },
+    {
+      "i": 9,
+      "t": "narodził"
+    },
+    {
+      "i": 10,
+      "t": "Jezus"
+    },
+    {
+      "i": 11,
+      "t": "którego"
+    },
+    {
+      "i": 12,
+      "t": "zowią"
+    },
+    {
+      "i": 13,
+      "t": "Chrystus"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.1.16",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.1.16",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἰακὼβ",
+        "lemma": "G2384G",
+        "forma": "Ἰακώβ",
+        "morph": "N-NSM-P",
+        "glosa": "Jacob",
+        "id": "Mat.1.16#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "Jacob"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.16#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.16#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.16#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰωσὴφ",
+        "lemma": "G2501G",
+        "forma": "Ἰωσήφ",
+        "morph": "N-ASM-P",
+        "glosa": "Joseph",
+        "id": "Mat.1.16#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Joseph"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.1.16#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἄνδρα",
+        "lemma": "G0435H",
+        "forma": "ἀνήρ",
+        "morph": "N-ASM",
+        "glosa": "husband",
+        "id": "Mat.1.16#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "man: husband"
+      },
+      {
+        "t": "Μαρίας",
+        "lemma": "G3137G",
+        "forma": "Μαρία",
+        "morph": "N-GSF-P",
+        "glosa": "of Mary",
+        "id": "Mat.1.16#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "Mary"
+      },
+      {
+        "t": "ἐξ",
+        "lemma": "G1537",
+        "forma": "ἐκ",
+        "morph": "PREP",
+        "glosa": "out of",
+        "id": "Mat.1.16#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "out from"
+      },
+      {
+        "t": "ἧς",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-GSF",
+        "glosa": "whom",
+        "id": "Mat.1.16#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "which"
+      },
+      {
+        "t": "ἐγεννήθη",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-API-3S",
+        "glosa": "was born",
+        "id": "Mat.1.16#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.1.16#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "who",
+        "id": "Mat.1.16#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λεγόμενος",
+        "lemma": "G3004H",
+        "forma": "λέγω",
+        "morph": "V-PPP-NSM",
+        "glosa": "is being named",
+        "id": "Mat.1.16#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to say: call"
+      },
+      {
+        "t": "Χριστός",
+        "lemma": "G5547",
+        "forma": "Χριστός",
+        "morph": "N-NSM-T",
+        "glosa": "Christ.",
+        "id": "Mat.1.16#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "Christ"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἰακὼβ oddane jako „Jakób”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ἰωσὴφ oddane jako „Józefa”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν ἄνδρα oddane jako „męża”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "Μαρίας oddane jako „Maryi”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐξ oddane jako „z”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἧς oddane jako „której”."
+    },
+    {
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "rozbicie",
+      "uwaga": "ἐγεννήθη, strona bierna, oddane jako „się narodził”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὁ, rodzajnik o glosie „who”, oddane jako „którego”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "rola": "przeklad",
+      "uwaga": "λεγόμενος, imiesłów bierny, oddane osobowym „zowią”."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "rola": "przeklad",
+      "uwaga": "Χριστός w mianowniku oddane jako „Chrystus”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Imiesłów bierny λεγόμενος BG oddaje osobowym „zowią”, a rodzajnik ὁ zaimkiem „którego”. Tokeny są pokryte i zdanie nadal nazywa Jezusa Chrystusem.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐγέννησεν jest stroną czynną „spłodził”, a ἐγεννήθη stroną bierną „się narodził”; ὁ λεγόμενος BG oddaje jako „którego zowią”.",
+      "tokeny_bg": [
+        2,
+        8,
+        9,
+        11,
+        12
+      ],
+      "tokeny_zrodla": [
+        2,
+        10,
+        12,
+        13
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Jákob pak zplodil Jozefa, muže Marie, z nížto narodil se JEŽÍŠ, jenž slove Kristus.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

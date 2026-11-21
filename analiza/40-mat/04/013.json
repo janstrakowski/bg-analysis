@@ -1,0 +1,474 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.13",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 13
+  },
+  "tekst_bg": "A opuściwszy Nazaret, przyszedł, i mieszkał w Kapernaum, które jest nad morzem w granicach Zabulonowych i Neftalimowych;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "opuściwszy"
+    },
+    {
+      "i": 2,
+      "t": "Nazaret"
+    },
+    {
+      "i": 3,
+      "t": "przyszedł"
+    },
+    {
+      "i": 4,
+      "t": "i"
+    },
+    {
+      "i": 5,
+      "t": "mieszkał"
+    },
+    {
+      "i": 6,
+      "t": "w"
+    },
+    {
+      "i": 7,
+      "t": "Kapernaum"
+    },
+    {
+      "i": 8,
+      "t": "które"
+    },
+    {
+      "i": 9,
+      "t": "jest"
+    },
+    {
+      "i": 10,
+      "t": "nad"
+    },
+    {
+      "i": 11,
+      "t": "morzem"
+    },
+    {
+      "i": 12,
+      "t": "w"
+    },
+    {
+      "i": 13,
+      "t": "granicach"
+    },
+    {
+      "i": 14,
+      "t": "Zabulonowych"
+    },
+    {
+      "i": 15,
+      "t": "i"
+    },
+    {
+      "i": 16,
+      "t": "Neftalimowych"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.13",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.13",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.4.13#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "καταλιπὼν",
+        "lemma": "G2641",
+        "forma": "καταλείπω",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having left",
+        "id": "Mat.4.13#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to leave behind"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "<the>",
+        "id": "Mat.4.13#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ναζαρά",
+        "lemma": "G3478",
+        "forma": "Ναζαρέθ, Ναζαρά",
+        "morph": "N-ASF-L",
+        "glosa": "Nazareth,",
+        "id": "Mat.4.13#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Nazareth"
+      },
+      {
+        "t": "ἐλθὼν",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having come",
+        "id": "Mat.4.13#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "κατῴκησεν",
+        "lemma": "G2730",
+        "forma": "κατοικέω",
+        "morph": "V-AAI-3S",
+        "glosa": "he dwelt",
+        "id": "Mat.4.13#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to dwell"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "at",
+        "id": "Mat.4.13#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "toward"
+      },
+      {
+        "t": "Καφαρναοὺμ",
+        "lemma": "G2584",
+        "forma": "Καπερναούμ",
+        "morph": "N-ASF-L",
+        "glosa": "Capernaum",
+        "id": "Mat.4.13#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "Capernaum"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "which",
+        "id": "Mat.4.13#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "παραθαλασσίαν",
+        "lemma": "G3864",
+        "forma": "παραθαλάσσιος",
+        "morph": "A-ASF",
+        "glosa": "[is] on the sea-side",
+        "id": "Mat.4.13#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "seaside"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.4.13#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ὁρίοις",
+        "lemma": "G3725",
+        "forma": "ὅριον",
+        "morph": "N-DPN",
+        "glosa": "[the] region",
+        "id": "Mat.4.13#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "region"
+      },
+      {
+        "t": "Ζαβουλὼν",
+        "lemma": "G2194",
+        "forma": "Ζαβουλών",
+        "morph": "N-GSM-L",
+        "glosa": "of Zebulun",
+        "id": "Mat.4.13#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "Zebulun"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.13#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "and"
+      },
+      {
+        "t": "Νεφθαλίμ",
+        "lemma": "G3508",
+        "forma": "Νεφθαλείμ",
+        "morph": "N-GSM-L",
+        "glosa": "of Naphtali,",
+        "id": "Mat.4.13#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "Naphtali"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "καταλιπὼν oddane jako „opuściwszy”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "τὴν Ναζαρά oddane jako „Nazaret”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐλθὼν, imiesłów, oddane osobowym „przyszedł”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [],
+      "uwaga": "„i” łączy „przyszedł” z „mieszkał”.",
+      "uzasadnienie": "Między ἐλθὼν a κατῴκησεν nie ma καὶ. „i” spina dwa polskie orzeczenia."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "κατῴκησεν oddane jako „mieszkał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "εἰς oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "Καφαρναοὺμ oddane jako „Kapernaum”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "τὴν, rodzajnik przy przymiotniku, oddane jako „które”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [],
+      "uwaga": "„jest” stawia łącznik przy „które”.",
+      "uzasadnienie": "παραθαλασσίαν jest przymiotnikiem i nie zawiera εἰμί. „jest” dopowiada łącznik zdania „które jest nad morzem”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        10,
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "παραθαλασσίαν, przymiotnik „nadmorską”, oddane jako „nad morzem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ὁρίοις oddane jako „granicach”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "Ζαβουλὼν w dopełniaczu oddane przymiotnikiem „Zabulonowych”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "Νεφθαλίμ oddane przymiotnikiem „Neftalimowych”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Jezus opuszcza Nazaret i mieszka w nadmorskim Kapernaum, w granicach Zabulona i Neftalego. „i” oraz „jest” dopowiadają składnię polską.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐλθὼν κατῴκησεν nie ma spójnika καὶ. BG dodaje „i” między „przyszedł” a „mieszkał”.",
+      "tokeny_bg": [
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        4,
+        5
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "παραθαλασσίαν nie zawiera εἰμί. BG dodaje „jest” i rozbija przymiotnik na „nad morzem”.",
+      "tokeny_bg": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A opustiv Nazarét, přišed, bydlil v Kafarnaum za mořem, v krajinách Zabulon a Neftalím,",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

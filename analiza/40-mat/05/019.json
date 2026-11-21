@@ -1,0 +1,866 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.19",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 19
+  },
+  "tekst_bg": "Ktoby tedy rozwiązał jedno z tych przykazań najmniejszych, i uczyłby tak ludzi, najmniejszym będzie nazwany w królestwie niebieskiem; a ktobykolwiek czynił i uczył, ten będzie wielkim nazwany w królestwie niebieskiem.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ktoby"
+    },
+    {
+      "i": 1,
+      "t": "tedy"
+    },
+    {
+      "i": 2,
+      "t": "rozwiązał"
+    },
+    {
+      "i": 3,
+      "t": "jedno"
+    },
+    {
+      "i": 4,
+      "t": "z"
+    },
+    {
+      "i": 5,
+      "t": "tych"
+    },
+    {
+      "i": 6,
+      "t": "przykazań"
+    },
+    {
+      "i": 7,
+      "t": "najmniejszych"
+    },
+    {
+      "i": 8,
+      "t": "i"
+    },
+    {
+      "i": 9,
+      "t": "uczyłby"
+    },
+    {
+      "i": 10,
+      "t": "tak"
+    },
+    {
+      "i": 11,
+      "t": "ludzi"
+    },
+    {
+      "i": 12,
+      "t": "najmniejszym"
+    },
+    {
+      "i": 13,
+      "t": "będzie"
+    },
+    {
+      "i": 14,
+      "t": "nazwany"
+    },
+    {
+      "i": 15,
+      "t": "w"
+    },
+    {
+      "i": 16,
+      "t": "królestwie"
+    },
+    {
+      "i": 17,
+      "t": "niebieskiem"
+    },
+    {
+      "i": 18,
+      "t": "a"
+    },
+    {
+      "i": 19,
+      "t": "ktobykolwiek"
+    },
+    {
+      "i": 20,
+      "t": "czynił"
+    },
+    {
+      "i": 21,
+      "t": "i"
+    },
+    {
+      "i": 22,
+      "t": "uczył"
+    },
+    {
+      "i": 23,
+      "t": "ten"
+    },
+    {
+      "i": 24,
+      "t": "będzie"
+    },
+    {
+      "i": 25,
+      "t": "wielkim"
+    },
+    {
+      "i": 26,
+      "t": "nazwany"
+    },
+    {
+      "i": 27,
+      "t": "w"
+    },
+    {
+      "i": 28,
+      "t": "królestwie"
+    },
+    {
+      "i": 29,
+      "t": "niebieskiem"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.19",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.19",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ὃς",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-NSM",
+        "glosa": "Who[ever]",
+        "id": "Mat.5.19#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "which"
+      },
+      {
+        "t": "ἐὰν",
+        "lemma": "G1437",
+        "forma": "ἐάν",
+        "morph": "COND",
+        "glosa": "if",
+        "id": "Mat.5.19#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "if"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.5.19#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "λύσῃ",
+        "lemma": "G3089",
+        "forma": "λύω",
+        "morph": "V-AAS-3S",
+        "glosa": "shall break",
+        "id": "Mat.5.19#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to loose"
+      },
+      {
+        "t": "μίαν",
+        "lemma": "G1520",
+        "forma": "εἷς",
+        "morph": "A-ASF",
+        "glosa": "one",
+        "id": "Mat.5.19#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "one"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPF",
+        "glosa": "of the",
+        "id": "Mat.5.19#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐντολῶν",
+        "lemma": "G1785",
+        "forma": "ἐντολή",
+        "morph": "N-GPF",
+        "glosa": "commandments",
+        "id": "Mat.5.19#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "commandment"
+      },
+      {
+        "t": "τούτων",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-GPF",
+        "glosa": "of these",
+        "id": "Mat.5.19#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPF",
+        "glosa": "the",
+        "id": "Mat.5.19#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐλαχίστων",
+        "lemma": "G1646",
+        "forma": "ἐλάχιστος",
+        "morph": "A-GPF",
+        "glosa": "least",
+        "id": "Mat.5.19#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "least"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.19#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "and"
+      },
+      {
+        "t": "διδάξῃ",
+        "lemma": "G1321",
+        "forma": "διδάσκω",
+        "morph": "V-AAS-3S",
+        "glosa": "shall teach",
+        "id": "Mat.5.19#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to teach"
+      },
+      {
+        "t": "οὕτως",
+        "lemma": "G3779",
+        "forma": "οὕτω, οὕτως",
+        "morph": "ADV",
+        "glosa": "so",
+        "id": "Mat.5.19#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "thus(-ly)"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.5.19#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀνθρώπους",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-APM",
+        "glosa": "others,",
+        "id": "Mat.5.19#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "a human"
+      },
+      {
+        "t": "ἐλάχιστος",
+        "lemma": "G1646",
+        "forma": "ἐλάχιστος",
+        "morph": "A-NSM",
+        "glosa": "least",
+        "id": "Mat.5.19#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "least"
+      },
+      {
+        "t": "κληθήσεται",
+        "lemma": "G2564G",
+        "forma": "καλέω",
+        "morph": "V-FPI-3S",
+        "glosa": "he will be called",
+        "id": "Mat.5.19#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to call: call"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.5.19#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.5.19#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βασιλείᾳ",
+        "lemma": "G0932",
+        "forma": "βασιλεία",
+        "morph": "N-DSF",
+        "glosa": "kingdom",
+        "id": "Mat.5.19#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "kingdom"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.5.19#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανῶν",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-GPM",
+        "glosa": "heavens.",
+        "id": "Mat.5.19#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "heaven"
+      },
+      {
+        "t": "ὃς",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-NSM",
+        "glosa": "who[ever]",
+        "id": "Mat.5.19#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "which"
+      },
+      {
+        "t": "δ᾽",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.5.19#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἂν",
+        "lemma": "G0302",
+        "forma": "ἄν",
+        "morph": "PRT",
+        "glosa": "maybe",
+        "id": "Mat.5.19#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "if"
+      },
+      {
+        "t": "ποιήσῃ",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-AAS-3S",
+        "glosa": "may keep",
+        "id": "Mat.5.19#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.19#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "and"
+      },
+      {
+        "t": "διδάξῃ",
+        "lemma": "G1321",
+        "forma": "διδάσκω",
+        "morph": "V-AAS-3S",
+        "glosa": "may teach [them],",
+        "id": "Mat.5.19#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "to teach"
+      },
+      {
+        "t": "οὗτος",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-NSM",
+        "glosa": "this [one]",
+        "id": "Mat.5.19#29",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "μέγας",
+        "lemma": "G3173",
+        "forma": "μέγας",
+        "morph": "A-NSM",
+        "glosa": "great",
+        "id": "Mat.5.19#30",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "great"
+      },
+      {
+        "t": "κληθήσεται",
+        "lemma": "G2564G",
+        "forma": "καλέω",
+        "morph": "V-FPI-3S",
+        "glosa": "will be called",
+        "id": "Mat.5.19#31",
+        "jezyk": "grc",
+        "i": 30,
+        "leksykon": "to call: call"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.5.19#32",
+        "jezyk": "grc",
+        "i": 31,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.5.19#33",
+        "jezyk": "grc",
+        "i": 32,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βασιλείᾳ",
+        "lemma": "G0932",
+        "forma": "βασιλεία",
+        "morph": "N-DSF",
+        "glosa": "kingdom",
+        "id": "Mat.5.19#34",
+        "jezyk": "grc",
+        "i": 33,
+        "leksykon": "kingdom"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.5.19#35",
+        "jezyk": "grc",
+        "i": 34,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανῶν",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-GPM",
+        "glosa": "heavens.",
+        "id": "Mat.5.19#36",
+        "jezyk": "grc",
+        "i": 35,
+        "leksykon": "heaven"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "zlanie",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0,
+        1
+      ],
+      "uwaga": "Ὃς ἐὰν oddane jako „Ktoby”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "οὖν oddane jako „tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "λύσῃ, glosa „shall break”, oddane jako „rozwiązał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "μίαν oddane jako „jedno”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4,
+        6
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τῶν ἐντολῶν, dopełniacz cząstkowy, oddane jako „z przykazań”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "τούτων oddane jako „tych”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τῶν ἐλαχίστων oddane jako „najmniejszych”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "Pierwsze διδάξῃ oddane jako „uczyłby”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "οὕτως oddane jako „tak”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τοὺς ἀνθρώπους oddane jako „ludzi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἐλάχιστος, mianownik, oddane narzędnikiem „najmniejszym”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        13,
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "Pierwsze κληθήσεται, futurum bierne, oddane jako „będzie nazwany”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "Pierwsze ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "Pierwsze τῇ βασιλείᾳ oddane jako „królestwie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        20,
+        21
+      ],
+      "uwaga": "Pierwsze τῶν οὐρανῶν oddane jako „niebieskiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "δ᾽ stoi po ὃς, a BG wynosi je przed zaimek jako „a”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        22,
+        24
+      ],
+      "uwaga": "ὃς ἂν oddane jako „ktobykolwiek”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "ποιήσῃ oddane jako „czynił”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        26
+      ],
+      "uwaga": "Drugie καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        27
+      ],
+      "uwaga": "Drugie διδάξῃ oddane jako „uczył”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        28
+      ],
+      "uwaga": "οὗτος oddane jako „ten”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        29
+      ],
+      "uwaga": "μέγας, mianownik, oddane narzędnikiem „wielkim”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        24,
+        26
+      ],
+      "zrodlo": [
+        30
+      ],
+      "uwaga": "Drugie κληθήσεται oddane jako „będzie nazwany”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        27
+      ],
+      "zrodlo": [
+        31
+      ],
+      "uwaga": "Drugie ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        28
+      ],
+      "zrodlo": [
+        32,
+        33
+      ],
+      "uwaga": "Drugie τῇ βασιλείᾳ oddane jako „królestwie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        29
+      ],
+      "zrodlo": [
+        34,
+        35
+      ],
+      "uwaga": "Drugie τῶν οὐρανῶν oddane jako „niebieskiem”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Nie ma dopowiedzenia ani opuszczenia. ὃς ἐὰν i ὃς ἂν weszły w „Ktoby” i „ktobykolwiek”, a oba κληθήσεται rozbite na „będzie nazwany”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὃς ἐὰν λύσῃ oraz ὃς ἂν ποιήσῃ mają partykułę warunku w grece, a BG oddaje ją wewnątrz „Ktoby” i „ktobykolwiek”.",
+      "tokeny_bg": [
+        0,
+        19
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        22,
+        24
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Protož zrušil-li by kdo jedno z přikázání těchto nejmenších a učil by tak lidi, nejmenší slouti bude v království nebeském. Kdož by pak koli činil i jiné učil, ten veliký slouti bude v království nebeském.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

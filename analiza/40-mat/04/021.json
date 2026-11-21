@@ -1,0 +1,778 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.21",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 21
+  },
+  "tekst_bg": "A postąpiwszy stamtąd, ujrzał drugich dwóch braci, Jakóba, syna Zebedeuszowego, i Jana, brata jego, w łodzi z Zebedeuszem, ojcem ich, poprawiających sieci swoje, i wezwał ich.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "postąpiwszy"
+    },
+    {
+      "i": 2,
+      "t": "stamtąd"
+    },
+    {
+      "i": 3,
+      "t": "ujrzał"
+    },
+    {
+      "i": 4,
+      "t": "drugich"
+    },
+    {
+      "i": 5,
+      "t": "dwóch"
+    },
+    {
+      "i": 6,
+      "t": "braci"
+    },
+    {
+      "i": 7,
+      "t": "Jakóba"
+    },
+    {
+      "i": 8,
+      "t": "syna"
+    },
+    {
+      "i": 9,
+      "t": "Zebedeuszowego"
+    },
+    {
+      "i": 10,
+      "t": "i"
+    },
+    {
+      "i": 11,
+      "t": "Jana"
+    },
+    {
+      "i": 12,
+      "t": "brata"
+    },
+    {
+      "i": 13,
+      "t": "jego"
+    },
+    {
+      "i": 14,
+      "t": "w"
+    },
+    {
+      "i": 15,
+      "t": "łodzi"
+    },
+    {
+      "i": 16,
+      "t": "z"
+    },
+    {
+      "i": 17,
+      "t": "Zebedeuszem"
+    },
+    {
+      "i": 18,
+      "t": "ojcem"
+    },
+    {
+      "i": 19,
+      "t": "ich"
+    },
+    {
+      "i": 20,
+      "t": "poprawiających"
+    },
+    {
+      "i": 21,
+      "t": "sieci"
+    },
+    {
+      "i": 22,
+      "t": "swoje"
+    },
+    {
+      "i": 23,
+      "t": "i"
+    },
+    {
+      "i": 24,
+      "t": "wezwał"
+    },
+    {
+      "i": 25,
+      "t": "ich"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.21",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.21",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.4.21#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "προβὰς",
+        "lemma": "G4260",
+        "forma": "προβαίνω",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having gone on",
+        "id": "Mat.4.21#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to advance"
+      },
+      {
+        "t": "ἐκεῖθεν",
+        "lemma": "G1564",
+        "forma": "ἐκεῖθεν",
+        "morph": "ADV",
+        "glosa": "from there",
+        "id": "Mat.4.21#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "from there"
+      },
+      {
+        "t": "εἶδεν",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAI-3S",
+        "glosa": "He saw",
+        "id": "Mat.4.21#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "ἄλλους",
+        "lemma": "G0243",
+        "forma": "ἄλλος",
+        "morph": "A-APM",
+        "glosa": "others",
+        "id": "Mat.4.21#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "another"
+      },
+      {
+        "t": "δύο",
+        "lemma": "G1417",
+        "forma": "δύο",
+        "morph": "A-NUI",
+        "glosa": "two",
+        "id": "Mat.4.21#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "two"
+      },
+      {
+        "t": "ἀδελφούς",
+        "lemma": "G0080",
+        "forma": "ἀδελφός",
+        "morph": "N-APM",
+        "glosa": "brothers,",
+        "id": "Mat.4.21#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "brother"
+      },
+      {
+        "t": "Ἰάκωβον",
+        "lemma": "G2385G",
+        "forma": "Ἰάκωβος",
+        "morph": "N-ASM-P",
+        "glosa": "James",
+        "id": "Mat.4.21#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "James"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the [son]",
+        "id": "Mat.4.21#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "<the>",
+        "id": "Mat.4.21#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ζεβεδαίου",
+        "lemma": "G2199G",
+        "forma": "Ζεβεδαῖος",
+        "morph": "N-GSM-P",
+        "glosa": "of Zebedee",
+        "id": "Mat.4.21#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "Zebedee"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.21#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "and"
+      },
+      {
+        "t": "Ἰωάννην",
+        "lemma": "G2491H",
+        "forma": "Ἰωάννης",
+        "morph": "N-ASM-P",
+        "glosa": "John",
+        "id": "Mat.4.21#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "John"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.4.21#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀδελφὸν",
+        "lemma": "G0080",
+        "forma": "ἀδελφός",
+        "morph": "N-ASM",
+        "glosa": "brother",
+        "id": "Mat.4.21#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "brother"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him",
+        "id": "Mat.4.21#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.4.21#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSN",
+        "glosa": "the",
+        "id": "Mat.4.21#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πλοίῳ",
+        "lemma": "G4143",
+        "forma": "πλοῖον",
+        "morph": "N-DSN",
+        "glosa": "boat",
+        "id": "Mat.4.21#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "boat"
+      },
+      {
+        "t": "μετὰ",
+        "lemma": "G3326",
+        "forma": "μετά",
+        "morph": "PREP",
+        "glosa": "with",
+        "id": "Mat.4.21#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "with/after"
+      },
+      {
+        "t": "Ζεβεδαίου",
+        "lemma": "G2199G",
+        "forma": "Ζεβεδαῖος",
+        "morph": "N-GSM-P",
+        "glosa": "Zebedee",
+        "id": "Mat.4.21#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "Zebedee"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.4.21#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατρὸς",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-GSM",
+        "glosa": "father",
+        "id": "Mat.4.21#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "father"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them",
+        "id": "Mat.4.21#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καταρτίζοντας",
+        "lemma": "G2675",
+        "forma": "καταρτίζω",
+        "morph": "V-PAP-APM",
+        "glosa": "mending",
+        "id": "Mat.4.21#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "to complete"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APN",
+        "glosa": "the",
+        "id": "Mat.4.21#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δίκτυα",
+        "lemma": "G1350",
+        "forma": "δίκτυον",
+        "morph": "N-APN",
+        "glosa": "nets",
+        "id": "Mat.4.21#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "net"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them,",
+        "id": "Mat.4.21#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.21#29",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐκάλεσεν",
+        "lemma": "G2564G",
+        "forma": "καλέω",
+        "morph": "V-AAI-3S",
+        "glosa": "He called",
+        "id": "Mat.4.21#30",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "to call: call"
+      },
+      {
+        "t": "αὐτούς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-APM",
+        "glosa": "them.",
+        "id": "Mat.4.21#31",
+        "jezyk": "grc",
+        "i": 30,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "προβὰς oddane jako „postąpiwszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐκεῖθεν oddane jako „stamtąd”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "εἶδεν oddane jako „ujrzał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἄλλους oddane jako „drugich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "δύο oddane jako „dwóch”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἀδελφούς oddane jako „braci”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "Ἰάκωβον oddane jako „Jakóba”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [],
+      "uwaga": "„syna” jest kursywą w 1632. τὸν τοῦ Ζεβεδαίου nie ma rzeczownika υἱός."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8,
+        9,
+        10
+      ],
+      "uwaga": "τὸν τοῦ Ζεβεδαίου oddane przymiotnikiem „Zebedeuszowego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "Ἰωάννην oddane jako „Jana”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τὸν ἀδελφὸν oddane jako „brata”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        17,
+        18
+      ],
+      "uwaga": "τῷ πλοίῳ oddane jako „łodzi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "μετὰ oddane jako „z”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "Ζεβεδαίου, dopełniacz, oddane narzędnikiem „Zebedeuszem”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        21,
+        22
+      ],
+      "uwaga": "τοῦ πατρὸς oddane jako „ojcem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "αὐτῶν oddane jako „ich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "καταρτίζοντας oddane jako „poprawiających”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        25,
+        26
+      ],
+      "uwaga": "τὰ δίκτυα oddane jako „sieci”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        27
+      ],
+      "uwaga": "αὐτῶν oddane jako „swoje”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        28
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        29
+      ],
+      "uwaga": "ἐκάλεσεν oddane jako „wezwał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        30
+      ],
+      "uwaga": "αὐτούς oddane jako „ich”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Jezus widzi Jakuba i Jana z ojcem przy sieciach i wzywa ich. „syna” jest kursywą 1632, bo τὸν τοῦ Ζεβεδαίου nie ma rzeczownika υἱός.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τὸν τοῦ Ζεβεδαίου nie zawiera υἱός. Glosa rodzajnika podaje „the [son]”, a „syna” jest kursywą w 1632.",
+      "tokeny_bg": [
+        7,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A poodšed odtud, uzřel jiné dva bratry, Jakuba syna Zebedeova, a Jana bratra jeho, na lodí s Zebedeem otcem jejich, ani tvrdí síti své. I povolal jich.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

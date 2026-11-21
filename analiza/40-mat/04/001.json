@@ -1,0 +1,379 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.1",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 1
+  },
+  "tekst_bg": "Tedy Jezus zawiedziony jest na puszczę od Ducha, aby był kuszony od dyjabła.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tedy"
+    },
+    {
+      "i": 1,
+      "t": "Jezus"
+    },
+    {
+      "i": 2,
+      "t": "zawiedziony"
+    },
+    {
+      "i": 3,
+      "t": "jest"
+    },
+    {
+      "i": 4,
+      "t": "na"
+    },
+    {
+      "i": 5,
+      "t": "puszczę"
+    },
+    {
+      "i": 6,
+      "t": "od"
+    },
+    {
+      "i": 7,
+      "t": "Ducha"
+    },
+    {
+      "i": 8,
+      "t": "aby"
+    },
+    {
+      "i": 9,
+      "t": "był"
+    },
+    {
+      "i": 10,
+      "t": "kuszony"
+    },
+    {
+      "i": 11,
+      "t": "od"
+    },
+    {
+      "i": 12,
+      "t": "dyjabła"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.1",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.1",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "Then",
+        "id": "Mat.4.1#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "then"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.4.1#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.4.1#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "ἀνήχθη",
+        "lemma": "G0321",
+        "forma": "ἀνάγω",
+        "morph": "V-API-3S",
+        "glosa": "was led up",
+        "id": "Mat.4.1#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to lead"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.4.1#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.4.1#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἔρημον",
+        "lemma": "G2048",
+        "forma": "ἔρημος",
+        "morph": "A-ASF",
+        "glosa": "wilderness",
+        "id": "Mat.4.1#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "deserted"
+      },
+      {
+        "t": "ὑπὸ",
+        "lemma": "G5259G",
+        "forma": "ὑπό",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.4.1#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "by/under: by"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSN",
+        "glosa": "the",
+        "id": "Mat.4.1#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πνεύματος",
+        "lemma": "G4151G",
+        "forma": "πνεῦμα",
+        "morph": "N-GSN",
+        "glosa": "Spirit",
+        "id": "Mat.4.1#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "spirit/breath: spirit"
+      },
+      {
+        "t": "πειρασθῆναι",
+        "lemma": "G3985G",
+        "forma": "πειράζω",
+        "morph": "V-APN",
+        "glosa": "to be tempted",
+        "id": "Mat.4.1#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to test/tempt: tempt"
+      },
+      {
+        "t": "ὑπὸ",
+        "lemma": "G5259G",
+        "forma": "ὑπό",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.4.1#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "by/under: by"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.4.1#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "διαβόλου",
+        "lemma": "G1228",
+        "forma": "διάβολος",
+        "morph": "A-GSM",
+        "glosa": "devil.",
+        "id": "Mat.4.1#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "devilish/the Devil"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Τότε oddane jako „Tedy”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1,
+        2
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀνήχθη, aoryst strony biernej „został zaprowadzony”, oddane przez „zawiedziony jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "εἰς oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τὴν ἔρημον, rodzajnik z przymiotnikiem „pustynną”, oddane jako „puszczę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ὑπὸ oddane jako „od”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τοῦ πνεύματος oddane jako „Ducha”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9,
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "πειρασθῆναι, bezokolicznik aorystu biernego, BG rozwija w „aby był kuszony”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "Drugie ὑπὸ oddane jako „od”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τοῦ διαβόλου oddane jako „dyjabła”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma grupę. Bezokolicznik celu πειρασθῆναι jest rozwinięty w „aby był kuszony”, a strona bierna ἀνήχθη w „zawiedziony jest”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πειρασθῆναι to bezokolicznik aorystu biernego, bez osobnego ἵνα. BG oddaje go zdaniem „aby był kuszony”.",
+      "tokeny_bg": [
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Tehdy Ježíš veden jest na poušť od Ducha, aby pokoušín byl od ďábla.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,525 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.21",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 21
+  },
+  "tekst_bg": "I wyda brat brata na śmierć, i ojciec syna, i powstaną dzieci przeciwko rodzicom, i będą je zabijać.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "wyda"
+    },
+    {
+      "i": 2,
+      "t": "brat"
+    },
+    {
+      "i": 3,
+      "t": "brata"
+    },
+    {
+      "i": 4,
+      "t": "na"
+    },
+    {
+      "i": 5,
+      "t": "śmierć"
+    },
+    {
+      "i": 6,
+      "t": "i"
+    },
+    {
+      "i": 7,
+      "t": "ojciec"
+    },
+    {
+      "i": 8,
+      "t": "syna"
+    },
+    {
+      "i": 9,
+      "t": "i"
+    },
+    {
+      "i": 10,
+      "t": "powstaną"
+    },
+    {
+      "i": 11,
+      "t": "dzieci"
+    },
+    {
+      "i": 12,
+      "t": "przeciwko"
+    },
+    {
+      "i": 13,
+      "t": "rodzicom"
+    },
+    {
+      "i": 14,
+      "t": "i"
+    },
+    {
+      "i": 15,
+      "t": "będą"
+    },
+    {
+      "i": 16,
+      "t": "je"
+    },
+    {
+      "i": 17,
+      "t": "zabijać"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.21",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.21",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Παραδώσει",
+        "lemma": "G3860",
+        "forma": "παραδίδωμι",
+        "morph": "V-FAI-3S",
+        "glosa": "Will deliver up",
+        "id": "Mat.10.21#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to deliver"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.10.21#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἀδελφὸς",
+        "lemma": "G0080",
+        "forma": "ἀδελφός",
+        "morph": "N-NSM",
+        "glosa": "brother",
+        "id": "Mat.10.21#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "brother"
+      },
+      {
+        "t": "ἀδελφὸν",
+        "lemma": "G0080",
+        "forma": "ἀδελφός",
+        "morph": "N-ASM",
+        "glosa": "brother",
+        "id": "Mat.10.21#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "brother"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.10.21#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "toward"
+      },
+      {
+        "t": "θάνατον",
+        "lemma": "G2288",
+        "forma": "θάνατος",
+        "morph": "N-ASM",
+        "glosa": "death",
+        "id": "Mat.10.21#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "death"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.21#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "and"
+      },
+      {
+        "t": "πατὴρ",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-NSM",
+        "glosa": "father",
+        "id": "Mat.10.21#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "father"
+      },
+      {
+        "t": "τέκνον",
+        "lemma": "G5043",
+        "forma": "τέκνον",
+        "morph": "N-ASN",
+        "glosa": "child;",
+        "id": "Mat.10.21#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "child"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.10.21#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐπαναστήσονται",
+        "lemma": "G1881",
+        "forma": "ἐπανίστημι",
+        "morph": "V-FDI-3P",
+        "glosa": "will rise up",
+        "id": "Mat.10.21#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to rebel against"
+      },
+      {
+        "t": "τέκνα",
+        "lemma": "G5043",
+        "forma": "τέκνον",
+        "morph": "N-NPN",
+        "glosa": "children",
+        "id": "Mat.10.21#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "child"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "against",
+        "id": "Mat.10.21#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "γονεῖς",
+        "lemma": "G1118",
+        "forma": "γονεύς",
+        "morph": "N-APM",
+        "glosa": "parents",
+        "id": "Mat.10.21#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "parent"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.21#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "and"
+      },
+      {
+        "t": "θανατώσουσιν",
+        "lemma": "G2289",
+        "forma": "θανατόω",
+        "morph": "V-FAI-3P",
+        "glosa": "will put to death",
+        "id": "Mat.10.21#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to kill"
+      },
+      {
+        "t": "αὐτούς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-APM",
+        "glosa": "them.",
+        "id": "Mat.10.21#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po czasowniku, a BG wynosi je na początek jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Παραδώσει oddane jako „wyda”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἀδελφὸς oddane jako „brat”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀδελφὸν oddane jako „brata”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "εἰς oddane jako „na”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "θάνατον oddane jako „śmierć”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "πατὴρ oddane jako „ojciec”; orzeczenie „wyda” jest tylko przy bracie, tak jak w grece."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "τέκνον, w glosie „child”, oddane jako „syna”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἐπαναστήσονται oddane jako „powstaną”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "τέκνα oddane jako „dzieci”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἐπὶ oddane jako „przeciwko”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "γονεῖς oddane jako „rodzicom”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        15,
+        17
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "θανατώσουσιν oddane jako „będą ... zabijać”; zaimek stoi w środku."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "αὐτούς oddane jako „je”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_przesuniety",
+    "uzasadnienie": "τέκνον znaczy dziecko, a „syna” nazywa syna. Drugie τέκνα jest już „dzieci”. Brat, śmierć, powstanie przeciw rodzicom i zabicie są poza tym pokryte.",
+    "tokeny_bg": [
+      8
+    ],
+    "tokeny_zrodla": [
+      8
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πατὴρ τέκνον ma τέκνον, w glosie „child”. BG daje „ojciec syna”, a następne τέκνα oddaje jako „dzieci”.",
+      "tokeny_bg": [
+        7,
+        8,
+        11
+      ],
+      "tokeny_zrodla": [
+        7,
+        8,
+        11
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐπαναστήσονται τέκνα ἐπὶ γονεῖς καὶ θανατώσουσιν αὐτούς BG oddaje jako „powstaną dzieci przeciwko rodzicom, i będą je zabijać”.",
+      "tokeny_bg": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "tokeny_zrodla": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Vydáť pak bratr bratra na smrt, i otec syna, a povstanouť dítky proti rodičům, a zmordují je.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

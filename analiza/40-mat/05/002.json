@@ -1,0 +1,253 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.2",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 2
+  },
+  "tekst_bg": "A otworzywszy usta swe, uczył je, mówiąc:",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "otworzywszy"
+    },
+    {
+      "i": 2,
+      "t": "usta"
+    },
+    {
+      "i": 3,
+      "t": "swe"
+    },
+    {
+      "i": 4,
+      "t": "uczył"
+    },
+    {
+      "i": 5,
+      "t": "je"
+    },
+    {
+      "i": 6,
+      "t": "mówiąc"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.2",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.2",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.5.2#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀνοίξας",
+        "lemma": "G0455",
+        "forma": "ἀνοίγω",
+        "morph": "V-AAP-NSM",
+        "glosa": "opening",
+        "id": "Mat.5.2#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to open"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.5.2#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "στόμα",
+        "lemma": "G4750",
+        "forma": "στόμα",
+        "morph": "N-ASN",
+        "glosa": "mouth",
+        "id": "Mat.5.2#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "mouth"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him",
+        "id": "Mat.5.2#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐδίδασκεν",
+        "lemma": "G1321",
+        "forma": "διδάσκω",
+        "morph": "V-IAI-3S",
+        "glosa": "He was teaching",
+        "id": "Mat.5.2#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to teach"
+      },
+      {
+        "t": "αὐτοὺς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-APM",
+        "glosa": "them",
+        "id": "Mat.5.2#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "λέγων",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NSM",
+        "glosa": "saying:",
+        "id": "Mat.5.2#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to say"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἀνοίξας, imiesłów aorystu, oddane jako „otworzywszy”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "τὸ στόμα oddane jako „usta”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτοῦ oddane jako „swe”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἐδίδασκεν, imperfectum, oddane jako „uczył”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "αὐτοὺς oddane jako „je”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "λέγων oddane jako „mówiąc”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token grecki ma odpowiednik. Rodzajnik przy στόμα wszedł w „usta”, a imiesłowy zostały imiesłowami.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀνοίξας to imiesłów aorystu, a BG oddaje go uprzednim „otworzywszy”; λέγων zostaje jako „mówiąc”.",
+      "tokeny_bg": [
+        1,
+        6
+      ],
+      "tokeny_zrodla": [
+        1,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I otevřev ústa svá, učil je, řka:",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

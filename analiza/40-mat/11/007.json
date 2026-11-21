@@ -1,0 +1,592 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.7",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 7
+  },
+  "tekst_bg": "A gdy oni odeszli, począł Jezus mówić do ludu o Janie: Coście wyszli na puszczę widzieć? Izali trzcinę chwiejącą się od wiatru?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "oni"
+    },
+    {
+      "i": 3,
+      "t": "odeszli"
+    },
+    {
+      "i": 4,
+      "t": "począł"
+    },
+    {
+      "i": 5,
+      "t": "Jezus"
+    },
+    {
+      "i": 6,
+      "t": "mówić"
+    },
+    {
+      "i": 7,
+      "t": "do"
+    },
+    {
+      "i": 8,
+      "t": "ludu"
+    },
+    {
+      "i": 9,
+      "t": "o"
+    },
+    {
+      "i": 10,
+      "t": "Janie"
+    },
+    {
+      "i": 11,
+      "t": "Coście"
+    },
+    {
+      "i": 12,
+      "t": "wyszli"
+    },
+    {
+      "i": 13,
+      "t": "na"
+    },
+    {
+      "i": 14,
+      "t": "puszczę"
+    },
+    {
+      "i": 15,
+      "t": "widzieć"
+    },
+    {
+      "i": 16,
+      "t": "Izali"
+    },
+    {
+      "i": 17,
+      "t": "trzcinę"
+    },
+    {
+      "i": 18,
+      "t": "chwiejącą"
+    },
+    {
+      "i": 19,
+      "t": "się"
+    },
+    {
+      "i": 20,
+      "t": "od"
+    },
+    {
+      "i": 21,
+      "t": "wiatru"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.7",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.7",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Τούτων",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-GPM",
+        "glosa": "As these",
+        "id": "Mat.11.7#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.11.7#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "πορευομένων",
+        "lemma": "G4198",
+        "forma": "πορεύω",
+        "morph": "V-PNP-GPM",
+        "glosa": "were going away",
+        "id": "Mat.11.7#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to travel"
+      },
+      {
+        "t": "ἤρξατο",
+        "lemma": "G0757",
+        "forma": "ἄρχω",
+        "morph": "V-ADI-3S",
+        "glosa": "began",
+        "id": "Mat.11.7#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "be first"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.11.7#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.11.7#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "λέγειν",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAN",
+        "glosa": "to speak",
+        "id": "Mat.11.7#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to say"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "to the",
+        "id": "Mat.11.7#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὄχλοις",
+        "lemma": "G3793",
+        "forma": "ὄχλος",
+        "morph": "N-DPM",
+        "glosa": "crowds",
+        "id": "Mat.11.7#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "crowd"
+      },
+      {
+        "t": "περὶ",
+        "lemma": "G4012",
+        "forma": "περί",
+        "morph": "PREP",
+        "glosa": "concerning",
+        "id": "Mat.11.7#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "about"
+      },
+      {
+        "t": "Ἰωάννου",
+        "lemma": "G2491G",
+        "forma": "Ἰωάννης",
+        "morph": "N-GSM-P",
+        "glosa": "John:",
+        "id": "Mat.11.7#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "John"
+      },
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-ASN",
+        "glosa": "What",
+        "id": "Mat.11.7#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "which?"
+      },
+      {
+        "t": "ἐξήλθατε",
+        "lemma": "G1831",
+        "forma": "ἐξέρχομαι",
+        "morph": "V-2AAI-2P",
+        "glosa": "went you out",
+        "id": "Mat.11.7#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to go out"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.11.7#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.11.7#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἔρημον",
+        "lemma": "G2048",
+        "forma": "ἔρημος",
+        "morph": "A-ASF",
+        "glosa": "wilderness",
+        "id": "Mat.11.7#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "deserted"
+      },
+      {
+        "t": "θεάσασθαι;",
+        "lemma": "G2300",
+        "forma": "θεάομαι",
+        "morph": "V-ADN",
+        "glosa": "to see?",
+        "id": "Mat.11.7#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to look at"
+      },
+      {
+        "t": "κάλαμον",
+        "lemma": "G2563",
+        "forma": "κάλαμος",
+        "morph": "N-ASM",
+        "glosa": "A reed",
+        "id": "Mat.11.7#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "reed/stick/pen"
+      },
+      {
+        "t": "ὑπὸ",
+        "lemma": "G5259G",
+        "forma": "ὑπό",
+        "morph": "PREP",
+        "glosa": "by [the]",
+        "id": "Mat.11.7#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "by/under: by"
+      },
+      {
+        "t": "ἀνέμου",
+        "lemma": "G0417",
+        "forma": "ἄνεμος",
+        "morph": "N-GSM",
+        "glosa": "wind",
+        "id": "Mat.11.7#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "wind"
+      },
+      {
+        "t": "σαλευόμενον;",
+        "lemma": "G4531",
+        "forma": "σαλεύω",
+        "morph": "V-PPP-ASM",
+        "glosa": "shaken?",
+        "id": "Mat.11.7#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "to shake"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po zaimku, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2,
+        3
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "uwaga": "Τούτων πορευομένων, genetivus absolutus, rozbite na zdanie „gdy oni odeszli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἤρξατο oddane jako „począł”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "λέγειν oddane jako „mówić”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7,
+        8
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τοῖς ὄχλοις, celownik liczby mnogiej, oddane jako „do ludu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "περὶ oddane jako „o”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "Ἰωάννου oddane jako „Janie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "τί oddane jako „Coście”; końcówka „-ście” jest w tym wyrazie."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἐξήλθατε oddane jako „wyszli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "εἰς oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "τὴν ἔρημον oddane jako „puszczę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "θεάσασθαι oddane jako „widzieć”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [],
+      "uwaga": "„Izali” jest kursywą w 1632. W grece pytanie o trzcinę nie ma partykuły pytajnej."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "κάλαμον oddane jako „trzcinę”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        18,
+        19
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "σαλευόμενον, imiesłów bierny, oddane jako „chwiejącą się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ὑπὸ oddane jako „od”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "ἀνέμου oddane jako „wiatru”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „Izali” jest kursywą i dopowiada partykułę pytania, której przy κάλαμον nie ma. Genetivus absolutus rozbito na „gdy oni odeszli”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Τούτων πορευομένων to genetivus absolutus. BG rozbija go na „gdy oni odeszli”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "„Izali” przed „trzcinę” jest kursywą w 1632. Pytanie κάλαμον ὑπὸ ἀνέμου σαλευόμενον nie ma partykuły.",
+      "tokeny_bg": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "tokeny_zrodla": [
+        17,
+        18,
+        19,
+        20
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A když oni odešli, počal Ježíš praviti zástupům o Janovi: Co jste vyšli na poušť viděti? Zdali třtinu větrem se klátící?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

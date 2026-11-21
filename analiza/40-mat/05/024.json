@@ -1,0 +1,573 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.24",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 24
+  },
+  "tekst_bg": "Zostaw tam dar twój przed ołtarzem, a odejdź, pierwej się pojednaj z bratem twoim, a potem przyszedłszy ofiaruj dar twój.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Zostaw"
+    },
+    {
+      "i": 1,
+      "t": "tam"
+    },
+    {
+      "i": 2,
+      "t": "dar"
+    },
+    {
+      "i": 3,
+      "t": "twój"
+    },
+    {
+      "i": 4,
+      "t": "przed"
+    },
+    {
+      "i": 5,
+      "t": "ołtarzem"
+    },
+    {
+      "i": 6,
+      "t": "a"
+    },
+    {
+      "i": 7,
+      "t": "odejdź"
+    },
+    {
+      "i": 8,
+      "t": "pierwej"
+    },
+    {
+      "i": 9,
+      "t": "się"
+    },
+    {
+      "i": 10,
+      "t": "pojednaj"
+    },
+    {
+      "i": 11,
+      "t": "z"
+    },
+    {
+      "i": 12,
+      "t": "bratem"
+    },
+    {
+      "i": 13,
+      "t": "twoim"
+    },
+    {
+      "i": 14,
+      "t": "a"
+    },
+    {
+      "i": 15,
+      "t": "potem"
+    },
+    {
+      "i": 16,
+      "t": "przyszedłszy"
+    },
+    {
+      "i": 17,
+      "t": "ofiaruj"
+    },
+    {
+      "i": 18,
+      "t": "dar"
+    },
+    {
+      "i": 19,
+      "t": "twój"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.24",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.24",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἄφες",
+        "lemma": "G0863G",
+        "forma": "ἀφίημι",
+        "morph": "V-2AAM-2S",
+        "glosa": "do leave",
+        "id": "Mat.5.24#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to release: leave"
+      },
+      {
+        "t": "ἐκεῖ",
+        "lemma": "G1563",
+        "forma": "ἐκεῖ",
+        "morph": "ADV",
+        "glosa": "there",
+        "id": "Mat.5.24#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "there"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.5.24#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δῶρόν",
+        "lemma": "G1435",
+        "forma": "δῶρον",
+        "morph": "N-ASN",
+        "glosa": "gift",
+        "id": "Mat.5.24#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "gift"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.5.24#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἔμπροσθεν",
+        "lemma": "G1715",
+        "forma": "ἔμπροσθεν",
+        "morph": "PREP",
+        "glosa": "before",
+        "id": "Mat.5.24#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "before"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSN",
+        "glosa": "the",
+        "id": "Mat.5.24#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θυσιαστηρίου",
+        "lemma": "G2379",
+        "forma": "θυσιαστήριον",
+        "morph": "N-GSN",
+        "glosa": "altar",
+        "id": "Mat.5.24#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "altar"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.24#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὕπαγε",
+        "lemma": "G5217",
+        "forma": "ὑπάγω",
+        "morph": "V-PAM-2S",
+        "glosa": "do go away,",
+        "id": "Mat.5.24#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to go"
+      },
+      {
+        "t": "πρῶτον",
+        "lemma": "G4413G",
+        "forma": "πρῶτος",
+        "morph": "A-ASN",
+        "glosa": "first",
+        "id": "Mat.5.24#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "first"
+      },
+      {
+        "t": "διαλλάγηθι",
+        "lemma": "G1259",
+        "forma": "διαλλάσσω",
+        "morph": "V-2APM-2S",
+        "glosa": "do be reconciled",
+        "id": "Mat.5.24#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "be reconciled"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "to the",
+        "id": "Mat.5.24#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀδελφῷ",
+        "lemma": "G0080",
+        "forma": "ἀδελφός",
+        "morph": "N-DSM",
+        "glosa": "brother",
+        "id": "Mat.5.24#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "brother"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you,",
+        "id": "Mat.5.24#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "you"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.24#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "and"
+      },
+      {
+        "t": "τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "then",
+        "id": "Mat.5.24#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐλθὼν",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having come",
+        "id": "Mat.5.24#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "πρόσφερε",
+        "lemma": "G4374",
+        "forma": "προσφέρω",
+        "morph": "V-PAM-2S",
+        "glosa": "do offer",
+        "id": "Mat.5.24#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to bring to"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.5.24#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δῶρόν",
+        "lemma": "G1435",
+        "forma": "δῶρον",
+        "morph": "N-ASN",
+        "glosa": "gift",
+        "id": "Mat.5.24#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "gift"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you.",
+        "id": "Mat.5.24#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἄφες oddane jako „Zostaw”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐκεῖ oddane jako „tam”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "Pierwsze τὸ δῶρόν oddane jako „dar”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "Pierwsze σου oddane jako „twój”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἔμπροσθεν oddane jako „przed”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τοῦ θυσιαστηρίου oddane jako „ołtarzem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Pierwsze καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ὕπαγε oddane jako „odejdź”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "πρῶτον oddane jako „pierwej”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "διαλλάγηθι, rozkaźnik bierny, oddane jako „się pojednaj”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11,
+        12
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τῷ ἀδελφῷ, celownik, oddane jako „z bratem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "Drugie σου oddane jako „twoim”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "Drugie καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "τότε oddane jako „potem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἐλθὼν, imiesłów aorystu, oddane jako „przyszedłszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "πρόσφερε oddane jako „ofiaruj”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        19,
+        20
+      ],
+      "uwaga": "Drugie τὸ δῶρόν oddane jako „dar”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "Trzecie σου oddane jako „twój”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Nie ma dopowiedzenia ani opuszczenia. Rozkaźnik bierny διαλλάγηθι rozbity na „się pojednaj”, a celownik τῷ ἀδελφῷ na „z bratem”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "διαλλάγηθι to rozkaźnik aorystu strony biernej, glosa „do be reconciled”, a BG ma „się pojednaj”.",
+      "tokeny_bg": [
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nechejž tu daru svého před oltářem a jdi, prve smiř se s bratrem svým, a potom přijda, obětuj dar svůj.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

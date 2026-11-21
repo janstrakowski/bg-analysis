@@ -1,0 +1,598 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.20",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 20
+  },
+  "tekst_bg": "Albowiem powiadam wam: Jeźli nie będzie obfitsza sprawiedliwość wasza, niż nauczonych w Piśmie i Faryzeuszów, żadnym sposobem nie wnijdziecie do królestwa niebieskiego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Albowiem"
+    },
+    {
+      "i": 1,
+      "t": "powiadam"
+    },
+    {
+      "i": 2,
+      "t": "wam"
+    },
+    {
+      "i": 3,
+      "t": "Jeźli"
+    },
+    {
+      "i": 4,
+      "t": "nie"
+    },
+    {
+      "i": 5,
+      "t": "będzie"
+    },
+    {
+      "i": 6,
+      "t": "obfitsza"
+    },
+    {
+      "i": 7,
+      "t": "sprawiedliwość"
+    },
+    {
+      "i": 8,
+      "t": "wasza"
+    },
+    {
+      "i": 9,
+      "t": "niż"
+    },
+    {
+      "i": 10,
+      "t": "nauczonych"
+    },
+    {
+      "i": 11,
+      "t": "w"
+    },
+    {
+      "i": 12,
+      "t": "Piśmie"
+    },
+    {
+      "i": 13,
+      "t": "i"
+    },
+    {
+      "i": 14,
+      "t": "Faryzeuszów"
+    },
+    {
+      "i": 15,
+      "t": "żadnym"
+    },
+    {
+      "i": 16,
+      "t": "sposobem"
+    },
+    {
+      "i": 17,
+      "t": "nie"
+    },
+    {
+      "i": 18,
+      "t": "wnijdziecie"
+    },
+    {
+      "i": 19,
+      "t": "do"
+    },
+    {
+      "i": 20,
+      "t": "królestwa"
+    },
+    {
+      "i": 21,
+      "t": "niebieskiego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.20",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.20",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "λέγω",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-1S",
+        "glosa": "I say",
+        "id": "Mat.5.20#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to say"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.5.20#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you",
+        "id": "Mat.5.20#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.5.20#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "ἐὰν",
+        "lemma": "G1437",
+        "forma": "ἐάν",
+        "morph": "COND",
+        "glosa": "only",
+        "id": "Mat.5.20#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "if"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "unless",
+        "id": "Mat.5.20#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "not"
+      },
+      {
+        "t": "περισσεύσῃ",
+        "lemma": "G4052",
+        "forma": "περισσεύω",
+        "morph": "V-AAS-3S",
+        "glosa": "shall abound",
+        "id": "Mat.5.20#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to exceed"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "<the>",
+        "id": "Mat.5.20#09",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δικαιοσύνη",
+        "lemma": "G1343",
+        "forma": "δικαιοσύνη",
+        "morph": "N-NSF",
+        "glosa": "righteousness",
+        "id": "Mat.5.20#10",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "righteousness"
+      },
+      {
+        "t": "πλεῖον",
+        "lemma": "G4119",
+        "forma": "πλείων, πλεῖον",
+        "morph": "A-ASN-C",
+        "glosa": "above [that]",
+        "id": "Mat.5.20#11",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "greater"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.5.20#12",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γραμματέων",
+        "lemma": "G1122",
+        "forma": "γραμματεύς",
+        "morph": "N-GPM",
+        "glosa": "scribes",
+        "id": "Mat.5.20#13",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "scribe"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.20#14",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "Φαρισαίων",
+        "lemma": "G5330",
+        "forma": "Φαρισαῖος",
+        "morph": "N-GPM-T",
+        "glosa": "Pharisees,",
+        "id": "Mat.5.20#15",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "Pharisee"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "certainly",
+        "id": "Mat.5.20#16",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "no"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.5.20#17",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "not"
+      },
+      {
+        "t": "εἰσέλθητε",
+        "lemma": "G1525",
+        "forma": "εἰσέρχομαι",
+        "morph": "V-2AAS-2P",
+        "glosa": "shall you enter",
+        "id": "Mat.5.20#18",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to enter"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.5.20#19",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.5.20#20",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βασιλείαν",
+        "lemma": "G0932",
+        "forma": "βασιλεία",
+        "morph": "N-ASF",
+        "glosa": "kingdom",
+        "id": "Mat.5.20#21",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "kingdom"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.5.20#22",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανῶν",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-GPM",
+        "glosa": "heavens.",
+        "id": "Mat.5.20#23",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "heaven"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "γὰρ stoi po λέγω, a BG wynosi je na początek jako „Albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "λέγω oddane jako „powiadam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὅτι, spójnik „że”, nie ma polskiego słowa między „wam” a „Jeźli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐὰν oddane jako „Jeźli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "περισσεύσῃ, glosa „shall abound”, oddane jako „będzie obfitsza”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "ἡ δικαιοσύνη oddane jako „sprawiedliwość”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [],
+      "uwaga": "„wasza” nie ma przy δικαιοσύνη tokenu ὑμῶν.",
+      "uzasadnienie": "W tokenach TR przy δικαιοσύνη nie ma ὑμῶν; „wasza” dopowiada przynależność do adresatów ὑμῖν."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "πλεῖον oddane jako „niż”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        10,
+        11,
+        12
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "τῶν γραμματέων, glosa „scribes”, oddane jako „nauczonych w Piśmie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "Φαρισαίων oddane jako „Faryzeuszów”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        15,
+        16,
+        17
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "οὐ μὴ oddane jako „żadnym sposobem nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "εἰσέλθητε oddane jako „wnijdziecie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "τὴν βασιλείαν oddane jako „królestwa”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        20,
+        21
+      ],
+      "uwaga": "τῶν οὐρανῶν oddane jako „niebieskiego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Spójnik ὅτι nie ma polskiego odpowiednika. „wasza” jest dopowiedzeniem bez tokenu ὑμῶν i ma uzasadnienie, więc werdykt opiera się na opuszczeniu ὅτι.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      3
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὅτι stoi po ὑμῖν, a między „wam” a „Jeźli” nie ma słowa „że” ani „iż”.",
+      "tokeny_bg": [
+        2,
+        3
+      ],
+      "tokeny_zrodla": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Przy ἡ δικαιοσύνη w tokenach TR nie ma ὑμῶν, a BG ma „wasza”.",
+      "tokeny_bg": [
+        7,
+        8
+      ],
+      "tokeny_zrodla": [
+        7,
+        8
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo pravím vám: Nebude-liť hojnější spravedlivost vaše nežli zákoníků a farizeů, nikoli nevejdete do království nebeského.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

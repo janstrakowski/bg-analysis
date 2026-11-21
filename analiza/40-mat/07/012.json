@@ -1,0 +1,603 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.12",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 12
+  },
+  "tekst_bg": "Wszystko tedy, cobyście chcieli, aby wam ludzie czynili, tak i wy czyńcie im; tenci bowiem jest zakon i prorocy.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Wszystko"
+    },
+    {
+      "i": 1,
+      "t": "tedy"
+    },
+    {
+      "i": 2,
+      "t": "cobyście"
+    },
+    {
+      "i": 3,
+      "t": "chcieli"
+    },
+    {
+      "i": 4,
+      "t": "aby"
+    },
+    {
+      "i": 5,
+      "t": "wam"
+    },
+    {
+      "i": 6,
+      "t": "ludzie"
+    },
+    {
+      "i": 7,
+      "t": "czynili"
+    },
+    {
+      "i": 8,
+      "t": "tak"
+    },
+    {
+      "i": 9,
+      "t": "i"
+    },
+    {
+      "i": 10,
+      "t": "wy"
+    },
+    {
+      "i": 11,
+      "t": "czyńcie"
+    },
+    {
+      "i": 12,
+      "t": "im"
+    },
+    {
+      "i": 13,
+      "t": "tenci"
+    },
+    {
+      "i": 14,
+      "t": "bowiem"
+    },
+    {
+      "i": 15,
+      "t": "jest"
+    },
+    {
+      "i": 16,
+      "t": "zakon"
+    },
+    {
+      "i": 17,
+      "t": "i"
+    },
+    {
+      "i": 18,
+      "t": "prorocy"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.12",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.12",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Πάντα",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-APN",
+        "glosa": "All things",
+        "id": "Mat.7.12#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "all"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "therefore",
+        "id": "Mat.7.12#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "ὅσα",
+        "lemma": "G3745",
+        "forma": "ὅσος",
+        "morph": "K-APN",
+        "glosa": "as much as",
+        "id": "Mat.7.12#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "just as/how much"
+      },
+      {
+        "t": "ἂν",
+        "lemma": "G0302",
+        "forma": "ἂν",
+        "morph": "PRT",
+        "glosa": "maybe",
+        "id": "Mat.7.12#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "if"
+      },
+      {
+        "t": "θέλητε",
+        "lemma": "G2309",
+        "forma": "θέλω",
+        "morph": "V-PAS-2P",
+        "glosa": "you shall desire",
+        "id": "Mat.7.12#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to will/desire"
+      },
+      {
+        "t": "ἵνα",
+        "lemma": "G2443",
+        "forma": "ἵνα",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.7.12#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "in order that/to"
+      },
+      {
+        "t": "ποιῶσιν",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAS-3P",
+        "glosa": "they shall enact",
+        "id": "Mat.7.12#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "for you",
+        "id": "Mat.7.12#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "you"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.7.12#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἄνθρωποι",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-NPM",
+        "glosa": "men,",
+        "id": "Mat.7.12#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "a human"
+      },
+      {
+        "t": "οὕτως",
+        "lemma": "G3779",
+        "forma": "οὕτω, οὕτως",
+        "morph": "ADV",
+        "glosa": "so",
+        "id": "Mat.7.12#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "thus(-ly)"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "also",
+        "id": "Mat.7.12#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὑμεῖς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2NP",
+        "glosa": "you yourselves",
+        "id": "Mat.7.12#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "you"
+      },
+      {
+        "t": "ποιεῖτε",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAM-2P",
+        "glosa": "do enact",
+        "id": "Mat.7.12#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "αὐτοῖς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DPM",
+        "glosa": "for them;",
+        "id": "Mat.7.12#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "οὗτος",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-NSM",
+        "glosa": "This",
+        "id": "Mat.7.12#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "γάρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.7.12#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "for"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is",
+        "id": "Mat.7.12#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.7.12#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "νόμος",
+        "lemma": "G3551",
+        "forma": "νόμος",
+        "morph": "N-NSM",
+        "glosa": "law",
+        "id": "Mat.7.12#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "law"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.12#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "and"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.7.12#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "προφῆται",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-NPM",
+        "glosa": "prophets.",
+        "id": "Mat.7.12#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "prophet"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Πάντα oddane jako „Wszystko”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "οὖν oddane jako „tedy”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ὅσα ἂν oddane jako „cobyście”; „-ście” niesie osobę z θέλητε."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "θέλητε, conjunctivus, oddane jako „chcieli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἵνα oddane jako „aby”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "οἱ ἄνθρωποι oddane jako „ludzie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ποιῶσιν oddane jako „czynili”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "οὕτως oddane jako „tak”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ὑμεῖς oddane jako „wy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ποιεῖτε oddane jako „czyńcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "αὐτοῖς oddane jako „im”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "οὗτος oddane jako „tenci”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "γάρ oddane jako „bowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἐστιν oddane jako „jest”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "ὁ νόμος oddane jako „zakon”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        21,
+        22
+      ],
+      "uwaga": "οἱ προφῆται oddane jako „prorocy”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Zasada wzajemności oraz „zakon i prorocy” są słowne. ὅσα ἂν siedzi w „cobyście”, rodzajniki w rzeczownikach.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Πάντα οὖν ὅσα ἂν θέλητε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι BG oddaje jako „Wszystko tedy, cobyście chcieli, aby wam ludzie czynili”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A protož všecko, což byste chtěli, aby vám lidé činili, to i vy čiňte jim; toť zajisté jest Zákon i Proroci.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

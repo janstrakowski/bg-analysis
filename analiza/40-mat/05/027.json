@@ -1,0 +1,234 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.27",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 27
+  },
+  "tekst_bg": "Słyszeliście, iż rzeczono starym: Nie będziesz cudzołożył;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Słyszeliście"
+    },
+    {
+      "i": 1,
+      "t": "iż"
+    },
+    {
+      "i": 2,
+      "t": "rzeczono"
+    },
+    {
+      "i": 3,
+      "t": "starym"
+    },
+    {
+      "i": 4,
+      "t": "Nie"
+    },
+    {
+      "i": 5,
+      "t": "będziesz"
+    },
+    {
+      "i": 6,
+      "t": "cudzołożył"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.27",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.27",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἠκούσατε",
+        "lemma": "G0191",
+        "forma": "ἀκούω",
+        "morph": "V-AAI-2P",
+        "glosa": "You have heard",
+        "id": "Mat.5.27#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to hear"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.5.27#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "ἐρρέθη",
+        "lemma": "G2046",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-API-3S",
+        "glosa": "it was said",
+        "id": "Mat.5.27#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to say"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "to the",
+        "id": "Mat.5.27#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀρχαίοις",
+        "lemma": "G0744",
+        "forma": "ἀρχαῖος",
+        "morph": "A-DPM",
+        "glosa": "ancients:",
+        "id": "Mat.5.27#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "ancient"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.5.27#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "no"
+      },
+      {
+        "t": "μοιχεύσεις",
+        "lemma": "G3431",
+        "forma": "μοιχεύω",
+        "morph": "V-FAI-2S",
+        "glosa": "will you commit adultery.’",
+        "id": "Mat.5.27#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to commit adultery"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ἠκούσατε oddane jako „Słyszeliście”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ὅτι oddane jako „iż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐρρέθη, strona bierna, oddane bezosobowo jako „rzeczono”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τοῖς ἀρχαίοις oddane jako „starym”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "οὐ oddane jako „Nie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "μοιχεύσεις, czas przyszły, oddane jako „będziesz cudzołożył”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Czas przyszły μοιχεύσεις rozpada się na „będziesz cudzołożył”, a rodzajnik przy ἀρχαίοις wchodzi w „starym”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὐ μοιχεύσεις oddane jest jako „Nie będziesz cudzołożył”: jedno greckie przyszłe orzeczenie ma w polskim czasownik posiłkowy.",
+      "tokeny_bg": [
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Slyšeli jste, že řečeno jest od starých: Nezcizoložíš.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

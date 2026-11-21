@@ -1,0 +1,397 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.17",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 17
+  },
+  "tekst_bg": "I mówią: Grałyśmy wam na piszczałce a nie tańcowałyście; śpiewałyśmy pieśni żałobne, a nie płakałyście.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "mówią"
+    },
+    {
+      "i": 2,
+      "t": "Grałyśmy"
+    },
+    {
+      "i": 3,
+      "t": "wam"
+    },
+    {
+      "i": 4,
+      "t": "na"
+    },
+    {
+      "i": 5,
+      "t": "piszczałce"
+    },
+    {
+      "i": 6,
+      "t": "a"
+    },
+    {
+      "i": 7,
+      "t": "nie"
+    },
+    {
+      "i": 8,
+      "t": "tańcowałyście"
+    },
+    {
+      "i": 9,
+      "t": "śpiewałyśmy"
+    },
+    {
+      "i": 10,
+      "t": "pieśni"
+    },
+    {
+      "i": 11,
+      "t": "żałobne"
+    },
+    {
+      "i": 12,
+      "t": "a"
+    },
+    {
+      "i": 13,
+      "t": "nie"
+    },
+    {
+      "i": 14,
+      "t": "płakałyście"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.17",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.17",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.17#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "λέγουσιν",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-3P",
+        "glosa": "saying:",
+        "id": "Mat.11.17#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ηὐλήσαμεν",
+        "lemma": "G0832",
+        "forma": "αὐλέω",
+        "morph": "V-AAI-1P",
+        "glosa": "We piped",
+        "id": "Mat.11.17#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to play the flute"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "for you",
+        "id": "Mat.11.17#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "you"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.17#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "and"
+      },
+      {
+        "t": "οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.11.17#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "no"
+      },
+      {
+        "t": "ὠρχήσασθε,¶¬",
+        "lemma": "G3738",
+        "forma": "ὀρχέομαι",
+        "morph": "V-ADI-2P",
+        "glosa": "you did dance,",
+        "id": "Mat.11.17#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to dance"
+      },
+      {
+        "t": "ἐθρηνήσαμεν",
+        "lemma": "G2354",
+        "forma": "θρηνέω",
+        "morph": "V-AAI-1P",
+        "glosa": "we sang a dirge",
+        "id": "Mat.11.17#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to lament"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you",
+        "id": "Mat.11.17#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "you"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.17#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.11.17#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "no"
+      },
+      {
+        "t": "ἐκόψασθε",
+        "lemma": "G2875",
+        "forma": "κόπτω",
+        "morph": "V-AMI-2P",
+        "glosa": "you did wail.",
+        "id": "Mat.11.17#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to cut/mourn"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "λέγουσιν oddane jako „mówią”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        4,
+        5
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ηὐλήσαμεν „grałyśmy na flecie” oddane jako „Grałyśmy na piszczałce”; forma polska jest żeńska."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "Pierwsze ὑμῖν oddane jako „wam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "οὐκ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὠρχήσασθε oddane jako „tańcowałyście”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10,
+        11
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐθρηνήσαμεν „śpiewałyśmy tren” oddane jako „śpiewałyśmy pieśni żałobne”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Drugie ὑμῖν przy ἐθρηνήσαμεν nie ma polskiego odpowiednika."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "οὐκ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἐκόψασθε, glosa „you did wail”, oddane jako „płakałyście”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Drugie ὑμῖν przy ἐθρηνήσαμεν nie jest oddane. Pierwsze „wam” stoi tylko przy „Grałyśmy”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      8
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐθρηνήσαμεν ὑμῖν ma zaimek ὑμῖν. W polskim „śpiewałyśmy pieśni żałobne” tego „wam” nie ma.",
+      "tokeny_bg": [
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        7,
+        8
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ηὐλήσαμεν BG rozbija na „Grałyśmy na piszczałce”, a ἐκόψασθε oddaje jako „płakałyście”.",
+      "tokeny_bg": [
+        2,
+        4,
+        5,
+        14
+      ],
+      "tokeny_zrodla": [
+        2,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A říkají: Pískali jsme vám, a neskákali jste; žalostně jsme naříkali, a neplakali jste.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

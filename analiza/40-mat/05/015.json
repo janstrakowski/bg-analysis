@@ -1,0 +1,543 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.15",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 15
+  },
+  "tekst_bg": "Ani zapalają świecy, i stawiają jej pod korzec, ale na świecznik, i świeci wszystkim, którzy są w domu.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ani"
+    },
+    {
+      "i": 1,
+      "t": "zapalają"
+    },
+    {
+      "i": 2,
+      "t": "świecy"
+    },
+    {
+      "i": 3,
+      "t": "i"
+    },
+    {
+      "i": 4,
+      "t": "stawiają"
+    },
+    {
+      "i": 5,
+      "t": "jej"
+    },
+    {
+      "i": 6,
+      "t": "pod"
+    },
+    {
+      "i": 7,
+      "t": "korzec"
+    },
+    {
+      "i": 8,
+      "t": "ale"
+    },
+    {
+      "i": 9,
+      "t": "na"
+    },
+    {
+      "i": 10,
+      "t": "świecznik"
+    },
+    {
+      "i": 11,
+      "t": "i"
+    },
+    {
+      "i": 12,
+      "t": "świeci"
+    },
+    {
+      "i": 13,
+      "t": "wszystkim"
+    },
+    {
+      "i": 14,
+      "t": "którzy"
+    },
+    {
+      "i": 15,
+      "t": "są"
+    },
+    {
+      "i": 16,
+      "t": "w"
+    },
+    {
+      "i": 17,
+      "t": "domu"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.15",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.15",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "οὐδὲ",
+        "lemma": "G3761",
+        "forma": "οὐδέ",
+        "morph": "CONJ-N",
+        "glosa": "Nor",
+        "id": "Mat.5.15#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "nor"
+      },
+      {
+        "t": "καίουσιν",
+        "lemma": "G2545",
+        "forma": "καίω",
+        "morph": "V-PAI-3P",
+        "glosa": "do they light",
+        "id": "Mat.5.15#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to kindle/burn"
+      },
+      {
+        "t": "λύχνον",
+        "lemma": "G3088",
+        "forma": "λύχνος",
+        "morph": "N-ASM",
+        "glosa": "a lamp",
+        "id": "Mat.5.15#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "lamp"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.15#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "and"
+      },
+      {
+        "t": "τιθέασιν",
+        "lemma": "G5087",
+        "forma": "τίθημι",
+        "morph": "V-PAI-3P",
+        "glosa": "put",
+        "id": "Mat.5.15#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to place"
+      },
+      {
+        "t": "αὐτὸν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "it",
+        "id": "Mat.5.15#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὑπὸ",
+        "lemma": "G5259H",
+        "forma": "ὑπό",
+        "morph": "PREP",
+        "glosa": "under",
+        "id": "Mat.5.15#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "by/under: under"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.5.15#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μόδιον",
+        "lemma": "G3426",
+        "forma": "μόδιος",
+        "morph": "N-ASM",
+        "glosa": "a basket",
+        "id": "Mat.5.15#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "bucket"
+      },
+      {
+        "t": "ἀλλ᾽",
+        "lemma": "G0235",
+        "forma": "ἀλλά",
+        "morph": "CONJ",
+        "glosa": "but",
+        "id": "Mat.5.15#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "but"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "upon",
+        "id": "Mat.5.15#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.5.15#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λυχνίαν",
+        "lemma": "G3087",
+        "forma": "λυχνία",
+        "morph": "N-ASF",
+        "glosa": "lampstand,",
+        "id": "Mat.5.15#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "lampstand"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.15#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "and"
+      },
+      {
+        "t": "λάμπει",
+        "lemma": "G2989",
+        "forma": "λάμπω",
+        "morph": "V-PAI-3S",
+        "glosa": "it shines",
+        "id": "Mat.5.15#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to shine"
+      },
+      {
+        "t": "πᾶσιν",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-DPM",
+        "glosa": "for all",
+        "id": "Mat.5.15#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "all"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "those",
+        "id": "Mat.5.15#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.5.15#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.5.15#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἰκίᾳ",
+        "lemma": "G3614G",
+        "forma": "οἰκία",
+        "morph": "N-DSF",
+        "glosa": "house.",
+        "id": "Mat.5.15#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "home"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "οὐδὲ oddane jako „Ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "καίουσιν oddane jako „zapalają”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "λύχνον, glosa „a lamp”, oddane jako „świecy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "Pierwsze καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "τιθέασιν oddane jako „stawiają”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "αὐτὸν oddane jako „jej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὑπὸ oddane jako „pod”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τὸν μόδιον oddane jako „korzec”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἀλλ᾽ oddane jako „ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἐπὶ oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τὴν λυχνίαν oddane jako „świecznik”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "Drugie καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "λάμπει oddane jako „świeci”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "πᾶσιν oddane jako „wszystkim”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "τοῖς, rodzajnik rzeczownikowy, oddane jako „którzy”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [],
+      "uwaga": "„są” nie ma w grece; τοῖς ἐν τῇ οἰκίᾳ to „tym w domu”, a wyraz jest kursywą 1632."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "τῇ οἰκίᾳ oddane jako „domu”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Jedynym dodatkiem jest kursywne „są” przy rodzajniku τοῖς ἐν τῇ οἰκίᾳ. Każdy token grecki ma odpowiednik.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τοῖς ἐν τῇ οἰκίᾳ nie ma czasownika „być”, a BG wstawia kursywne „są” między „którzy” i „w domu”.",
+      "tokeny_bg": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "tokeny_zrodla": [
+        16,
+        17,
+        18,
+        19
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Aniž rozsvěcují svíce a stavějí ji pod kbelec, ale na svícen; i svítí všechněm, kteříž v domu jsou.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

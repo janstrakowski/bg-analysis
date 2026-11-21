@@ -1,0 +1,662 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.2",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 2
+  },
+  "tekst_bg": "A oto przynieśli mu powietrzem ruszonego, na łożu leżącego. A widząc Jezus wiarę ich, rzekł powietrzem ruszonemu: Ufaj, synu! odpuszczone są tobie grzechy twoje.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "oto"
+    },
+    {
+      "i": 2,
+      "t": "przynieśli"
+    },
+    {
+      "i": 3,
+      "t": "mu"
+    },
+    {
+      "i": 4,
+      "t": "powietrzem"
+    },
+    {
+      "i": 5,
+      "t": "ruszonego"
+    },
+    {
+      "i": 6,
+      "t": "na"
+    },
+    {
+      "i": 7,
+      "t": "łożu"
+    },
+    {
+      "i": 8,
+      "t": "leżącego"
+    },
+    {
+      "i": 9,
+      "t": "A"
+    },
+    {
+      "i": 10,
+      "t": "widząc"
+    },
+    {
+      "i": 11,
+      "t": "Jezus"
+    },
+    {
+      "i": 12,
+      "t": "wiarę"
+    },
+    {
+      "i": 13,
+      "t": "ich"
+    },
+    {
+      "i": 14,
+      "t": "rzekł"
+    },
+    {
+      "i": 15,
+      "t": "powietrzem"
+    },
+    {
+      "i": 16,
+      "t": "ruszonemu"
+    },
+    {
+      "i": 17,
+      "t": "Ufaj"
+    },
+    {
+      "i": 18,
+      "t": "synu"
+    },
+    {
+      "i": 19,
+      "t": "odpuszczone"
+    },
+    {
+      "i": 20,
+      "t": "są"
+    },
+    {
+      "i": 21,
+      "t": "tobie"
+    },
+    {
+      "i": 22,
+      "t": "grzechy"
+    },
+    {
+      "i": 23,
+      "t": "twoje"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.2",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.2",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.2#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "behold",
+        "id": "Mat.9.2#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "look!"
+      },
+      {
+        "t": "προσέφερον",
+        "lemma": "G4374",
+        "forma": "προσφέρω",
+        "morph": "V-IAI-3P",
+        "glosa": "they were bringing",
+        "id": "Mat.9.2#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to bring to"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to Him",
+        "id": "Mat.9.2#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "παραλυτικὸν",
+        "lemma": "G3885",
+        "forma": "παραλυτικός",
+        "morph": "A-ASM",
+        "glosa": "a paralytic",
+        "id": "Mat.9.2#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "paralytic"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "on",
+        "id": "Mat.9.2#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "κλίνης",
+        "lemma": "G2825",
+        "forma": "κλίνη",
+        "morph": "N-GSF",
+        "glosa": "a bed",
+        "id": "Mat.9.2#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "bed"
+      },
+      {
+        "t": "βεβλημένον",
+        "lemma": "G0906H",
+        "forma": "βάλλω",
+        "morph": "V-RPP-ASM",
+        "glosa": "lain down.",
+        "id": "Mat.9.2#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to throw: put"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.2#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδὼν",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having seen",
+        "id": "Mat.9.2#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.9.2#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.9.2#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.9.2#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πίστιν",
+        "lemma": "G4102G",
+        "forma": "πίστις",
+        "morph": "N-ASF",
+        "glosa": "faith",
+        "id": "Mat.9.2#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "faith"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them",
+        "id": "Mat.9.2#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "εἶπεν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAI-3S",
+        "glosa": "He said",
+        "id": "Mat.9.2#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to say"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "to the",
+        "id": "Mat.9.2#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "παραλυτικῷ",
+        "lemma": "G3885",
+        "forma": "παραλυτικός",
+        "morph": "A-DSM",
+        "glosa": "paralytic;",
+        "id": "Mat.9.2#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "paralytic"
+      },
+      {
+        "t": "θάρσει",
+        "lemma": "G2293",
+        "forma": "θαρσέω",
+        "morph": "V-PAM-2S",
+        "glosa": "Take courage",
+        "id": "Mat.9.2#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "take heart"
+      },
+      {
+        "t": "τέκνον",
+        "lemma": "G5043",
+        "forma": "τέκνον",
+        "morph": "N-VSN",
+        "glosa": "son,",
+        "id": "Mat.9.2#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "child"
+      },
+      {
+        "t": "ἀφέωνταί",
+        "lemma": "G0863",
+        "forma": "ἀφέωνταί",
+        "morph": "V-RPI-3P",
+        "glosa": "have been forgiven",
+        "id": "Mat.9.2#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "to release: leave"
+      },
+      {
+        "t": "σοί",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DS",
+        "glosa": "to you",
+        "id": "Mat.9.2#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "you"
+      },
+      {
+        "t": "αἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPF",
+        "glosa": "the",
+        "id": "Mat.9.2#24",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἁμαρτίαι",
+        "lemma": "G0266",
+        "forma": "ἁμαρτία",
+        "morph": "N-NPF",
+        "glosa": "sins.",
+        "id": "Mat.9.2#25",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "sin"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane na początku jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἰδοὺ oddane jako „oto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "προσέφερον, czas niedokonany „they were bringing”, oddane jako „przynieśli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "παραλυτικὸν, „a paralytic”, oddane zwrotem „powietrzem ruszonego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἐπὶ oddane jako „na”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "κλίνης oddane jako „łożu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "βεβλημένον, imiesłów „lain down”, oddane jako „leżącego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Drugie καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἰδὼν oddane jako „widząc”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τὴν πίστιν oddane jako „wiarę”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "αὐτῶν oddane jako „ich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "εἶπεν oddane jako „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15,
+        16
+      ],
+      "zrodlo": [
+        16,
+        17
+      ],
+      "uwaga": "τῷ παραλυτικῷ oddane jako „powietrzem ruszonemu”; rodzajnik nie ma osobnego słowa, a przymiotnik rozpada się na dwa wyrazy."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "θάρσει, „Take courage”, oddane jako „Ufaj”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "τέκνον, wołacz „child”, oddane jako „synu”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        19,
+        20
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ἀφέωνταί, strona bierna „have been forgiven”, oddane jako „odpuszczone są”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "σοί oddane jako „tobie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        22,
+        23
+      ],
+      "uwaga": "αἱ ἁμαρτίαι oddane jako „grzechy”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        23
+      ],
+      "zrodlo": [],
+      "uwaga": "„twoje” nie ma w TR osobnego zaimka dzierżawczego.",
+      "uzasadnienie": "Rodzajnik αἱ nie jest zaimkiem dzierżawczym i wchodzi już w „grzechy”, a σοί jest oddane przez „tobie”. „twoje” dopowiada przynależność grzechów."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „twoje” dopowiada, czyje grzechy są odpuszczone, choć TR ma tylko rodzajnik αἱ i celownik σοί oddany przez „tobie”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀφέωνταί σοί αἱ ἁμαρτίαι nie zawiera zaimka „twoje”. BG dodaje „twoje”, a σοί oddaje osobno jako „tobie”.",
+      "tokeny_bg": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "tokeny_zrodla": [
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "παραλυτικὸν i τῷ παραλυτικῷ to po jednym przymiotniku „paralytic”. BG rozpisuje oba jako „powietrzem ruszonego” i „powietrzem ruszonemu”.",
+      "tokeny_bg": [
+        4,
+        5,
+        15,
+        16
+      ],
+      "tokeny_zrodla": [
+        4,
+        16,
+        17
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A aj, přinesli mu šlakem poraženého, ležícího na loži. A viděv Ježíš víru jejich, dí šlakem poraženému: Doufej, synu, odpuštěniť jsou tobě hříchové tvoji.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

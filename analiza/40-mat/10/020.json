@@ -1,0 +1,472 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.20",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 20
+  },
+  "tekst_bg": "Bo wy nie jesteście, którzy mówicie, ale duch Ojca waszego, który mówi w was.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Bo"
+    },
+    {
+      "i": 1,
+      "t": "wy"
+    },
+    {
+      "i": 2,
+      "t": "nie"
+    },
+    {
+      "i": 3,
+      "t": "jesteście"
+    },
+    {
+      "i": 4,
+      "t": "którzy"
+    },
+    {
+      "i": 5,
+      "t": "mówicie"
+    },
+    {
+      "i": 6,
+      "t": "ale"
+    },
+    {
+      "i": 7,
+      "t": "duch"
+    },
+    {
+      "i": 8,
+      "t": "Ojca"
+    },
+    {
+      "i": 9,
+      "t": "waszego"
+    },
+    {
+      "i": 10,
+      "t": "który"
+    },
+    {
+      "i": 11,
+      "t": "mówi"
+    },
+    {
+      "i": 12,
+      "t": "w"
+    },
+    {
+      "i": 13,
+      "t": "was"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.20",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.20",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.10.20#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "no"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.10.20#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "ὑμεῖς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2NP",
+        "glosa": "you yourselves",
+        "id": "Mat.10.20#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἐστε",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-2P",
+        "glosa": "are",
+        "id": "Mat.10.20#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to be"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "[the] ones",
+        "id": "Mat.10.20#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λαλοῦντες",
+        "lemma": "G2980",
+        "forma": "λαλέω",
+        "morph": "V-PAP-NPM",
+        "glosa": "speaking",
+        "id": "Mat.10.20#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to speak"
+      },
+      {
+        "t": "ἀλλὰ",
+        "lemma": "G0235",
+        "forma": "ἀλλά",
+        "morph": "CONJ",
+        "glosa": "but",
+        "id": "Mat.10.20#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "but"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "the",
+        "id": "Mat.10.20#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πνεῦμα",
+        "lemma": "G4151G",
+        "forma": "πνεῦμα",
+        "morph": "N-NSN",
+        "glosa": "Spirit",
+        "id": "Mat.10.20#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "spirit/breath: spirit"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.10.20#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατρὸς",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-GSM-T",
+        "glosa": "Father",
+        "id": "Mat.10.20#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "father"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.10.20#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "you"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "who",
+        "id": "Mat.10.20#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λαλοῦν",
+        "lemma": "G2980",
+        "forma": "λαλέω",
+        "morph": "V-PAP-NSN",
+        "glosa": "is speaking",
+        "id": "Mat.10.20#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to speak"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "through",
+        "id": "Mat.10.20#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "you.",
+        "id": "Mat.10.20#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "γὰρ stoi po οὐ, a BG wynosi je na początek jako „Bo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὑμεῖς oddane jako „wy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "οὐ stoi przed zaimkiem, a BG stawia „nie” po „wy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἐστε oddane jako „jesteście”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [],
+      "uwaga": "„którzy” otwiera zdanie względne przy οἱ λαλοῦντες. W grece nie ma zaimka ὅς.",
+      "uzasadnienie": "Rodzajnik οἱ przy imiesłowie λαλοῦντες nie jest zaimkiem względnym. „którzy” buduje polskie zdanie o tych samych osobach."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "οἱ λαλοῦντες oddane jako „mówicie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἀλλὰ oddane jako „ale”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τὸ πνεῦμα oddane jako „duch”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τοῦ πατρὸς oddane jako „Ojca”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ὑμῶν oddane jako „waszego”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [],
+      "uwaga": "„który” otwiera zdanie względne przy τὸ λαλοῦν. W grece nie ma zaimka ὅς.",
+      "uzasadnienie": "Rodzajnik τὸ przy imiesłowie λαλοῦν nie jest zaimkiem względnym. „który” buduje polskie zdanie o tym samym duchu."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τὸ λαλοῦν oddane jako „mówi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ὑμῖν oddane jako „was”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "„którzy” i „który” rozwijają rodzajniki przy imiesłowach λαλοῦντες i λαλοῦν. Twierdzenie zostaje: nie wy mówicie, tylko duch Ojca waszego mówi w was.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὐ γὰρ ὑμεῖς ἐστε οἱ λαλοῦντες BG oddaje jako „Bo wy nie jesteście, którzy mówicie”, z przeczeniem po zaimku.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τὸ πνεῦμα τοῦ πατρὸς ὑμῶν τὸ λαλοῦν ἐν ὑμῖν BG oddaje jako „duch Ojca waszego, który mówi w was”. „który” otwiera zdanie względne.",
+      "tokeny_bg": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tokeny_zrodla": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo ne vy jste, jenž mluvíte, ale duch Otce vašeho, jenž mluví v vás.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

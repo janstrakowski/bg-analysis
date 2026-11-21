@@ -1,0 +1,357 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.9",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 9
+  },
+  "tekst_bg": "Ale coście wyszli widzieć? Izali proroka? zaiste powiadam wam, i więcej niż proroka.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "coście"
+    },
+    {
+      "i": 2,
+      "t": "wyszli"
+    },
+    {
+      "i": 3,
+      "t": "widzieć"
+    },
+    {
+      "i": 4,
+      "t": "Izali"
+    },
+    {
+      "i": 5,
+      "t": "proroka"
+    },
+    {
+      "i": 6,
+      "t": "zaiste"
+    },
+    {
+      "i": 7,
+      "t": "powiadam"
+    },
+    {
+      "i": 8,
+      "t": "wam"
+    },
+    {
+      "i": 9,
+      "t": "i"
+    },
+    {
+      "i": 10,
+      "t": "więcej"
+    },
+    {
+      "i": 11,
+      "t": "niż"
+    },
+    {
+      "i": 12,
+      "t": "proroka"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.9",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.9",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἀλλὰ",
+        "lemma": "G0235",
+        "forma": "ἀλλά",
+        "morph": "CONJ",
+        "glosa": "But",
+        "id": "Mat.11.9#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "but"
+      },
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-ASN",
+        "glosa": "what",
+        "id": "Mat.11.9#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "which?"
+      },
+      {
+        "t": "ἐξήλθατε",
+        "lemma": "G1831",
+        "forma": "ἐξέρχομαι",
+        "morph": "V-2AAI-2P",
+        "glosa": "did you go out",
+        "id": "Mat.11.9#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to go out"
+      },
+      {
+        "t": "ἰδεῖν;",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAN",
+        "glosa": "to see?",
+        "id": "Mat.11.9#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "προφήτην;",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-ASM",
+        "glosa": "a prophet?",
+        "id": "Mat.11.9#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "prophet"
+      },
+      {
+        "t": "ναὶ",
+        "lemma": "G3483",
+        "forma": "ναί",
+        "morph": "PRT",
+        "glosa": "Yes",
+        "id": "Mat.11.9#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "yes"
+      },
+      {
+        "t": "λέγω",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-1S",
+        "glosa": "I say",
+        "id": "Mat.11.9#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you;",
+        "id": "Mat.11.9#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "you"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and [one]",
+        "id": "Mat.11.9#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "and"
+      },
+      {
+        "t": "περισσότερον",
+        "lemma": "G4054",
+        "forma": "περισσότερον",
+        "morph": "ADV-C",
+        "glosa": "more excellent",
+        "id": "Mat.11.9#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "more excessive"
+      },
+      {
+        "t": "προφήτου",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-GSM",
+        "glosa": "than a prophet.",
+        "id": "Mat.11.9#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "prophet"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἀλλὰ oddane jako „Ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "τί oddane jako „coście”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐξήλθατε oddane jako „wyszli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἰδεῖν oddane jako „widzieć”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [],
+      "uwaga": "„Izali” jest kursywą w 1632. Pytanie προφήτην nie ma partykuły."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "προφήτην oddane jako „proroka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ναὶ oddane jako „zaiste”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "λέγω oddane jako „powiadam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "περισσότερον oddane jako „więcej”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        11,
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "προφήτου, dopełniacz porównania, oddane jako „niż proroka”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „Izali” jest kursywą i dopowiada partykułę pytania przy προφήτην. Dopełniacz προφήτου rozbito na „niż proroka”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "„Izali” jest kursywą w 1632. Samo προφήτην stoi jako pytanie bez partykuły.",
+      "tokeny_bg": [
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        4
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Aneb co jste vyšli viděti? Proroka-li? Jistě pravím vám, i více nežli proroka.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

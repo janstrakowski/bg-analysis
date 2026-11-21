@@ -1,0 +1,543 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.17",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 17
+  },
+  "tekst_bg": "Aby się wypełniło, co powiedziano przez Izajasza proroka, mówiącego: On niemocy nasze na się wziął, a choroby nasze nosił.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Aby"
+    },
+    {
+      "i": 1,
+      "t": "się"
+    },
+    {
+      "i": 2,
+      "t": "wypełniło"
+    },
+    {
+      "i": 3,
+      "t": "co"
+    },
+    {
+      "i": 4,
+      "t": "powiedziano"
+    },
+    {
+      "i": 5,
+      "t": "przez"
+    },
+    {
+      "i": 6,
+      "t": "Izajasza"
+    },
+    {
+      "i": 7,
+      "t": "proroka"
+    },
+    {
+      "i": 8,
+      "t": "mówiącego"
+    },
+    {
+      "i": 9,
+      "t": "On"
+    },
+    {
+      "i": 10,
+      "t": "niemocy"
+    },
+    {
+      "i": 11,
+      "t": "nasze"
+    },
+    {
+      "i": 12,
+      "t": "na"
+    },
+    {
+      "i": 13,
+      "t": "się"
+    },
+    {
+      "i": 14,
+      "t": "wziął"
+    },
+    {
+      "i": 15,
+      "t": "a"
+    },
+    {
+      "i": 16,
+      "t": "choroby"
+    },
+    {
+      "i": 17,
+      "t": "nasze"
+    },
+    {
+      "i": 18,
+      "t": "nosił"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.17",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.17",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ὅπως",
+        "lemma": "G3704",
+        "forma": "ὅπως",
+        "morph": "CONJ",
+        "glosa": "so that",
+        "id": "Mat.8.17#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "that"
+      },
+      {
+        "t": "πληρωθῇ",
+        "lemma": "G4137",
+        "forma": "πληρόω",
+        "morph": "V-APS-3S",
+        "glosa": "it may be fulfilled",
+        "id": "Mat.8.17#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to fulfill"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "that",
+        "id": "Mat.8.17#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ῥηθὲν",
+        "lemma": "G2046",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-APP-NSN",
+        "glosa": "having been spoken",
+        "id": "Mat.8.17#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to say"
+      },
+      {
+        "t": "διὰ",
+        "lemma": "G1223",
+        "forma": "διά",
+        "morph": "PREP",
+        "glosa": "through",
+        "id": "Mat.8.17#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "through/because of"
+      },
+      {
+        "t": "Ἠσαΐου",
+        "lemma": "G2268",
+        "forma": "Ἡσαΐας",
+        "morph": "N-GSM-P",
+        "glosa": "Isaiah",
+        "id": "Mat.8.17#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Isaiah"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.8.17#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "προφήτου",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-GSM",
+        "glosa": "prophet",
+        "id": "Mat.8.17#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "prophet"
+      },
+      {
+        "t": "λέγοντος",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-GSM",
+        "glosa": "saying;",
+        "id": "Mat.8.17#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτὸς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-NSM",
+        "glosa": "Himself",
+        "id": "Mat.8.17#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "τὰς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APF",
+        "glosa": "the",
+        "id": "Mat.8.17#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀσθενείας",
+        "lemma": "G0769H",
+        "forma": "ἀσθένεια",
+        "morph": "N-APF",
+        "glosa": "infirmities",
+        "id": "Mat.8.17#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "weakness: ill"
+      },
+      {
+        "t": "ἡμῶν",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GP",
+        "glosa": "of us",
+        "id": "Mat.8.17#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "me"
+      },
+      {
+        "t": "ἔλαβεν",
+        "lemma": "G2983",
+        "forma": "λαμβάνω",
+        "morph": "V-2AAI-3S",
+        "glosa": "He took",
+        "id": "Mat.8.17#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to take"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.17#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "and"
+      },
+      {
+        "t": "τὰς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APF",
+        "glosa": "<the>",
+        "id": "Mat.8.17#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "νόσους",
+        "lemma": "G3554",
+        "forma": "νόσος",
+        "morph": "N-APF",
+        "glosa": "[our] diseases",
+        "id": "Mat.8.17#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "illness"
+      },
+      {
+        "t": "ἐβάστασεν",
+        "lemma": "G0941",
+        "forma": "βαστάζω",
+        "morph": "V-AAI-3S",
+        "glosa": "bore.",
+        "id": "Mat.8.17#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to carry"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ὅπως oddane jako „Aby”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "πληρωθῇ, coniunctivus bierny, oddane jako „się wypełniło”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "τὸ, rodzajnik rzeczownikowy, oddane jako „co”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ῥηθὲν, imiesłów bierny, oddane jako „powiedziano”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "διὰ oddane jako „przez”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Ἠσαΐου oddane jako „Izajasza”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τοῦ προφήτου oddane jako „proroka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "λέγοντος oddane jako „mówiącego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "αὐτὸς oddane jako „On”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "τὰς ἀσθενείας oddane jako „niemocy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἡμῶν oddane jako „nasze”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        12,
+        13
+      ],
+      "zrodlo": [],
+      "uwaga": "„na się” jest kursywą w 1632. ἔλαβεν nie ma zwrotu „na siebie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἔλαβεν oddane jako „wziął”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "τὰς νόσους oddane jako „choroby”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        17
+      ],
+      "zrodlo": [],
+      "uwaga": "Drugie „nasze” jest kursywą w 1632. Przy τὰς νόσους nie ma ἡμῶν."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἐβάστασεν oddane jako „nosił”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „na się” i drugie „nasze” są kursywą: ἔλαβεν nie ma „na siebie”, a przy τὰς νόσους nie ma drugiego ἡμῶν.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "αὐτὸς τὰς ἀσθενείας ἡμῶν ἔλαβεν καὶ τὰς νόσους ἐβάστασεν nie ma „na siebie” ani drugiego ἡμῶν. Oba dodatki są kursywą w 1632.",
+      "tokeny_bg": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "tokeny_zrodla": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὅπως πληρωθῇ τὸ ῥηθὲν oddane jako „Aby się wypełniło, co powiedziano”; „się” należy do strony biernej πληρωθῇ.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Aby se naplnilo povědění skrze Izaiáše proroka, řkoucího: Onť jest vzal na se mdloby naše, a neduhy naše nesl.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

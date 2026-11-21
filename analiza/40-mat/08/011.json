@@ -1,0 +1,709 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.11",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 11
+  },
+  "tekst_bg": "A powiadam wam: Iż wiele ich od wschodu i od zachodu słońca przyjdzie, a usiądą za stołem z Abrahamem i z Izaakiem i z Jakóbem w królestwie niebieskiem.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "powiadam"
+    },
+    {
+      "i": 2,
+      "t": "wam"
+    },
+    {
+      "i": 3,
+      "t": "Iż"
+    },
+    {
+      "i": 4,
+      "t": "wiele"
+    },
+    {
+      "i": 5,
+      "t": "ich"
+    },
+    {
+      "i": 6,
+      "t": "od"
+    },
+    {
+      "i": 7,
+      "t": "wschodu"
+    },
+    {
+      "i": 8,
+      "t": "i"
+    },
+    {
+      "i": 9,
+      "t": "od"
+    },
+    {
+      "i": 10,
+      "t": "zachodu"
+    },
+    {
+      "i": 11,
+      "t": "słońca"
+    },
+    {
+      "i": 12,
+      "t": "przyjdzie"
+    },
+    {
+      "i": 13,
+      "t": "a"
+    },
+    {
+      "i": 14,
+      "t": "usiądą"
+    },
+    {
+      "i": 15,
+      "t": "za"
+    },
+    {
+      "i": 16,
+      "t": "stołem"
+    },
+    {
+      "i": 17,
+      "t": "z"
+    },
+    {
+      "i": 18,
+      "t": "Abrahamem"
+    },
+    {
+      "i": 19,
+      "t": "i"
+    },
+    {
+      "i": 20,
+      "t": "z"
+    },
+    {
+      "i": 21,
+      "t": "Izaakiem"
+    },
+    {
+      "i": 22,
+      "t": "i"
+    },
+    {
+      "i": 23,
+      "t": "z"
+    },
+    {
+      "i": 24,
+      "t": "Jakóbem"
+    },
+    {
+      "i": 25,
+      "t": "w"
+    },
+    {
+      "i": 26,
+      "t": "królestwie"
+    },
+    {
+      "i": 27,
+      "t": "niebieskiem"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.11",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.11",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "λέγω",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-1S",
+        "glosa": "I say",
+        "id": "Mat.8.11#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to say"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.8.11#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you",
+        "id": "Mat.8.11#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.8.11#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "πολλοὶ",
+        "lemma": "G4183",
+        "forma": "πολύς",
+        "morph": "A-NPM",
+        "glosa": "many",
+        "id": "Mat.8.11#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "much"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.8.11#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "away from"
+      },
+      {
+        "t": "ἀνατολῶν",
+        "lemma": "G0395",
+        "forma": "ἀνατολή",
+        "morph": "N-GPF",
+        "glosa": "east",
+        "id": "Mat.8.11#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "east"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.11#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "δυσμῶν",
+        "lemma": "G1424",
+        "forma": "δυσμή",
+        "morph": "N-GPF",
+        "glosa": "west",
+        "id": "Mat.8.11#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "west"
+      },
+      {
+        "t": "ἥξουσιν",
+        "lemma": "G2240",
+        "forma": "ἥκω",
+        "morph": "V-FAI-3P",
+        "glosa": "will come",
+        "id": "Mat.8.11#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to come/be present"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.11#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀνακλιθήσονται",
+        "lemma": "G0347",
+        "forma": "ἀνακλίνω",
+        "morph": "V-FPI-3P",
+        "glosa": "they will recline",
+        "id": "Mat.8.11#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to recline"
+      },
+      {
+        "t": "μετὰ",
+        "lemma": "G3326",
+        "forma": "μετά",
+        "morph": "PREP",
+        "glosa": "with",
+        "id": "Mat.8.11#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "with/after"
+      },
+      {
+        "t": "Ἀβραὰμ",
+        "lemma": "G0011",
+        "forma": "Ἀβραάμ",
+        "morph": "N-GSM-P",
+        "glosa": "Abraham",
+        "id": "Mat.8.11#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "Abraham"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.11#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "and"
+      },
+      {
+        "t": "Ἰσαὰκ",
+        "lemma": "G2464",
+        "forma": "Ἰσαάκ",
+        "morph": "N-GSM-P",
+        "glosa": "Isaac",
+        "id": "Mat.8.11#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "Isaac"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.11#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "and"
+      },
+      {
+        "t": "Ἰακὼβ",
+        "lemma": "G2384H",
+        "forma": "Ἰακώβ",
+        "morph": "N-GSM-P",
+        "glosa": "Jacob",
+        "id": "Mat.8.11#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "Jacob"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.8.11#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.8.11#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βασιλείᾳ",
+        "lemma": "G0932",
+        "forma": "βασιλεία",
+        "morph": "N-DSF",
+        "glosa": "kingdom",
+        "id": "Mat.8.11#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "kingdom"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.8.11#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανῶν",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-GPM",
+        "glosa": "heavens.",
+        "id": "Mat.8.11#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "heaven"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po λέγω, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "λέγω oddane jako „powiadam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὅτι oddane jako „Iż”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "πολλοὶ oddane jako „wiele ich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἀπὸ oddane jako „od”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἀνατολῶν, liczba mnoga, oddane jako „wschodu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [],
+      "uwaga": "Drugie „od” stoi przed „zachodu”, a w grece jest jedno ἀπό.",
+      "uzasadnienie": "ἀπὸ obejmuje ἀνατολῶν καὶ δυσμῶν. Drugie „od” powtarza przyimek przy „zachodu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "δυσμῶν, liczba mnoga, oddane jako „zachodu”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [],
+      "uwaga": "„słońca” jest kursywą w 1632. δυσμῶν nie ma rzeczownika „słońce”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἥξουσιν, liczba mnoga, oddane jako „przyjdzie” przy podmiocie „wiele ich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        14,
+        15,
+        16
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἀνακλιθήσονται, futurum bierne „they will recline”, oddane czynnym „usiądą za stołem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "μετὰ oddane jako „z”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "Ἀβραὰμ oddane jako „Abrahamem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        20
+      ],
+      "zrodlo": [],
+      "uwaga": "Drugie „z” stoi przed „Izaakiem”, a μετὰ jest jedno.",
+      "uzasadnienie": "Jedno μετὰ obejmuje trzy imiona. To „z” powtarza przyimek przy Ἰσαάκ."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "Ἰσαὰκ oddane jako „Izaakiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        23
+      ],
+      "zrodlo": [],
+      "uwaga": "Trzecie „z” stoi przed „Jakóbem”, a μετὰ jest jedno.",
+      "uzasadnienie": "Jedno μετὰ obejmuje trzy imiona. To „z” powtarza przyimek przy Ἰακώβ."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "Ἰακὼβ oddane jako „Jakóbem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        26
+      ],
+      "zrodlo": [
+        19,
+        20
+      ],
+      "uwaga": "τῇ βασιλείᾳ oddane jako „królestwie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        27
+      ],
+      "zrodlo": [
+        21,
+        22
+      ],
+      "uwaga": "τῶν οὐρανῶν, dopełniacz liczby mnogiej, oddane przymiotnikiem „niebieskiem”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. BG powtarza przyimki „od” i „z”, a „słońca” jest kursywą przy δυσμῶν. Sens przyjścia i uczty z patriarchami zostaje ten sam.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀπὸ ἀνατολῶν καὶ δυσμῶν ma jedno ἀπό i nie ma ἡλίου. BG powtarza „od”, a „słońca” jest kursywą w 1632.",
+      "tokeny_bg": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "μετὰ Ἀβραὰμ καὶ Ἰσαὰκ καὶ Ἰακὼβ ma jedno μετά. BG powtarza „z” przed Izaakiem i Jakóbem.",
+      "tokeny_bg": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "tokeny_zrodla": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Pravím pak vám, žeť přijdou mnozí od východu i od západu, a stoliti budou s Abrahamem, s Izákem a s Jákobem v království nebeském,",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

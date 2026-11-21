@@ -1,0 +1,328 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.3.6",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 3,
+    "werset": 6
+  },
+  "tekst_bg": "I byli chrzczeni od niego w Jordanie, wyznawając grzechy swoje.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "byli"
+    },
+    {
+      "i": 2,
+      "t": "chrzczeni"
+    },
+    {
+      "i": 3,
+      "t": "od"
+    },
+    {
+      "i": 4,
+      "t": "niego"
+    },
+    {
+      "i": 5,
+      "t": "w"
+    },
+    {
+      "i": 6,
+      "t": "Jordanie"
+    },
+    {
+      "i": 7,
+      "t": "wyznawając"
+    },
+    {
+      "i": 8,
+      "t": "grzechy"
+    },
+    {
+      "i": 9,
+      "t": "swoje"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.3.6",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.3.6",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.3.6#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐβαπτίζοντο",
+        "lemma": "G0907",
+        "forma": "βαπτίζω",
+        "morph": "V-IPI-3P",
+        "glosa": "were being baptized",
+        "id": "Mat.3.6#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to baptize"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.3.6#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "the",
+        "id": "Mat.3.6#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰορδάνῃ",
+        "lemma": "G2446",
+        "forma": "Ἰορδάνης",
+        "morph": "N-DSM-L",
+        "glosa": "Jordan",
+        "id": "Mat.3.6#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Jordan"
+      },
+      {
+        "t": "ὑπ᾽",
+        "lemma": "G5259G",
+        "forma": "ὑπό",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.3.6#07",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "by/under: by"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "him",
+        "id": "Mat.3.6#08",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐξομολογούμενοι",
+        "lemma": "G1843",
+        "forma": "ἐξομολογέομαι",
+        "morph": "V-PMP-NPM",
+        "glosa": "confessing",
+        "id": "Mat.3.6#09",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to agree"
+      },
+      {
+        "t": "τὰς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APF",
+        "glosa": "the",
+        "id": "Mat.3.6#10",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἁμαρτίας",
+        "lemma": "G0266",
+        "forma": "ἁμαρτία",
+        "morph": "N-APF",
+        "glosa": "sins",
+        "id": "Mat.3.6#11",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "sin"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them.",
+        "id": "Mat.3.6#12",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐβαπτίζοντο, imperfectum bierne, oddane jako „byli chrzczeni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ὑπ᾽ oddane jako „od”; BG stawia sprawcę przed miejscem."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "αὐτοῦ oddane jako „niego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τῷ Ἰορδάνῃ oddane jako „Jordanie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐξομολογούμενοι, imiesłów medialny, oddane jako „wyznawając”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τὰς ἁμαρτίας oddane jako „grzechy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "αὐτῶν oddane jako „swoje”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Strona bierna ἐβαπτίζοντο jest „byli chrzczeni”, a rodzajniki weszły w „Jordanie” i „grzechy”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐβαπτίζοντο ἐν τῷ Ἰορδάνῃ ὑπ᾽ αὐτοῦ BG oddaje jako „byli chrzczeni od niego w Jordanie”; szyk sprawcy i miejsca jest przestawiony.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A křtěni byli od něho v Jordáně, vyznávajíce hříchy své.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

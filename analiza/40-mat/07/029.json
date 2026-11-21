@@ -1,0 +1,359 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.29",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 29
+  },
+  "tekst_bg": "Albowiem je uczył jako moc mający, a nie jako nauczeni w Piśmie.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Albowiem"
+    },
+    {
+      "i": 1,
+      "t": "je"
+    },
+    {
+      "i": 2,
+      "t": "uczył"
+    },
+    {
+      "i": 3,
+      "t": "jako"
+    },
+    {
+      "i": 4,
+      "t": "moc"
+    },
+    {
+      "i": 5,
+      "t": "mający"
+    },
+    {
+      "i": 6,
+      "t": "a"
+    },
+    {
+      "i": 7,
+      "t": "nie"
+    },
+    {
+      "i": 8,
+      "t": "jako"
+    },
+    {
+      "i": 9,
+      "t": "nauczeni"
+    },
+    {
+      "i": 10,
+      "t": "w"
+    },
+    {
+      "i": 11,
+      "t": "Piśmie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.29",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.29",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἦν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-IAI-3S",
+        "glosa": "He was",
+        "id": "Mat.7.29#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to be"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.7.29#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "διδάσκων",
+        "lemma": "G1321",
+        "forma": "διδάσκω",
+        "morph": "V-PAP-NSM",
+        "glosa": "teaching",
+        "id": "Mat.7.29#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to teach"
+      },
+      {
+        "t": "αὐτοὺς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-APM",
+        "glosa": "them",
+        "id": "Mat.7.29#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὡς",
+        "lemma": "G5613",
+        "forma": "ὡς",
+        "morph": "PRT",
+        "glosa": "as",
+        "id": "Mat.7.29#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "as/when"
+      },
+      {
+        "t": "ἐξουσίαν",
+        "lemma": "G1849",
+        "forma": "ἐξουσία",
+        "morph": "N-ASF",
+        "glosa": "authority",
+        "id": "Mat.7.29#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "authority"
+      },
+      {
+        "t": "ἔχων",
+        "lemma": "G2192",
+        "forma": "ἔχω",
+        "morph": "V-PAP-NSM",
+        "glosa": "having",
+        "id": "Mat.7.29#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to have/be"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.29#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "οὐχ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.7.29#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "no"
+      },
+      {
+        "t": "ὡς",
+        "lemma": "G5613",
+        "forma": "ὡς",
+        "morph": "PRT",
+        "glosa": "as",
+        "id": "Mat.7.29#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "as/when"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.7.29#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γραμματεῖς",
+        "lemma": "G1122",
+        "forma": "γραμματεύς",
+        "morph": "N-NPM",
+        "glosa": "scribes",
+        "id": "Mat.7.29#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "scribe"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "γὰρ stoi po ἦν, a BG wynosi je na początek jako „Albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "αὐτοὺς oddane jako „je”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "uwaga": "ἦν διδάσκων, peryfraza, oddane jednym „uczył”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ὡς oddane jako „jako”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἐξουσίαν, glosa „authority”, oddane jako „moc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἔχων oddane imiesłowem „mający”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "οὐχ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "Drugie ὡς oddane jako „jako”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10,
+        11
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "οἱ γραμματεῖς oddane zwrotem „nauczeni w Piśmie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Peryfraza ἦν διδάσκων jest „uczył”, a οἱ γραμματεῖς zwrotem „nauczeni w Piśmie”. Nic nie dodano i nic nie opuszczono.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἦν γὰρ διδάσκων αὐτοὺς ὡς ἐξουσίαν ἔχων BG oddaje jako „Albowiem je uczył jako moc mający”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo učil je jako moc maje, a ne jako zákoníci.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

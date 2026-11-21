@@ -1,0 +1,410 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.22",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 22
+  },
+  "tekst_bg": "Ale mu Jezus rzekł: Pójdź za mną, a niechaj umarli grzebią umarłe swoje.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "mu"
+    },
+    {
+      "i": 2,
+      "t": "Jezus"
+    },
+    {
+      "i": 3,
+      "t": "rzekł"
+    },
+    {
+      "i": 4,
+      "t": "Pójdź"
+    },
+    {
+      "i": 5,
+      "t": "za"
+    },
+    {
+      "i": 6,
+      "t": "mną"
+    },
+    {
+      "i": 7,
+      "t": "a"
+    },
+    {
+      "i": 8,
+      "t": "niechaj"
+    },
+    {
+      "i": 9,
+      "t": "umarli"
+    },
+    {
+      "i": 10,
+      "t": "grzebią"
+    },
+    {
+      "i": 11,
+      "t": "umarłe"
+    },
+    {
+      "i": 12,
+      "t": "swoje"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.22",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.22",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.8.22#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "But",
+        "id": "Mat.8.22#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.8.22#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "εἶπεν",
+        "lemma": "G2036",
+        "forma": "εἶπεν",
+        "morph": "V-2AAI-3S",
+        "glosa": "said",
+        "id": "Mat.8.22#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to him;",
+        "id": "Mat.8.22#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἀκολούθει",
+        "lemma": "G0190",
+        "forma": "ἀκολουθέω",
+        "morph": "V-PAM-2S",
+        "glosa": "do follow",
+        "id": "Mat.8.22#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to follow"
+      },
+      {
+        "t": "μοι",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1DS",
+        "glosa": "Me,",
+        "id": "Mat.8.22#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "me"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.22#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἄφες",
+        "lemma": "G0863G",
+        "forma": "ἀφίημι",
+        "morph": "V-2AAM-2S",
+        "glosa": "do leave",
+        "id": "Mat.8.22#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to release: leave"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.8.22#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "νεκροὺς",
+        "lemma": "G3498",
+        "forma": "νεκρός",
+        "morph": "A-APM",
+        "glosa": "dead",
+        "id": "Mat.8.22#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "dead"
+      },
+      {
+        "t": "θάψαι",
+        "lemma": "G2290",
+        "forma": "θάπτω",
+        "morph": "V-AAN",
+        "glosa": "to bury",
+        "id": "Mat.8.22#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to bury"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "<the>",
+        "id": "Mat.8.22#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἑαυτῶν",
+        "lemma": "G1438",
+        "forma": "ἑαυτοῦ",
+        "morph": "F-3GPM",
+        "glosa": "their own",
+        "id": "Mat.8.22#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "themself"
+      },
+      {
+        "t": "νεκρούς",
+        "lemma": "G3498",
+        "forma": "νεκρός",
+        "morph": "A-APM",
+        "glosa": "dead.",
+        "id": "Mat.8.22#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "dead"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po rodzajniku, a BG wynosi je na początek jako „Ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”; BG stawia zaimek przed „Jezus rzekł”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "uwaga": "Ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "εἶπεν oddane jako „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἀκολούθει oddane jako „Pójdź”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "μοι, celownik przy ἀκολουθέω, oddane jako „za mną”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἄφες oddane jako „niechaj”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τοὺς νεκροὺς oddane jako „umarli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "θάψαι, bezokolicznik, oddane orzeczeniem „grzebią” po „niechaj”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12,
+        14
+      ],
+      "uwaga": "τοὺς νεκρούς oddane jako „umarłe”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἑαυτῶν oddane jako „swoje”; BG stawia je po „umarłe”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Żaden token nie jest dopowiedziany ani opuszczony. Bezokolicznik θάψαι po ἄφες BG oddaje osobowym „grzebią” w konstrukcji „niechaj umarli grzebią”, a sens polecenia zostaje ten sam.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἄφες τοὺς νεκροὺς θάψαι ma bezokolicznik θάψαι. BG oddaje go czasem teraźniejszym „grzebią” po „niechaj”.",
+      "tokeny_bg": [
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ale Ježíš řekl jemu: Pojď za mnou, a nech, ať tam mrtví pochovávají mrtvé své.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

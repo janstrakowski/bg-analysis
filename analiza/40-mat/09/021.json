@@ -1,0 +1,348 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.21",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 21
+  },
+  "tekst_bg": "Bo rzekła sama w sobie: Jeźli się tylko dotknę szaty jego, będę uzdrowiona.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Bo"
+    },
+    {
+      "i": 1,
+      "t": "rzekła"
+    },
+    {
+      "i": 2,
+      "t": "sama"
+    },
+    {
+      "i": 3,
+      "t": "w"
+    },
+    {
+      "i": 4,
+      "t": "sobie"
+    },
+    {
+      "i": 5,
+      "t": "Jeźli"
+    },
+    {
+      "i": 6,
+      "t": "się"
+    },
+    {
+      "i": 7,
+      "t": "tylko"
+    },
+    {
+      "i": 8,
+      "t": "dotknę"
+    },
+    {
+      "i": 9,
+      "t": "szaty"
+    },
+    {
+      "i": 10,
+      "t": "jego"
+    },
+    {
+      "i": 11,
+      "t": "będę"
+    },
+    {
+      "i": 12,
+      "t": "uzdrowiona"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.21",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.21",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἔλεγεν",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-IAI-3S",
+        "glosa": "She was saying",
+        "id": "Mat.9.21#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to say"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.9.21#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "within",
+        "id": "Mat.9.21#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ἑαυτῇ",
+        "lemma": "G1438",
+        "forma": "ἑαυτοῦ",
+        "morph": "F-3DSF",
+        "glosa": "herself;",
+        "id": "Mat.9.21#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "themself"
+      },
+      {
+        "t": "ἐὰν",
+        "lemma": "G1437",
+        "forma": "ἐάν",
+        "morph": "COND",
+        "glosa": "If",
+        "id": "Mat.9.21#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "if"
+      },
+      {
+        "t": "μόνον",
+        "lemma": "G3441",
+        "forma": "μόνος",
+        "morph": "A-ASN",
+        "glosa": "only",
+        "id": "Mat.9.21#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "alone"
+      },
+      {
+        "t": "ἅψωμαι",
+        "lemma": "G0681",
+        "forma": "ἅπτω",
+        "morph": "V-AMS-1S",
+        "glosa": "I shall touch",
+        "id": "Mat.9.21#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to touch"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSN",
+        "glosa": "the",
+        "id": "Mat.9.21#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἱματίου",
+        "lemma": "G2440",
+        "forma": "ἱμάτιον",
+        "morph": "N-GSN",
+        "glosa": "garment",
+        "id": "Mat.9.21#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "clothing"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him,",
+        "id": "Mat.9.21#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "σωθήσομαι",
+        "lemma": "G4982",
+        "forma": "σῴζω",
+        "morph": "V-FPI-1S",
+        "glosa": "I will be healed.",
+        "id": "Mat.9.21#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to save"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "γὰρ stoi po ἔλεγεν, a BG wynosi je na początek jako „Bo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἔλεγεν, imperfectum „mówiła”, oddane jako „rzekła”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἑαυτῇ, zaimek zwrotny „sobie”, oddane jako „sama … sobie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐὰν oddane jako „Jeźli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "μόνον oddane jako „tylko”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        8
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἅψωμαι, aoryst strony medialnej, oddane jako „się … dotknę”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τοῦ ἱματίου oddane jako „szaty”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        11,
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "σωθήσομαι, futurum bierne „będę uzdrowiona”, oddane tymi dwoma słowami."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. „się” należy do medialnego ἅψωμαι, a „będę uzdrowiona” rozbija jedno futurum bierne.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἔλεγεν γὰρ ἐν ἑαυτῇ BG oddaje jako „Bo rzekła sama w sobie”: γὰρ jest na początku, a ἑαυτῇ rozbite na „sama” i „sobie”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo řekla sama v sobě: Dotknu-li se jen toliko roucha jeho, uzdravena budu.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

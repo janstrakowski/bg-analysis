@@ -1,0 +1,439 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.5",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 5
+  },
+  "tekst_bg": "Tedy go wziął dyjabeł do miasta świętego, i postawił go na ganku kościelnym,",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tedy"
+    },
+    {
+      "i": 1,
+      "t": "go"
+    },
+    {
+      "i": 2,
+      "t": "wziął"
+    },
+    {
+      "i": 3,
+      "t": "dyjabeł"
+    },
+    {
+      "i": 4,
+      "t": "do"
+    },
+    {
+      "i": 5,
+      "t": "miasta"
+    },
+    {
+      "i": 6,
+      "t": "świętego"
+    },
+    {
+      "i": 7,
+      "t": "i"
+    },
+    {
+      "i": 8,
+      "t": "postawił"
+    },
+    {
+      "i": 9,
+      "t": "go"
+    },
+    {
+      "i": 10,
+      "t": "na"
+    },
+    {
+      "i": 11,
+      "t": "ganku"
+    },
+    {
+      "i": 12,
+      "t": "kościelnym"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.5",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.5",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "Then",
+        "id": "Mat.4.5#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "then"
+      },
+      {
+        "t": "παραλαμβάνει",
+        "lemma": "G3880",
+        "forma": "παραλαμβάνω",
+        "morph": "V-PAI-3S",
+        "glosa": "takes",
+        "id": "Mat.4.5#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to take"
+      },
+      {
+        "t": "αὐτὸν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "Him",
+        "id": "Mat.4.5#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.4.5#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "διάβολος",
+        "lemma": "G1228",
+        "forma": "διάβολος",
+        "morph": "A-NSM",
+        "glosa": "devil",
+        "id": "Mat.4.5#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "devilish/the Devil"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.4.5#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.4.5#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἁγίαν",
+        "lemma": "G0040G",
+        "forma": "ἅγιος",
+        "morph": "A-ASF",
+        "glosa": "holy",
+        "id": "Mat.4.5#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "holy"
+      },
+      {
+        "t": "πόλιν",
+        "lemma": "G4172",
+        "forma": "πόλις",
+        "morph": "N-ASF",
+        "glosa": "city",
+        "id": "Mat.4.5#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "city"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.5#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἵστησιν",
+        "lemma": "G2476",
+        "forma": "ἵστησιν",
+        "morph": "V-PAI-3S",
+        "glosa": "sets",
+        "id": "Mat.4.5#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to stand"
+      },
+      {
+        "t": "αὐτὸν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "Him",
+        "id": "Mat.4.5#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "upon",
+        "id": "Mat.4.5#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.4.5#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πτερύγιον",
+        "lemma": "G4419",
+        "forma": "πτερύγιον",
+        "morph": "N-ASN",
+        "glosa": "pinnacle",
+        "id": "Mat.4.5#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "pinnacle"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSN",
+        "glosa": "of the",
+        "id": "Mat.4.5#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἱεροῦ",
+        "lemma": "G2411",
+        "forma": "ἱερόν",
+        "morph": "N-GSN",
+        "glosa": "temple",
+        "id": "Mat.4.5#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "temple"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Τότε oddane jako „Tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "αὐτὸν oddane jako „go”; szyk stawia zaimek przed czasownikiem."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "παραλαμβάνει, czas teraźniejszy, oddane przeszłym „wziął”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "ὁ διάβολος oddane jako „dyjabeł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6,
+        8
+      ],
+      "uwaga": "τὴν πόλιν oddane dopełniaczem „miasta”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἁγίαν oddane jako „świętego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἵστησιν, czas teraźniejszy, oddane przeszłym „postawił”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "Drugie αὐτὸν oddane jako „go”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἐπὶ oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τὸ πτερύγιον, glosa „pinnacle”, oddane jako „ganku”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "τοῦ ἱεροῦ oddane przymiotnikiem „kościelnym”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma grupę. Czasy teraźniejsze narracji brzmią po polsku przeszle, a miejsce zostaje to samo: święte miasto i szczyt świątyni.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "παραλαμβάνει i ἵστησιν są w czasie teraźniejszym. BG oddaje je przeszłymi „wziął” i „postawił”.",
+      "tokeny_bg": [
+        2,
+        8
+      ],
+      "tokeny_zrodla": [
+        1,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Tedy pojal jej ďábel do svatého města a postavil ho na vrchu chrámu.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

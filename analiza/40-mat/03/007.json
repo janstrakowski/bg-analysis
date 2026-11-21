@@ -1,0 +1,644 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.3.7",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 3,
+    "werset": 7
+  },
+  "tekst_bg": "A gdy ujrzał wiele z Faryzeuszów i Saduceuszów przychodzących do chrztu swego, rzekł im: Rodzaju jaszczurczy! któż wam pokazał, żebyście uciekali przed przyszłym gniewem?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "ujrzał"
+    },
+    {
+      "i": 3,
+      "t": "wiele"
+    },
+    {
+      "i": 4,
+      "t": "z"
+    },
+    {
+      "i": 5,
+      "t": "Faryzeuszów"
+    },
+    {
+      "i": 6,
+      "t": "i"
+    },
+    {
+      "i": 7,
+      "t": "Saduceuszów"
+    },
+    {
+      "i": 8,
+      "t": "przychodzących"
+    },
+    {
+      "i": 9,
+      "t": "do"
+    },
+    {
+      "i": 10,
+      "t": "chrztu"
+    },
+    {
+      "i": 11,
+      "t": "swego"
+    },
+    {
+      "i": 12,
+      "t": "rzekł"
+    },
+    {
+      "i": 13,
+      "t": "im"
+    },
+    {
+      "i": 14,
+      "t": "Rodzaju"
+    },
+    {
+      "i": 15,
+      "t": "jaszczurczy"
+    },
+    {
+      "i": 16,
+      "t": "któż"
+    },
+    {
+      "i": 17,
+      "t": "wam"
+    },
+    {
+      "i": 18,
+      "t": "pokazał"
+    },
+    {
+      "i": 19,
+      "t": "żebyście"
+    },
+    {
+      "i": 20,
+      "t": "uciekali"
+    },
+    {
+      "i": 21,
+      "t": "przed"
+    },
+    {
+      "i": 22,
+      "t": "przyszłym"
+    },
+    {
+      "i": 23,
+      "t": "gniewem"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.3.7",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.3.7",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἰδὼν",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAP-NSM",
+        "glosa": "Having seen",
+        "id": "Mat.3.7#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.3.7#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "πολλοὺς",
+        "lemma": "G4183",
+        "forma": "πολύς",
+        "morph": "A-APM",
+        "glosa": "many",
+        "id": "Mat.3.7#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "much"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.3.7#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Φαρισαίων",
+        "lemma": "G5330",
+        "forma": "Φαρισαῖος",
+        "morph": "N-GPM-T",
+        "glosa": "Pharisees",
+        "id": "Mat.3.7#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Pharisee"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.3.7#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "and"
+      },
+      {
+        "t": "Σαδδουκαίων",
+        "lemma": "G4523",
+        "forma": "Σαδδουκαῖος",
+        "morph": "N-GPM-T",
+        "glosa": "Sadducees",
+        "id": "Mat.3.7#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "Sadducee"
+      },
+      {
+        "t": "ἐρχομένους",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-PNP-APM",
+        "glosa": "coming",
+        "id": "Mat.3.7#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.3.7#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.3.7#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βάπτισμα",
+        "lemma": "G0908",
+        "forma": "βάπτισμα",
+        "morph": "N-ASN",
+        "glosa": "baptism",
+        "id": "Mat.3.7#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "baptism"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him",
+        "id": "Mat.3.7#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "εἶπεν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAI-3S",
+        "glosa": "he said",
+        "id": "Mat.3.7#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτοῖς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DPM",
+        "glosa": "to them;",
+        "id": "Mat.3.7#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "γεννήματα",
+        "lemma": "G1081G",
+        "forma": "γέννημα",
+        "morph": "N-VPN",
+        "glosa": "Brood",
+        "id": "Mat.3.7#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "offspring"
+      },
+      {
+        "t": "ἐχιδνῶν",
+        "lemma": "G2191",
+        "forma": "ἔχιδνα",
+        "morph": "N-GPF",
+        "glosa": "of vipers,",
+        "id": "Mat.3.7#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "snake"
+      },
+      {
+        "t": "τίς",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-NSM",
+        "glosa": "who",
+        "id": "Mat.3.7#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "which?"
+      },
+      {
+        "t": "ὑπέδειξεν",
+        "lemma": "G5263",
+        "forma": "ὑποδείκνυμι",
+        "morph": "V-AAI-3S",
+        "glosa": "forewarned",
+        "id": "Mat.3.7#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to show"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "you",
+        "id": "Mat.3.7#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "you"
+      },
+      {
+        "t": "φυγεῖν",
+        "lemma": "G5343",
+        "forma": "φεύγω",
+        "morph": "V-2AAN",
+        "glosa": "to flee",
+        "id": "Mat.3.7#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "to flee"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.3.7#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "away from"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "the",
+        "id": "Mat.3.7#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μελλούσης",
+        "lemma": "G3195",
+        "forma": "μέλλω",
+        "morph": "V-PAP-GSF",
+        "glosa": "coming",
+        "id": "Mat.3.7#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "to ensue"
+      },
+      {
+        "t": "ὀργῆς;",
+        "lemma": "G3709",
+        "forma": "ὀργή",
+        "morph": "N-GSF",
+        "glosa": "wrath?",
+        "id": "Mat.3.7#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "wrath"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po Ἰδὼν, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ἰδὼν, imiesłów aorystu, rozbity na zdanie „gdy ujrzał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "πολλοὺς oddane jako „wiele”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τῶν Φαρισαίων, dopełniacz cząstkowy, oddane jako „z Faryzeuszów”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "Σαδδουκαίων oddane jako „Saduceuszów”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐρχομένους oddane jako „przychodzących”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐπὶ oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τὸ βάπτισμα oddane jako „chrztu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "αὐτοῦ oddane jako „swego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "εἶπεν oddane jako „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "αὐτοῖς oddane jako „im”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "γεννήματα, liczba mnoga, oddane zbiorowo jako „Rodzaju”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἐχιδνῶν, dopełniacz, oddane przymiotnikiem „jaszczurczy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "τίς oddane jako „któż”; partykuła -ż tkwi w tym samym wyrazie."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam” i przesunięte przed czasownik."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ὑπέδειξεν, glosa „forewarned”, oddane jako „pokazał”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        19,
+        20
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "φυγεῖν, bezokolicznik, rozbity na „żebyście uciekali”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ἀπὸ oddane jako „przed”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        21,
+        22
+      ],
+      "uwaga": "τῆς μελλούσης, imiesłów „coming”, oddane jako „przyszłym”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "ὀργῆς oddane jako „gniewem”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Nic nie dodano i nic nie opuszczono. Imiesłów Ἰδὼν BG rozbija na „gdy ujrzał”, a bezokolicznik φυγεῖν na „żebyście uciekali”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Ἰδὼν jest imiesłowem „Having seen”, a φυγεῖν bezokolicznikiem „to flee”. BG ma „gdy ujrzał” i „żebyście uciekali”.",
+      "tokeny_bg": [
+        1,
+        2,
+        19,
+        20
+      ],
+      "tokeny_zrodla": [
+        0,
+        19
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Uzřev pak mnohé z farizeů a z saduceů, že jdou k jeho křtu, řekl jim: Pokolení ještěrčí, i kdo vám ukázal, kterak byste utéci měli budoucího hněvu?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

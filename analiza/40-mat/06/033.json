@@ -1,0 +1,447 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.33",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 33
+  },
+  "tekst_bg": "Ale szukajcie naprzód królestwa Bożego, i sprawiedliwości jego, a to wszystko będzie wam przydano.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "szukajcie"
+    },
+    {
+      "i": 2,
+      "t": "naprzód"
+    },
+    {
+      "i": 3,
+      "t": "królestwa"
+    },
+    {
+      "i": 4,
+      "t": "Bożego"
+    },
+    {
+      "i": 5,
+      "t": "i"
+    },
+    {
+      "i": 6,
+      "t": "sprawiedliwości"
+    },
+    {
+      "i": 7,
+      "t": "jego"
+    },
+    {
+      "i": 8,
+      "t": "a"
+    },
+    {
+      "i": 9,
+      "t": "to"
+    },
+    {
+      "i": 10,
+      "t": "wszystko"
+    },
+    {
+      "i": 11,
+      "t": "będzie"
+    },
+    {
+      "i": 12,
+      "t": "wam"
+    },
+    {
+      "i": 13,
+      "t": "przydano"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.33",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.33",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ζητεῖτε",
+        "lemma": "G2212",
+        "forma": "ζητέω",
+        "morph": "V-PAM-2P",
+        "glosa": "do seek",
+        "id": "Mat.6.33#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to seek"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.6.33#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "πρῶτον",
+        "lemma": "G4413G",
+        "forma": "πρῶτος",
+        "morph": "A-ASN",
+        "glosa": "first",
+        "id": "Mat.6.33#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "first"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.6.33#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βασιλείαν",
+        "lemma": "G0932",
+        "forma": "βασιλεία",
+        "morph": "N-ASF",
+        "glosa": "kingdom",
+        "id": "Mat.6.33#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "kingdom"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "<the>",
+        "id": "Mat.6.33#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θεοῦ",
+        "lemma": "G2316",
+        "forma": "θεός",
+        "morph": "N-GSM-T",
+        "glosa": "of God",
+        "id": "Mat.6.33#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "God"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.6.33#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.6.33#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δικαιοσύνην",
+        "lemma": "G1343",
+        "forma": "δικαιοσύνη",
+        "morph": "N-ASF",
+        "glosa": "righteousness",
+        "id": "Mat.6.33#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "righteousness"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him,",
+        "id": "Mat.6.33#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.6.33#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "and"
+      },
+      {
+        "t": "ταῦτα",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-NPN",
+        "glosa": "these things",
+        "id": "Mat.6.33#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "πάντα",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NPN",
+        "glosa": "all",
+        "id": "Mat.6.33#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "all"
+      },
+      {
+        "t": "προστεθήσεται",
+        "lemma": "G4369",
+        "forma": "προστίθημι",
+        "morph": "V-FPI-3S",
+        "glosa": "will be added",
+        "id": "Mat.6.33#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to add (to)"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you.",
+        "id": "Mat.6.33#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δέ stoi po ζητεῖτε, a BG wynosi je na początek jako „Ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ζητεῖτε, rozkazujący „do seek”, oddane jako „szukajcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "πρῶτον, „first”, oddane jako „naprzód”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τὴν βασιλείαν, biernik, oddane dopełniaczem „królestwa”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τοῦ θεοῦ oddane przymiotnikiem „Bożego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καί oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τὴν δικαιοσύνην, biernik, oddane dopełniaczem „sprawiedliwości”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "καί oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ταῦτα, liczba mnoga „these things”, oddane jako „to”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "πάντα oddane jako „wszystko”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        11,
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "προστεθήσεται, czas przyszły strony biernej „will be added”, oddane jako „będzie … przydano”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Bierniki βασιλείαν i δικαιοσύνην schodzą do dopełniacza po „szukajcie”, a strona bierna προστεθήσεται brzmi „będzie przydano”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ζητεῖτε δὲ πρῶτον τὴν βασιλείαν τοῦ θεοῦ καὶ τὴν δικαιοσύνην αὐτοῦ BG oddaje jako „Ale szukajcie naprzód królestwa Bożego, i sprawiedliwości jego”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ale hledejte vy nejprv království Božího a spravedlnosti jeho, a toto vše bude vám přidáno.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

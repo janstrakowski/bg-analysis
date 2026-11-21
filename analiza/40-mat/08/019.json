@@ -1,0 +1,384 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.19",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 19
+  },
+  "tekst_bg": "Tedy przystąpiwszy niektóry z nauczonych w Piśmie, rzekł mu: Mistrzu! pójdę za tobą, gdziekolwiek pójdziesz.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tedy"
+    },
+    {
+      "i": 1,
+      "t": "przystąpiwszy"
+    },
+    {
+      "i": 2,
+      "t": "niektóry"
+    },
+    {
+      "i": 3,
+      "t": "z"
+    },
+    {
+      "i": 4,
+      "t": "nauczonych"
+    },
+    {
+      "i": 5,
+      "t": "w"
+    },
+    {
+      "i": 6,
+      "t": "Piśmie"
+    },
+    {
+      "i": 7,
+      "t": "rzekł"
+    },
+    {
+      "i": 8,
+      "t": "mu"
+    },
+    {
+      "i": 9,
+      "t": "Mistrzu"
+    },
+    {
+      "i": 10,
+      "t": "pójdę"
+    },
+    {
+      "i": 11,
+      "t": "za"
+    },
+    {
+      "i": 12,
+      "t": "tobą"
+    },
+    {
+      "i": 13,
+      "t": "gdziekolwiek"
+    },
+    {
+      "i": 14,
+      "t": "pójdziesz"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.19",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.19",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.19#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "προσελθὼν",
+        "lemma": "G4334",
+        "forma": "προσέρχομαι",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having come to [Him]",
+        "id": "Mat.8.19#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to come near/agree"
+      },
+      {
+        "t": "εἷς",
+        "lemma": "G1520",
+        "forma": "εἷς",
+        "morph": "A-NSM",
+        "glosa": "one",
+        "id": "Mat.8.19#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "one"
+      },
+      {
+        "t": "γραμματεὺς",
+        "lemma": "G1122",
+        "forma": "γραμματεύς",
+        "morph": "N-NSM",
+        "glosa": "scribe",
+        "id": "Mat.8.19#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "scribe"
+      },
+      {
+        "t": "εἶπεν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAI-3S",
+        "glosa": "said",
+        "id": "Mat.8.19#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to Him;",
+        "id": "Mat.8.19#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "διδάσκαλε",
+        "lemma": "G1320",
+        "forma": "διδάσκαλος",
+        "morph": "N-VSM-T",
+        "glosa": "Teacher,",
+        "id": "Mat.8.19#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "teacher"
+      },
+      {
+        "t": "ἀκολουθήσω",
+        "lemma": "G0190",
+        "forma": "ἀκολουθέω",
+        "morph": "V-FAI-1S",
+        "glosa": "I will follow",
+        "id": "Mat.8.19#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to follow"
+      },
+      {
+        "t": "σοι",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DS",
+        "glosa": "You",
+        "id": "Mat.8.19#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὅπου",
+        "lemma": "G3699",
+        "forma": "ὅπου",
+        "morph": "CONJ",
+        "glosa": "wherever",
+        "id": "Mat.8.19#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "where(-ever)"
+      },
+      {
+        "t": "ἐὰν",
+        "lemma": "G1437",
+        "forma": "ἐάν",
+        "morph": "COND",
+        "glosa": "if",
+        "id": "Mat.8.19#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "if"
+      },
+      {
+        "t": "ἀπέρχῃ",
+        "lemma": "G0565",
+        "forma": "ἀπέρχομαι",
+        "morph": "V-PNS-2S",
+        "glosa": "You shall go.",
+        "id": "Mat.8.19#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to go away"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „Tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "προσελθὼν oddane jako „przystąpiwszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "εἷς oddane jako „niektóry”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [],
+      "uwaga": "„z” stawia pisarza w dopełniaczu częściowym, a TR ma εἷς γραμματεὺς bez τῶν.",
+      "uzasadnienie": "Po „niektóry” zwrot o pisarzu stoi w dopełniaczu z „z”. Osoba jest nadal jednym pisarzem, którego nazywa εἷς γραμματεύς."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5,
+        6
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "γραμματεὺς oddane zwrotem „nauczonych w Piśmie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "εἶπεν oddane jako „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "διδάσκαλε, wołacz, oddane jako „Mistrzu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἀκολουθήσω oddane jako „pójdę” w zwrocie „pójdę za tobą”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        11,
+        12
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "σοι, celownik przy ἀκολουθέω, oddane jako „za tobą”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "ὅπου ἐὰν oddane jednym „gdziekolwiek”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἀπέρχῃ, tryb łączący, oddane jako „pójdziesz”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „z” dopowiada dopełniacz częściowy przy „niektóry z nauczonych w Piśmie”, podczas gdy TR ma εἷς γραμματεὺς.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "εἷς γραμματεὺς nie ma rodzajnika τῶν. BG rozbija γραμματεύς na „nauczonych w Piśmie” i dodaje „z”, więc mówi „niektóry z nauczonych”.",
+      "tokeny_bg": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        2,
+        3
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A přistoupiv jeden zákoník, řekl jemu: Mistře, půjdu za tebou, kamžkoli půjdeš.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

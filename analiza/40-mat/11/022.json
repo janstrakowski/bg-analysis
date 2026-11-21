@@ -1,0 +1,407 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.22",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 22
+  },
+  "tekst_bg": "Wszakże powiadam wam: Lżej będzie Tyrowi i Sydonowi w dzień sądny, niżeli wam.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Wszakże"
+    },
+    {
+      "i": 1,
+      "t": "powiadam"
+    },
+    {
+      "i": 2,
+      "t": "wam"
+    },
+    {
+      "i": 3,
+      "t": "Lżej"
+    },
+    {
+      "i": 4,
+      "t": "będzie"
+    },
+    {
+      "i": 5,
+      "t": "Tyrowi"
+    },
+    {
+      "i": 6,
+      "t": "i"
+    },
+    {
+      "i": 7,
+      "t": "Sydonowi"
+    },
+    {
+      "i": 8,
+      "t": "w"
+    },
+    {
+      "i": 9,
+      "t": "dzień"
+    },
+    {
+      "i": 10,
+      "t": "sądny"
+    },
+    {
+      "i": 11,
+      "t": "niżeli"
+    },
+    {
+      "i": 12,
+      "t": "wam"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.22",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.22",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "πλὴν",
+        "lemma": "G4133",
+        "forma": "πλήν",
+        "morph": "CONJ",
+        "glosa": "But",
+        "id": "Mat.11.22#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "but/however"
+      },
+      {
+        "t": "λέγω",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-1S",
+        "glosa": "I say",
+        "id": "Mat.11.22#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you;",
+        "id": "Mat.11.22#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "you"
+      },
+      {
+        "t": "Τύρῳ",
+        "lemma": "G5184",
+        "forma": "Τύρος",
+        "morph": "N-DSF-L",
+        "glosa": "for Tyre",
+        "id": "Mat.11.22#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Tyre"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.22#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "and"
+      },
+      {
+        "t": "Σιδῶνι",
+        "lemma": "G4605",
+        "forma": "Σιδών",
+        "morph": "N-DSF-L",
+        "glosa": "Sidon",
+        "id": "Mat.11.22#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Sidon"
+      },
+      {
+        "t": "ἀνεκτότερον",
+        "lemma": "G0414",
+        "forma": "ἀνεκτός",
+        "morph": "A-NSN-C",
+        "glosa": "more tolerable",
+        "id": "Mat.11.22#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "bearable"
+      },
+      {
+        "t": "ἔσται",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-FDI-3S",
+        "glosa": "will it be",
+        "id": "Mat.11.22#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.11.22#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ἡμέρᾳ",
+        "lemma": "G2250",
+        "forma": "ἡμέρα",
+        "morph": "N-DSF",
+        "glosa": "[the] day",
+        "id": "Mat.11.22#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "day"
+      },
+      {
+        "t": "κρίσεως",
+        "lemma": "G2920",
+        "forma": "κρίσις",
+        "morph": "N-GSF",
+        "glosa": "of judgment",
+        "id": "Mat.11.22#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "judgment"
+      },
+      {
+        "t": "ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "than",
+        "id": "Mat.11.22#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "or"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "for you.",
+        "id": "Mat.11.22#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "πλὴν oddane jako „Wszakże”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "λέγω oddane jako „powiadam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἀνεκτότερον oddane jako „Lżej”; w grece stoi po nazwach miast."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἔσται oddane jako „będzie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "Τύρῳ oddane jako „Tyrowi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Σιδῶνι oddane jako „Sydonowi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἡμέρᾳ oddane jako „dzień”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "κρίσεως, dopełniacz, oddane przymiotnikiem „sądny”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἢ oddane jako „niżeli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token ma odpowiednik. Szyk „Lżej będzie Tyrowi i Sydonowi” przestawia ἀνεκτότερον ἔσται za nazwy miast, bez zmiany twierdzenia.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Τύρῳ καὶ Σιδῶνι ἀνεκτότερον ἔσται ἐν ἡμέρᾳ κρίσεως ἢ ὑμῖν BG oddaje w całości, z κρίσεως jako przymiotnikiem „sądny”.",
+      "tokeny_bg": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "tokeny_zrodla": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nýbrž pravím vám, že Týru a Sidonu lehčeji bude v den soudný nežli vám.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,767 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.22",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 22
+  },
+  "tekst_bg": "Wiele ich rzecze mi dnia onego: Panie, Panie! izażeśmy w imieniu twojem nie prorokowali, i w imieniu twojem dyjabłów nie wyganiali, i w imieniu twojem wiele cudów nie czynili?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Wiele"
+    },
+    {
+      "i": 1,
+      "t": "ich"
+    },
+    {
+      "i": 2,
+      "t": "rzecze"
+    },
+    {
+      "i": 3,
+      "t": "mi"
+    },
+    {
+      "i": 4,
+      "t": "dnia"
+    },
+    {
+      "i": 5,
+      "t": "onego"
+    },
+    {
+      "i": 6,
+      "t": "Panie"
+    },
+    {
+      "i": 7,
+      "t": "Panie"
+    },
+    {
+      "i": 8,
+      "t": "izażeśmy"
+    },
+    {
+      "i": 9,
+      "t": "w"
+    },
+    {
+      "i": 10,
+      "t": "imieniu"
+    },
+    {
+      "i": 11,
+      "t": "twojem"
+    },
+    {
+      "i": 12,
+      "t": "nie"
+    },
+    {
+      "i": 13,
+      "t": "prorokowali"
+    },
+    {
+      "i": 14,
+      "t": "i"
+    },
+    {
+      "i": 15,
+      "t": "w"
+    },
+    {
+      "i": 16,
+      "t": "imieniu"
+    },
+    {
+      "i": 17,
+      "t": "twojem"
+    },
+    {
+      "i": 18,
+      "t": "dyjabłów"
+    },
+    {
+      "i": 19,
+      "t": "nie"
+    },
+    {
+      "i": 20,
+      "t": "wyganiali"
+    },
+    {
+      "i": 21,
+      "t": "i"
+    },
+    {
+      "i": 22,
+      "t": "w"
+    },
+    {
+      "i": 23,
+      "t": "imieniu"
+    },
+    {
+      "i": 24,
+      "t": "twojem"
+    },
+    {
+      "i": 25,
+      "t": "wiele"
+    },
+    {
+      "i": 26,
+      "t": "cudów"
+    },
+    {
+      "i": 27,
+      "t": "nie"
+    },
+    {
+      "i": 28,
+      "t": "czynili"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.22",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.22",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "πολλοὶ",
+        "lemma": "G4183",
+        "forma": "πολύς",
+        "morph": "A-NPM",
+        "glosa": "Many",
+        "id": "Mat.7.22#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "much"
+      },
+      {
+        "t": "ἐροῦσίν",
+        "lemma": "G4483",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-FAI-3P",
+        "glosa": "will say",
+        "id": "Mat.7.22#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "μοι",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1DS",
+        "glosa": "to Me",
+        "id": "Mat.7.22#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "me"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.7.22#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ἐκείνῃ",
+        "lemma": "G1565",
+        "forma": "ἐκεῖνος",
+        "morph": "D-DSF",
+        "glosa": "that [very]",
+        "id": "Mat.7.22#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "that"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "<the>",
+        "id": "Mat.7.22#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἡμέρᾳ",
+        "lemma": "G2250",
+        "forma": "ἡμέρα",
+        "morph": "N-DSF",
+        "glosa": "day;",
+        "id": "Mat.7.22#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "day"
+      },
+      {
+        "t": "κύριε",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-VSM-T",
+        "glosa": "Lord",
+        "id": "Mat.7.22#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "κύριε",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-VSM-T",
+        "glosa": "Lord,",
+        "id": "Mat.7.22#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "surely",
+        "id": "Mat.7.22#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "no"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSN",
+        "glosa": "<the>",
+        "id": "Mat.7.22#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "σῷ",
+        "lemma": "G4771",
+        "forma": "σός",
+        "morph": "S-2SDSN",
+        "glosa": "in Your",
+        "id": "Mat.7.22#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὀνόματι",
+        "lemma": "G3686",
+        "forma": "ὄνομα",
+        "morph": "N-DSN",
+        "glosa": "name",
+        "id": "Mat.7.22#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "name"
+      },
+      {
+        "t": "ἐπροφητεύσαμεν",
+        "lemma": "G4395",
+        "forma": "προφητεύω",
+        "morph": "V-AAI-1P",
+        "glosa": "we did prophesy",
+        "id": "Mat.7.22#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to prophesy"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.22#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "and"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSN",
+        "glosa": "<the>",
+        "id": "Mat.7.22#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "σῷ",
+        "lemma": "G4771",
+        "forma": "σός",
+        "morph": "S-2SDSN",
+        "glosa": "in Your",
+        "id": "Mat.7.22#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὀνόματι",
+        "lemma": "G3686",
+        "forma": "ὄνομα",
+        "morph": "N-DSN",
+        "glosa": "name",
+        "id": "Mat.7.22#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "name"
+      },
+      {
+        "t": "δαιμόνια",
+        "lemma": "G1140",
+        "forma": "δαιμόνιον",
+        "morph": "N-APN",
+        "glosa": "demons",
+        "id": "Mat.7.22#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "demon"
+      },
+      {
+        "t": "ἐξεβάλομεν",
+        "lemma": "G1544",
+        "forma": "ἐκβάλλω",
+        "morph": "V-2AAI-1P",
+        "glosa": "cast out",
+        "id": "Mat.7.22#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "to expel"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.22#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "and"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSN",
+        "glosa": "<the>",
+        "id": "Mat.7.22#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "σῷ",
+        "lemma": "G4771",
+        "forma": "σός",
+        "morph": "S-2SDSN",
+        "glosa": "in your",
+        "id": "Mat.7.22#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὀνόματι",
+        "lemma": "G3686",
+        "forma": "ὄνομα",
+        "morph": "N-DSN",
+        "glosa": "name",
+        "id": "Mat.7.22#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "name"
+      },
+      {
+        "t": "δυνάμεις",
+        "lemma": "G1411",
+        "forma": "δύναμις",
+        "morph": "N-APF",
+        "glosa": "miracles",
+        "id": "Mat.7.22#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "power"
+      },
+      {
+        "t": "πολλὰς",
+        "lemma": "G4183",
+        "forma": "πολύς",
+        "morph": "A-APF",
+        "glosa": "many",
+        "id": "Mat.7.22#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "much"
+      },
+      {
+        "t": "ἐποιήσαμεν;",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-AAI-1P",
+        "glosa": "perform?",
+        "id": "Mat.7.22#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "to do/make: do"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "πολλοὶ oddane jako „Wiele”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [],
+      "uwaga": "„ich” nie ma zaimka przy πολλοί.",
+      "uzasadnienie": "„Wiele ich” jest polskim zwrotem na πολλοί. „ich” nie nazywa innej grupy niż mówiący."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐροῦσίν, 3 lm., oddane jako „rzecze” przy „wiele”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "μοι oddane jako „mi”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3,
+        5,
+        6
+      ],
+      "uwaga": "ἐν τῇ ἡμέρᾳ oddane dopełniaczem czasu „dnia”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐκείνῃ oddane jako „onego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "κύριε oddane jako „Panie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Drugie κύριε oddane jako „Panie”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [],
+      "uwaga": "„izażeśmy” nie ma osobnej partykuły pytajnej.",
+      "uzasadnienie": "οὐ przy ἐπροφητεύσαμεν jest pytaniem retorycznym. „izaż” je otwiera, a „-śmy” przenosi 1. os. lm. z tego czasownika."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ὀνόματι, celownik bez przyimka, oddane jako „w imieniu”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "τῷ σῷ oddane jako „twojem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "οὐ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἐπροφητεύσαμεν oddane jako „prorokowali”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        15,
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "Drugie ὀνόματι oddane jako „w imieniu”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "Drugie τῷ σῷ oddane jako „twojem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "δαιμόνια, biernik, oddane dopełniaczem „dyjabłów”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        19,
+        27
+      ],
+      "zrodlo": [],
+      "uwaga": "Dwa dalsze „nie” nie mają osobnego οὐ.",
+      "uzasadnienie": "Jedno οὐ stoi przy ἐπροφητεύσαμεν, a pytanie obejmuje też ἐξεβάλομεν i ἐποιήσαμεν. BG powtarza „nie” przy obu."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "ἐξεβάλομεν oddane jako „wyganiali”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "Drugie καὶ oddane jako „i”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        22,
+        23
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "Trzecie ὀνόματι oddane jako „w imieniu”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        21,
+        22
+      ],
+      "uwaga": "Trzecie τῷ σῷ oddane jako „twojem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "πολλὰς oddane jako „wiele”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        26
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "δυνάμεις, glosa „miracles”, oddane jako „cudów”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        28
+      ],
+      "zrodlo": [
+        26
+      ],
+      "uwaga": "ἐποιήσαμεν oddane jako „czynili”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Dzień, imię i trzy czynności są pokryte. „izażeśmy”, „ich” i dwa powtórzone „nie” dopowiadają jedno pytanie z οὐ.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὐ występuje raz, przed τῷ σῷ ὀνόματι ἐπροφητεύσαμεν. BG powtarza „nie” przy ἐξεβάλομεν i ἐποιήσαμεν.",
+      "tokeny_bg": [
+        12,
+        13,
+        19,
+        20,
+        27,
+        28
+      ],
+      "tokeny_zrodla": [
+        9,
+        13,
+        19,
+        26
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Trzy celowniki τῷ σῷ ὀνόματι nie mają ἐν. BG oddaje je jako „w imieniu twojem”.",
+      "tokeny_bg": [
+        9,
+        10,
+        11,
+        15,
+        16,
+        17,
+        22,
+        23,
+        24
+      ],
+      "tokeny_zrodla": [
+        10,
+        11,
+        12,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Mnozíť mi dějí v onen den: Pane, Pane, zdaliž jsme ve jménu tvém neprorokovali, a ve jménu tvém ďáblů nevymítali, a v tvém jménu zdaliž jsme divů mnohých nečinili?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

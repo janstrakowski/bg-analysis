@@ -1,0 +1,355 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.28",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 28
+  },
+  "tekst_bg": "Pójdźcie do mnie wszyscy, którzyście spracowani i obciążeni, a Ja wam sprawię odpocznienie;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Pójdźcie"
+    },
+    {
+      "i": 1,
+      "t": "do"
+    },
+    {
+      "i": 2,
+      "t": "mnie"
+    },
+    {
+      "i": 3,
+      "t": "wszyscy"
+    },
+    {
+      "i": 4,
+      "t": "którzyście"
+    },
+    {
+      "i": 5,
+      "t": "spracowani"
+    },
+    {
+      "i": 6,
+      "t": "i"
+    },
+    {
+      "i": 7,
+      "t": "obciążeni"
+    },
+    {
+      "i": 8,
+      "t": "a"
+    },
+    {
+      "i": 9,
+      "t": "Ja"
+    },
+    {
+      "i": 10,
+      "t": "wam"
+    },
+    {
+      "i": 11,
+      "t": "sprawię"
+    },
+    {
+      "i": 12,
+      "t": "odpocznienie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.28",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.28",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Δεῦτε",
+        "lemma": "G1205",
+        "forma": "δεῦτε",
+        "morph": "INJ",
+        "glosa": "Come",
+        "id": "Mat.11.28#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "come"
+      },
+      {
+        "t": "πρός",
+        "lemma": "G4314",
+        "forma": "πρός",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.11.28#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to/with"
+      },
+      {
+        "t": "με",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1AS",
+        "glosa": "Me",
+        "id": "Mat.11.28#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "me"
+      },
+      {
+        "t": "πάντες",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-VPM",
+        "glosa": "all",
+        "id": "Mat.11.28#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "all"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-VPM",
+        "glosa": "you who [are]",
+        "id": "Mat.11.28#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κοπιῶντες",
+        "lemma": "G2872",
+        "forma": "κοπιάω",
+        "morph": "V-PAP-VPM",
+        "glosa": "toiling",
+        "id": "Mat.11.28#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to labor"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.28#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "and"
+      },
+      {
+        "t": "πεφορτισμένοι",
+        "lemma": "G5412",
+        "forma": "φορτίζω",
+        "morph": "V-RPP-VPM",
+        "glosa": "burdened,",
+        "id": "Mat.11.28#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to burden"
+      },
+      {
+        "t": "κἀγὼ",
+        "lemma": "G1473",
+        "forma": "κἀγώ",
+        "morph": "P-1NS + G2532=CONJ",
+        "glosa": "and I myself",
+        "id": "Mat.11.28#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "ἀναπαύσω",
+        "lemma": "G0373",
+        "forma": "ἀναπαύω",
+        "morph": "V-FAI-1S",
+        "glosa": "will give rest",
+        "id": "Mat.11.28#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to give rest"
+      },
+      {
+        "t": "ὑμᾶς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2AP",
+        "glosa": "to you.",
+        "id": "Mat.11.28#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Δεῦτε oddane jako „Pójdźcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "πρός oddane jako „do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "με oddane jako „mnie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "πάντες oddane jako „wszyscy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "οἱ przy imiesłowach oddane jako „którzyście”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "κοπιῶντες oddane jako „spracowani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "πεφορτισμένοι oddane jako „obciążeni”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "κἀγὼ, zrost καί i ἐγώ, oddane jako „a Ja”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ὑμᾶς, biernik, oddane celownikiem „wam”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        11,
+        12
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἀναπαύσω oddane jako „sprawię odpocznienie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token ma odpowiednik. κἀγὼ rozbito na „a Ja”, a ἀναπαύσω na „sprawię odpocznienie”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "κἀγὼ ἀναπαύσω ὑμᾶς BG rozbija na „a Ja wam sprawię odpocznienie”: jeden token κἀγὼ daje „a Ja”, a czasownik daje rzeczownik „odpocznienie”.",
+      "tokeny_bg": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Pojdtež ke mně všickni, kteříž pracujete a obtíženi jste, a já vám odpočinutí dám.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.9",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 9
+  },
+  "tekst_bg": "Nie bierzcie z sobą złota, ani srebra, ani miedzi w trzosy wasze;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Nie"
+    },
+    {
+      "i": 1,
+      "t": "bierzcie"
+    },
+    {
+      "i": 2,
+      "t": "z"
+    },
+    {
+      "i": 3,
+      "t": "sobą"
+    },
+    {
+      "i": 4,
+      "t": "złota"
+    },
+    {
+      "i": 5,
+      "t": "ani"
+    },
+    {
+      "i": 6,
+      "t": "srebra"
+    },
+    {
+      "i": 7,
+      "t": "ani"
+    },
+    {
+      "i": 8,
+      "t": "miedzi"
+    },
+    {
+      "i": 9,
+      "t": "w"
+    },
+    {
+      "i": 10,
+      "t": "trzosy"
+    },
+    {
+      "i": 11,
+      "t": "wasze"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.9",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.9",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "Neither",
+        "id": "Mat.10.9#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "not"
+      },
+      {
+        "t": "κτήσησθε",
+        "lemma": "G2932",
+        "forma": "κτάομαι",
+        "morph": "V-ADS-2P",
+        "glosa": "may take along",
+        "id": "Mat.10.9#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to posses"
+      },
+      {
+        "t": "χρυσὸν",
+        "lemma": "G5557",
+        "forma": "χρυσός",
+        "morph": "N-ASM",
+        "glosa": "gold",
+        "id": "Mat.10.9#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "gold"
+      },
+      {
+        "t": "μηδὲ",
+        "lemma": "G3366",
+        "forma": "μηδέ",
+        "morph": "CONJ-N",
+        "glosa": "nor",
+        "id": "Mat.10.9#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "nor"
+      },
+      {
+        "t": "ἄργυρον",
+        "lemma": "G0696",
+        "forma": "ἄργυρος",
+        "morph": "N-ASM",
+        "glosa": "silver",
+        "id": "Mat.10.9#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "silver"
+      },
+      {
+        "t": "μηδὲ",
+        "lemma": "G3366",
+        "forma": "μηδέ",
+        "morph": "CONJ-N",
+        "glosa": "nor",
+        "id": "Mat.10.9#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "nor"
+      },
+      {
+        "t": "χαλκὸν",
+        "lemma": "G5475",
+        "forma": "χαλκός",
+        "morph": "N-ASM",
+        "glosa": "copper",
+        "id": "Mat.10.9#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "copper/bronze/coin"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.10.9#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὰς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APF",
+        "glosa": "the",
+        "id": "Mat.10.9#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ζώνας",
+        "lemma": "G2223",
+        "forma": "ζώνη",
+        "morph": "N-APF",
+        "glosa": "belts",
+        "id": "Mat.10.9#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "belt/sash/girdle"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you,",
+        "id": "Mat.10.9#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Μὴ oddane jako „Nie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2,
+        3
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "κτήσησθε, w glosie „may take along”, oddane jako „bierzcie z sobą”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "χρυσὸν oddane jako „złota”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "μηδὲ oddane jako „ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἄργυρον oddane jako „srebra”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "μηδὲ oddane jako „ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "χαλκὸν oddane jako „miedzi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "εἰς oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τὰς ζώνας, w glosie „belts”, oddane jako „trzosy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ὑμῶν oddane jako „wasze”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Zakaz złota, srebra i miedzi w trzosach jest pokryty. „bierzcie z sobą” rozbija κτήσησθε, a rodzajnik przy ζώνας wchodzi w „trzosy”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Μὴ κτήσησθε χρυσὸν μηδὲ ἄργυρον μηδὲ χαλκὸν εἰς τὰς ζώνας ὑμῶν BG oddaje jako „Nie bierzcie z sobą złota, ani srebra, ani miedzi w trzosy wasze”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Neshromažďujte zlata ani stříbra, ani peněz v opascích vašich mívejte,",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.17",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 17
+  },
+  "tekst_bg": "Ani leją wina młodego w stare statki; bo inaczej pukają się statki, a wino wycieka, i statki się psują; ale młode wino leją w nowe statki, i oboje bywają zachowane.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ani"
+    },
+    {
+      "i": 1,
+      "t": "leją"
+    },
+    {
+      "i": 2,
+      "t": "wina"
+    },
+    {
+      "i": 3,
+      "t": "młodego"
+    },
+    {
+      "i": 4,
+      "t": "w"
+    },
+    {
+      "i": 5,
+      "t": "stare"
+    },
+    {
+      "i": 6,
+      "t": "statki"
+    },
+    {
+      "i": 7,
+      "t": "bo"
+    },
+    {
+      "i": 8,
+      "t": "inaczej"
+    },
+    {
+      "i": 9,
+      "t": "pukają"
+    },
+    {
+      "i": 10,
+      "t": "się"
+    },
+    {
+      "i": 11,
+      "t": "statki"
+    },
+    {
+      "i": 12,
+      "t": "a"
+    },
+    {
+      "i": 13,
+      "t": "wino"
+    },
+    {
+      "i": 14,
+      "t": "wycieka"
+    },
+    {
+      "i": 15,
+      "t": "i"
+    },
+    {
+      "i": 16,
+      "t": "statki"
+    },
+    {
+      "i": 17,
+      "t": "się"
+    },
+    {
+      "i": 18,
+      "t": "psują"
+    },
+    {
+      "i": 19,
+      "t": "ale"
+    },
+    {
+      "i": 20,
+      "t": "młode"
+    },
+    {
+      "i": 21,
+      "t": "wino"
+    },
+    {
+      "i": 22,
+      "t": "leją"
+    },
+    {
+      "i": 23,
+      "t": "w"
+    },
+    {
+      "i": 24,
+      "t": "nowe"
+    },
+    {
+      "i": 25,
+      "t": "statki"
+    },
+    {
+      "i": 26,
+      "t": "i"
+    },
+    {
+      "i": 27,
+      "t": "oboje"
+    },
+    {
+      "i": 28,
+      "t": "bywają"
+    },
+    {
+      "i": 29,
+      "t": "zachowane"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.17",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.17",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "οὐδὲ",
+        "lemma": "G3761",
+        "forma": "οὐδέ",
+        "morph": "CONJ-N",
+        "glosa": "Nor",
+        "id": "Mat.9.17#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "nor"
+      },
+      {
+        "t": "βάλλουσιν",
+        "lemma": "G0906H",
+        "forma": "βάλλω",
+        "morph": "V-PAI-3P",
+        "glosa": "pour they",
+        "id": "Mat.9.17#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to throw: put"
+      },
+      {
+        "t": "οἶνον",
+        "lemma": "G3631",
+        "forma": "οἶνος",
+        "morph": "N-ASM",
+        "glosa": "wine",
+        "id": "Mat.9.17#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "wine"
+      },
+      {
+        "t": "νέον",
+        "lemma": "G3501",
+        "forma": "νέος",
+        "morph": "A-ASM",
+        "glosa": "new",
+        "id": "Mat.9.17#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "new"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.9.17#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "toward"
+      },
+      {
+        "t": "ἀσκοὺς",
+        "lemma": "G0779",
+        "forma": "ἀσκός",
+        "morph": "N-APM",
+        "glosa": "wineskins",
+        "id": "Mat.9.17#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "wineskin"
+      },
+      {
+        "t": "παλαιούς",
+        "lemma": "G3820",
+        "forma": "παλαιός",
+        "morph": "A-APM",
+        "glosa": "old;",
+        "id": "Mat.9.17#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "old"
+      },
+      {
+        "t": "εἰ",
+        "lemma": "G1487L",
+        "forma": "εἰ",
+        "morph": "COND",
+        "glosa": "lest",
+        "id": "Mat.9.17#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "if: else"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.9.17#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "then"
+      },
+      {
+        "t": "γε",
+        "lemma": "G1065",
+        "forma": "γέ",
+        "morph": "PRT",
+        "glosa": "indeed",
+        "id": "Mat.9.17#11",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "indeed"
+      },
+      {
+        "t": "ῥήγνυνται",
+        "lemma": "G4486",
+        "forma": "ῥήγνυμι",
+        "morph": "V-PPI-3P",
+        "glosa": "are burst",
+        "id": "Mat.9.17#12",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to throw violently"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.9.17#13",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀσκοί",
+        "lemma": "G0779",
+        "forma": "ἀσκός",
+        "morph": "N-NPM",
+        "glosa": "wineskins,",
+        "id": "Mat.9.17#14",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "wineskin"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.17#15",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.9.17#16",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἶνος",
+        "lemma": "G3631",
+        "forma": "οἶνος",
+        "morph": "N-NSM",
+        "glosa": "wine",
+        "id": "Mat.9.17#17",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "wine"
+      },
+      {
+        "t": "ἐκχεῖται",
+        "lemma": "G1632",
+        "forma": "ἐκχέω",
+        "morph": "V-PPI-3S",
+        "glosa": "is poured out",
+        "id": "Mat.9.17#18",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to pour out"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.17#19",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "and"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.9.17#20",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀσκοὶ",
+        "lemma": "G0779",
+        "forma": "ἀσκός",
+        "morph": "N-NPM",
+        "glosa": "wineskins",
+        "id": "Mat.9.17#21",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "wineskin"
+      },
+      {
+        "t": "ἀπολοῦνται",
+        "lemma": "G0622",
+        "forma": "ἀπολοῦνται",
+        "morph": "V-FMI-3P",
+        "glosa": "will ruin",
+        "id": "Mat.9.17#22",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "to destroy"
+      },
+      {
+        "t": "ἀλλὰ",
+        "lemma": "G0235",
+        "forma": "ἀλλά",
+        "morph": "CONJ",
+        "glosa": "But",
+        "id": "Mat.9.17#23",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "but"
+      },
+      {
+        "t": "βάλλουσιν",
+        "lemma": "G0906H",
+        "forma": "βάλλω",
+        "morph": "V-PAI-3P",
+        "glosa": "they pour",
+        "id": "Mat.9.17#24",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "to throw: put"
+      },
+      {
+        "t": "οἶνον",
+        "lemma": "G3631",
+        "forma": "οἶνος",
+        "morph": "N-ASM",
+        "glosa": "wine",
+        "id": "Mat.9.17#25",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "wine"
+      },
+      {
+        "t": "νέον",
+        "lemma": "G3501",
+        "forma": "νέος",
+        "morph": "A-ASM",
+        "glosa": "new",
+        "id": "Mat.9.17#26",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "new"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.9.17#27",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "toward"
+      },
+      {
+        "t": "ἀσκοὺς",
+        "lemma": "G0779",
+        "forma": "ἀσκός",
+        "morph": "N-APM",
+        "glosa": "wineskins",
+        "id": "Mat.9.17#28",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "wineskin"
+      },
+      {
+        "t": "καινούς",
+        "lemma": "G2537",
+        "forma": "καινός",
+        "morph": "A-APM",
+        "glosa": "new,",
+        "id": "Mat.9.17#29",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "new"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.17#30",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀμφότερα",
+        "lemma": "G0297",
+        "forma": "ἀμφότερα",
+        "morph": "A-APN",
+        "glosa": "both",
+        "id": "Mat.9.17#31",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "both"
+      },
+      {
+        "t": "συντηροῦνται",
+        "lemma": "G4933",
+        "forma": "συντηρέω",
+        "morph": "V-PPI-3P",
+        "glosa": "are preserved.",
+        "id": "Mat.9.17#32",
+        "jezyk": "grc",
+        "i": 30,
+        "leksykon": "to preserve"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "οὐδὲ oddane jako „Ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "βάλλουσιν, „pour they”, oddane jako „leją”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "οἶνον oddane jako „wina”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "νέον, „new”, oddane jako „młodego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "εἰς oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "παλαιούς, „old”, oddane jako „stare”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἀσκοὺς, „wineskins”, oddane jako „statki”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7,
+        8
+      ],
+      "zrodlo": [
+        7,
+        8,
+        9
+      ],
+      "uwaga": "εἰ δὲ γε, „lest then indeed”, oddane jako „bo inaczej”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ῥήγνυνται, strona bierna „are burst”, oddane jako „pukają się”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "οἱ ἀσκοί oddane jako „statki”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "ὁ οἶνος oddane jako „wino”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἐκχεῖται, strona bierna „is poured out”, oddane jako „wycieka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "οἱ ἀσκοὶ oddane jako „statki”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        17,
+        18
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ἀπολοῦνται, morfologia V-FMI-3P, oddane jako „się psują”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "ἀλλὰ oddane jako „ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "Drugie νέον oddane jako „młode”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "Drugie οἶνον oddane jako „wino”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "Drugie βάλλουσιν oddane jako „leją”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "Drugie εἰς oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        27
+      ],
+      "uwaga": "καινούς, „new”, oddane jako „nowe”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        26
+      ],
+      "uwaga": "Drugie ἀσκοὺς oddane jako „statki”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        26
+      ],
+      "zrodlo": [
+        28
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        27
+      ],
+      "zrodlo": [
+        29
+      ],
+      "uwaga": "ἀμφότερα, „both”, oddane jako „oboje”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        28,
+        29
+      ],
+      "zrodlo": [
+        30
+      ],
+      "uwaga": "συντηροῦνται, strona bierna „are preserved”, oddane jako „bywają zachowane”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token grecki ma polski odpowiednik. „bo inaczej” zlewa εἰ δὲ γε, a „pukają się”, „się psują” i „bywają zachowane” rozbijają formy bierne albo medialne.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "νέον przy οἶνον BG oddaje jako „młodego” i „młode”, a καινούς przy ἀσκοὺς jako „nowe”. ἀσκοὺς we wszystkich czterech miejscach jest „statki”.",
+      "tokeny_bg": [
+        3,
+        6,
+        11,
+        16,
+        20,
+        24,
+        25
+      ],
+      "tokeny_zrodla": [
+        3,
+        5,
+        12,
+        19,
+        24,
+        26,
+        27
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Aniž lejí vína nového do nádob starých; sic jinak rozpuknou se sudové, a víno se vyleje, a sudové se zkazí. Ale víno nové lejí do nových nádob, a bývá obé zachováno.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

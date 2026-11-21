@@ -1,0 +1,388 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.4",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 4
+  },
+  "tekst_bg": "A odpowiadając Jezus, rzekł im: Szedłszy, oznajmijcie Janowi, co słyszycie i widzicie.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "odpowiadając"
+    },
+    {
+      "i": 2,
+      "t": "Jezus"
+    },
+    {
+      "i": 3,
+      "t": "rzekł"
+    },
+    {
+      "i": 4,
+      "t": "im"
+    },
+    {
+      "i": 5,
+      "t": "Szedłszy"
+    },
+    {
+      "i": 6,
+      "t": "oznajmijcie"
+    },
+    {
+      "i": 7,
+      "t": "Janowi"
+    },
+    {
+      "i": 8,
+      "t": "co"
+    },
+    {
+      "i": 9,
+      "t": "słyszycie"
+    },
+    {
+      "i": 10,
+      "t": "i"
+    },
+    {
+      "i": 11,
+      "t": "widzicie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.4",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.4",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.11.4#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀποκριθεὶς",
+        "lemma": "G0611",
+        "forma": "ἀποκρίνω",
+        "morph": "V-AOP-NSM",
+        "glosa": "answering",
+        "id": "Mat.11.4#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to answer"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.11.4#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.11.4#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "εἶπεν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAI-3S",
+        "glosa": "said",
+        "id": "Mat.11.4#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτοῖς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DPM",
+        "glosa": "to them;",
+        "id": "Mat.11.4#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "πορευθέντες",
+        "lemma": "G4198",
+        "forma": "πορεύω",
+        "morph": "V-AOP-NPM",
+        "glosa": "Having gone",
+        "id": "Mat.11.4#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to travel"
+      },
+      {
+        "t": "ἀπαγγείλατε",
+        "lemma": "G0518",
+        "forma": "ἀπαγγέλλω",
+        "morph": "V-AAM-2P",
+        "glosa": "do relate",
+        "id": "Mat.11.4#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to announce"
+      },
+      {
+        "t": "Ἰωάννῃ",
+        "lemma": "G2491G",
+        "forma": "Ἰωάννης",
+        "morph": "N-DSM-P",
+        "glosa": "to John",
+        "id": "Mat.11.4#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "John"
+      },
+      {
+        "t": "ἃ",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-APN",
+        "glosa": "what",
+        "id": "Mat.11.4#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "which"
+      },
+      {
+        "t": "ἀκούετε",
+        "lemma": "G0191",
+        "forma": "ἀκούω",
+        "morph": "V-PAI-2P",
+        "glosa": "you hear",
+        "id": "Mat.11.4#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to hear"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.4#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "and"
+      },
+      {
+        "t": "βλέπετε",
+        "lemma": "G0991",
+        "forma": "βλέπω",
+        "morph": "V-PAI-2P",
+        "glosa": "see:",
+        "id": "Mat.11.4#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to see"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Καὶ na początku oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἀποκριθεὶς oddane jako „odpowiadając”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "εἶπεν oddane jako „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "αὐτοῖς oddane jako „im”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "πορευθέντες oddane jako „Szedłszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἀπαγγείλατε oddane jako „oznajmijcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Ἰωάννῃ oddane jako „Janowi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἃ oddane jako „co”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἀκούετε oddane jako „słyszycie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "βλέπετε oddane jako „widzicie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajnik przy Ἰησοῦς wchodzi w imię, a szyk imiesłowów zostaje imiesłowowy.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πορευθέντες ἀπαγγείλατε Ἰωάννῃ ἃ ἀκούετε καὶ βλέπετε ma po polsku te same orzeczenia: „Szedłszy, oznajmijcie Janowi, co słyszycie i widzicie”.",
+      "tokeny_bg": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I odpovídaje Ježíš, řekl jim: Jdouce, zvěstujtež Janovi, co slyšíte a vidíte:",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

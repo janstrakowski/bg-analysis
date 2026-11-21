@@ -1,0 +1,360 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.19",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 19
+  },
+  "tekst_bg": "Wszelkie drzewo, które nie przynosi owocu dobrego, bywa wycięte i w ogień wrzucone.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Wszelkie"
+    },
+    {
+      "i": 1,
+      "t": "drzewo"
+    },
+    {
+      "i": 2,
+      "t": "które"
+    },
+    {
+      "i": 3,
+      "t": "nie"
+    },
+    {
+      "i": 4,
+      "t": "przynosi"
+    },
+    {
+      "i": 5,
+      "t": "owocu"
+    },
+    {
+      "i": 6,
+      "t": "dobrego"
+    },
+    {
+      "i": 7,
+      "t": "bywa"
+    },
+    {
+      "i": 8,
+      "t": "wycięte"
+    },
+    {
+      "i": 9,
+      "t": "i"
+    },
+    {
+      "i": 10,
+      "t": "w"
+    },
+    {
+      "i": 11,
+      "t": "ogień"
+    },
+    {
+      "i": 12,
+      "t": "wrzucone"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.19",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.19",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "πᾶν",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NSN",
+        "glosa": "Every",
+        "id": "Mat.7.19#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "all"
+      },
+      {
+        "t": "δένδρον",
+        "lemma": "G1186",
+        "forma": "δένδρον",
+        "morph": "N-NSN",
+        "glosa": "tree",
+        "id": "Mat.7.19#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "tree"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.7.19#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "not"
+      },
+      {
+        "t": "ποιοῦν",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAP-NSN",
+        "glosa": "producing",
+        "id": "Mat.7.19#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "καρπὸν",
+        "lemma": "G2590",
+        "forma": "καρπός",
+        "morph": "N-ASM",
+        "glosa": "fruit",
+        "id": "Mat.7.19#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "fruit"
+      },
+      {
+        "t": "καλὸν",
+        "lemma": "G2570G",
+        "forma": "καλός",
+        "morph": "A-ASM",
+        "glosa": "good",
+        "id": "Mat.7.19#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "good"
+      },
+      {
+        "t": "ἐκκόπτεται",
+        "lemma": "G1581",
+        "forma": "ἐκκόπτω",
+        "morph": "V-PPI-3S",
+        "glosa": "is cut down",
+        "id": "Mat.7.19#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to prevent"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.19#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.7.19#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "toward"
+      },
+      {
+        "t": "πῦρ",
+        "lemma": "G4442",
+        "forma": "πῦρ",
+        "morph": "N-ASN",
+        "glosa": "fire",
+        "id": "Mat.7.19#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "fire"
+      },
+      {
+        "t": "βάλλεται",
+        "lemma": "G0906G",
+        "forma": "βάλλω",
+        "morph": "V-PPI-3S",
+        "glosa": "is thrown.",
+        "id": "Mat.7.19#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to throw: throw"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "πᾶν oddane jako „Wszelkie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δένδρον oddane jako „drzewo”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ποιοῦν, imiesłów, rozbite na zdanie „które … przynosi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "καρπὸν, biernik, oddane jako „owocu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "καλὸν oddane jako „dobrego”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        7,
+        8
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐκκόπτεται, strona bierna, oddane jako „bywa wycięte”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "εἰς oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "πῦρ oddane jako „ogień”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "βάλλεται oddane imiesłowem „wrzucone”; „bywa” przy „wycięte” obejmuje i tę stronę bierną."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Imiesłów ποιοῦν rozbity na zdanie „które przynosi”. Obie strony bierne są oddane, nic nie dodano i nic nie opuszczono.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πᾶν δένδρον μὴ ποιοῦν καρπὸν καλὸν nie ma zaimka ὅς. BG rozbija imiesłów na „które nie przynosi”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Všeliký strom, kterýž nenese ovoce dobrého, vyťat a na oheň uvržen bývá.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

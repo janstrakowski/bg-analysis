@@ -1,0 +1,433 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.20",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 20
+  },
+  "tekst_bg": "Tedy począł przymawiać miastom, w których się najwięcej działo cudów jego, że nie pokutowały, mówiąc:",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tedy"
+    },
+    {
+      "i": 1,
+      "t": "począł"
+    },
+    {
+      "i": 2,
+      "t": "przymawiać"
+    },
+    {
+      "i": 3,
+      "t": "miastom"
+    },
+    {
+      "i": 4,
+      "t": "w"
+    },
+    {
+      "i": 5,
+      "t": "których"
+    },
+    {
+      "i": 6,
+      "t": "się"
+    },
+    {
+      "i": 7,
+      "t": "najwięcej"
+    },
+    {
+      "i": 8,
+      "t": "działo"
+    },
+    {
+      "i": 9,
+      "t": "cudów"
+    },
+    {
+      "i": 10,
+      "t": "jego"
+    },
+    {
+      "i": 11,
+      "t": "że"
+    },
+    {
+      "i": 12,
+      "t": "nie"
+    },
+    {
+      "i": 13,
+      "t": "pokutowały"
+    },
+    {
+      "i": 14,
+      "t": "mówiąc"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.20",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.20",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "Then",
+        "id": "Mat.11.20#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἤρξατο",
+        "lemma": "G0757",
+        "forma": "ἄρχω",
+        "morph": "V-ADI-3S",
+        "glosa": "He began",
+        "id": "Mat.11.20#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "be first"
+      },
+      {
+        "t": "ὀνειδίζειν",
+        "lemma": "G3679",
+        "forma": "ὀνειδίζω",
+        "morph": "V-PAN",
+        "glosa": "to denounce",
+        "id": "Mat.11.20#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to revile"
+      },
+      {
+        "t": "τὰς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APF",
+        "glosa": "the",
+        "id": "Mat.11.20#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πόλεις",
+        "lemma": "G4172",
+        "forma": "πόλις",
+        "morph": "N-APF",
+        "glosa": "cities",
+        "id": "Mat.11.20#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "city"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.11.20#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "αἷς",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-DPF",
+        "glosa": "which",
+        "id": "Mat.11.20#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "which"
+      },
+      {
+        "t": "ἐγένοντο",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-2ADI-3P",
+        "glosa": "had taken place",
+        "id": "Mat.11.20#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to be"
+      },
+      {
+        "t": "αἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPF",
+        "glosa": "the",
+        "id": "Mat.11.20#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πλεῖσται",
+        "lemma": "G4118",
+        "forma": "πλεῖστος",
+        "morph": "A-NPF-S",
+        "glosa": "most",
+        "id": "Mat.11.20#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "most"
+      },
+      {
+        "t": "δυνάμεις",
+        "lemma": "G1411",
+        "forma": "δύναμις",
+        "morph": "N-NPF",
+        "glosa": "miracles",
+        "id": "Mat.11.20#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "power"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him",
+        "id": "Mat.11.20#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "because",
+        "id": "Mat.11.20#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.11.20#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "no"
+      },
+      {
+        "t": "μετενόησαν",
+        "lemma": "G3340",
+        "forma": "μετανοέω",
+        "morph": "V-AAI-3P",
+        "glosa": "they repented;",
+        "id": "Mat.11.20#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to repent"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Τότε oddane jako „Tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἤρξατο oddane jako „począł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὀνειδίζειν oddane jako „przymawiać”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τὰς πόλεις, biernik, oddane celownikiem „miastom”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "αἷς oddane jako „których”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐγένοντο, forma medialna liczby mnogiej, oddane jako „się działo”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "αἱ πλεῖσται oddane jako „najwięcej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "δυνάμεις, mianownik, oddane dopełniaczem „cudów”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ὅτι oddane jako „że”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "οὐ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "μετενόησαν oddane jako „pokutowały”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [],
+      "uwaga": "„mówiąc” jest kursywą w 1632. Po μετενόησαν greka tego wersetu się kończy."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „mówiąc” jest kursywą i zapowiada mowę następnego wersetu, której tu nie ma.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Werset grecki kończy się na μετενόησαν. „mówiąc” jest kursywą w 1632 i nie ma tokenu źródłowego.",
+      "tokeny_bg": [
+        12,
+        13,
+        14
+      ],
+      "tokeny_zrodla": [
+        13,
+        14
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Tehdy počal přimlouvati městům, v nichžto činěni jsou jeho mnozí divové, že pokání nečinili.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

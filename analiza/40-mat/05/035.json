@@ -1,0 +1,507 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.35",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 35
+  },
+  "tekst_bg": "Ani na ziemię, gdyż jest podnóżkiem nóg jego; ani na Jeruzalem, gdyż jest miasto wielkiego króla;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ani"
+    },
+    {
+      "i": 1,
+      "t": "na"
+    },
+    {
+      "i": 2,
+      "t": "ziemię"
+    },
+    {
+      "i": 3,
+      "t": "gdyż"
+    },
+    {
+      "i": 4,
+      "t": "jest"
+    },
+    {
+      "i": 5,
+      "t": "podnóżkiem"
+    },
+    {
+      "i": 6,
+      "t": "nóg"
+    },
+    {
+      "i": 7,
+      "t": "jego"
+    },
+    {
+      "i": 8,
+      "t": "ani"
+    },
+    {
+      "i": 9,
+      "t": "na"
+    },
+    {
+      "i": 10,
+      "t": "Jeruzalem"
+    },
+    {
+      "i": 11,
+      "t": "gdyż"
+    },
+    {
+      "i": 12,
+      "t": "jest"
+    },
+    {
+      "i": 13,
+      "t": "miasto"
+    },
+    {
+      "i": 14,
+      "t": "wielkiego"
+    },
+    {
+      "i": 15,
+      "t": "króla"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.35",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.35",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "μήτε",
+        "lemma": "G3383",
+        "forma": "μήτε",
+        "morph": "CONJ-N",
+        "glosa": "nor [swear]",
+        "id": "Mat.5.35#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "neither"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.5.35#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.5.35#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γῇ",
+        "lemma": "G1093G",
+        "forma": "γῆ",
+        "morph": "N-DSF",
+        "glosa": "earth",
+        "id": "Mat.5.35#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "earth: planet"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "because",
+        "id": "Mat.5.35#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "ὑποπόδιόν",
+        "lemma": "G5286",
+        "forma": "ὑποπόδιον",
+        "morph": "N-NSN",
+        "glosa": "[the] footstool",
+        "id": "Mat.5.35#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "footstool"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "it is",
+        "id": "Mat.5.35#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to be"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.5.35#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ποδῶν",
+        "lemma": "G4228",
+        "forma": "πούς",
+        "morph": "N-GPM",
+        "glosa": "feet",
+        "id": "Mat.5.35#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "foot"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him,",
+        "id": "Mat.5.35#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "μήτε",
+        "lemma": "G3383",
+        "forma": "μήτε",
+        "morph": "CONJ-N",
+        "glosa": "nor [swear]",
+        "id": "Mat.5.35#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "neither"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.5.35#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "toward"
+      },
+      {
+        "t": "Ἱεροσόλυμα",
+        "lemma": "G2414",
+        "forma": "Ἱεροσόλυμα",
+        "morph": "N-APN-L",
+        "glosa": "Jerusalem",
+        "id": "Mat.5.35#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "Jerusalem"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "because",
+        "id": "Mat.5.35#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "πόλις",
+        "lemma": "G4172",
+        "forma": "πόλις",
+        "morph": "N-NSF",
+        "glosa": "[the] city",
+        "id": "Mat.5.35#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "city"
+      },
+      {
+        "t": "ἐστὶν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "it is",
+        "id": "Mat.5.35#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to be"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.5.35#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μεγάλου",
+        "lemma": "G3173",
+        "forma": "μέγας",
+        "morph": "A-GSM",
+        "glosa": "great",
+        "id": "Mat.5.35#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "great"
+      },
+      {
+        "t": "βασιλέως",
+        "lemma": "G0935",
+        "forma": "βασιλεύς",
+        "morph": "N-GSM-T",
+        "glosa": "King,",
+        "id": "Mat.5.35#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "king"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "μήτε oddane jako „Ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐν w przysiędze oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "τῇ γῇ oddane jako „ziemię”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ὅτι, glosa „because”, oddane jako „gdyż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐστιν oddane jako „jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ὑποπόδιόν, mianownik, oddany narzędnikiem „podnóżkiem”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τῶν ποδῶν oddane jako „nóg”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "Drugie μήτε oddane jako „ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "εἰς w przysiędze oddane jako „na”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "Ἱεροσόλυμα oddane jako „Jeruzalem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "Drugie ὅτι oddane jako „gdyż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἐστὶν oddane jako „jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "πόλις oddane jako „miasto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "μεγάλου oddane jako „wielkiego”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16,
+        18
+      ],
+      "uwaga": "τοῦ … βασιλέως oddane jako „króla”; rodzajnik nie ma osobnego słowa."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajniki wchodzą w „ziemię”, „nóg” i „króla”, a ὑποπόδιον stoi w polskim narzędniku orzeczenia.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὑποπόδιόν ἐστιν τῶν ποδῶν αὐτοῦ oddane jest jako „jest podnóżkiem nóg jego”; rodzajnik τῶν wchodzi w „nóg”.",
+      "tokeny_bg": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ani skrze zemi, nebo podnož jeho jest, ani skrze Jeruzalém, nebo město velikého Krále jest.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

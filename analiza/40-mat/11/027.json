@@ -1,0 +1,780 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.27",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 27
+  },
+  "tekst_bg": "Wszystkie rzeczy dane mi są od Ojca mego, i nikt nie zna Syna, tylko Ojciec, ani Ojca kto zna, tylko Syn, a komuby chciał Syn objawić.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Wszystkie"
+    },
+    {
+      "i": 1,
+      "t": "rzeczy"
+    },
+    {
+      "i": 2,
+      "t": "dane"
+    },
+    {
+      "i": 3,
+      "t": "mi"
+    },
+    {
+      "i": 4,
+      "t": "są"
+    },
+    {
+      "i": 5,
+      "t": "od"
+    },
+    {
+      "i": 6,
+      "t": "Ojca"
+    },
+    {
+      "i": 7,
+      "t": "mego"
+    },
+    {
+      "i": 8,
+      "t": "i"
+    },
+    {
+      "i": 9,
+      "t": "nikt"
+    },
+    {
+      "i": 10,
+      "t": "nie"
+    },
+    {
+      "i": 11,
+      "t": "zna"
+    },
+    {
+      "i": 12,
+      "t": "Syna"
+    },
+    {
+      "i": 13,
+      "t": "tylko"
+    },
+    {
+      "i": 14,
+      "t": "Ojciec"
+    },
+    {
+      "i": 15,
+      "t": "ani"
+    },
+    {
+      "i": 16,
+      "t": "Ojca"
+    },
+    {
+      "i": 17,
+      "t": "kto"
+    },
+    {
+      "i": 18,
+      "t": "zna"
+    },
+    {
+      "i": 19,
+      "t": "tylko"
+    },
+    {
+      "i": 20,
+      "t": "Syn"
+    },
+    {
+      "i": 21,
+      "t": "a"
+    },
+    {
+      "i": 22,
+      "t": "komuby"
+    },
+    {
+      "i": 23,
+      "t": "chciał"
+    },
+    {
+      "i": 24,
+      "t": "Syn"
+    },
+    {
+      "i": 25,
+      "t": "objawić"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.27",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.27",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Πάντα",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NPN",
+        "glosa": "All things",
+        "id": "Mat.11.27#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "all"
+      },
+      {
+        "t": "μοι",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1DS",
+        "glosa": "to Me",
+        "id": "Mat.11.27#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "me"
+      },
+      {
+        "t": "παρεδόθη",
+        "lemma": "G3860",
+        "forma": "παραδίδωμι",
+        "morph": "V-API-3S",
+        "glosa": "was delivered",
+        "id": "Mat.11.27#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to deliver"
+      },
+      {
+        "t": "ὑπὸ",
+        "lemma": "G5259G",
+        "forma": "ὑπό",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.11.27#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "by/under: by"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.11.27#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατρός",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-GSM-T",
+        "glosa": "Father",
+        "id": "Mat.11.27#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "father"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "of Mine,",
+        "id": "Mat.11.27#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "me"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.11.27#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "οὐδεὶς",
+        "lemma": "G3762",
+        "forma": "οὐδείς",
+        "morph": "A-NSM",
+        "glosa": "no [one]",
+        "id": "Mat.11.27#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "none"
+      },
+      {
+        "t": "ἐπιγινώσκει",
+        "lemma": "G1921",
+        "forma": "ἐπιγινώσκω",
+        "morph": "V-PAI-3S",
+        "glosa": "knows",
+        "id": "Mat.11.27#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to come to know"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.11.27#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "υἱὸν",
+        "lemma": "G5207",
+        "forma": "υἱός",
+        "morph": "N-ASM",
+        "glosa": "Son",
+        "id": "Mat.11.27#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "son"
+      },
+      {
+        "t": "εἰ",
+        "lemma": "G1487H",
+        "forma": "εἰ",
+        "morph": "COND",
+        "glosa": "only",
+        "id": "Mat.11.27#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "if: not"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "except",
+        "id": "Mat.11.27#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "not"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.11.27#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατήρ",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-NSM-T",
+        "glosa": "Father,",
+        "id": "Mat.11.27#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "father"
+      },
+      {
+        "t": "οὐδὲ",
+        "lemma": "G3761",
+        "forma": "οὐδέ",
+        "morph": "CONJ-N",
+        "glosa": "nor",
+        "id": "Mat.11.27#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "nor"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.11.27#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατέρα",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-ASM-T",
+        "glosa": "Father",
+        "id": "Mat.11.27#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "father"
+      },
+      {
+        "t": "τις",
+        "lemma": "G5100",
+        "forma": "τις",
+        "morph": "X-NSM",
+        "glosa": "anyone",
+        "id": "Mat.11.27#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "one"
+      },
+      {
+        "t": "ἐπιγινώσκει",
+        "lemma": "G1921",
+        "forma": "ἐπιγινώσκω",
+        "morph": "V-PAI-3S",
+        "glosa": "does know",
+        "id": "Mat.11.27#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "to come to know"
+      },
+      {
+        "t": "εἰ",
+        "lemma": "G1487H",
+        "forma": "εἰ",
+        "morph": "COND",
+        "glosa": "only",
+        "id": "Mat.11.27#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "if: not"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "except",
+        "id": "Mat.11.27#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "not"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.11.27#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "υἱὸς",
+        "lemma": "G5207",
+        "forma": "υἱός",
+        "morph": "N-NSM",
+        "glosa": "Son",
+        "id": "Mat.11.27#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "son"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.27#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "and"
+      },
+      {
+        "t": "ᾧ",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-DSM",
+        "glosa": "to whom",
+        "id": "Mat.11.27#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "which"
+      },
+      {
+        "t": "ἐὰν",
+        "lemma": "G1437",
+        "forma": "ἐάν",
+        "morph": "COND",
+        "glosa": "if",
+        "id": "Mat.11.27#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "if"
+      },
+      {
+        "t": "βούληται",
+        "lemma": "G1014",
+        "forma": "βούλομαι",
+        "morph": "V-PNS-3S",
+        "glosa": "shall choose",
+        "id": "Mat.11.27#29",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "to plan"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.11.27#30",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "υἱὸς",
+        "lemma": "G5207",
+        "forma": "υἱός",
+        "morph": "N-NSM",
+        "glosa": "Son",
+        "id": "Mat.11.27#31",
+        "jezyk": "grc",
+        "i": 30,
+        "leksykon": "son"
+      },
+      {
+        "t": "ἀποκαλύψαι",
+        "lemma": "G0601",
+        "forma": "ἀποκαλύπτω",
+        "morph": "V-AAN",
+        "glosa": "to reveal [Him].",
+        "id": "Mat.11.27#32",
+        "jezyk": "grc",
+        "i": 31,
+        "leksykon": "to reveal"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "rozbicie",
+      "bg": [
+        0,
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Πάντα oddane jako „Wszystkie rzeczy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "μοι oddane jako „mi”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        4
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "παρεδόθη, strona bierna, oddane jako „dane są”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὑπὸ oddane jako „od”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τοῦ πατρός oddane jako „Ojca”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "μου oddane jako „mego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "οὐδεὶς oddane jako „nikt nie”; „nie” jest zgodnością z „nikt”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἐπιγινώσκει oddane jako „zna”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "τὸν υἱὸν oddane jako „Syna”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "εἰ μὴ oddane jako „tylko”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "ὁ πατήρ oddane jako „Ojciec”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "οὐδὲ oddane jako „ani”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17,
+        18
+      ],
+      "uwaga": "τὸν πατέρα oddane jako „Ojca”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "τις oddane jako „kto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ἐπιγινώσκει oddane jako „zna”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        21,
+        22
+      ],
+      "uwaga": "εἰ μὴ oddane jako „tylko”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        23,
+        24
+      ],
+      "uwaga": "ὁ υἱὸς oddane jako „Syn”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        26,
+        27
+      ],
+      "uwaga": "ᾧ ἐὰν oddane jako „komuby”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        28
+      ],
+      "uwaga": "βούληται oddane jako „chciał”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        29,
+        30
+      ],
+      "uwaga": "ὁ υἱὸς oddane jako „Syn”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        31
+      ],
+      "uwaga": "ἀποκαλύψαι oddane jako „objawić”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token ma odpowiednik. εἰ μὴ schodzi się w „tylko”, οὐδεὶς w „nikt nie”, a παρεδόθη w „dane są”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὐδεὶς ἐπιγινώσκει τὸν υἱὸν εἰ μὴ ὁ πατήρ BG oddaje jako „nikt nie zna Syna, tylko Ojciec”. Drugie εἰ μὴ tak samo schodzi się w „tylko”.",
+      "tokeny_bg": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        19,
+        20
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Všecky věci dány jsou mi od Otce mého, a žádnýť nezná Syna, jediné Otec, aniž Otce kdo zná, jediné Syn, a komuž by chtěl Syn zjeviti.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

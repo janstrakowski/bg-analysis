@@ -1,0 +1,360 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.25",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 25
+  },
+  "tekst_bg": "A przystąpiwszy uczniowie jego, obudzili go, mówiąc: Panie! ratuj nas, giniemy.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "przystąpiwszy"
+    },
+    {
+      "i": 2,
+      "t": "uczniowie"
+    },
+    {
+      "i": 3,
+      "t": "jego"
+    },
+    {
+      "i": 4,
+      "t": "obudzili"
+    },
+    {
+      "i": 5,
+      "t": "go"
+    },
+    {
+      "i": 6,
+      "t": "mówiąc"
+    },
+    {
+      "i": 7,
+      "t": "Panie"
+    },
+    {
+      "i": 8,
+      "t": "ratuj"
+    },
+    {
+      "i": 9,
+      "t": "nas"
+    },
+    {
+      "i": 10,
+      "t": "giniemy"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.25",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.25",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.25#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "προσελθόντες",
+        "lemma": "G4334",
+        "forma": "προσέρχομαι",
+        "morph": "V-2AAP-NPM",
+        "glosa": "having come to [Him]",
+        "id": "Mat.8.25#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to come near/agree"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.8.25#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μαθηταὶ",
+        "lemma": "G3101",
+        "forma": "μαθητής",
+        "morph": "N-NPM",
+        "glosa": "disciples",
+        "id": "Mat.8.25#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "disciple"
+      },
+      {
+        "t": "αὐτου",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him",
+        "id": "Mat.8.25#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἤγειραν",
+        "lemma": "G1453",
+        "forma": "ἐγείρω",
+        "morph": "V-AAI-3P",
+        "glosa": "they awoke",
+        "id": "Mat.8.25#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to arise"
+      },
+      {
+        "t": "αὐτὸν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "Him",
+        "id": "Mat.8.25#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "λέγοντες",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NPM",
+        "glosa": "saying;",
+        "id": "Mat.8.25#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to say"
+      },
+      {
+        "t": "κύριε",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-VSM-T",
+        "glosa": "Lord,",
+        "id": "Mat.8.25#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "σῶσον",
+        "lemma": "G4982",
+        "forma": "σῴζω",
+        "morph": "V-AAM-2S",
+        "glosa": "do save",
+        "id": "Mat.8.25#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to save"
+      },
+      {
+        "t": "ἡμᾶς",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1AP",
+        "glosa": "us",
+        "id": "Mat.8.25#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "me"
+      },
+      {
+        "t": "ἀπολλύμεθα",
+        "lemma": "G0622",
+        "forma": "ἀπολλύω",
+        "morph": "V-PMI-1P",
+        "glosa": "we are perishing!",
+        "id": "Mat.8.25#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to destroy"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "προσελθόντες oddane jako „przystąpiwszy”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "οἱ μαθηταὶ oddane jako „uczniowie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτου oddane jako „jego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἤγειραν oddane jako „obudzili”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "αὐτὸν oddane jako „go”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "λέγοντες oddane jako „mówiąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "κύριε oddane jako „Panie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "σῶσον oddane jako „ratuj”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἡμᾶς oddane jako „nas”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἀπολλύμεθα, strona medialna, oddane jako „giniemy” bez osobnego „się”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajnik przy „uczniowie” jest wcielony w rzeczownik, a imiesłowy zostają imiesłowami.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "προσελθόντες οἱ μαθηταὶ αὐτου ἤγειραν αὐτὸν BG oddaje imiesłowem i orzeczeniem: „przystąpiwszy uczniowie jego, obudzili go”.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A přistoupivše učedlníci jeho, zbudili jej, řkouce: Pane, zachovej nás, hynemeť.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

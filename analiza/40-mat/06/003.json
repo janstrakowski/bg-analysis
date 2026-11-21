@@ -1,0 +1,415 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.3",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 3
+  },
+  "tekst_bg": "Ale ty gdy czynisz jałmużnę, niechaj nie wie lewica twoja, co czyni prawica twoja.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "ty"
+    },
+    {
+      "i": 2,
+      "t": "gdy"
+    },
+    {
+      "i": 3,
+      "t": "czynisz"
+    },
+    {
+      "i": 4,
+      "t": "jałmużnę"
+    },
+    {
+      "i": 5,
+      "t": "niechaj"
+    },
+    {
+      "i": 6,
+      "t": "nie"
+    },
+    {
+      "i": 7,
+      "t": "wie"
+    },
+    {
+      "i": 8,
+      "t": "lewica"
+    },
+    {
+      "i": 9,
+      "t": "twoja"
+    },
+    {
+      "i": 10,
+      "t": "co"
+    },
+    {
+      "i": 11,
+      "t": "czyni"
+    },
+    {
+      "i": 12,
+      "t": "prawica"
+    },
+    {
+      "i": 13,
+      "t": "twoja"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.3",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.3",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "σοῦ",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "You",
+        "id": "Mat.6.3#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "you"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.6.3#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ποιοῦντος",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAP-GSM",
+        "glosa": "doing",
+        "id": "Mat.6.3#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "ἐλεημοσύνην",
+        "lemma": "G1654",
+        "forma": "ἐλεημοσύνη",
+        "morph": "N-ASF",
+        "glosa": "charity",
+        "id": "Mat.6.3#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "charity"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.6.3#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "not"
+      },
+      {
+        "t": "γνώτω",
+        "lemma": "G1097",
+        "forma": "γινώσκω",
+        "morph": "V-2AAM-3S",
+        "glosa": "should know",
+        "id": "Mat.6.3#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to know"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.6.3#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀριστερά",
+        "lemma": "G0710",
+        "forma": "ἀριστερός",
+        "morph": "A-NSF",
+        "glosa": "left [hand]",
+        "id": "Mat.6.3#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "left"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.6.3#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "you"
+      },
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-ASN",
+        "glosa": "what",
+        "id": "Mat.6.3#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "which?"
+      },
+      {
+        "t": "ποιεῖ",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAI-3S",
+        "glosa": "is doing",
+        "id": "Mat.6.3#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.6.3#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δεξιά",
+        "lemma": "G1188",
+        "forma": "δεξιός",
+        "morph": "A-NSF",
+        "glosa": "right [hand]",
+        "id": "Mat.6.3#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "right"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.6.3#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po σοῦ, a BG wynosi je na początek jako „Ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "σοῦ z imiesłowu w dopełniaczu oddane mianownikiem „ty”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "Imiesłów ποιοῦντος BG rozbija na zdanie „gdy czynisz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἐλεημοσύνην oddane jako „jałmużnę”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "γνώτω, rozkazujący 3. osoby, oddane jako „niechaj ... wie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "ἡ ἀριστερά, przymiotnik „left”, oddane jako „lewica”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "σου oddane jako „twoja”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "τί oddane jako „co”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ποιεῖ oddane jako „czyni”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "ἡ δεξιά, przymiotnik „right”, oddane jako „prawica”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "Drugie σου oddane jako „twoja”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Nic nie dodano i nic nie opuszczono. Imiesłów dopełniaczowy σοῦ ποιοῦντος BG rozbija na zdanie „ty gdy czynisz”, a rozkazujący γνώτω na „niechaj wie”. Lewa ręka nadal nie ma wiedzieć, co czyni prawa.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "σοῦ ποιοῦντος to imiesłów w dopełniaczu, bez spójnika „gdy”. BG rozbija go na „ty gdy czynisz”.",
+      "tokeny_bg": [
+        1,
+        2,
+        3
+      ],
+      "tokeny_zrodla": [
+        0,
+        2
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἡ ἀριστερά i ἡ δεξιά są przymiotnikami „left” i „right”, bez rzeczownika χείρ. BG ma „lewica” i „prawica”.",
+      "tokeny_bg": [
+        8,
+        12
+      ],
+      "tokeny_zrodla": [
+        6,
+        7,
+        11,
+        12
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ale ty když dáváš almužnu, tak čiň, ať neví levice tvá, co činí pravice tvá,",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

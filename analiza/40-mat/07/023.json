@@ -1,0 +1,438 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.23",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 23
+  },
+  "tekst_bg": "A tedy im wyznam: Żem was nigdy nie znał; odstąpcie ode mnie, którzy czynicie nieprawość.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "tedy"
+    },
+    {
+      "i": 2,
+      "t": "im"
+    },
+    {
+      "i": 3,
+      "t": "wyznam"
+    },
+    {
+      "i": 4,
+      "t": "Żem"
+    },
+    {
+      "i": 5,
+      "t": "was"
+    },
+    {
+      "i": 6,
+      "t": "nigdy"
+    },
+    {
+      "i": 7,
+      "t": "nie"
+    },
+    {
+      "i": 8,
+      "t": "znał"
+    },
+    {
+      "i": 9,
+      "t": "odstąpcie"
+    },
+    {
+      "i": 10,
+      "t": "ode"
+    },
+    {
+      "i": 11,
+      "t": "mnie"
+    },
+    {
+      "i": 12,
+      "t": "którzy"
+    },
+    {
+      "i": 13,
+      "t": "czynicie"
+    },
+    {
+      "i": 14,
+      "t": "nieprawość"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.23",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.23",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.7.23#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "then",
+        "id": "Mat.7.23#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ὁμολογήσω",
+        "lemma": "G3670",
+        "forma": "ὁμολογέω",
+        "morph": "V-FAI-1S",
+        "glosa": "I will declare",
+        "id": "Mat.7.23#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to confess/profess"
+      },
+      {
+        "t": "αὐτοῖς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DPM",
+        "glosa": "to them",
+        "id": "Mat.7.23#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.7.23#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "οὐδέποτε",
+        "lemma": "G3763",
+        "forma": "οὐδέποτε",
+        "morph": "ADV-N",
+        "glosa": "Never",
+        "id": "Mat.7.23#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "never"
+      },
+      {
+        "t": "ἔγνων",
+        "lemma": "G1097",
+        "forma": "γινώσκω",
+        "morph": "V-2AAI-1S",
+        "glosa": "knew I",
+        "id": "Mat.7.23#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to know"
+      },
+      {
+        "t": "ὑμᾶς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2AP",
+        "glosa": "you;",
+        "id": "Mat.7.23#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἀποχωρεῖτε",
+        "lemma": "G0672",
+        "forma": "ἀποχωρέω",
+        "morph": "V-PAM-2P",
+        "glosa": "do depart",
+        "id": "Mat.7.23#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to leave"
+      },
+      {
+        "t": "ἀπ᾽",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.7.23#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "away from"
+      },
+      {
+        "t": "ἐμοῦ",
+        "lemma": "G1473",
+        "forma": "ἐγώ",
+        "morph": "S-1SGSN",
+        "glosa": "Me",
+        "id": "Mat.7.23#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-VPM",
+        "glosa": "you who [are]",
+        "id": "Mat.7.23#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐργαζόμενοι",
+        "lemma": "G2038",
+        "forma": "ἐργάζομαι",
+        "morph": "V-PNP-VPM",
+        "glosa": "working",
+        "id": "Mat.7.23#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to work"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "<the>",
+        "id": "Mat.7.23#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀνομίαν",
+        "lemma": "G0458",
+        "forma": "ἀνομία",
+        "morph": "N-ASF",
+        "glosa": "lawlessness.",
+        "id": "Mat.7.23#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "lawlessness"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "τότε oddane jako „tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "αὐτοῖς oddane jako „im”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὁμολογήσω oddane jako „wyznam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ὅτι oddane jako „Żem”; końcówka „-em” niesie 1. os. z ἔγνων."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ὑμᾶς oddane jako „was”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "οὐδέποτε oddane jako „nigdy nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἔγνων oddane jako „znał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἀποχωρεῖτε oddane jako „odstąpcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἀπ᾽ oddane jako „ode”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἐμοῦ oddane jako „mnie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "οἱ, glosa „you who”, oddane jako „którzy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἐργαζόμενοι, imiesłów, oddane jako „czynicie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τὴν ἀνομίαν oddane jako „nieprawość”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Wyznanie, „nigdy” i odejście są pokryte. οὐδέποτε rozbite na „nigdy nie”, rodzajnik wcielony w „nieprawość”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὅτι οὐδέποτε ἔγνων ὑμᾶς BG oddaje jako „Żem was nigdy nie znał”. οὐδέποτε nie ma drugiego partykuły poza tym przeczeniem.",
+      "tokeny_bg": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tokeny_zrodla": [
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A tehdyť jim vyznám, že jsem vás nikdy neznal. Odejděte ode mne, činitelé nepravosti.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

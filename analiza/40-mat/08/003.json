@@ -1,0 +1,469 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.3",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 3
+  },
+  "tekst_bg": "I wyciągnąwszy Jezus rękę, dotknął się go, mówiąc: Chcę, bądź oczyszczony; i zaraz oczyszczony jest trąd jego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "wyciągnąwszy"
+    },
+    {
+      "i": 2,
+      "t": "Jezus"
+    },
+    {
+      "i": 3,
+      "t": "rękę"
+    },
+    {
+      "i": 4,
+      "t": "dotknął"
+    },
+    {
+      "i": 5,
+      "t": "się"
+    },
+    {
+      "i": 6,
+      "t": "go"
+    },
+    {
+      "i": 7,
+      "t": "mówiąc"
+    },
+    {
+      "i": 8,
+      "t": "Chcę"
+    },
+    {
+      "i": 9,
+      "t": "bądź"
+    },
+    {
+      "i": 10,
+      "t": "oczyszczony"
+    },
+    {
+      "i": 11,
+      "t": "i"
+    },
+    {
+      "i": 12,
+      "t": "zaraz"
+    },
+    {
+      "i": 13,
+      "t": "oczyszczony"
+    },
+    {
+      "i": 14,
+      "t": "jest"
+    },
+    {
+      "i": 15,
+      "t": "trąd"
+    },
+    {
+      "i": 16,
+      "t": "jego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.3",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.3",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.3#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐκτείνας",
+        "lemma": "G1614",
+        "forma": "ἐκτείνω",
+        "morph": "V-AAP-NSM",
+        "glosa": "having stretched out",
+        "id": "Mat.8.3#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to stretch out"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.8.3#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "χεῖρα",
+        "lemma": "G5495",
+        "forma": "χείρ",
+        "morph": "N-ASF",
+        "glosa": "hand",
+        "id": "Mat.8.3#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "hand"
+      },
+      {
+        "t": "ἥψατο",
+        "lemma": "G0681",
+        "forma": "ἅπτω",
+        "morph": "V-ADI-3S",
+        "glosa": "He touched",
+        "id": "Mat.8.3#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to touch"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him",
+        "id": "Mat.8.3#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.8.3#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.8.3#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "λέγων",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NSM",
+        "glosa": "saying;",
+        "id": "Mat.8.3#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to say"
+      },
+      {
+        "t": "θέλω",
+        "lemma": "G2309",
+        "forma": "θέλω",
+        "morph": "V-PAI-1S",
+        "glosa": "I am willing,",
+        "id": "Mat.8.3#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to will/desire"
+      },
+      {
+        "t": "καθαρίσθητι",
+        "lemma": "G2511",
+        "forma": "καθαρίζω",
+        "morph": "V-APM-2S",
+        "glosa": "do be cleansed.",
+        "id": "Mat.8.3#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to clean"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.3#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "and"
+      },
+      {
+        "t": "εὐθέως",
+        "lemma": "G2112",
+        "forma": "εὐθέως",
+        "morph": "ADV",
+        "glosa": "immediately",
+        "id": "Mat.8.3#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "immediately"
+      },
+      {
+        "t": "ἐκαθαρίσθη",
+        "lemma": "G2511",
+        "forma": "καθαρίζω",
+        "morph": "V-API-3S",
+        "glosa": "was cleansed",
+        "id": "Mat.8.3#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to clean"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "his",
+        "id": "Mat.8.3#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "<the>",
+        "id": "Mat.8.3#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λέπρα",
+        "lemma": "G3014",
+        "forma": "λέπρα",
+        "morph": "N-NSF",
+        "glosa": "leprosy.",
+        "id": "Mat.8.3#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "leprosy"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐκτείνας oddane imiesłowem „wyciągnąwszy”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”; rodzajnik nie ma osobnego słowa, a imię stoi wcześniej niż w grece."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "τὴν χεῖρα oddane jako „rękę”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἥψατο, aoryst strony medialnej deponens, oddane jako „dotknął się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "αὐτοῦ oddane jako „go”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "λέγων oddane jako „mówiąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "θέλω oddane jako „Chcę”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καθαρίσθητι, rozkaźnik bierny, oddane jako „bądź oczyszczony”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "εὐθέως oddane jako „zaraz”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        13,
+        14
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἐκαθαρίσθη, aoryst bierny, oddane jako „oczyszczony jest”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "ἡ λέπρα oddane jako „trąd”; BG stawia rzeczownik przed „jego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. „się” należy do strony medialnej ἥψατο, a „bądź oczyszczony” i „oczyszczony jest” rozbijają stronę bierną.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "καθαρίσθητι i ἐκαθαρίσθη są stroną bierną. BG oddaje je analitycznie: „bądź oczyszczony” i „oczyszczony jest”.",
+      "tokeny_bg": [
+        9,
+        10,
+        13,
+        14
+      ],
+      "tokeny_zrodla": [
+        10,
+        13
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I vztáh Ježíš ruku, dotekl se ho, řka: Chci, buď čist. A hned očištěno jest malomocenství jeho.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

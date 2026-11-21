@@ -1,0 +1,525 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.10",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 10
+  },
+  "tekst_bg": "Ani taistry na drogę, ani dwóch sukien, ani butów, ani laski; albowiem godzien jest robotnik żywności swojej.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ani"
+    },
+    {
+      "i": 1,
+      "t": "taistry"
+    },
+    {
+      "i": 2,
+      "t": "na"
+    },
+    {
+      "i": 3,
+      "t": "drogę"
+    },
+    {
+      "i": 4,
+      "t": "ani"
+    },
+    {
+      "i": 5,
+      "t": "dwóch"
+    },
+    {
+      "i": 6,
+      "t": "sukien"
+    },
+    {
+      "i": 7,
+      "t": "ani"
+    },
+    {
+      "i": 8,
+      "t": "butów"
+    },
+    {
+      "i": 9,
+      "t": "ani"
+    },
+    {
+      "i": 10,
+      "t": "laski"
+    },
+    {
+      "i": 11,
+      "t": "albowiem"
+    },
+    {
+      "i": 12,
+      "t": "godzien"
+    },
+    {
+      "i": 13,
+      "t": "jest"
+    },
+    {
+      "i": 14,
+      "t": "robotnik"
+    },
+    {
+      "i": 15,
+      "t": "żywności"
+    },
+    {
+      "i": 16,
+      "t": "swojej"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.10",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.10",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "nor",
+        "id": "Mat.10.10#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "not"
+      },
+      {
+        "t": "πήραν",
+        "lemma": "G4082",
+        "forma": "πήρα",
+        "morph": "N-ASF",
+        "glosa": "provision-bag",
+        "id": "Mat.10.10#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "bag"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "for",
+        "id": "Mat.10.10#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "toward"
+      },
+      {
+        "t": "ὁδὸν",
+        "lemma": "G3598",
+        "forma": "ὁδός",
+        "morph": "N-ASF",
+        "glosa": "[the] way",
+        "id": "Mat.10.10#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "road"
+      },
+      {
+        "t": "μηδὲ",
+        "lemma": "G3366",
+        "forma": "μηδέ",
+        "morph": "CONJ-N",
+        "glosa": "nor [take]",
+        "id": "Mat.10.10#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "nor"
+      },
+      {
+        "t": "δύο",
+        "lemma": "G1417",
+        "forma": "δύο",
+        "morph": "A-NUI",
+        "glosa": "two",
+        "id": "Mat.10.10#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "two"
+      },
+      {
+        "t": "χιτῶνας",
+        "lemma": "G5509",
+        "forma": "χιτών",
+        "morph": "N-APM",
+        "glosa": "tunics",
+        "id": "Mat.10.10#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "tunic"
+      },
+      {
+        "t": "μηδὲ",
+        "lemma": "G3366",
+        "forma": "μηδέ",
+        "morph": "CONJ-N",
+        "glosa": "nor",
+        "id": "Mat.10.10#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "nor"
+      },
+      {
+        "t": "ὑποδήματα",
+        "lemma": "G5266",
+        "forma": "ὑπόδημα",
+        "morph": "N-APN",
+        "glosa": "sandals",
+        "id": "Mat.10.10#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "sandal"
+      },
+      {
+        "t": "μηδὲ",
+        "lemma": "G3366",
+        "forma": "μηδέ",
+        "morph": "CONJ-N",
+        "glosa": "nor",
+        "id": "Mat.10.10#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "nor"
+      },
+      {
+        "t": "ῥάβδον",
+        "lemma": "G4464",
+        "forma": "ῥάβδος",
+        "morph": "N-ASF",
+        "glosa": "a staff;",
+        "id": "Mat.10.10#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "rod"
+      },
+      {
+        "t": "ἄξιος",
+        "lemma": "G0514",
+        "forma": "ἄξιος",
+        "morph": "A-NSM",
+        "glosa": "worthy [is]",
+        "id": "Mat.10.10#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "worthy"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.10.10#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "for"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.10.10#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐργάτης",
+        "lemma": "G2040",
+        "forma": "ἐργάτης",
+        "morph": "N-NSM",
+        "glosa": "workman",
+        "id": "Mat.10.10#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "worker"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "of the",
+        "id": "Mat.10.10#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "τροφῆς",
+        "lemma": "G5160",
+        "forma": "τροφή",
+        "morph": "N-GSF",
+        "glosa": "provisions",
+        "id": "Mat.10.10#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "food"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him",
+        "id": "Mat.10.10#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is.",
+        "id": "Mat.10.10#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to be"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "μὴ oddane jako „Ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "πήραν oddane jako „taistry”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "εἰς oddane jako „na”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὁδὸν oddane jako „drogę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "μηδὲ oddane jako „ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "δύο oddane jako „dwóch”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "χιτῶνας oddane jako „sukien”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "μηδὲ oddane jako „ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ὑποδήματα oddane jako „butów”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "μηδὲ oddane jako „ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ῥάβδον oddane jako „laski”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "γὰρ stoi po ἄξιος, a BG wynosi je przed orzeczenie jako „albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἄξιος oddane jako „godzien”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ἐστιν stoi na końcu zdania, a BG stawia „jest” zaraz po „godzien”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "ὁ ἐργάτης oddane jako „robotnik”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "τῆς τροφῆς oddane jako „żywności”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "αὐτοῦ oddane jako „swojej”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Zakaz taistry, dwóch sukien, butów i laski oraz zdanie o robotniku są pokryte. Rodzajniki wchodzą w „robotnik” i „żywności”, a γάρ jest wyniesione na „albowiem”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἄξιος γὰρ ὁ ἐργάτης τῆς τροφῆς αὐτοῦ ἐστιν BG oddaje jako „albowiem godzien jest robotnik żywności swojej”, z γάρ i ἐστιν przestawionymi wobec greckiego szyku.",
+      "tokeny_bg": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "tokeny_zrodla": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ani mošny na cestě, ani dvou sukní, ani obuvi, ani hůlky; hodenť jest zajisté dělník pokrmu svého.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.2.9",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 2,
+    "werset": 9
+  },
+  "tekst_bg": "Oni tedy, wysłuchawszy króla, poszli; a oto ona gwiazda, którą widzieli na wschód słońca, prowadziła je, aż przyszedłszy, stanęła nad miejscem, gdzie było dzieciątko;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Oni"
+    },
+    {
+      "i": 1,
+      "t": "tedy"
+    },
+    {
+      "i": 2,
+      "t": "wysłuchawszy"
+    },
+    {
+      "i": 3,
+      "t": "króla"
+    },
+    {
+      "i": 4,
+      "t": "poszli"
+    },
+    {
+      "i": 5,
+      "t": "a"
+    },
+    {
+      "i": 6,
+      "t": "oto"
+    },
+    {
+      "i": 7,
+      "t": "ona"
+    },
+    {
+      "i": 8,
+      "t": "gwiazda"
+    },
+    {
+      "i": 9,
+      "t": "którą"
+    },
+    {
+      "i": 10,
+      "t": "widzieli"
+    },
+    {
+      "i": 11,
+      "t": "na"
+    },
+    {
+      "i": 12,
+      "t": "wschód"
+    },
+    {
+      "i": 13,
+      "t": "słońca"
+    },
+    {
+      "i": 14,
+      "t": "prowadziła"
+    },
+    {
+      "i": 15,
+      "t": "je"
+    },
+    {
+      "i": 16,
+      "t": "aż"
+    },
+    {
+      "i": 17,
+      "t": "przyszedłszy"
+    },
+    {
+      "i": 18,
+      "t": "stanęła"
+    },
+    {
+      "i": 19,
+      "t": "nad"
+    },
+    {
+      "i": 20,
+      "t": "miejscem"
+    },
+    {
+      "i": 21,
+      "t": "gdzie"
+    },
+    {
+      "i": 22,
+      "t": "było"
+    },
+    {
+      "i": 23,
+      "t": "dzieciątko"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.2.9",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.2.9",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "<the>",
+        "id": "Mat.2.9#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.2.9#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἀκούσαντες",
+        "lemma": "G0191",
+        "forma": "ἀκούω",
+        "morph": "V-AAP-NPM",
+        "glosa": "having heard",
+        "id": "Mat.2.9#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to hear"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.2.9#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βασιλέως",
+        "lemma": "G0935",
+        "forma": "βασιλεύς",
+        "morph": "N-GSM",
+        "glosa": "king",
+        "id": "Mat.2.9#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "king"
+      },
+      {
+        "t": "ἐπορεύθησαν",
+        "lemma": "G4198",
+        "forma": "πορεύω",
+        "morph": "V-AOI-3P",
+        "glosa": "they went away.",
+        "id": "Mat.2.9#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to travel"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.2.9#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "behold",
+        "id": "Mat.2.9#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "look!"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.2.9#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀστὴρ",
+        "lemma": "G0792",
+        "forma": "ἀστήρ",
+        "morph": "N-NSM",
+        "glosa": "star",
+        "id": "Mat.2.9#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "star"
+      },
+      {
+        "t": "ὃν",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-ASM",
+        "glosa": "which",
+        "id": "Mat.2.9#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "which"
+      },
+      {
+        "t": "εἶδον",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAI-3P",
+        "glosa": "they saw",
+        "id": "Mat.2.9#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.2.9#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.2.9#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀνατολῇ",
+        "lemma": "G0395",
+        "forma": "ἀνατολή",
+        "morph": "N-DSF",
+        "glosa": "east",
+        "id": "Mat.2.9#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "east"
+      },
+      {
+        "t": "προῆγεν",
+        "lemma": "G4254",
+        "forma": "προάγω",
+        "morph": "V-IAI-3S",
+        "glosa": "was going before",
+        "id": "Mat.2.9#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to go/bring before"
+      },
+      {
+        "t": "αὐτοὺς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-APM",
+        "glosa": "them",
+        "id": "Mat.2.9#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἕως",
+        "lemma": "G2193",
+        "forma": "ἕως",
+        "morph": "PREP",
+        "glosa": "until",
+        "id": "Mat.2.9#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "until"
+      },
+      {
+        "t": "ἐλθὼν",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having arrived",
+        "id": "Mat.2.9#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "ἔστη",
+        "lemma": "G2476",
+        "forma": "ἔστη",
+        "morph": "V-2AAI-3S",
+        "glosa": "it stood",
+        "id": "Mat.2.9#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "to stand"
+      },
+      {
+        "t": "ἐπάνω",
+        "lemma": "G1883",
+        "forma": "ἐπάνω",
+        "morph": "PREP",
+        "glosa": "over",
+        "id": "Mat.2.9#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "above"
+      },
+      {
+        "t": "οὗ",
+        "lemma": "G3757",
+        "forma": "οὗ",
+        "morph": "ADV",
+        "glosa": "where",
+        "id": "Mat.2.9#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "whither"
+      },
+      {
+        "t": "ἦν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-IAI-3S",
+        "glosa": "was",
+        "id": "Mat.2.9#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "to be"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "the",
+        "id": "Mat.2.9#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "παιδίον",
+        "lemma": "G3813",
+        "forma": "παιδίον",
+        "morph": "N-NSN",
+        "glosa": "Child.",
+        "id": "Mat.2.9#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "child"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Οἱ, rodzajnik użyty rzeczownikowo, oddane jako „Oni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ oddane jako „tedy” na drugim miejscu, tak jak w grece."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἀκούσαντες oddane jako „wysłuchawszy”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τοῦ βασιλέως oddane jako „króla”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἐπορεύθησαν oddane jako „poszli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "καί oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἰδοὺ oddane jako „oto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ὁ, rodzajnik przy ἀστήρ, oddane jako „ona”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἀστήρ oddane jako „gwiazda”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ὃν oddane jako „którą”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "εἶδον oddane jako „widzieli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἐν oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τῇ ἀνατολῇ oddane jako „wschód”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [],
+      "uwaga": "„słońca” jest kursywą w 1632. Przy ἀνατολῇ nie ma rzeczownika ἥλιος."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "προῆγεν, „was going before”, oddane jako „prowadziła”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "αὐτοὺς oddane jako „je”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἕως oddane jako „aż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ἐλθὼν oddane jako „przyszedłszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "ἔστη oddane jako „stanęła”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ἐπάνω oddane jako „nad”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        20
+      ],
+      "zrodlo": [],
+      "uwaga": "„miejscem” jest kursywą w 1632. W grece nie ma rzeczownika τόπος, tylko ἐπάνω οὗ ἦν τὸ παιδίον."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "οὗ oddane jako „gdzie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "ἦν oddane jako „było”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        23,
+        24
+      ],
+      "uwaga": "τὸ παιδίον oddane jako „dzieciątko”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. Kursywa dopowiada „słońca” przy ἀνατολῇ i „miejscem” przy ἐπάνω οὗ ἦν τὸ παιδίον. Sens drogi gwiazdy zostaje ten sam.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "„słońca” i „miejscem” są kursywą 1632. Greka ma ἀνατολῇ oraz ἐπάνω οὗ ἦν τὸ παιδίον, bez ἥλιος i bez τόπος.",
+      "tokeny_bg": [
+        12,
+        13,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "tokeny_zrodla": [
+        13,
+        14,
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Oni pak vyslyševše krále, jeli. A aj, hvězda, kterouž byli viděli na východu slunce, předcházela je, až i přišedši, stála nad domem, kdež bylo dítě.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

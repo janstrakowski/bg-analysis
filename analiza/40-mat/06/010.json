@@ -1,0 +1,425 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.10",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 10
+  },
+  "tekst_bg": "Przyjdź królestwo twoje; bądź wola twoja jako w niebie, tak i na ziemi.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Przyjdź"
+    },
+    {
+      "i": 1,
+      "t": "królestwo"
+    },
+    {
+      "i": 2,
+      "t": "twoje"
+    },
+    {
+      "i": 3,
+      "t": "bądź"
+    },
+    {
+      "i": 4,
+      "t": "wola"
+    },
+    {
+      "i": 5,
+      "t": "twoja"
+    },
+    {
+      "i": 6,
+      "t": "jako"
+    },
+    {
+      "i": 7,
+      "t": "w"
+    },
+    {
+      "i": 8,
+      "t": "niebie"
+    },
+    {
+      "i": 9,
+      "t": "tak"
+    },
+    {
+      "i": 10,
+      "t": "i"
+    },
+    {
+      "i": 11,
+      "t": "na"
+    },
+    {
+      "i": 12,
+      "t": "ziemi"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.10",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.10",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἐλθέτω",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAM-3S",
+        "glosa": "should come",
+        "id": "Mat.6.10#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.6.10#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βασιλεία",
+        "lemma": "G0932",
+        "forma": "βασιλεία",
+        "morph": "N-NSF",
+        "glosa": "kingdom",
+        "id": "Mat.6.10#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "kingdom"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of You;",
+        "id": "Mat.6.10#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "you"
+      },
+      {
+        "t": "γενηθήτω",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-AOM-3S",
+        "glosa": "should be [done]",
+        "id": "Mat.6.10#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to be"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "the",
+        "id": "Mat.6.10#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θέλημά",
+        "lemma": "G2307",
+        "forma": "θέλημα",
+        "morph": "N-NSN",
+        "glosa": "will",
+        "id": "Mat.6.10#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "will/desire"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of You,",
+        "id": "Mat.6.10#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὡς",
+        "lemma": "G5613",
+        "forma": "ὡς",
+        "morph": "PRT",
+        "glosa": "as",
+        "id": "Mat.6.10#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "as/when"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.6.10#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "οὐρανῷ",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-DSM",
+        "glosa": "heaven",
+        "id": "Mat.6.10#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "heaven"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "[so] also",
+        "id": "Mat.6.10#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "upon",
+        "id": "Mat.6.10#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "the",
+        "id": "Mat.6.10#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γῆς",
+        "lemma": "G1093G",
+        "forma": "γῆ",
+        "morph": "N-GSF",
+        "glosa": "earth;",
+        "id": "Mat.6.10#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "earth: planet"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἐλθέτω oddane jako „Przyjdź”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1,
+        2
+      ],
+      "uwaga": "ἡ βασιλεία oddane jako „królestwo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "σου oddane jako „twoje”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "γενηθήτω, „should be”, oddane jako „bądź”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τὸ θέλημά oddane jako „wola”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "σου oddane jako „twoja”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ὡς oddane jako „jako”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "οὐρανῷ, liczba pojedyncza bez rodzajnika, oddane jako „niebie”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [],
+      "uwaga": "„tak” nie ma w grece osobnego słowa. ὡς ... καὶ nie zawiera οὕτως.",
+      "uzasadnienie": "Korelacja ὡς … καὶ nie ma przysłówka „tak”. BG dopowiada go w parze „jako … tak i”; „i” oddaje καὶ."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "καὶ, „also”, oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἐπὶ oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τῆς γῆς oddane jako „ziemi”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „tak” dopowiada polską korelację „jako … tak i”, której TR nie stawia osobnym przysłówkiem. Prośba o królestwo i wolę zostaje ta sama.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὡς ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς nie ma οὕτως. BG dopowiada „tak” między „jako w niebie” a „i na ziemi”.",
+      "tokeny_bg": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Přijď království tvé. Buď vůle tvá jako v nebi tak i na zemi.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.26",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 26
+  },
+  "tekst_bg": "I rozeszła się ta wieść po wszystkiej ziemi.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "rozeszła"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "ta"
+    },
+    {
+      "i": 4,
+      "t": "wieść"
+    },
+    {
+      "i": 5,
+      "t": "po"
+    },
+    {
+      "i": 6,
+      "t": "wszystkiej"
+    },
+    {
+      "i": 7,
+      "t": "ziemi"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.26",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.26",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.26#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐξῆλθεν",
+        "lemma": "G1831",
+        "forma": "ἐξέρχομαι",
+        "morph": "V-2AAI-3S",
+        "glosa": "went out",
+        "id": "Mat.9.26#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to go out"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "<the>",
+        "id": "Mat.9.26#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "φήμη",
+        "lemma": "G5345",
+        "forma": "φήμη",
+        "morph": "N-NSF",
+        "glosa": "report",
+        "id": "Mat.9.26#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "news"
+      },
+      {
+        "t": "αὕτη",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-NSF",
+        "glosa": "this",
+        "id": "Mat.9.26#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.9.26#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "toward"
+      },
+      {
+        "t": "ὅλην",
+        "lemma": "G3650",
+        "forma": "ὅλος",
+        "morph": "A-ASF",
+        "glosa": "all",
+        "id": "Mat.9.26#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "all"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.9.26#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γῆν",
+        "lemma": "G1093H",
+        "forma": "γῆ",
+        "morph": "N-ASF",
+        "glosa": "land",
+        "id": "Mat.9.26#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "earth: country"
+      },
+      {
+        "t": "ἐκείνην",
+        "lemma": "G1565",
+        "forma": "ἐκεῖνος",
+        "morph": "D-ASF",
+        "glosa": "that.",
+        "id": "Mat.9.26#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "that"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐξῆλθεν „wyszła” oddane zwrotnym „rozeszła się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὕτη oddane jako „ta”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ἡ φήμη oddane jako „wieść”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "εἰς przy całej ziemi oddane jako „po”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὅλην oddane jako „wszystkiej”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τὴν γῆν oddane jako „ziemi”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἐκείνην „tamtą” przy γῆν nie ma słowa w polskim tekście."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "ἐκείνην przy γῆν nie ma odpowiednika. BG mówi „po wszystkiej ziemi”, bez „onej”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      9
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "εἰς ὅλην τὴν γῆν ἐκείνην ma zaimek ἐκείνην „tamtą”. BG oddaje tylko „po wszystkiej ziemi”.",
+      "tokeny_bg": [
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐξῆλθεν, strona czynna „wyszła”, BG oddaje zwrotnym „rozeszła się”.",
+      "tokeny_bg": [
+        1,
+        2
+      ],
+      "tokeny_zrodla": [
+        1
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A roznesla se pověst ta po vší té zemi.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

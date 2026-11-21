@@ -1,0 +1,316 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.7",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 7
+  },
+  "tekst_bg": "A idąc każcie, mówiąc: Przybliżyło się królestwo niebieskie.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "idąc"
+    },
+    {
+      "i": 2,
+      "t": "każcie"
+    },
+    {
+      "i": 3,
+      "t": "mówiąc"
+    },
+    {
+      "i": 4,
+      "t": "Przybliżyło"
+    },
+    {
+      "i": 5,
+      "t": "się"
+    },
+    {
+      "i": 6,
+      "t": "królestwo"
+    },
+    {
+      "i": 7,
+      "t": "niebieskie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.7",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.7",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Πορευόμενοι",
+        "lemma": "G4198",
+        "forma": "πορεύω",
+        "morph": "V-PNP-NPM",
+        "glosa": "Going on",
+        "id": "Mat.10.7#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to travel"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "also",
+        "id": "Mat.10.7#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "κηρύσσετε",
+        "lemma": "G2784",
+        "forma": "κηρύσσω",
+        "morph": "V-PAM-2P",
+        "glosa": "do proclaim",
+        "id": "Mat.10.7#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to preach"
+      },
+      {
+        "t": "λέγοντες",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NPM",
+        "glosa": "saying",
+        "id": "Mat.10.7#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.10.7#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "ἤγγικεν",
+        "lemma": "G1448",
+        "forma": "ἐγγίζω",
+        "morph": "V-RAI-3S",
+        "glosa": "Has drawn near",
+        "id": "Mat.10.7#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to come near"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.10.7#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βασιλεία",
+        "lemma": "G0932",
+        "forma": "βασιλεία",
+        "morph": "N-NSF",
+        "glosa": "kingdom",
+        "id": "Mat.10.7#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "kingdom"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.10.7#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανῶν",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-GPM",
+        "glosa": "heavens.",
+        "id": "Mat.10.7#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "heaven"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po imiesłowie, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Πορευόμενοι oddane jako „idąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "κηρύσσετε oddane jako „każcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "λέγοντες oddane jako „mówiąc”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ὅτι, spójnik „że”, nie ma osobnego słowa polskiego."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἤγγικεν oddane jako „Przybliżyło się”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "ἡ βασιλεία oddane jako „królestwo”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τῶν οὐρανῶν oddane przymiotnikiem „niebieskie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Po λέγοντες stoi ὅτι, a BG przechodzi od „mówiąc” do mowy wprost bez słowa „że”. Reszta zdania, łącznie z „Przybliżyło się królestwo niebieskie”, jest pokryta.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      4
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "λέγοντες ὅτι ἤγγικεν ἡ βασιλεία τῶν οὐρανῶν ma spójnik ὅτι. BG daje „mówiąc: Przybliżyło się królestwo niebieskie” i ὅτι nie ma odpowiednika.",
+      "tokeny_bg": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἤγγικεν BG rozbija na „Przybliżyło się”, a τῶν οὐρανῶν schodzi się w przymiotnik „niebieskie”.",
+      "tokeny_bg": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Jdouce pak, kažte, řkouce: Že se přiblížilo království nebeské.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.29",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 29
+  },
+  "tekst_bg": "A oto zakrzyknęli, mówiąc: Cóż my z tobą mamy, Jezusie, Synu Boży? Przyszedłeś tu przed czasem, dręczyć nas?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "oto"
+    },
+    {
+      "i": 2,
+      "t": "zakrzyknęli"
+    },
+    {
+      "i": 3,
+      "t": "mówiąc"
+    },
+    {
+      "i": 4,
+      "t": "Cóż"
+    },
+    {
+      "i": 5,
+      "t": "my"
+    },
+    {
+      "i": 6,
+      "t": "z"
+    },
+    {
+      "i": 7,
+      "t": "tobą"
+    },
+    {
+      "i": 8,
+      "t": "mamy"
+    },
+    {
+      "i": 9,
+      "t": "Jezusie"
+    },
+    {
+      "i": 10,
+      "t": "Synu"
+    },
+    {
+      "i": 11,
+      "t": "Boży"
+    },
+    {
+      "i": 12,
+      "t": "Przyszedłeś"
+    },
+    {
+      "i": 13,
+      "t": "tu"
+    },
+    {
+      "i": 14,
+      "t": "przed"
+    },
+    {
+      "i": 15,
+      "t": "czasem"
+    },
+    {
+      "i": 16,
+      "t": "dręczyć"
+    },
+    {
+      "i": 17,
+      "t": "nas"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.29",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.29",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.29#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "behold",
+        "id": "Mat.8.29#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "look!"
+      },
+      {
+        "t": "ἔκραξαν",
+        "lemma": "G2896",
+        "forma": "κράζω",
+        "morph": "V-AAI-3P",
+        "glosa": "they cried out",
+        "id": "Mat.8.29#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to cry"
+      },
+      {
+        "t": "λέγοντες",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NPM",
+        "glosa": "saying;",
+        "id": "Mat.8.29#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to say"
+      },
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-NSN",
+        "glosa": "What",
+        "id": "Mat.8.29#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "which?"
+      },
+      {
+        "t": "ἡμῖν",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1DP",
+        "glosa": "to us",
+        "id": "Mat.8.29#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "me"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.29#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "and"
+      },
+      {
+        "t": "σοί",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DS",
+        "glosa": "to you",
+        "id": "Mat.8.29#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "you"
+      },
+      {
+        "t": "Ἰησοῦ",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-VSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.8.29#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "υἱὲ",
+        "lemma": "G5207",
+        "forma": "υἱός",
+        "morph": "N-VSM",
+        "glosa": "Son",
+        "id": "Mat.8.29#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "son"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "<the>",
+        "id": "Mat.8.29#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θεοῦ;",
+        "lemma": "G2316",
+        "forma": "θεός",
+        "morph": "N-GSM-T",
+        "glosa": "of God?",
+        "id": "Mat.8.29#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "God"
+      },
+      {
+        "t": "ἦλθες",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAI-2S",
+        "glosa": "Are You come",
+        "id": "Mat.8.29#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "ὧδε",
+        "lemma": "G5602",
+        "forma": "ὧδε",
+        "morph": "ADV",
+        "glosa": "here",
+        "id": "Mat.8.29#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "here"
+      },
+      {
+        "t": "πρὸ",
+        "lemma": "G4253",
+        "forma": "πρό",
+        "morph": "PREP",
+        "glosa": "before [the]",
+        "id": "Mat.8.29#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "before"
+      },
+      {
+        "t": "καιροῦ",
+        "lemma": "G2540",
+        "forma": "καιρός",
+        "morph": "N-GSM",
+        "glosa": "time",
+        "id": "Mat.8.29#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "time/right time"
+      },
+      {
+        "t": "βασανίσαι",
+        "lemma": "G0928G",
+        "forma": "βασανίζω",
+        "morph": "V-AAN",
+        "glosa": "to torment",
+        "id": "Mat.8.29#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to torture: torture"
+      },
+      {
+        "t": "ἡμᾶς;",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1AP",
+        "glosa": "us?",
+        "id": "Mat.8.29#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "me"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἰδοὺ oddane jako „oto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἔκραξαν oddane jako „zakrzyknęli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "λέγοντες oddane jako „mówiąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "τί oddane jako „Cóż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἡμῖν, celownik, oddane mianownikiem „my” przy dodanym „mamy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "καὶ w zwrocie τί ἡμῖν καὶ σοί oddane jako „z”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "σοί, celownik, oddane jako „tobą” po „z”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [],
+      "uwaga": "„mamy” jest orzeczeniem, którego nie ma w τί ἡμῖν καὶ σοί.",
+      "uzasadnienie": "Zwrot τί ἡμῖν καὶ σοί nie ma czasownika. „mamy” dopowiada polskie orzeczenie tego pytania, bez nowej osoby."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Ἰησοῦ, wołacz, oddane jako „Jezusie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "υἱὲ oddane jako „Synu”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "τοῦ θεοῦ oddane przymiotnikiem „Boży”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἦλθες oddane jako „Przyszedłeś”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ὧδε oddane jako „tu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "πρὸ oddane jako „przed”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "καιροῦ oddane jako „czasem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "βασανίσαι oddane jako „dręczyć”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἡμᾶς oddane jako „nas”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „mamy” dopowiada orzeczenie zwrotu τί ἡμῖν καὶ σοί, który w TR nie ma czasownika.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τί ἡμῖν καὶ σοί nie zawiera czasownika. BG rozwija ten zwrot w „Cóż my z tobą mamy”, dodając „mamy”.",
+      "tokeny_bg": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tokeny_zrodla": [
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A aj, zkřikli, řkouce: Co je nám po tobě, Ježíši, Synu Boží? Přišel jsi sem před časem trápiti nás.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

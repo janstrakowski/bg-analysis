@@ -1,0 +1,712 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.1",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 1
+  },
+  "tekst_bg": "Strzeżcie się, abyście jałmużny waszej nie czynili przed ludźmi dlatego, abyście byli widziani od nich; inaczej nie będziecie mieli zapłaty u Ojca waszego, który jest w niebiesiech.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Strzeżcie"
+    },
+    {
+      "i": 1,
+      "t": "się"
+    },
+    {
+      "i": 2,
+      "t": "abyście"
+    },
+    {
+      "i": 3,
+      "t": "jałmużny"
+    },
+    {
+      "i": 4,
+      "t": "waszej"
+    },
+    {
+      "i": 5,
+      "t": "nie"
+    },
+    {
+      "i": 6,
+      "t": "czynili"
+    },
+    {
+      "i": 7,
+      "t": "przed"
+    },
+    {
+      "i": 8,
+      "t": "ludźmi"
+    },
+    {
+      "i": 9,
+      "t": "dlatego"
+    },
+    {
+      "i": 10,
+      "t": "abyście"
+    },
+    {
+      "i": 11,
+      "t": "byli"
+    },
+    {
+      "i": 12,
+      "t": "widziani"
+    },
+    {
+      "i": 13,
+      "t": "od"
+    },
+    {
+      "i": 14,
+      "t": "nich"
+    },
+    {
+      "i": 15,
+      "t": "inaczej"
+    },
+    {
+      "i": 16,
+      "t": "nie"
+    },
+    {
+      "i": 17,
+      "t": "będziecie"
+    },
+    {
+      "i": 18,
+      "t": "mieli"
+    },
+    {
+      "i": 19,
+      "t": "zapłaty"
+    },
+    {
+      "i": 20,
+      "t": "u"
+    },
+    {
+      "i": 21,
+      "t": "Ojca"
+    },
+    {
+      "i": 22,
+      "t": "waszego"
+    },
+    {
+      "i": 23,
+      "t": "który"
+    },
+    {
+      "i": 24,
+      "t": "jest"
+    },
+    {
+      "i": 25,
+      "t": "w"
+    },
+    {
+      "i": 26,
+      "t": "niebiesiech"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.1",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.1",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Προσέχετε",
+        "lemma": "G4337",
+        "forma": "προσέχω",
+        "morph": "V-PAM-2P",
+        "glosa": "do beware",
+        "id": "Mat.6.1#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to watch out"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.6.1#03",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐλεημοσύνην",
+        "lemma": "G1654",
+        "forma": "ἐλεημοσύνην",
+        "morph": "N-ASF",
+        "glosa": "alms",
+        "id": "Mat.6.1#04",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "charity"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.6.1#05",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "you"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.6.1#06",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "not"
+      },
+      {
+        "t": "ποιεῖν",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAN",
+        "glosa": "[you are] to do",
+        "id": "Mat.6.1#07",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "ἔμπροσθεν",
+        "lemma": "G1715",
+        "forma": "ἔμπροσθεν",
+        "morph": "PREP",
+        "glosa": "before",
+        "id": "Mat.6.1#08",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "before"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "<the>",
+        "id": "Mat.6.1#09",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀνθρώπων",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-GPM",
+        "glosa": "men",
+        "id": "Mat.6.1#10",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "a human"
+      },
+      {
+        "t": "πρὸς",
+        "lemma": "G4314",
+        "forma": "πρός",
+        "morph": "PREP",
+        "glosa": "in order",
+        "id": "Mat.6.1#11",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to/with"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "<the>",
+        "id": "Mat.6.1#12",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θεαθῆναι",
+        "lemma": "G2300",
+        "forma": "θεάομαι",
+        "morph": "V-APN",
+        "glosa": "to be seen",
+        "id": "Mat.6.1#13",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to look at"
+      },
+      {
+        "t": "αὐτοῖς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DPM",
+        "glosa": "by them;",
+        "id": "Mat.6.1#14",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "εἰ",
+        "lemma": "G1487L",
+        "forma": "εἰ",
+        "morph": "COND",
+        "glosa": "lest",
+        "id": "Mat.6.1#15",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "if: else"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.6.1#16",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "then"
+      },
+      {
+        "t": "γε",
+        "lemma": "G1065",
+        "forma": "γέ",
+        "morph": "PRT",
+        "glosa": "indeed",
+        "id": "Mat.6.1#18",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "indeed"
+      },
+      {
+        "t": "μισθὸν",
+        "lemma": "G3408",
+        "forma": "μισθός",
+        "morph": "N-ASM",
+        "glosa": "reward",
+        "id": "Mat.6.1#19",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "wage"
+      },
+      {
+        "t": "οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.6.1#20",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "no"
+      },
+      {
+        "t": "ἔχετε",
+        "lemma": "G2192",
+        "forma": "ἔχω",
+        "morph": "V-PAI-2P",
+        "glosa": "have you",
+        "id": "Mat.6.1#21",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to have/be"
+      },
+      {
+        "t": "παρὰ",
+        "lemma": "G3844",
+        "forma": "παρά",
+        "morph": "PREP",
+        "glosa": "with",
+        "id": "Mat.6.1#22",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "from/with/beside"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "the",
+        "id": "Mat.6.1#23",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατρὶ",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-DSM-T",
+        "glosa": "Father",
+        "id": "Mat.6.1#24",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "father"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.6.1#25",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "you"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "who [is]",
+        "id": "Mat.6.1#26",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.6.1#27",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "the",
+        "id": "Mat.6.1#28",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανοῖς",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-DPM",
+        "glosa": "heavens.",
+        "id": "Mat.6.1#29",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "heaven"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "rozbicie",
+      "bg": [
+        0,
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Προσέχετε, rozkazujący strony czynnej, oddane zwrotem „Strzeżcie się”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Bezokolicznik ποιεῖν BG rozwija w zdanie „abyście ... czynili”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        1,
+        2
+      ],
+      "uwaga": "τὴν ἐλεημοσύνην oddane jako „jałmużny”. Rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὑμῶν oddane jako „waszej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἔμπροσθεν oddane jako „przed”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τῶν ἀνθρώπων oddane jako „ludźmi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "πρὸς przy bezokoliczniku celu oddane jako „dlatego”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        10,
+        11,
+        12
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "τὸ θεαθῆναι, bezokolicznik strony biernej, BG rozwija w „abyście byli widziani”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        13,
+        14
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "αὐτοῖς, celownik sprawcy, oddane jako „od nich”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        13,
+        14,
+        15
+      ],
+      "uwaga": "εἰ δὲ γε, zwrot „lest / if else”, skupione w jednym „inaczej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "οὐκ oddane jako „nie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        17,
+        18
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ἔχετε, czas teraźniejszy „have you”, oddane przyszłym „będziecie mieli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "μισθὸν w bierniku oddane dopełniaczem „zapłaty” przy przeczeniu."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "παρὰ oddane jako „u”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        20,
+        21
+      ],
+      "uwaga": "τῷ πατρὶ oddane jako „Ojca”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "ὑμῶν oddane jako „waszego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "τῷ, rodzajnik użyty jak „who”, oddane jako „który”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        24
+      ],
+      "zrodlo": [],
+      "uwaga": "„jest” stawia łącznik. W τῷ ἐν τοῖς οὐρανοῖς nie ma czasownika εἰμί.",
+      "uzasadnienie": "Rodzajnik τῷ z ἐν nie zawiera εἰμί. Polskie „który jest” potrzebuje łącznika, którego w TR nie ma."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        26
+      ],
+      "zrodlo": [
+        25,
+        26
+      ],
+      "uwaga": "τοῖς οὐρανοῖς oddane jako „niebiesiech”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. Bezokoliczniki ποιεῖν i θεαθῆναι BG rozwija w zdania z „abyście”, a „jest” dopowiada łącznik przy τῷ ἐν τοῖς οὐρανοῖς. ἔχετε, czas teraźniejszy, brzmi po polsku „będziecie mieli”, ale nadal idzie o brak zapłaty u Ojca.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τῷ ἐν τοῖς οὐρανοῖς nie ma εἰμί. BG dodaje „jest” przy „który”.",
+      "tokeny_bg": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "tokeny_zrodla": [
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἔχετε to czas teraźniejszy „have you”. BG oddaje go przyszłym „będziecie mieli”, a εἰ δὲ γε skupia w „inaczej”.",
+      "tokeny_bg": [
+        15,
+        17,
+        18
+      ],
+      "tokeny_zrodla": [
+        13,
+        14,
+        15,
+        18
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Pilně se varujte, abyste almužny vaší nedávali před lidmi, proto abyste byli vidíni od nich, jinak nebudete míti odplaty u Otce vašeho, jenž jest v nebesích.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

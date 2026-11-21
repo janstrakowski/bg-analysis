@@ -1,0 +1,622 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.29",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 29
+  },
+  "tekst_bg": "Weźmijcie jarzmo moje na się, a uczcie się ode mnie, żem Ja cichy i pokornego serca; a znajdziecie odpocznienie duszom waszym;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Weźmijcie"
+    },
+    {
+      "i": 1,
+      "t": "jarzmo"
+    },
+    {
+      "i": 2,
+      "t": "moje"
+    },
+    {
+      "i": 3,
+      "t": "na"
+    },
+    {
+      "i": 4,
+      "t": "się"
+    },
+    {
+      "i": 5,
+      "t": "a"
+    },
+    {
+      "i": 6,
+      "t": "uczcie"
+    },
+    {
+      "i": 7,
+      "t": "się"
+    },
+    {
+      "i": 8,
+      "t": "ode"
+    },
+    {
+      "i": 9,
+      "t": "mnie"
+    },
+    {
+      "i": 10,
+      "t": "żem"
+    },
+    {
+      "i": 11,
+      "t": "Ja"
+    },
+    {
+      "i": 12,
+      "t": "cichy"
+    },
+    {
+      "i": 13,
+      "t": "i"
+    },
+    {
+      "i": 14,
+      "t": "pokornego"
+    },
+    {
+      "i": 15,
+      "t": "serca"
+    },
+    {
+      "i": 16,
+      "t": "a"
+    },
+    {
+      "i": 17,
+      "t": "znajdziecie"
+    },
+    {
+      "i": 18,
+      "t": "odpocznienie"
+    },
+    {
+      "i": 19,
+      "t": "duszom"
+    },
+    {
+      "i": 20,
+      "t": "waszym"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.29",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.29",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἄρατε",
+        "lemma": "G0142",
+        "forma": "αἴρω",
+        "morph": "V-AAM-2P",
+        "glosa": "do take",
+        "id": "Mat.11.29#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to take up"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.11.29#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ζυγόν",
+        "lemma": "G2218",
+        "forma": "ζυγός",
+        "morph": "N-ASM",
+        "glosa": "yoke",
+        "id": "Mat.11.29#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "yoke/scales"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "of Mine",
+        "id": "Mat.11.29#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "me"
+      },
+      {
+        "t": "ἐφ᾽",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "upon",
+        "id": "Mat.11.29#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "ὑμᾶς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2AP",
+        "glosa": "you",
+        "id": "Mat.11.29#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "you"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.29#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "and"
+      },
+      {
+        "t": "μάθετε",
+        "lemma": "G3129",
+        "forma": "μανθάνω",
+        "morph": "V-2AAM-2P",
+        "glosa": "do learn",
+        "id": "Mat.11.29#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to learn"
+      },
+      {
+        "t": "ἀπ᾽",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.11.29#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "away from"
+      },
+      {
+        "t": "ἐμοῦ",
+        "lemma": "G1473",
+        "forma": "ἐγώ",
+        "morph": "S-1SGSN",
+        "glosa": "Me",
+        "id": "Mat.11.29#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.11.29#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "πραΰς",
+        "lemma": "G4235",
+        "forma": "πραΰς",
+        "morph": "A-NSM",
+        "glosa": "gentle",
+        "id": "Mat.11.29#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "gentle"
+      },
+      {
+        "t": "εἰμι",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-1S",
+        "glosa": "I am",
+        "id": "Mat.11.29#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to be"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.29#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "and"
+      },
+      {
+        "t": "ταπεινὸς",
+        "lemma": "G5011",
+        "forma": "ταπεινός",
+        "morph": "A-NSM",
+        "glosa": "humble",
+        "id": "Mat.11.29#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "lowly"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "<the>",
+        "id": "Mat.11.29#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "καρδίᾳ",
+        "lemma": "G2588",
+        "forma": "καρδία",
+        "morph": "N-DSF",
+        "glosa": "in heart,",
+        "id": "Mat.11.29#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "heart"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.29#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "and"
+      },
+      {
+        "t": "εὑρήσετε",
+        "lemma": "G2147",
+        "forma": "εὑρίσκω",
+        "morph": "V-FAI-2P",
+        "glosa": "you will find",
+        "id": "Mat.11.29#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to find/meet"
+      },
+      {
+        "t": "ἀνάπαυσιν",
+        "lemma": "G0372",
+        "forma": "ἀνάπαυσις",
+        "morph": "N-ASF",
+        "glosa": "rest",
+        "id": "Mat.11.29#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "rest"
+      },
+      {
+        "t": "ταῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPF",
+        "glosa": "for the",
+        "id": "Mat.11.29#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ψυχαῖς",
+        "lemma": "G5590G",
+        "forma": "ψυχή",
+        "morph": "N-DPF",
+        "glosa": "souls",
+        "id": "Mat.11.29#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "soul"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you.",
+        "id": "Mat.11.29#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἄρατε oddane jako „Weźmijcie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1,
+        2
+      ],
+      "uwaga": "τὸν ζυγόν oddane jako „jarzmo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "μου oddane jako „moje”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐφ᾽ oddane jako „na”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ὑμᾶς oddane zaimkiem zwrotnym „się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "μάθετε oddane jako „uczcie się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἀπ᾽ oddane jako „ode”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἐμοῦ oddane jako „mnie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10,
+        12
+      ],
+      "uwaga": "ὅτι εἰμι oddane jako „żem”; „że” i końcówka „-m” są w jednym wyrazie."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [],
+      "uwaga": "„Ja” powtarza osobę już obecną w „żem” i w εἰμι.",
+      "uzasadnienie": "W TR nie ma osobnego ἐγώ. Osoba pierwsza jest w εἰμι, które weszło w „żem”; „Ja” tylko ją uwydatnia."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "πραΰς oddane jako „cichy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ταπεινὸς oddane jako „pokornego”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "τῇ καρδίᾳ, celownik względu, oddane jako „serca”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "εὑρήσετε oddane jako „znajdziecie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "ἀνάπαυσιν oddane jako „odpocznienie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        20,
+        21
+      ],
+      "uwaga": "ταῖς ψυχαῖς oddane jako „duszom”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "ὑμῶν oddane jako „waszym”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „Ja” dopowiada zaimek, którego obok εἰμι nie ma. ὅτι εἰμι zeszło się w „żem”, a sens „jestem cichy i pokornego serca” zostaje.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὅτι πραΰς εἰμι nie ma osobnego ἐγώ. BG daje „żem Ja cichy”: „żem” niesie ὅτι i εἰμι, a „Ja” jest dopowiedzeniem.",
+      "tokeny_bg": [
+        10,
+        11,
+        12
+      ],
+      "tokeny_zrodla": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ταπεινὸς τῇ καρδίᾳ BG oddaje dopełniaczem jakości „pokornego serca”.",
+      "tokeny_bg": [
+        14,
+        15
+      ],
+      "tokeny_zrodla": [
+        14,
+        15,
+        16
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Vezměte jho mé na se, a učte se ode mne, neboť jsem tichý a pokorný srdcem, a naleznete odpočinutí dušem vašim.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.2",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 2
+  },
+  "tekst_bg": "A oto trędowaty przyszedłszy, pokłonił mu się, mówiąc: Panie! jeźli chcesz, możesz mię oczyścić.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "oto"
+    },
+    {
+      "i": 2,
+      "t": "trędowaty"
+    },
+    {
+      "i": 3,
+      "t": "przyszedłszy"
+    },
+    {
+      "i": 4,
+      "t": "pokłonił"
+    },
+    {
+      "i": 5,
+      "t": "mu"
+    },
+    {
+      "i": 6,
+      "t": "się"
+    },
+    {
+      "i": 7,
+      "t": "mówiąc"
+    },
+    {
+      "i": 8,
+      "t": "Panie"
+    },
+    {
+      "i": 9,
+      "t": "jeźli"
+    },
+    {
+      "i": 10,
+      "t": "chcesz"
+    },
+    {
+      "i": 11,
+      "t": "możesz"
+    },
+    {
+      "i": 12,
+      "t": "mię"
+    },
+    {
+      "i": 13,
+      "t": "oczyścić"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.2",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.2",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.2#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "behold",
+        "id": "Mat.8.2#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "look!"
+      },
+      {
+        "t": "λεπρὸς",
+        "lemma": "G3015",
+        "forma": "λεπρός",
+        "morph": "A-NSM",
+        "glosa": "a leper",
+        "id": "Mat.8.2#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "leprous"
+      },
+      {
+        "t": "ἐλθὼν",
+        "lemma": "G2064",
+        "forma": "ἐλθὼν",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having come",
+        "id": "Mat.8.2#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "προσεκύνει",
+        "lemma": "G4352",
+        "forma": "προσκυνέω",
+        "morph": "V-IAI-3S",
+        "glosa": "was worshipping",
+        "id": "Mat.8.2#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to worship"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "Him",
+        "id": "Mat.8.2#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "λέγων",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NSM",
+        "glosa": "saying;",
+        "id": "Mat.8.2#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to say"
+      },
+      {
+        "t": "κύριε",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-VSM-T",
+        "glosa": "Lord,",
+        "id": "Mat.8.2#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "ἐὰν",
+        "lemma": "G1437",
+        "forma": "ἐάν",
+        "morph": "COND",
+        "glosa": "if",
+        "id": "Mat.8.2#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "if"
+      },
+      {
+        "t": "θέλῃς",
+        "lemma": "G2309",
+        "forma": "θέλω",
+        "morph": "V-PAS-2S",
+        "glosa": "You shall be willing,",
+        "id": "Mat.8.2#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to will/desire"
+      },
+      {
+        "t": "δύνασαί",
+        "lemma": "G1410",
+        "forma": "δύναμαι",
+        "morph": "V-PNI-2S",
+        "glosa": "You are able",
+        "id": "Mat.8.2#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "be able"
+      },
+      {
+        "t": "με",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1AS",
+        "glosa": "me",
+        "id": "Mat.8.2#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "me"
+      },
+      {
+        "t": "καθαρίσαι",
+        "lemma": "G2511",
+        "forma": "καθαρίζω",
+        "morph": "V-AAN",
+        "glosa": "to cleanse.",
+        "id": "Mat.8.2#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to clean"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἰδοὺ oddane jako „oto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "λεπρὸς oddane jako „trędowaty”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἐλθὼν oddane imiesłowem „przyszedłszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "προσεκύνει, imperfectum czynne, oddane jako „pokłonił”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [],
+      "uwaga": "„się” stoi przy „pokłonił”, a προσεκύνει jest stroną czynną.",
+      "uzasadnienie": "προσκυνέω nie ma partykuły zwrotnej. „się” wnosi zwrotność „pokłonić się” i nie dodaje osoby ani przedmiotu."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "λέγων oddane jako „mówiąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "κύριε oddane jako „Panie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐὰν oddane jako „jeźli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "θέλῃς oddane jako „chcesz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "δύνασαί oddane jako „możesz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "με oddane jako „mię”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καθαρίσαι oddane jako „oczyścić”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „się” przy „pokłonił” wnosi zwrotność czasownika, którego TR nie oznacza partykułą.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "προσεκύνει αὐτῷ λέγων oddane jako „pokłonił mu się, mówiąc”. Grecki czasownik jest czynny i nie ma zaimka zwrotnego.",
+      "tokeny_bg": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐὰν θέλῃς, δύνασαί με καθαρίσαι oddane jako „jeźli chcesz, możesz mię oczyścić”.",
+      "tokeny_bg": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A aj, malomocný přišed, klaněl se jemu, řka: Pane, kdybys jen chtěl, můžeš mne očistiti.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

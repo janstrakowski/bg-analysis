@@ -1,0 +1,479 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.8",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 8
+  },
+  "tekst_bg": "Nie bądźcież tedy im podobni, gdyż wie Ojciec wasz, czego potrzebujecie, pierwej niżbyście wy go prosili.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Nie"
+    },
+    {
+      "i": 1,
+      "t": "bądźcież"
+    },
+    {
+      "i": 2,
+      "t": "tedy"
+    },
+    {
+      "i": 3,
+      "t": "im"
+    },
+    {
+      "i": 4,
+      "t": "podobni"
+    },
+    {
+      "i": 5,
+      "t": "gdyż"
+    },
+    {
+      "i": 6,
+      "t": "wie"
+    },
+    {
+      "i": 7,
+      "t": "Ojciec"
+    },
+    {
+      "i": 8,
+      "t": "wasz"
+    },
+    {
+      "i": 9,
+      "t": "czego"
+    },
+    {
+      "i": 10,
+      "t": "potrzebujecie"
+    },
+    {
+      "i": 11,
+      "t": "pierwej"
+    },
+    {
+      "i": 12,
+      "t": "niżbyście"
+    },
+    {
+      "i": 13,
+      "t": "wy"
+    },
+    {
+      "i": 14,
+      "t": "go"
+    },
+    {
+      "i": 15,
+      "t": "prosili"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.8",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.8",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.6.8#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "not"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "therefore",
+        "id": "Mat.6.8#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "ὁμοιωθῆτε",
+        "lemma": "G3666",
+        "forma": "ὁμοιόω",
+        "morph": "V-APS-2P",
+        "glosa": "may be like",
+        "id": "Mat.6.8#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to liken"
+      },
+      {
+        "t": "αὐτοῖς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DPM",
+        "glosa": "to them;",
+        "id": "Mat.6.8#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "οἶδεν",
+        "lemma": "G6063",
+        "forma": "εἴδω",
+        "morph": "V-RAI-3S",
+        "glosa": "has known",
+        "id": "Mat.6.8#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to know"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.6.8#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "for"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.6.8#09",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατὴρ",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-NSM-T",
+        "glosa": "Father",
+        "id": "Mat.6.8#10",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "father"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.6.8#11",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὧν",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-GPN",
+        "glosa": "of what things",
+        "id": "Mat.6.8#12",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "which"
+      },
+      {
+        "t": "χρείαν",
+        "lemma": "G5532",
+        "forma": "χρεία",
+        "morph": "N-ASF",
+        "glosa": "need",
+        "id": "Mat.6.8#13",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "need"
+      },
+      {
+        "t": "ἔχετε",
+        "lemma": "G2192",
+        "forma": "ἔχω",
+        "morph": "V-PAI-2P",
+        "glosa": "you have",
+        "id": "Mat.6.8#14",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to have/be"
+      },
+      {
+        "t": "πρὸ",
+        "lemma": "G4253",
+        "forma": "πρό",
+        "morph": "PREP",
+        "glosa": "before",
+        "id": "Mat.6.8#15",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "before"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSN",
+        "glosa": "<the>",
+        "id": "Mat.6.8#16",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὑμᾶς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2AP",
+        "glosa": "your",
+        "id": "Mat.6.8#17",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "you"
+      },
+      {
+        "t": "αἰτῆσαι",
+        "lemma": "G0154",
+        "forma": "αἰτέω",
+        "morph": "V-AAN",
+        "glosa": "asking",
+        "id": "Mat.6.8#18",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to ask"
+      },
+      {
+        "t": "αὐτόν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "Him.",
+        "id": "Mat.6.8#19",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "μὴ oddane jako „Nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "οὖν oddane jako „tedy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        4
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὁμοιωθῆτε, „may be like”, oddane jako „bądźcież ... podobni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "αὐτοῖς oddane jako „im”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "γὰρ oddane jako „gdyż” i przesunięte przed οἶδεν."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "οἶδεν, perfectum „has known”, oddane jako „wie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "ὁ πατὴρ oddane jako „Ojciec”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ὑμῶν oddane jako „wasz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ὧν, dopełniacz „of what things”, oddane jako „czego”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "χρείαν ἔχετε, „need you have”, skupione w jednym „potrzebujecie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "πρὸ oddane jako „pierwej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12,
+        15
+      ],
+      "zrodlo": [
+        13,
+        15
+      ],
+      "uwaga": "τοῦ αἰτῆσαι, bezokolicznik z rodzajnikiem, BG rozwija w „niżbyście ... prosili”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ὑμᾶς, biernik podmiotu bezokolicznika, oddane jako „wy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "αὐτόν oddane jako „go”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Nic nie dodano i nic nie opuszczono. Bezokolicznik πρὸ τοῦ ὑμᾶς αἰτῆσαι αὐτόν BG rozbija na zdanie „pierwej niżbyście wy go prosili”. Ojciec nadal wie o potrzebie, zanim ktoś poprosi.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πρὸ τοῦ ὑμᾶς αἰτῆσαι αὐτόν to bezokolicznik „before your asking Him”. BG ma zdanie „pierwej niżbyście wy go prosili”.",
+      "tokeny_bg": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "tokeny_zrodla": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "χρείαν ἔχετε, „need you have”, BG skupia w jednym czasowniku „potrzebujecie”.",
+      "tokeny_bg": [
+        10
+      ],
+      "tokeny_zrodla": [
+        10,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nepřirovnávejtež se tedy jim, neboť ví Otec váš, čeho jest vám potřebí, prve nežli byste vy ho prosili.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

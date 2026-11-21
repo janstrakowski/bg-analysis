@@ -1,0 +1,426 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.2.14",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 2,
+    "werset": 14
+  },
+  "tekst_bg": "Który wstawszy, wziął dzieciątko i matkę jego w nocy, i uszedł do Egiptu;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Który"
+    },
+    {
+      "i": 1,
+      "t": "wstawszy"
+    },
+    {
+      "i": 2,
+      "t": "wziął"
+    },
+    {
+      "i": 3,
+      "t": "dzieciątko"
+    },
+    {
+      "i": 4,
+      "t": "i"
+    },
+    {
+      "i": 5,
+      "t": "matkę"
+    },
+    {
+      "i": 6,
+      "t": "jego"
+    },
+    {
+      "i": 7,
+      "t": "w"
+    },
+    {
+      "i": 8,
+      "t": "nocy"
+    },
+    {
+      "i": 9,
+      "t": "i"
+    },
+    {
+      "i": 10,
+      "t": "uszedł"
+    },
+    {
+      "i": 11,
+      "t": "do"
+    },
+    {
+      "i": 12,
+      "t": "Egiptu"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.2.14",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.2.14",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.2.14#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.2.14#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγερθεὶς",
+        "lemma": "G1453",
+        "forma": "ἐγείρω",
+        "morph": "V-APP-NSM",
+        "glosa": "having arisen",
+        "id": "Mat.2.14#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to arise"
+      },
+      {
+        "t": "παρέλαβεν",
+        "lemma": "G3880",
+        "forma": "παραλαμβάνω",
+        "morph": "V-2AAI-3S",
+        "glosa": "he took",
+        "id": "Mat.2.14#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to take"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.2.14#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "παιδίον",
+        "lemma": "G3813",
+        "forma": "παιδίον",
+        "morph": "N-ASN",
+        "glosa": "Child",
+        "id": "Mat.2.14#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "child"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.2.14#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "and"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.2.14#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μητέρα",
+        "lemma": "G3384",
+        "forma": "μήτηρ",
+        "morph": "N-ASF",
+        "glosa": "mother",
+        "id": "Mat.2.14#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "mother"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him",
+        "id": "Mat.2.14#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "νυκτὸς",
+        "lemma": "G3571",
+        "forma": "νύξ",
+        "morph": "N-GSF",
+        "glosa": "by night",
+        "id": "Mat.2.14#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "night"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.2.14#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀνεχώρησεν",
+        "lemma": "G0402",
+        "forma": "ἀναχωρέω",
+        "morph": "V-AAI-3S",
+        "glosa": "withdrew",
+        "id": "Mat.2.14#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to leave"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.2.14#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "toward"
+      },
+      {
+        "t": "Αἴγυπτον",
+        "lemma": "G0125",
+        "forma": "Αἴγυπτος",
+        "morph": "N-ASF-L",
+        "glosa": "Egypt,",
+        "id": "Mat.2.14#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "Egypt"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ὁ, rodzajnik użyty rzeczownikowo, oddane jako „Który”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ, spójnik „And”, nie ma polskiego odpowiednika."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐγερθεὶς oddane jako „wstawszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "παρέλαβεν oddane jako „wziął”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τὸ παιδίον oddane jako „dzieciątko”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "καί oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τὴν μητέρα oddane jako „matkę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        7,
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "νυκτὸς, dopełniacz czasu „by night”, rozbite na „w nocy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "καί oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἀνεχώρησεν oddane jako „uszedł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "Αἴγυπτον oddane jako „Egiptu”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Spójnik δὲ nie ma polskiego słowa. Reszta, łącznie z dopełniaczem νυκτὸς jako „w nocy”, jest pokryta.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      1
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὁ δὲ nie ma w polskim tekście osobnego spójnika. BG zaczyna od „Który”.",
+      "tokeny_bg": [
+        0
+      ],
+      "tokeny_zrodla": [
+        0,
+        1
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "νυκτὸς to dopełniacz czasu bez przyimka. BG rozbija go na „w nocy”.",
+      "tokeny_bg": [
+        7,
+        8
+      ],
+      "tokeny_zrodla": [
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Kterýžto vstav hned v noci, vzal dítě i matku jeho, a odšel do Egypta.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

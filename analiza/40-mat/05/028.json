@@ -1,0 +1,574 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.28",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 28
+  },
+  "tekst_bg": "Aleć Ja wam powiadam: Iż każdy, który patrzy na niewiastę, aby jej pożądał, już z nią cudzołóstwo popełnił w sercu swojem.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Aleć"
+    },
+    {
+      "i": 1,
+      "t": "Ja"
+    },
+    {
+      "i": 2,
+      "t": "wam"
+    },
+    {
+      "i": 3,
+      "t": "powiadam"
+    },
+    {
+      "i": 4,
+      "t": "Iż"
+    },
+    {
+      "i": 5,
+      "t": "każdy"
+    },
+    {
+      "i": 6,
+      "t": "który"
+    },
+    {
+      "i": 7,
+      "t": "patrzy"
+    },
+    {
+      "i": 8,
+      "t": "na"
+    },
+    {
+      "i": 9,
+      "t": "niewiastę"
+    },
+    {
+      "i": 10,
+      "t": "aby"
+    },
+    {
+      "i": 11,
+      "t": "jej"
+    },
+    {
+      "i": 12,
+      "t": "pożądał"
+    },
+    {
+      "i": 13,
+      "t": "już"
+    },
+    {
+      "i": 14,
+      "t": "z"
+    },
+    {
+      "i": 15,
+      "t": "nią"
+    },
+    {
+      "i": 16,
+      "t": "cudzołóstwo"
+    },
+    {
+      "i": 17,
+      "t": "popełnił"
+    },
+    {
+      "i": 18,
+      "t": "w"
+    },
+    {
+      "i": 19,
+      "t": "sercu"
+    },
+    {
+      "i": 20,
+      "t": "swojem"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.28",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.28",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἐγὼ",
+        "lemma": "G1473",
+        "forma": "ἐγώ",
+        "morph": "P-1NS",
+        "glosa": "I myself",
+        "id": "Mat.5.28#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.5.28#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "λέγω",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-1S",
+        "glosa": "say",
+        "id": "Mat.5.28#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you",
+        "id": "Mat.5.28#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.5.28#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "πᾶς",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NSM",
+        "glosa": "everyone",
+        "id": "Mat.5.28#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "all"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "who",
+        "id": "Mat.5.28#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βλέπων",
+        "lemma": "G0991",
+        "forma": "βλέπω",
+        "morph": "V-PAP-NSM",
+        "glosa": "is looking upon",
+        "id": "Mat.5.28#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to see"
+      },
+      {
+        "t": "γυναῖκα",
+        "lemma": "G1135G",
+        "forma": "γυνή",
+        "morph": "N-ASF",
+        "glosa": "a woman",
+        "id": "Mat.5.28#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "woman"
+      },
+      {
+        "t": "πρὸς",
+        "lemma": "G4314",
+        "forma": "πρός",
+        "morph": "PREP",
+        "glosa": "in order",
+        "id": "Mat.5.28#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to/with"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "<the>",
+        "id": "Mat.5.28#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐπιθυμῆσαι",
+        "lemma": "G1937",
+        "forma": "ἐπιθυμέω",
+        "morph": "V-AAN",
+        "glosa": "to lust after",
+        "id": "Mat.5.28#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to long for"
+      },
+      {
+        "t": "αὐτῆς",
+        "lemma": "G0846",
+        "forma": "αὐτῆς",
+        "morph": "P-GSF",
+        "glosa": "her",
+        "id": "Mat.5.28#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἤδη",
+        "lemma": "G2235",
+        "forma": "ἤδη",
+        "morph": "ADV",
+        "glosa": "already",
+        "id": "Mat.5.28#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "already"
+      },
+      {
+        "t": "ἐμοίχευσεν",
+        "lemma": "G3431",
+        "forma": "μοιχεύω",
+        "morph": "V-AAI-3S",
+        "glosa": "has committed adultery with",
+        "id": "Mat.5.28#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to commit adultery"
+      },
+      {
+        "t": "αὐτὴν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASF",
+        "glosa": "her",
+        "id": "Mat.5.28#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.5.28#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.5.28#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "καρδίᾳ",
+        "lemma": "G2588",
+        "forma": "καρδία",
+        "morph": "N-DSF",
+        "glosa": "heart",
+        "id": "Mat.5.28#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "heart"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him.",
+        "id": "Mat.5.28#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po ἐγὼ, a BG wynosi je na początek jako „Aleć”; -ć jest partykułą emfatyczną."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἐγὼ oddane jako „Ja”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "λέγω oddane jako „powiadam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ὅτι oddane jako „Iż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "πᾶς oddane jako „każdy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "Rodzajnik ὁ przy imiesłowie, w glosie „who”, oddany jako „który”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "Imiesłów βλέπων oddany orzeczeniem „patrzy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Biernik γυναῖκα oddany jako „na niewiastę”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "πρὸς τὸ przy bezokoliczniku oddane jako „aby”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "αὐτῆς oddane jako „jej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "Bezokolicznik ἐπιθυμῆσαι oddany jako „pożądał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἤδη oddane jako „już”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        14,
+        15
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "Biernik αὐτὴν oddany jako „z nią”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        16,
+        17
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ἐμοίχευσεν oddane jako „cudzołóstwo popełnił”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        17,
+        18
+      ],
+      "uwaga": "τῇ καρδίᾳ oddane jako „sercu”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "αὐτοῦ oddane przymiotnikiem „swojem”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Tokeny są pokryte, bez dopowiedzenia i opuszczenia. Imiesłów ὁ βλέπων rozbity jest na zdanie „który patrzy”, a bezokolicznik ἐπιθυμῆσαι na „aby pożądał”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πᾶς ὁ βλέπων γυναῖκα oddane jest jako „każdy, który patrzy na niewiastę”: imiesłów staje się zdaniem względnym, a biernik dostaje przyimek „na”.",
+      "tokeny_bg": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐμοίχευσεν αὐτὴν oddane jest jako „z nią cudzołóstwo popełnił”: jeden czasownik rozpada się na rzeczownik z orzeczeniem, a biernik na „z nią”.",
+      "tokeny_bg": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "tokeny_zrodla": [
+        14,
+        15
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ale jáť pravím vám: Že každý, kdož by pohleděl na ženu ku požádání jí, již zcizoložil s ní v srdci svém.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

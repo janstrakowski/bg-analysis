@@ -1,0 +1,388 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.1.12",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 1,
+    "werset": 12
+  },
+  "tekst_bg": "A po zaprowadzeniu do Babilonu Jechonijasz spłodził Salatyjela, a Salatyjel spłodził Zorobabela.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "po"
+    },
+    {
+      "i": 2,
+      "t": "zaprowadzeniu"
+    },
+    {
+      "i": 3,
+      "t": "do"
+    },
+    {
+      "i": 4,
+      "t": "Babilonu"
+    },
+    {
+      "i": 5,
+      "t": "Jechonijasz"
+    },
+    {
+      "i": 6,
+      "t": "spłodził"
+    },
+    {
+      "i": 7,
+      "t": "Salatyjela"
+    },
+    {
+      "i": 8,
+      "t": "a"
+    },
+    {
+      "i": 9,
+      "t": "Salatyjel"
+    },
+    {
+      "i": 10,
+      "t": "spłodził"
+    },
+    {
+      "i": 11,
+      "t": "Zorobabela"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.1.12",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.1.12",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Μετὰ",
+        "lemma": "G3326",
+        "forma": "μετά",
+        "morph": "PREP",
+        "glosa": "After",
+        "id": "Mat.1.12#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "with/after"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.12#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.1.12#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μετοικεσίαν",
+        "lemma": "G3350",
+        "forma": "μετοικεσία",
+        "morph": "N-ASF",
+        "glosa": "carrying away",
+        "id": "Mat.1.12#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "deportation"
+      },
+      {
+        "t": "Βαβυλῶνος",
+        "lemma": "G0897",
+        "forma": "Βαβυλών",
+        "morph": "N-GSF-L",
+        "glosa": "to Babylon",
+        "id": "Mat.1.12#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Babylon"
+      },
+      {
+        "t": "Ἰεχονίας",
+        "lemma": "G2423",
+        "forma": "Ἰεχονίας",
+        "morph": "N-NSM-P",
+        "glosa": "Jeconiah",
+        "id": "Mat.1.12#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Jechoniah"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.12#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.12#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Σαλαθιήλ",
+        "lemma": "G4528H",
+        "forma": "Σαλαθιήλ",
+        "morph": "N-ASM-P",
+        "glosa": "Shealtiel;",
+        "id": "Mat.1.12#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "Shealtiel"
+      },
+      {
+        "t": "Σαλαθιὴλ",
+        "lemma": "G4528H",
+        "forma": "Σαλαθιήλ",
+        "morph": "N-NSM-P",
+        "glosa": "Shealtiel",
+        "id": "Mat.1.12#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "Shealtiel"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.12#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.12#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.12#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ζοροβαβέλ",
+        "lemma": "G2216H",
+        "forma": "Ζοροβάβελ",
+        "morph": "N-ASM-P",
+        "glosa": "Zerubbabel;",
+        "id": "Mat.1.12#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "Zerubbabel"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po przyimku, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "Μετὰ oddane jako „po”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὴν μετοικεσίαν oddane jako „zaprowadzeniu”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "rozbicie",
+      "uwaga": "Βαβυλῶνος, dopełniacz miejsca, oddane jako „do Babilonu”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἰεχονίας oddane jako „Jechonijasz”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Σαλαθιήλ oddane jako „Salatyjela”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG stawia je przed imieniem jako „a”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "Σαλαθιὴλ oddane jako „Salatyjel”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ζοροβαβέλ oddane jako „Zorobabela”, a rodzajnik nie ma osobnego słowa."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. μετὰ τὴν μετοικεσίαν jest „po zaprowadzeniu”, a dopełniacz Βαβυλῶνος rozbija się na „do Babilonu”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Μετὰ δὲ τὴν μετοικεσίαν Βαβυλῶνος BG oddaje jako „A po zaprowadzeniu do Babilonu”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A po zajetí Babylonském Jekoniáš zplodil Salatiele. Salatiel pak zplodil Zorobábele.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

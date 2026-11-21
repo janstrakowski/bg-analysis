@@ -1,0 +1,546 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.27",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 27
+  },
+  "tekst_bg": "Co wam w ciemności mówię, powiadajcie na światle; a co w ucho słyszycie, obwoływajcie na dachach;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Co"
+    },
+    {
+      "i": 1,
+      "t": "wam"
+    },
+    {
+      "i": 2,
+      "t": "w"
+    },
+    {
+      "i": 3,
+      "t": "ciemności"
+    },
+    {
+      "i": 4,
+      "t": "mówię"
+    },
+    {
+      "i": 5,
+      "t": "powiadajcie"
+    },
+    {
+      "i": 6,
+      "t": "na"
+    },
+    {
+      "i": 7,
+      "t": "światle"
+    },
+    {
+      "i": 8,
+      "t": "a"
+    },
+    {
+      "i": 9,
+      "t": "co"
+    },
+    {
+      "i": 10,
+      "t": "w"
+    },
+    {
+      "i": 11,
+      "t": "ucho"
+    },
+    {
+      "i": 12,
+      "t": "słyszycie"
+    },
+    {
+      "i": 13,
+      "t": "obwoływajcie"
+    },
+    {
+      "i": 14,
+      "t": "na"
+    },
+    {
+      "i": 15,
+      "t": "dachach"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.27",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.27",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ὃ",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-ASN",
+        "glosa": "What",
+        "id": "Mat.10.27#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "which"
+      },
+      {
+        "t": "λέγω",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-1S",
+        "glosa": "I tell",
+        "id": "Mat.10.27#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "you",
+        "id": "Mat.10.27#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.10.27#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.10.27#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "σκοτίᾳ",
+        "lemma": "G4653",
+        "forma": "σκοτία",
+        "morph": "N-DSF",
+        "glosa": "darkness",
+        "id": "Mat.10.27#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "darkness"
+      },
+      {
+        "t": "εἴπατε",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAM-2P",
+        "glosa": "do speak",
+        "id": "Mat.10.27#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.10.27#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSN",
+        "glosa": "the",
+        "id": "Mat.10.27#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "φωτί",
+        "lemma": "G5457",
+        "forma": "φῶς",
+        "morph": "N-DSN",
+        "glosa": "light,",
+        "id": "Mat.10.27#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "light"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.27#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὃ",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-ASN",
+        "glosa": "what",
+        "id": "Mat.10.27#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "which"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.10.27#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.10.27#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὖς",
+        "lemma": "G3775",
+        "forma": "οὖς",
+        "morph": "N-ASN",
+        "glosa": "ear",
+        "id": "Mat.10.27#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "ear"
+      },
+      {
+        "t": "ἀκούετε",
+        "lemma": "G0191",
+        "forma": "ἀκούω",
+        "morph": "V-PAI-2P",
+        "glosa": "you hear",
+        "id": "Mat.10.27#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to hear"
+      },
+      {
+        "t": "κηρύξατε",
+        "lemma": "G2784",
+        "forma": "κηρύσσω",
+        "morph": "V-AAM-2P",
+        "glosa": "do proclaim",
+        "id": "Mat.10.27#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to preach"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "upon",
+        "id": "Mat.10.27#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPN",
+        "glosa": "the",
+        "id": "Mat.10.27#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δωμάτων",
+        "lemma": "G1430",
+        "forma": "δῶμα",
+        "morph": "N-GPN",
+        "glosa": "housetops!",
+        "id": "Mat.10.27#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "housetop"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὃ oddane jako „Co”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "rola": "zlanie",
+      "uwaga": "τῇ σκοτίᾳ oddane jako „ciemności”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "λέγω stoi przed ὑμῖν, a „mówię” zamyka człon „Co wam w ciemności”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "εἴπατε oddane jako „powiadajcie”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐν oddane jako „na”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "rola": "zlanie",
+      "uwaga": "τῷ φωτί oddane jako „światle”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὃ oddane jako „co”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "εἰς oddane jako „w”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸ οὖς oddane jako „ucho”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        15
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἀκούετε oddane jako „słyszycie”."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        16
+      ],
+      "rola": "przeklad",
+      "uwaga": "κηρύξατε oddane jako „obwoływajcie”."
+    },
+    {
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        17
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐπὶ oddane jako „na”."
+    },
+    {
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "rola": "zlanie",
+      "uwaga": "τῶν δωμάτων oddane jako „dachach”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajniki przy „ciemności”, „światle”, „ucho” i „dachach” są wcielone w rzeczownik.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὃ λέγω ὑμῖν ἐν τῇ σκοτίᾳ, εἴπατε ἐν τῷ φωτί BG oddaje jako „Co wam w ciemności mówię, powiadajcie na światle”, a ὃ εἰς τὸ οὖς ἀκούετε, κηρύξατε ἐπὶ τῶν δωμάτων jako „co w ucho słyszycie, obwoływajcie na dachach”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Což vám pravím ve tmách, pravte na světle, a co v uši slyšíte, hlásejte na domích.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

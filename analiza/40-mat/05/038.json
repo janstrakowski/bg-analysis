@@ -1,0 +1,326 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.38",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 38
+  },
+  "tekst_bg": "Słyszeliście, iż rzeczono: Oko za oko, a ząb za ząb;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Słyszeliście"
+    },
+    {
+      "i": 1,
+      "t": "iż"
+    },
+    {
+      "i": 2,
+      "t": "rzeczono"
+    },
+    {
+      "i": 3,
+      "t": "Oko"
+    },
+    {
+      "i": 4,
+      "t": "za"
+    },
+    {
+      "i": 5,
+      "t": "oko"
+    },
+    {
+      "i": 6,
+      "t": "a"
+    },
+    {
+      "i": 7,
+      "t": "ząb"
+    },
+    {
+      "i": 8,
+      "t": "za"
+    },
+    {
+      "i": 9,
+      "t": "ząb"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.38",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.38",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἠκούσατε",
+        "lemma": "G0191",
+        "forma": "ἀκούω",
+        "morph": "V-AAI-2P",
+        "glosa": "You have heard",
+        "id": "Mat.5.38#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to hear"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.5.38#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "ἐρρέθη",
+        "lemma": "G2046",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-API-3S",
+        "glosa": "it was said;",
+        "id": "Mat.5.38#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὀφθαλμὸν",
+        "lemma": "G3788",
+        "forma": "ὀφθαλμός",
+        "morph": "N-ASM",
+        "glosa": "Eye",
+        "id": "Mat.5.38#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "eye"
+      },
+      {
+        "t": "ἀντὶ",
+        "lemma": "G0473",
+        "forma": "ἀντί",
+        "morph": "PREP",
+        "glosa": "for",
+        "id": "Mat.5.38#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "for"
+      },
+      {
+        "t": "ὀφθαλμοῦ",
+        "lemma": "G3788",
+        "forma": "ὀφθαλμός",
+        "morph": "N-GSM",
+        "glosa": "eye",
+        "id": "Mat.5.38#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "eye"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.38#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὀδόντα",
+        "lemma": "G3599",
+        "forma": "ὀδούς",
+        "morph": "N-ASM",
+        "glosa": "tooth",
+        "id": "Mat.5.38#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "tooth"
+      },
+      {
+        "t": "ἀντὶ",
+        "lemma": "G0473",
+        "forma": "ἀντί",
+        "morph": "PREP",
+        "glosa": "for",
+        "id": "Mat.5.38#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "for"
+      },
+      {
+        "t": "ὀδόντος",
+        "lemma": "G3599",
+        "forma": "ὀδούς",
+        "morph": "N-GSM",
+        "glosa": "tooth.’",
+        "id": "Mat.5.38#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "tooth"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ἠκούσατε oddane jako „Słyszeliście”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ὅτι oddane jako „iż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐρρέθη, strona bierna, oddane bezosobowo jako „rzeczono”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὀφθαλμὸν, biernik, oddany mianownikiem „Oko”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἀντὶ oddane jako „za”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ὀφθαλμοῦ oddane jako „oko”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ὀδόντα, biernik, oddany mianownikiem „ząb”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Drugie ἀντὶ oddane jako „za”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ὀδόντος oddane jako „ząb”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Bierniki ὀφθαλμὸν i ὀδόντα stoją w polskim mianowniku przysłowia.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ καὶ ὀδόντα ἀντὶ ὀδόντος nie ma rodzajników. BG oddaje to jako „Oko za oko, a ząb za ząb”.",
+      "tokeny_bg": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Slyšeli jste, že řečeno jest: Oko za oko, a zub za zub.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.15",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 15
+  },
+  "tekst_bg": "Ale jeźli nie odpuścicie ludziom upadków ich, i Ojciec wasz nie odpuści wam upadków waszych.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "jeźli"
+    },
+    {
+      "i": 2,
+      "t": "nie"
+    },
+    {
+      "i": 3,
+      "t": "odpuścicie"
+    },
+    {
+      "i": 4,
+      "t": "ludziom"
+    },
+    {
+      "i": 5,
+      "t": "upadków"
+    },
+    {
+      "i": 6,
+      "t": "ich"
+    },
+    {
+      "i": 7,
+      "t": "i"
+    },
+    {
+      "i": 8,
+      "t": "Ojciec"
+    },
+    {
+      "i": 9,
+      "t": "wasz"
+    },
+    {
+      "i": 10,
+      "t": "nie"
+    },
+    {
+      "i": 11,
+      "t": "odpuści"
+    },
+    {
+      "i": 12,
+      "t": "wam"
+    },
+    {
+      "i": 13,
+      "t": "upadków"
+    },
+    {
+      "i": 14,
+      "t": "waszych"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.15",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.15",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἐὰν",
+        "lemma": "G1437",
+        "forma": "ἐάν",
+        "morph": "COND",
+        "glosa": "only",
+        "id": "Mat.6.15#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "if"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.6.15#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "unless",
+        "id": "Mat.6.15#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "not"
+      },
+      {
+        "t": "ἀφῆτε",
+        "lemma": "G0863H",
+        "forma": "ἀφίημι",
+        "morph": "V-2AAS-2P",
+        "glosa": "you shall forgive",
+        "id": "Mat.6.15#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to release: forgive"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "<the>",
+        "id": "Mat.6.15#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀνθρώποις",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-DPM",
+        "glosa": "men",
+        "id": "Mat.6.15#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "a human"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APN",
+        "glosa": "the",
+        "id": "Mat.6.15#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "παραπτώματα",
+        "lemma": "G3900",
+        "forma": "παράπτωμα",
+        "morph": "N-APN",
+        "glosa": "trespasses",
+        "id": "Mat.6.15#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "trespass"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them",
+        "id": "Mat.6.15#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "οὐδὲ",
+        "lemma": "G3761",
+        "forma": "οὐδέ",
+        "morph": "CONJ-N",
+        "glosa": "neither",
+        "id": "Mat.6.15#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "nor"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.6.15#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατὴρ",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-NSM-T",
+        "glosa": "Father",
+        "id": "Mat.6.15#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "father"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.6.15#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἀφήσει",
+        "lemma": "G0863H",
+        "forma": "ἀφίημι",
+        "morph": "V-FAI-3S",
+        "glosa": "will forgive",
+        "id": "Mat.6.15#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to release: forgive"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APN",
+        "glosa": "the",
+        "id": "Mat.6.15#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "παραπτώματα",
+        "lemma": "G3900",
+        "forma": "παράπτωμα",
+        "morph": "N-APN",
+        "glosa": "trespasses",
+        "id": "Mat.6.15#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "trespass"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you.",
+        "id": "Mat.6.15#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po ἐὰν, a BG wynosi je na początek jako „Ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἐὰν oddane jako „jeźli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀφῆτε oddane jako „odpuścicie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τοῖς ἀνθρώποις oddane jako „ludziom”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τὰ παραπτώματα w bierniku oddane dopełniaczem „upadków” przy przeczeniu."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "αὐτῶν oddane jako „ich”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        7,
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "οὐδὲ, „neither”, rozbite na „i” przed podmiotem i „nie” przy czasowniku."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "ὁ πατὴρ oddane jako „Ojciec”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ὑμῶν oddane jako „wasz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἀφήσει oddane jako „odpuści”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [],
+      "uwaga": "„wam” nie ma w grece. W tym wersecie nie ma ὑμῖν.",
+      "uzasadnienie": "ἀφήσει τὰ παραπτώματα ὑμῶν nie ma celownika ὑμῖν. „wam” powtarza osobę już nazwaną w ὑμῶν, bez nowego odbiorcy."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "Drugie τὰ παραπτώματα oddane dopełniaczem „upadków”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ὑμῶν oddane jako „waszych”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. οὐδὲ rozbite jest na „i ... nie”. „wam” dopowiada celownik tej samej osoby, która jest w ὑμῶν przy „upadków waszych”. Ojciec nadal nie odpuszcza tych upadków.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "W 6,15 nie ma ὑμῖν. BG dopowiada „wam” przy „nie odpuści ... upadków waszych”.",
+      "tokeny_bg": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "tokeny_zrodla": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὐδὲ, „neither”, BG rozbija na „i” oraz „nie” w zdaniu „i Ojciec wasz nie odpuści”.",
+      "tokeny_bg": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Jestliže pak neodpustíte lidem vin jejich, aniž Otec váš odpustí vám hříchů vašich.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

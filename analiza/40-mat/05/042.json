@@ -1,0 +1,391 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.42",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 42
+  },
+  "tekst_bg": "Temu, co cię prosi, daj, a od tego, co chce u ciebie pożyczyć, nie odwracaj się.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Temu"
+    },
+    {
+      "i": 1,
+      "t": "co"
+    },
+    {
+      "i": 2,
+      "t": "cię"
+    },
+    {
+      "i": 3,
+      "t": "prosi"
+    },
+    {
+      "i": 4,
+      "t": "daj"
+    },
+    {
+      "i": 5,
+      "t": "a"
+    },
+    {
+      "i": 6,
+      "t": "od"
+    },
+    {
+      "i": 7,
+      "t": "tego"
+    },
+    {
+      "i": 8,
+      "t": "co"
+    },
+    {
+      "i": 9,
+      "t": "chce"
+    },
+    {
+      "i": 10,
+      "t": "u"
+    },
+    {
+      "i": 11,
+      "t": "ciebie"
+    },
+    {
+      "i": 12,
+      "t": "pożyczyć"
+    },
+    {
+      "i": 13,
+      "t": "nie"
+    },
+    {
+      "i": 14,
+      "t": "odwracaj"
+    },
+    {
+      "i": 15,
+      "t": "się"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.42",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.42",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "To the [one]",
+        "id": "Mat.5.42#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "αἰτοῦντί",
+        "lemma": "G0154",
+        "forma": "αἰτέω",
+        "morph": "V-PAP-DSM",
+        "glosa": "asking",
+        "id": "Mat.5.42#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to ask"
+      },
+      {
+        "t": "σε",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2AS",
+        "glosa": "you",
+        "id": "Mat.5.42#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "you"
+      },
+      {
+        "t": "δίδου",
+        "lemma": "G1325",
+        "forma": "δίδου",
+        "morph": "V-PAM-2S",
+        "glosa": "do give",
+        "id": "Mat.5.42#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to give"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.42#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "and"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the [one]",
+        "id": "Mat.5.42#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θέλοντα",
+        "lemma": "G2309",
+        "forma": "θέλω",
+        "morph": "V-PAP-ASM",
+        "glosa": "desiring",
+        "id": "Mat.5.42#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to will/desire"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.5.42#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "away from"
+      },
+      {
+        "t": "σοῦ",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "you",
+        "id": "Mat.5.42#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "you"
+      },
+      {
+        "t": "δανίσασθαι",
+        "lemma": "G1155",
+        "forma": "δανείζω",
+        "morph": "V-AMN",
+        "glosa": "to borrow",
+        "id": "Mat.5.42#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to lend/borrow"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.5.42#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "not"
+      },
+      {
+        "t": "ἀποστραφῇς",
+        "lemma": "G0654",
+        "forma": "ἀποστρέφω",
+        "morph": "V-2APS-2S",
+        "glosa": "may you turn away from.",
+        "id": "Mat.5.42#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to turn away"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Rodzajnik τῷ, użyty rzeczownikowo, oddany jako „Temu”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        3
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "Imiesłów αἰτοῦντί rozbity na „co … prosi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "σε oddane jako „cię”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "δίδου oddane jako „daj”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        14,
+        15
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἀποστραφῇς, strona bierna, glosa „may you turn away from”, oddane jako „od … odwracaj się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Rodzajnik τὸν, użyty rzeczownikowo, oddany jako „tego”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "Imiesłów θέλοντα rozbity na „co chce”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10,
+        11
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "ἀπὸ σοῦ przy δανίσασθαι oddane jako „u ciebie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "δανίσασθαι oddane jako „pożyczyć”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "μὴ oddane jako „nie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Tokeny są pokryte, bez dopowiedzenia i opuszczenia. Imiesłowy αἰτοῦντι i θέλοντα rozbite są na „co prosi” i „co chce”, a „od” należy do ἀποστραφῇς.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τὸν θέλοντα ἀπὸ σοῦ δανίσασθαι μὴ ἀποστραφῇς oddane jest jako „od tego, co chce u ciebie pożyczyć, nie odwracaj się”: ἀπὸ σοῦ to „u ciebie”, a „od” niesie oddalenie czasownika.",
+      "tokeny_bg": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "tokeny_zrodla": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A prosícímu tebe dej, a od toho, kdo by chtěl vypůjčiti od tebe, neodvracuj se.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.5",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 5
+  },
+  "tekst_bg": "Albowiem cóż łatwiej rzec: Odpuszczone są tobie grzechy, czyli rzec: Wstań, a chodź?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Albowiem"
+    },
+    {
+      "i": 1,
+      "t": "cóż"
+    },
+    {
+      "i": 2,
+      "t": "łatwiej"
+    },
+    {
+      "i": 3,
+      "t": "rzec"
+    },
+    {
+      "i": 4,
+      "t": "Odpuszczone"
+    },
+    {
+      "i": 5,
+      "t": "są"
+    },
+    {
+      "i": 6,
+      "t": "tobie"
+    },
+    {
+      "i": 7,
+      "t": "grzechy"
+    },
+    {
+      "i": 8,
+      "t": "czyli"
+    },
+    {
+      "i": 9,
+      "t": "rzec"
+    },
+    {
+      "i": 10,
+      "t": "Wstań"
+    },
+    {
+      "i": 11,
+      "t": "a"
+    },
+    {
+      "i": 12,
+      "t": "chodź"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.5",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.5",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-NSN",
+        "glosa": "Which",
+        "id": "Mat.9.5#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "which?"
+      },
+      {
+        "t": "γάρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.9.5#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is",
+        "id": "Mat.9.5#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to be"
+      },
+      {
+        "t": "εὐκοπώτερον",
+        "lemma": "G2123",
+        "forma": "εὐκοπώτερος",
+        "morph": "A-NSN-C",
+        "glosa": "easier;",
+        "id": "Mat.9.5#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "easy"
+      },
+      {
+        "t": "εἰπεῖν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAN",
+        "glosa": "to say;",
+        "id": "Mat.9.5#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to say"
+      },
+      {
+        "t": "Ἀφέωνταί",
+        "lemma": "G0863",
+        "forma": "Ἀφέωνταί",
+        "morph": "V-RPI-3P",
+        "glosa": "have been forgiven",
+        "id": "Mat.9.5#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to release: leave"
+      },
+      {
+        "t": "σοι",
+        "lemma": "G4671",
+        "forma": "σοι",
+        "morph": "P-2DS",
+        "glosa": "to you",
+        "id": "Mat.9.5#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "you"
+      },
+      {
+        "t": "αἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPF",
+        "glosa": "the",
+        "id": "Mat.9.5#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἁμαρτίαι",
+        "lemma": "G0266",
+        "forma": "ἁμαρτία",
+        "morph": "N-NPF",
+        "glosa": "sins,",
+        "id": "Mat.9.5#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "sin"
+      },
+      {
+        "t": "ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "or",
+        "id": "Mat.9.5#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "or"
+      },
+      {
+        "t": "εἰπεῖν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAN",
+        "glosa": "to say;",
+        "id": "Mat.9.5#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to say"
+      },
+      {
+        "t": "Ἔγειραι",
+        "lemma": "G1453",
+        "forma": "Ἔγειραι",
+        "morph": "V-AAN",
+        "glosa": "to raise up",
+        "id": "Mat.9.5#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to arise"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.5#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "περιπάτει;",
+        "lemma": "G4043",
+        "forma": "περιπατέω",
+        "morph": "V-PAM-2S",
+        "glosa": "do walk?",
+        "id": "Mat.9.5#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to walk"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "γάρ stoi na drugim miejscu, a BG wynosi je na początek jako „Albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "τί oddane jako „cóż”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐστιν, „is”, nie ma w polskim zdaniu słowa „jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "εὐκοπώτερον oddane jako „łatwiej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "εἰπεῖν oddane jako „rzec”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Ἀφέωνταί, strona bierna „have been forgiven”, oddane jako „Odpuszczone są”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "σοι oddane jako „tobie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "αἱ ἁμαρτίαι oddane jako „grzechy”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἢ oddane jako „czyli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "Drugie εἰπεῖν oddane jako „rzec”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "Ἔγειραι oddane rozkaźnikiem „Wstań”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "περιπάτει oddane jako „chodź”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "τί γάρ ἐστιν εὐκοπώτερον ma czasownik ἐστιν. BG mówi „cóż łatwiej” i nie daje słowa „jest”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      2
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Między τί a εὐκοπώτερον stoi ἐστιν. W polskim „Albowiem cóż łatwiej rzec” nie ma odpowiednika tego czasownika.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo co jest snáze říci, to-li: Odpouštějí se tobě hříchové? čili říci: Vstaň a choď?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

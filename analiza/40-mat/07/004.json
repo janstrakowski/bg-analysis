@@ -1,0 +1,584 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.4",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 4
+  },
+  "tekst_bg": "Albo jakoż rzeczesz bratu twemu: Dopuść, iż wyjmę źdźbło z oka twego, a oto balka jest w oku twojem.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Albo"
+    },
+    {
+      "i": 1,
+      "t": "jakoż"
+    },
+    {
+      "i": 2,
+      "t": "rzeczesz"
+    },
+    {
+      "i": 3,
+      "t": "bratu"
+    },
+    {
+      "i": 4,
+      "t": "twemu"
+    },
+    {
+      "i": 5,
+      "t": "Dopuść"
+    },
+    {
+      "i": 6,
+      "t": "iż"
+    },
+    {
+      "i": 7,
+      "t": "wyjmę"
+    },
+    {
+      "i": 8,
+      "t": "źdźbło"
+    },
+    {
+      "i": 9,
+      "t": "z"
+    },
+    {
+      "i": 10,
+      "t": "oka"
+    },
+    {
+      "i": 11,
+      "t": "twego"
+    },
+    {
+      "i": 12,
+      "t": "a"
+    },
+    {
+      "i": 13,
+      "t": "oto"
+    },
+    {
+      "i": 14,
+      "t": "balka"
+    },
+    {
+      "i": 15,
+      "t": "jest"
+    },
+    {
+      "i": 16,
+      "t": "w"
+    },
+    {
+      "i": 17,
+      "t": "oku"
+    },
+    {
+      "i": 18,
+      "t": "twojem"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.4",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.4",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "Or",
+        "id": "Mat.7.4#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "or"
+      },
+      {
+        "t": "πῶς",
+        "lemma": "G4459",
+        "forma": "πως",
+        "morph": "PRT-I",
+        "glosa": "how",
+        "id": "Mat.7.4#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "how?!"
+      },
+      {
+        "t": "ἐρεῖς",
+        "lemma": "G4483",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-FAI-2S",
+        "glosa": "will you say",
+        "id": "Mat.7.4#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to say"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "to the",
+        "id": "Mat.7.4#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀδελφῷ",
+        "lemma": "G0080",
+        "forma": "ἀδελφός",
+        "morph": "N-DSM",
+        "glosa": "brother",
+        "id": "Mat.7.4#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "brother"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you;",
+        "id": "Mat.7.4#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἄφες",
+        "lemma": "G0863I",
+        "forma": "ἀφίημι",
+        "morph": "V-2AAM-2S",
+        "glosa": "do permit that",
+        "id": "Mat.7.4#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to release: permit"
+      },
+      {
+        "t": "ἐκβάλω",
+        "lemma": "G1544",
+        "forma": "ἐκβάλλω",
+        "morph": "V-2AAS-1S",
+        "glosa": "I may cast out",
+        "id": "Mat.7.4#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to expel"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.7.4#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κάρφος",
+        "lemma": "G2595",
+        "forma": "κάρφος",
+        "morph": "N-ASN",
+        "glosa": "splinter",
+        "id": "Mat.7.4#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "speck"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπὸ",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.7.4#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "away from"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.7.4#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὀφθαλμοῦ",
+        "lemma": "G3788",
+        "forma": "ὀφθαλμός",
+        "morph": "N-GSM",
+        "glosa": "eye",
+        "id": "Mat.7.4#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "eye"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you;",
+        "id": "Mat.7.4#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "you"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.4#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "behold",
+        "id": "Mat.7.4#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "look!"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.7.4#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δοκὸς",
+        "lemma": "G1385",
+        "forma": "δοκός",
+        "morph": "N-NSF",
+        "glosa": "beam",
+        "id": "Mat.7.4#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "plank"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "[is] in",
+        "id": "Mat.7.4#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "the",
+        "id": "Mat.7.4#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὀφθαλμῷ",
+        "lemma": "G3788",
+        "forma": "ὀφθαλμός",
+        "morph": "N-DSM",
+        "glosa": "eye",
+        "id": "Mat.7.4#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "eye"
+      },
+      {
+        "t": "σοῦ;",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you?",
+        "id": "Mat.7.4#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἢ oddane jako „Albo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "πῶς oddane jako „jakoż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐρεῖς oddane jako „rzeczesz”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τῷ ἀδελφῷ oddane jako „bratu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "σου oddane jako „twemu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἄφες oddane jako „Dopuść”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [],
+      "uwaga": "„iż” nie ma spójnika między ἄφες a ἐκβάλω.",
+      "uzasadnienie": "ἄφες ἐκβάλω łączy rozkaz z conjunctivem bez ἵνα. „iż” otwiera to samo zdanie dopełnieniowe."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐκβάλω oddane jako „wyjmę”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τὸ κάρφος oddane jako „źdźbło”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἀπὸ oddane jako „z”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τοῦ ὀφθαλμοῦ oddane jako „oka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "σου oddane jako „twego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἰδοὺ oddane jako „oto”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16,
+        17
+      ],
+      "uwaga": "ἡ δοκὸς oddane jako „balka”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [],
+      "uwaga": "„jest” nie ma czasownika εἰμί.",
+      "uzasadnienie": "ἡ δοκὸς ἐν τῷ ὀφθαλμῷ jest zdaniem imiennym. „jest” stawia orzeczenie, którego TR nie ma, przy tej samej belce i tym samym oku."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        19,
+        20
+      ],
+      "uwaga": "τῷ ὀφθαλμῷ oddane jako „oku”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "σοῦ oddane jako „twojem”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „iż” otwiera conjunctivus po ἄφες, a „jest” orzeczenie zdania imiennego.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἄφες ἐκβάλω nie ma spójnika, a ἡ δοκὸς ἐν τῷ ὀφθαλμῷ nie ma εἰμί. BG dodaje „iż” i „jest”.",
+      "tokeny_bg": [
+        5,
+        6,
+        7,
+        14,
+        15,
+        16
+      ],
+      "tokeny_zrodla": [
+        6,
+        7,
+        16,
+        17,
+        18
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Aneb kterak díš bratru svému: Nech, ať vyvrhu mrvu z oka tvého, a aj, břevno jest v oku tvém?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

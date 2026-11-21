@@ -1,0 +1,495 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.12",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 12
+  },
+  "tekst_bg": "Ale synowie królestwa będą wyrzuceni w ciemności zewnętrzne, tam będzie płacz i zgrzytanie zębów.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "synowie"
+    },
+    {
+      "i": 2,
+      "t": "królestwa"
+    },
+    {
+      "i": 3,
+      "t": "będą"
+    },
+    {
+      "i": 4,
+      "t": "wyrzuceni"
+    },
+    {
+      "i": 5,
+      "t": "w"
+    },
+    {
+      "i": 6,
+      "t": "ciemności"
+    },
+    {
+      "i": 7,
+      "t": "zewnętrzne"
+    },
+    {
+      "i": 8,
+      "t": "tam"
+    },
+    {
+      "i": 9,
+      "t": "będzie"
+    },
+    {
+      "i": 10,
+      "t": "płacz"
+    },
+    {
+      "i": 11,
+      "t": "i"
+    },
+    {
+      "i": 12,
+      "t": "zgrzytanie"
+    },
+    {
+      "i": 13,
+      "t": "zębów"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.12",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.12",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.8.12#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.8.12#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "υἱοὶ",
+        "lemma": "G5207",
+        "forma": "υἱός",
+        "morph": "N-NPM",
+        "glosa": "sons",
+        "id": "Mat.8.12#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "son"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "of the",
+        "id": "Mat.8.12#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βασιλείας",
+        "lemma": "G0932",
+        "forma": "βασιλεία",
+        "morph": "N-GSF",
+        "glosa": "kingdom",
+        "id": "Mat.8.12#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "kingdom"
+      },
+      {
+        "t": "ἐκβληθήσονται",
+        "lemma": "G1544",
+        "forma": "ἐκβάλλω",
+        "morph": "V-FPI-3P",
+        "glosa": "will be cast out",
+        "id": "Mat.8.12#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to expel"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.8.12#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.8.12#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "σκότος",
+        "lemma": "G4655",
+        "forma": "σκότος",
+        "morph": "N-ASN",
+        "glosa": "darkness",
+        "id": "Mat.8.12#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "darkness"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.8.12#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐξώτερον",
+        "lemma": "G1857",
+        "forma": "ἐξώτερος",
+        "morph": "A-ASN-C",
+        "glosa": "outer;",
+        "id": "Mat.8.12#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "outer"
+      },
+      {
+        "t": "ἐκεῖ",
+        "lemma": "G1563",
+        "forma": "ἐκεῖ",
+        "morph": "ADV",
+        "glosa": "there",
+        "id": "Mat.8.12#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "there"
+      },
+      {
+        "t": "ἔσται",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-FDI-3S",
+        "glosa": "will be",
+        "id": "Mat.8.12#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.8.12#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κλαυθμὸς",
+        "lemma": "G2805",
+        "forma": "κλαυθμός",
+        "morph": "N-NSM",
+        "glosa": "weeping",
+        "id": "Mat.8.12#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "weeping"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.12#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.8.12#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βρυγμὸς",
+        "lemma": "G1030",
+        "forma": "βρυγμός",
+        "morph": "N-NSM",
+        "glosa": "gnashing",
+        "id": "Mat.8.12#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "gnashing"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.8.12#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὀδόντων",
+        "lemma": "G3599",
+        "forma": "ὀδούς",
+        "morph": "N-GPM",
+        "glosa": "teeth.",
+        "id": "Mat.8.12#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "tooth"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po rodzajniku, a BG wynosi je na początek jako „Ale”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "uwaga": "οἱ υἱοὶ oddane jako „synowie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τῆς βασιλείας oddane jako „królestwa”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἐκβληθήσονται, futurum bierne, oddane jako „będą wyrzuceni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "εἰς oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τὸ σκότος, liczba pojedyncza, oddane jako „ciemności”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τὸ ἐξώτερον oddane jako „zewnętrzne”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἐκεῖ oddane jako „tam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἔσται oddane jako „będzie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "ὁ κλαυθμὸς oddane jako „płacz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        16,
+        17
+      ],
+      "uwaga": "ὁ βρυγμὸς oddane jako „zgrzytanie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "τῶν ὀδόντων oddane jako „zębów”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Strona bierna ἐκβληθήσονται jest analitycznym „będą wyrzuceni”, a rodzajniki wchodzą w rzeczowniki.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οἱ υἱοὶ τῆς βασιλείας ἐκβληθήσονται εἰς τὸ σκότος τὸ ἐξώτερον oddane jako „synowie królestwa będą wyrzuceni w ciemności zewnętrzne”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ale synové království vyvrženi budou do temností zevnitřních. Tamť bude pláč a škřipení zubů.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.48",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 48
+  },
+  "tekst_bg": "Bądźcież wy tedy doskonałymi, jako i Ojciec wasz, który jest w niebiesiech, doskonały jest.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Bądźcież"
+    },
+    {
+      "i": 1,
+      "t": "wy"
+    },
+    {
+      "i": 2,
+      "t": "tedy"
+    },
+    {
+      "i": 3,
+      "t": "doskonałymi"
+    },
+    {
+      "i": 4,
+      "t": "jako"
+    },
+    {
+      "i": 5,
+      "t": "i"
+    },
+    {
+      "i": 6,
+      "t": "Ojciec"
+    },
+    {
+      "i": 7,
+      "t": "wasz"
+    },
+    {
+      "i": 8,
+      "t": "który"
+    },
+    {
+      "i": 9,
+      "t": "jest"
+    },
+    {
+      "i": 10,
+      "t": "w"
+    },
+    {
+      "i": 11,
+      "t": "niebiesiech"
+    },
+    {
+      "i": 12,
+      "t": "doskonały"
+    },
+    {
+      "i": 13,
+      "t": "jest"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.48",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.48",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἔσεσθε",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-FDI-2P",
+        "glosa": "Will be",
+        "id": "Mat.5.48#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to be"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "therefore",
+        "id": "Mat.5.48#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "ὑμεῖς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2NP",
+        "glosa": "you yourselves",
+        "id": "Mat.5.48#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "you"
+      },
+      {
+        "t": "τέλειοι",
+        "lemma": "G5046",
+        "forma": "τέλειος",
+        "morph": "A-NPM",
+        "glosa": "perfect",
+        "id": "Mat.5.48#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "perfect"
+      },
+      {
+        "t": "ὥσπερ",
+        "lemma": "G5618",
+        "forma": "ὥσπερ",
+        "morph": "CONJ",
+        "glosa": "as",
+        "id": "Mat.5.48#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "just as"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.5.48#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατὴρ",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-NSM-T",
+        "glosa": "Father",
+        "id": "Mat.5.48#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "father"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.5.48#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "who",
+        "id": "Mat.5.48#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in the heavens",
+        "id": "Mat.5.48#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "τοῖς",
+        "morph": "T-DPM",
+        "glosa": "in the heavens",
+        "id": "Mat.5.48#10b",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανοῖς",
+        "lemma": "G3772",
+        "forma": "οὐρανοῖς",
+        "morph": "N-DPM",
+        "glosa": "in the heavens",
+        "id": "Mat.5.48#10c",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "heaven"
+      },
+      {
+        "t": "τέλειός",
+        "lemma": "G5046",
+        "forma": "τέλειος",
+        "morph": "A-NSM",
+        "glosa": "perfect",
+        "id": "Mat.5.48#11",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "perfect"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is.",
+        "id": "Mat.5.48#12",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to be"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἔσεσθε, V-FDI-2P, glosa „Will be”, oddane rozkazem „Bądźcież”; -ż jest partykułą emfatyczną."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὑμεῖς oddane jako „wy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "οὖν stoi po ἔσεσθε, a „tedy” stoi po „wy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "τέλειοι, mianownik, oddany narzędnikiem „doskonałymi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ὥσπερ oddane jako „jako”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [],
+      "uwaga": "„i” jest kursywą w 1632. Przed ὁ πατὴρ nie ma καὶ."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "ὁ πατὴρ oddane jako „Ojciec”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ὑμῶν oddane przymiotnikiem „wasz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Rodzajnik ὁ przy ἐν τοῖς οὐρανοῖς, w glosie „who”, oddany jako „który”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [],
+      "uwaga": "Pierwsze „jest” nie ma osobnego εἰμί w grupie ὁ ἐν τοῖς οὐρανοῖς.",
+      "uzasadnienie": "Rodzajnik ὁ przy ἐν τοῖς οὐρανοῖς nie jest czasownikiem. Jedyne ἐστιν stoi przy τέλειος i jest drugim „jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "τοῖς οὐρανοῖς oddane jako „niebiesiech”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "τέλειός oddane jako „doskonały”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἐστιν oddane jako drugie „jest”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. Kursywa „i” stoi przed „Ojciec”, gdzie nie ma καὶ, a pierwsze „jest” stawia orzeczenie przy rodzajniku ὁ ἐν τοῖς οὐρανοῖς.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἔσεσθε jest czasem przyszłym, glosa „Will be”, a „Bądźcież” jest rozkazem. ὁ ἐν τοῖς οὐρανοῖς nie ma osobnego εἰμί; pierwsze „jest” jest dopowiedzeniem, drugie oddaje ἐστιν.",
+      "tokeny_bg": [
+        0,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tokeny_zrodla": [
+        0,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὥσπερ ὁ πατὴρ nie ma καὶ. BG daje „jako i Ojciec”, a „i” jest kursywą w 1632.",
+      "tokeny_bg": [
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Buďtež vy tedy dokonalí, jako i Otec váš nebeský dokonalý jest.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.14",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 14
+  },
+  "tekst_bg": "A ktoby was nie przyjął, ani słuchał słów waszych, wychodząc z domu albo z miasta onego, otrząśnijcie proch z nóg waszych.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "ktoby"
+    },
+    {
+      "i": 2,
+      "t": "was"
+    },
+    {
+      "i": 3,
+      "t": "nie"
+    },
+    {
+      "i": 4,
+      "t": "przyjął"
+    },
+    {
+      "i": 5,
+      "t": "ani"
+    },
+    {
+      "i": 6,
+      "t": "słuchał"
+    },
+    {
+      "i": 7,
+      "t": "słów"
+    },
+    {
+      "i": 8,
+      "t": "waszych"
+    },
+    {
+      "i": 9,
+      "t": "wychodząc"
+    },
+    {
+      "i": 10,
+      "t": "z"
+    },
+    {
+      "i": 11,
+      "t": "domu"
+    },
+    {
+      "i": 12,
+      "t": "albo"
+    },
+    {
+      "i": 13,
+      "t": "z"
+    },
+    {
+      "i": 14,
+      "t": "miasta"
+    },
+    {
+      "i": 15,
+      "t": "onego"
+    },
+    {
+      "i": 16,
+      "t": "otrząśnijcie"
+    },
+    {
+      "i": 17,
+      "t": "proch"
+    },
+    {
+      "i": 18,
+      "t": "z"
+    },
+    {
+      "i": 19,
+      "t": "nóg"
+    },
+    {
+      "i": 20,
+      "t": "waszych"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.14",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.14",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.10.14#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὃς",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-NSM",
+        "glosa": "who[ever]",
+        "id": "Mat.10.14#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "which"
+      },
+      {
+        "t": "ἐὰν",
+        "lemma": "G1437",
+        "forma": "ἐὰν",
+        "morph": "COND",
+        "glosa": "only",
+        "id": "Mat.10.14#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "if"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "unless",
+        "id": "Mat.10.14#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "not"
+      },
+      {
+        "t": "δέξηται",
+        "lemma": "G1209",
+        "forma": "δέχομαι",
+        "morph": "V-ADS-3S",
+        "glosa": "shall receive",
+        "id": "Mat.10.14#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to receive"
+      },
+      {
+        "t": "ὑμᾶς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2AP",
+        "glosa": "you",
+        "id": "Mat.10.14#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "you"
+      },
+      {
+        "t": "μηδὲ",
+        "lemma": "G3366",
+        "forma": "μηδέ",
+        "morph": "CONJ-N",
+        "glosa": "nor",
+        "id": "Mat.10.14#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "nor"
+      },
+      {
+        "t": "ἀκούσῃ",
+        "lemma": "G0191",
+        "forma": "ἀκούω",
+        "morph": "V-AAS-3S",
+        "glosa": "shall he hear",
+        "id": "Mat.10.14#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to hear"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.10.14#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λόγους",
+        "lemma": "G3056",
+        "forma": "λόγος",
+        "morph": "N-APM",
+        "glosa": "words",
+        "id": "Mat.10.14#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "word"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you,",
+        "id": "Mat.10.14#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἐξερχόμενοι",
+        "lemma": "G1831",
+        "forma": "ἐξέρχομαι",
+        "morph": "V-PNP-NPM",
+        "glosa": "going forth",
+        "id": "Mat.10.14#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to go out"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "of the",
+        "id": "Mat.10.14#14",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἰκίας",
+        "lemma": "G3614G",
+        "forma": "οἰκία",
+        "morph": "N-GSF",
+        "glosa": "house",
+        "id": "Mat.10.14#15",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "home"
+      },
+      {
+        "t": "ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "or",
+        "id": "Mat.10.14#16",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "or"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "of the",
+        "id": "Mat.10.14#17",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πόλεως",
+        "lemma": "G4172",
+        "forma": "πόλις",
+        "morph": "N-GSF",
+        "glosa": "city",
+        "id": "Mat.10.14#18",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "city"
+      },
+      {
+        "t": "ἐκείνης",
+        "lemma": "G1565",
+        "forma": "ἐκεῖνος",
+        "morph": "D-GSF",
+        "glosa": "that",
+        "id": "Mat.10.14#19",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "that"
+      },
+      {
+        "t": "ἐκτινάξατε",
+        "lemma": "G1621",
+        "forma": "ἐκτινάσσω",
+        "morph": "V-AAM-2P",
+        "glosa": "do shake off",
+        "id": "Mat.10.14#20",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to shake out/off"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.10.14#21",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κονιορτὸν",
+        "lemma": "G2868",
+        "forma": "κονιορτός",
+        "morph": "N-ASM",
+        "glosa": "dust",
+        "id": "Mat.10.14#22",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "dust"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.10.14#23",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ποδῶν",
+        "lemma": "G4228",
+        "forma": "πούς",
+        "morph": "N-GPM",
+        "glosa": "feet",
+        "id": "Mat.10.14#24",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "foot"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you!",
+        "id": "Mat.10.14#25",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1,
+        2
+      ],
+      "uwaga": "ὃς ἐὰν oddane jako „ktoby”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ὑμᾶς oddane jako „was”; zaimek stoi przed „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "δέξηται oddane jako „przyjął”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "μηδὲ oddane jako „ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἀκούσῃ oddane jako „słuchał”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τοὺς λόγους oddane jako „słów”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ὑμῶν oddane jako „waszych”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἐξερχόμενοι oddane jako „wychodząc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10,
+        11
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τῆς οἰκίας, dopełniacz oddzielenia, oddany jako „z domu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ἢ oddane jako „albo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13,
+        14
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "τῆς πόλεως oddane jako „z miasta”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἐκείνης oddane jako „onego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ἐκτινάξατε oddane jako „otrząśnijcie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        19,
+        20
+      ],
+      "uwaga": "τὸν κονιορτὸν oddane jako „proch”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18,
+        19
+      ],
+      "zrodlo": [
+        21,
+        22
+      ],
+      "uwaga": "τῶν ποδῶν oddane jako „z nóg”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "ὑμῶν oddane jako „waszych”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Warunek odrzucenia, wyjście z domu albo miasta i otrząśnięcie prochu są pokryte. Dopełniacze oddzielenia mają przyimek „z” w zwrocie tej samej długości.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὃς ἐὰν μὴ δέξηται ὑμᾶς μηδὲ ἀκούσῃ τοὺς λόγους ὑμῶν BG oddaje jako „ktoby was nie przyjął, ani słuchał słów waszych”.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A kdožkoli nepřijal by vás, a neuposlechl by řečí vašich, vyjdouce ven z domu neb z města toho, vyraztež prach z noh vašich.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.20",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 20
+  },
+  "tekst_bg": "(A oto niewiasta, która płynienie krwi ode dwunastu lat cierpiała, przystąpiwszy z tyłu, dotknęła się podołka szaty jego;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "oto"
+    },
+    {
+      "i": 2,
+      "t": "niewiasta"
+    },
+    {
+      "i": 3,
+      "t": "która"
+    },
+    {
+      "i": 4,
+      "t": "płynienie"
+    },
+    {
+      "i": 5,
+      "t": "krwi"
+    },
+    {
+      "i": 6,
+      "t": "ode"
+    },
+    {
+      "i": 7,
+      "t": "dwunastu"
+    },
+    {
+      "i": 8,
+      "t": "lat"
+    },
+    {
+      "i": 9,
+      "t": "cierpiała"
+    },
+    {
+      "i": 10,
+      "t": "przystąpiwszy"
+    },
+    {
+      "i": 11,
+      "t": "z"
+    },
+    {
+      "i": 12,
+      "t": "tyłu"
+    },
+    {
+      "i": 13,
+      "t": "dotknęła"
+    },
+    {
+      "i": 14,
+      "t": "się"
+    },
+    {
+      "i": 15,
+      "t": "podołka"
+    },
+    {
+      "i": 16,
+      "t": "szaty"
+    },
+    {
+      "i": 17,
+      "t": "jego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.20",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.20",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.20#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "behold",
+        "id": "Mat.9.20#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "look!"
+      },
+      {
+        "t": "γυνὴ",
+        "lemma": "G1135G",
+        "forma": "γυνή",
+        "morph": "N-NSF",
+        "glosa": "a woman",
+        "id": "Mat.9.20#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "woman"
+      },
+      {
+        "t": "αἱμορροοῦσα",
+        "lemma": "G0131",
+        "forma": "αἱμορροέω",
+        "morph": "V-PAP-NSF",
+        "glosa": "having a flux of blood",
+        "id": "Mat.9.20#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to bleed"
+      },
+      {
+        "t": "δώδεκα",
+        "lemma": "G1427",
+        "forma": "δώδεκα",
+        "morph": "A-NUI",
+        "glosa": "twelve",
+        "id": "Mat.9.20#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "twelve"
+      },
+      {
+        "t": "ἔτη",
+        "lemma": "G2094",
+        "forma": "ἔτος",
+        "morph": "N-APN",
+        "glosa": "years",
+        "id": "Mat.9.20#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "year"
+      },
+      {
+        "t": "προσελθοῦσα",
+        "lemma": "G4334",
+        "forma": "προσέρχομαι",
+        "morph": "V-2AAP-NSF",
+        "glosa": "having come up",
+        "id": "Mat.9.20#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to come near/agree"
+      },
+      {
+        "t": "ὄπισθεν",
+        "lemma": "G3693",
+        "forma": "ὄπισθεν",
+        "morph": "PREP",
+        "glosa": "behind [Him]",
+        "id": "Mat.9.20#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "after"
+      },
+      {
+        "t": "ἥψατο",
+        "lemma": "G0681",
+        "forma": "ἅπτω",
+        "morph": "V-ADI-3S",
+        "glosa": "she touched",
+        "id": "Mat.9.20#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to touch"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSN",
+        "glosa": "the",
+        "id": "Mat.9.20#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κρασπέδου",
+        "lemma": "G2899",
+        "forma": "κράσπεδον",
+        "morph": "N-GSN",
+        "glosa": "fringe",
+        "id": "Mat.9.20#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "edge"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSN",
+        "glosa": "of the",
+        "id": "Mat.9.20#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἱματίου",
+        "lemma": "G2440",
+        "forma": "ἱμάτιον",
+        "morph": "N-GSN",
+        "glosa": "garment",
+        "id": "Mat.9.20#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "clothing"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him.",
+        "id": "Mat.9.20#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane na początku jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἰδοὺ oddane jako „oto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "γυνὴ oddane jako „niewiasta”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        3,
+        4,
+        5,
+        9
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "αἱμορροοῦσα, imiesłów „krwawiąca”, rozbite na zdanie „która płynienie krwi … cierpiała”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "δώδεκα oddane jako „dwunastu”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        8
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἔτη, biernik czasu, oddane jako „ode … lat”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "προσελθοῦσα oddane jako „przystąpiwszy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        11,
+        12
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ὄπισθεν oddane jako „z tyłu”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        13,
+        14
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἥψατο, aoryst strony medialnej, oddane jako „dotknęła się”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τοῦ κρασπέδου oddane jako „podołka”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τοῦ ἱματίου oddane jako „szaty”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Imiesłów αἱμορροοῦσα jest rozbity na zdanie „która płynienie krwi cierpiała”. Każde słowo greckie ma odpowiednik i nic nie jest dopowiedziane.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "αἱμορροοῦσα to imiesłów „krwawiąca”. BG rozbija go na zdanie względne „która płynienie krwi … cierpiała”.",
+      "tokeny_bg": [
+        3,
+        4,
+        5,
+        9
+      ],
+      "tokeny_zrodla": [
+        3
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "(A aj, žena, kteráž nemocí svou trápena byla ode dvanácti let, přistoupivši pozadu, dotkla se podolka roucha jeho.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

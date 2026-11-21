@@ -1,0 +1,572 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.11",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 11
+  },
+  "tekst_bg": "A do któregokolwiek miasta albo miasteczka wnijdziecie, wywiadujcie się, ktoby w niem tego był godzien, a tamże mieszkajcie, póki nie wynijdziecie;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "do"
+    },
+    {
+      "i": 2,
+      "t": "któregokolwiek"
+    },
+    {
+      "i": 3,
+      "t": "miasta"
+    },
+    {
+      "i": 4,
+      "t": "albo"
+    },
+    {
+      "i": 5,
+      "t": "miasteczka"
+    },
+    {
+      "i": 6,
+      "t": "wnijdziecie"
+    },
+    {
+      "i": 7,
+      "t": "wywiadujcie"
+    },
+    {
+      "i": 8,
+      "t": "się"
+    },
+    {
+      "i": 9,
+      "t": "ktoby"
+    },
+    {
+      "i": 10,
+      "t": "w"
+    },
+    {
+      "i": 11,
+      "t": "niem"
+    },
+    {
+      "i": 12,
+      "t": "tego"
+    },
+    {
+      "i": 13,
+      "t": "był"
+    },
+    {
+      "i": 14,
+      "t": "godzien"
+    },
+    {
+      "i": 15,
+      "t": "a"
+    },
+    {
+      "i": 16,
+      "t": "tamże"
+    },
+    {
+      "i": 17,
+      "t": "mieszkajcie"
+    },
+    {
+      "i": 18,
+      "t": "póki"
+    },
+    {
+      "i": 19,
+      "t": "nie"
+    },
+    {
+      "i": 20,
+      "t": "wynijdziecie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.11",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.11",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.10.11#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "toward"
+      },
+      {
+        "t": "ἣν",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-ASF",
+        "glosa": "whatever",
+        "id": "Mat.10.11#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "which"
+      },
+      {
+        "t": "δ᾽",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.10.11#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἂν",
+        "lemma": "G0302",
+        "forma": "ἄν",
+        "morph": "PRT",
+        "glosa": "when",
+        "id": "Mat.10.11#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "if"
+      },
+      {
+        "t": "πόλιν",
+        "lemma": "G4172",
+        "forma": "πόλις",
+        "morph": "N-ASF",
+        "glosa": "city",
+        "id": "Mat.10.11#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "city"
+      },
+      {
+        "t": "ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "or",
+        "id": "Mat.10.11#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "or"
+      },
+      {
+        "t": "κώμην",
+        "lemma": "G2968",
+        "forma": "κώμη",
+        "morph": "N-ASF",
+        "glosa": "village",
+        "id": "Mat.10.11#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "village"
+      },
+      {
+        "t": "εἰσέλθητε",
+        "lemma": "G1525",
+        "forma": "εἰσέρχομαι",
+        "morph": "V-2AAS-2P",
+        "glosa": "you may enter,",
+        "id": "Mat.10.11#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to enter"
+      },
+      {
+        "t": "ἐξετάσατε",
+        "lemma": "G1833",
+        "forma": "ἐξετάζω",
+        "morph": "V-AAM-2P",
+        "glosa": "do inquire",
+        "id": "Mat.10.11#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to find out"
+      },
+      {
+        "t": "τίς",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-NSM",
+        "glosa": "who",
+        "id": "Mat.10.11#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "which?"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.10.11#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "αὐτῇ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSF",
+        "glosa": "it",
+        "id": "Mat.10.11#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἄξιός",
+        "lemma": "G0514",
+        "forma": "ἄξιος",
+        "morph": "A-NSM",
+        "glosa": "worthy",
+        "id": "Mat.10.11#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "worthy"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is",
+        "id": "Mat.10.11#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to be"
+      },
+      {
+        "t": "κἀκεῖ",
+        "lemma": "G2532",
+        "forma": "κἀκεῖ",
+        "morph": "CONJ + G1563=ADV",
+        "glosa": "and there",
+        "id": "Mat.10.11#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "and"
+      },
+      {
+        "t": "μείνατε",
+        "lemma": "G3306",
+        "forma": "μένω",
+        "morph": "V-AAM-2P",
+        "glosa": "do remain",
+        "id": "Mat.10.11#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to stay"
+      },
+      {
+        "t": "ἕως",
+        "lemma": "G2193",
+        "forma": "ἕως",
+        "morph": "PREP",
+        "glosa": "until",
+        "id": "Mat.10.11#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "until"
+      },
+      {
+        "t": "ἂν",
+        "lemma": "G0302",
+        "forma": "ἄν",
+        "morph": "PRT",
+        "glosa": "when",
+        "id": "Mat.10.11#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "if"
+      },
+      {
+        "t": "ἐξέλθητε",
+        "lemma": "G1831",
+        "forma": "ἐξέρχομαι",
+        "morph": "V-2AAS-2P",
+        "glosa": "you may go forth.",
+        "id": "Mat.10.11#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to go out"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "δ᾽ stoi wewnątrz εἰς ἣν δ᾽ ἄν, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1,
+        3
+      ],
+      "uwaga": "ἣν ἂν oddane jako „któregokolwiek”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "πόλιν oddane jako „miasta”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἢ oddane jako „albo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "κώμην oddane jako „miasteczka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "εἰσέλθητε oddane jako „wnijdziecie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        7,
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐξετάσατε oddane jako „wywiadujcie się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "τίς oddane jako „ktoby”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "αὐτῇ oddane jako „niem”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [],
+      "uwaga": "„tego” jest kursywą w 1632. ἄξιός ἐστιν nie ma dopełnienia „tego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἐστιν oddane w zwrocie „ktoby ... był” jako „był”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἄξιός oddane jako „godzien”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        15,
+        16
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "κἀκεῖ, czyli καί i ἐκεῖ w jednym tokenie, oddane jako „a tamże”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "μείνατε oddane jako „mieszkajcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18,
+        19
+      ],
+      "zrodlo": [
+        16,
+        17
+      ],
+      "uwaga": "ἕως ἂν oddane zwrotem „póki nie”; „nie” domyka „aż” i nie jest przeczeniem μή."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ἐξέλθητε oddane jako „wynijdziecie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "„tego” jest kursywą przy ἄξιος, które nie ma dopełnienia. „póki nie” oddaje ἕως ἄν i nie przekreśla wyjścia. Reszta polecenia jest pokryta.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "εἰς ἣν δ᾽ ἂν πόλιν ἢ κώμην εἰσέλθητε BG oddaje jako „A do któregokolwiek miasta albo miasteczka wnijdziecie”, z δέ na początku.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τίς ἐν αὐτῇ ἄξιός ἐστιν nie ma dopełnienia. BG dodaje kursywę „tego” w „ktoby w niem tego był godzien”.",
+      "tokeny_bg": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "tokeny_zrodla": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A do kteréhožkoli města neb městečka vešli byste, vzeptejte se, kdo by v něm hodný byl, a tu pobuďte, až byste i vyšli odtud.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

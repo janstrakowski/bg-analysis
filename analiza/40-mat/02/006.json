@@ -1,0 +1,661 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.2.6",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 2,
+    "werset": 6
+  },
+  "tekst_bg": "I ty Betlehemie, ziemio Judzka! żadną miarą nie jesteś najmniejsze między książęty Judzkimi; albowiem z ciebie wynijdzie wódz, który rządzić będzie lud mój Izraelski.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "ty"
+    },
+    {
+      "i": 2,
+      "t": "Betlehemie"
+    },
+    {
+      "i": 3,
+      "t": "ziemio"
+    },
+    {
+      "i": 4,
+      "t": "Judzka"
+    },
+    {
+      "i": 5,
+      "t": "żadną"
+    },
+    {
+      "i": 6,
+      "t": "miarą"
+    },
+    {
+      "i": 7,
+      "t": "nie"
+    },
+    {
+      "i": 8,
+      "t": "jesteś"
+    },
+    {
+      "i": 9,
+      "t": "najmniejsze"
+    },
+    {
+      "i": 10,
+      "t": "między"
+    },
+    {
+      "i": 11,
+      "t": "książęty"
+    },
+    {
+      "i": 12,
+      "t": "Judzkimi"
+    },
+    {
+      "i": 13,
+      "t": "albowiem"
+    },
+    {
+      "i": 14,
+      "t": "z"
+    },
+    {
+      "i": 15,
+      "t": "ciebie"
+    },
+    {
+      "i": 16,
+      "t": "wynijdzie"
+    },
+    {
+      "i": 17,
+      "t": "wódz"
+    },
+    {
+      "i": 18,
+      "t": "który"
+    },
+    {
+      "i": 19,
+      "t": "rządzić"
+    },
+    {
+      "i": 20,
+      "t": "będzie"
+    },
+    {
+      "i": 21,
+      "t": "lud"
+    },
+    {
+      "i": 22,
+      "t": "mój"
+    },
+    {
+      "i": 23,
+      "t": "Izraelski"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.2.6",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.2.6",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.2.6#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "σὺ",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2NS",
+        "glosa": "you yourself",
+        "id": "Mat.2.6#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "you"
+      },
+      {
+        "t": "βηθλέεμ",
+        "lemma": "G0965",
+        "forma": "Βηθλεέμ",
+        "morph": "N-VSF-L",
+        "glosa": "Bethlehem",
+        "id": "Mat.2.6#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "Bethlehem"
+      },
+      {
+        "t": "γῆ",
+        "lemma": "G1093H",
+        "forma": "γῆ",
+        "morph": "N-VSF",
+        "glosa": "land",
+        "id": "Mat.2.6#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "earth: country"
+      },
+      {
+        "t": "Ἰούδα",
+        "lemma": "G2448",
+        "forma": "Ἰουδά",
+        "morph": "N-GSM-L",
+        "glosa": "of Judah,",
+        "id": "Mat.2.6#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Judah"
+      },
+      {
+        "t": "οὐδαμῶς",
+        "lemma": "G3760",
+        "forma": "οὐδαμῶς",
+        "morph": "ADV-N",
+        "glosa": "by no means",
+        "id": "Mat.2.6#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "by no means"
+      },
+      {
+        "t": "ἐλαχίστη",
+        "lemma": "G1646",
+        "forma": "ἐλάχιστος",
+        "morph": "A-NSF",
+        "glosa": "least",
+        "id": "Mat.2.6#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "least"
+      },
+      {
+        "t": "εἶ",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-2S",
+        "glosa": "are",
+        "id": "Mat.2.6#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "among",
+        "id": "Mat.2.6#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "the",
+        "id": "Mat.2.6#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἡγεμόσιν",
+        "lemma": "G2232",
+        "forma": "ἡγεμών",
+        "morph": "N-DPM",
+        "glosa": "rulers",
+        "id": "Mat.2.6#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "ruler"
+      },
+      {
+        "t": "Ἰούδα",
+        "lemma": "G2448",
+        "forma": "Ἰουδά",
+        "morph": "N-GSM-L",
+        "glosa": "of Judah;",
+        "id": "Mat.2.6#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "Judah"
+      },
+      {
+        "t": "ἐκ",
+        "lemma": "G1537",
+        "forma": "ἐκ",
+        "morph": "PREP",
+        "glosa": "out",
+        "id": "Mat.2.6#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "out from"
+      },
+      {
+        "t": "σοῦ",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.2.6#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "you"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.2.6#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "for"
+      },
+      {
+        "t": "ἐξελεύσεται",
+        "lemma": "G1831",
+        "forma": "ἐξέρχομαι",
+        "morph": "V-FDI-3S",
+        "glosa": "will go forth",
+        "id": "Mat.2.6#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to go out"
+      },
+      {
+        "t": "ἡγούμενος",
+        "lemma": "G2233",
+        "forma": "ἡγέομαι",
+        "morph": "V-PNP-NSM",
+        "glosa": "[One] leading",
+        "id": "Mat.2.6#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to govern"
+      },
+      {
+        "t": "ὅστις",
+        "lemma": "G3748",
+        "forma": "ὅστις",
+        "morph": "R-NSM",
+        "glosa": "who",
+        "id": "Mat.2.6#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "who/which"
+      },
+      {
+        "t": "ποιμανεῖ",
+        "lemma": "G4165",
+        "forma": "ποιμαίνω",
+        "morph": "V-FAI-3S",
+        "glosa": "will shepherd",
+        "id": "Mat.2.6#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to shepherd"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.2.6#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λαόν",
+        "lemma": "G2992",
+        "forma": "λαός",
+        "morph": "N-ASM",
+        "glosa": "people",
+        "id": "Mat.2.6#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "a people"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "of Mine",
+        "id": "Mat.2.6#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "me"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.2.6#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰσραήλ",
+        "lemma": "G2474",
+        "forma": "Ἰσραήλ",
+        "morph": "N-ASM-L",
+        "glosa": "Israel.’",
+        "id": "Mat.2.6#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "Israel"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καί oddane jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "σὺ oddane jako „ty”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "βηθλέεμ oddane jako „Betlehemie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "γῆ oddane jako „ziemio”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "Ἰούδα w dopełniaczu oddane przymiotnikiem „Judzka”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        6,
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "οὐδαμῶς, „by no means”, rozbite na „żadną miarą nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐλαχίστη oddane jako „najmniejsze”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "εἶ oddane jako „jesteś”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐν, glosa „among”, oddane jako „między”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τοῖς ἡγεμόσιν, glosa „rulers”, oddane jako „książęty”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "Drugie Ἰούδα oddane przymiotnikiem „Judzkimi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "γάρ stoi po ἐκ σοῦ, a BG daje „albowiem” przed „z ciebie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἐκ oddane jako „z”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "σοῦ oddane jako „ciebie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἐξελεύσεται oddane jako „wynijdzie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἡγούμενος, imiesłów „leading”, oddane rzeczownikiem „wódz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ὅστις oddane jako „który”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        19,
+        20
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ποιμανεῖ, „will shepherd”, rozbite na „rządzić będzie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        19,
+        20
+      ],
+      "uwaga": "τὸν λαόν oddane jako „lud”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "μου oddane jako „mój”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        22,
+        23
+      ],
+      "uwaga": "τὸν Ἰσραήλ oddane przymiotnikiem „Izraelski”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_przesuniety",
+    "uzasadnienie": "Pokrycie słów jest pełne, ale ποιμανεῖ znaczy „will shepherd”, a polski czasownik „rządzić” mówi o rządzeniu, nie o pasieniu.",
+    "tokeny_bg": [
+      19
+    ],
+    "tokeny_zrodla": [
+      18
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ποιμανεῖ ma glosę „will shepherd” i leksykon „to shepherd”. BG daje „rządzić będzie”.",
+      "tokeny_bg": [
+        19,
+        20
+      ],
+      "tokeny_zrodla": [
+        18
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὐδαμῶς ἐλαχίστη εἶ oddane jako „żadną miarą nie jesteś najmniejsze”; przeczenie zostaje to samo.",
+      "tokeny_bg": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A ty Betléme, země Judská, nikoli nejsi nejmenší mezi knížaty Judskými; neboť z tebe vyjde Vývoda, kterýž pásti bude lid můj Izraelský.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

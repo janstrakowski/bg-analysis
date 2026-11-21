@@ -1,0 +1,424 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.3.5",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 3,
+    "werset": 5
+  },
+  "tekst_bg": "Tedy wychodziło do niego Jeruzalem i wszystka Judzka ziemia i wszystka kraina około Jordanu;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tedy"
+    },
+    {
+      "i": 1,
+      "t": "wychodziło"
+    },
+    {
+      "i": 2,
+      "t": "do"
+    },
+    {
+      "i": 3,
+      "t": "niego"
+    },
+    {
+      "i": 4,
+      "t": "Jeruzalem"
+    },
+    {
+      "i": 5,
+      "t": "i"
+    },
+    {
+      "i": 6,
+      "t": "wszystka"
+    },
+    {
+      "i": 7,
+      "t": "Judzka"
+    },
+    {
+      "i": 8,
+      "t": "ziemia"
+    },
+    {
+      "i": 9,
+      "t": "i"
+    },
+    {
+      "i": 10,
+      "t": "wszystka"
+    },
+    {
+      "i": 11,
+      "t": "kraina"
+    },
+    {
+      "i": 12,
+      "t": "około"
+    },
+    {
+      "i": 13,
+      "t": "Jordanu"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.3.5",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.3.5",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "At that time",
+        "id": "Mat.3.5#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐξεπορεύετο",
+        "lemma": "G1607",
+        "forma": "ἐκπορεύω",
+        "morph": "V-INI-3S",
+        "glosa": "were going out",
+        "id": "Mat.3.5#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to depart"
+      },
+      {
+        "t": "πρὸς",
+        "lemma": "G4314",
+        "forma": "πρός",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.3.5#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to/with"
+      },
+      {
+        "t": "αὐτὸν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "him",
+        "id": "Mat.3.5#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "Ἱεροσόλυμα",
+        "lemma": "G2414",
+        "forma": "Ἱεροσόλυμα",
+        "morph": "N-NPN-L",
+        "glosa": "Jerusalem",
+        "id": "Mat.3.5#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Jerusalem"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.3.5#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "and"
+      },
+      {
+        "t": "πᾶσα",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NSF",
+        "glosa": "all",
+        "id": "Mat.3.5#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "all"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "<the>",
+        "id": "Mat.3.5#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰουδαία",
+        "lemma": "G2449",
+        "forma": "Ἰουδαία",
+        "morph": "N-NSF-L",
+        "glosa": "Judea",
+        "id": "Mat.3.5#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "Judea"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.3.5#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "πᾶσα",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NSF",
+        "glosa": "all",
+        "id": "Mat.3.5#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "all"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.3.5#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "περίχωρος",
+        "lemma": "G4066",
+        "forma": "περίχωρος",
+        "morph": "N-NSF",
+        "glosa": "region around",
+        "id": "Mat.3.5#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "region"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.3.5#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰορδάνου",
+        "lemma": "G2446",
+        "forma": "Ἰορδάνης",
+        "morph": "N-GSM-L",
+        "glosa": "Jordan,",
+        "id": "Mat.3.5#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "Jordan"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Τότε oddane jako „Tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐξεπορεύετο, imperfectum, oddane jako „wychodziło”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "πρὸς oddane jako „do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "αὐτὸν oddane jako „niego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "Ἱεροσόλυμα oddane jako „Jeruzalem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "πᾶσα oddane jako „wszystka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7,
+        8
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "ἡ Ἰουδαία oddane jako „Judzka ziemia”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "πᾶσα oddane jako „wszystka”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "ἡ περίχωρος oddane jako „kraina”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12,
+        13
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τοῦ Ἰορδάνου, dopełniacz, oddane jako „około Jordanu”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. ἡ Ἰουδαία jest „Judzka ziemia”, a dopełniacz τοῦ Ἰορδάνου „około Jordanu”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐξεπορεύετο πρὸς αὐτὸν Ἱεροσόλυμα καὶ πᾶσα ἡ Ἰουδαία BG oddaje jako „wychodziło do niego Jeruzalem i wszystka Judzka ziemia”.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Tedy vycházeli k němu z Jeruzaléma a ze všeho Judstva, i ze vší krajiny ležící při Jordánu,",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

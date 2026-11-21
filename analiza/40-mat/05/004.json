@@ -1,0 +1,235 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.4",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 4
+  },
+  "tekst_bg": "Błogosławieni, którzy się smęcą; albowiem pocieszeni będą.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Błogosławieni"
+    },
+    {
+      "i": 1,
+      "t": "którzy"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "smęcą"
+    },
+    {
+      "i": 4,
+      "t": "albowiem"
+    },
+    {
+      "i": 5,
+      "t": "pocieszeni"
+    },
+    {
+      "i": 6,
+      "t": "będą"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.4",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.4",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Μακάριοι",
+        "lemma": "G3107",
+        "forma": "μακάριος",
+        "morph": "A-NPM",
+        "glosa": "Blessed [are]",
+        "id": "Mat.5.4#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "blessed"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "those",
+        "id": "Mat.5.4#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πενθοῦντες",
+        "lemma": "G3996",
+        "forma": "πενθέω",
+        "morph": "V-PAP-NPM",
+        "glosa": "mourning,",
+        "id": "Mat.5.4#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to mourn"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.5.4#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "αὐτοὶ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-NPM",
+        "glosa": "they themselves",
+        "id": "Mat.5.4#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "παρακληθήσονται",
+        "lemma": "G3870",
+        "forma": "παρακαλέω",
+        "morph": "V-FPI-3P",
+        "glosa": "will be comforted.",
+        "id": "Mat.5.4#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to plead/comfort"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Μακάριοι oddane jako „Błogosławieni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "οἱ, rodzajnik przy imiesłowie, oddane jako „którzy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "πενθοῦντες, imiesłów czynny, oddane jako „się smęcą”.",
+      "wyjatek_kursywy": "„smęcą” oddaje πενθοῦντες, które w TR jest; kursywa 1632 stoi przy wyrazie obecnym w grece."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὅτι oddane jako „albowiem”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτοὶ, zaimek mianownika, nie ma w polskim zdaniu osobnego słowa."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "παρακληθήσονται, futurum bierne, oddane jako „pocieszeni będą”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Zaimek αὐτοὶ nie ma polskiego odpowiednika. Reszta błogosławieństwa jest pokryta, a kursywa przy „smęcą” dotyczy wyrazu, który w TR jest.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      4
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "αὐτοὶ stoi w TR przed παρακληθήσονται, a w polskim „albowiem pocieszeni będą” nie ma zaimka.",
+      "tokeny_bg": [
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        4,
+        5
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πενθοῦντες to imiesłów strony czynnej; „smęcą” jest jego odpowiednikiem mimo kursywy 1632, a „się” należy do polskiego czasownika.",
+      "tokeny_bg": [
+        2,
+        3
+      ],
+      "tokeny_zrodla": [
+        2
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Blahoslavení lkající, nebo oni potěšeni budou.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

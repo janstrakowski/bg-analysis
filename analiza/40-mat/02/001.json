@@ -1,0 +1,581 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.2.1",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 2,
+    "werset": 1
+  },
+  "tekst_bg": "A gdy się Jezus narodził w Betlehemie Judzkiem za dnia Heroda króla, oto mędrcy ze wschodu słońca przybyli do Jeruzalemu, mówiąc:",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "Jezus"
+    },
+    {
+      "i": 4,
+      "t": "narodził"
+    },
+    {
+      "i": 5,
+      "t": "w"
+    },
+    {
+      "i": 6,
+      "t": "Betlehemie"
+    },
+    {
+      "i": 7,
+      "t": "Judzkiem"
+    },
+    {
+      "i": 8,
+      "t": "za"
+    },
+    {
+      "i": 9,
+      "t": "dnia"
+    },
+    {
+      "i": 10,
+      "t": "Heroda"
+    },
+    {
+      "i": 11,
+      "t": "króla"
+    },
+    {
+      "i": 12,
+      "t": "oto"
+    },
+    {
+      "i": 13,
+      "t": "mędrcy"
+    },
+    {
+      "i": 14,
+      "t": "ze"
+    },
+    {
+      "i": 15,
+      "t": "wschodu"
+    },
+    {
+      "i": 16,
+      "t": "słońca"
+    },
+    {
+      "i": 17,
+      "t": "przybyli"
+    },
+    {
+      "i": 18,
+      "t": "do"
+    },
+    {
+      "i": 19,
+      "t": "Jeruzalemu"
+    },
+    {
+      "i": 20,
+      "t": "mówiąc"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.2.1",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.2.1",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "<the>",
+        "id": "Mat.2.1#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "Now",
+        "id": "Mat.2.1#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "Ἰησοῦ",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-GSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.2.1#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "γεννηθέντος",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-APP-GSM",
+        "glosa": "having been born",
+        "id": "Mat.2.1#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.2.1#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "Βηθλέεμ",
+        "lemma": "G0965",
+        "forma": "Βηθλεέμ",
+        "morph": "N-DSF-L",
+        "glosa": "Bethlehem",
+        "id": "Mat.2.1#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Bethlehem"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "<the>",
+        "id": "Mat.2.1#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰουδαίας",
+        "lemma": "G2449",
+        "forma": "Ἰουδαία",
+        "morph": "N-GSF-L",
+        "glosa": "of Judea",
+        "id": "Mat.2.1#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "Judea"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.2.1#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ἡμέραις",
+        "lemma": "G2250",
+        "forma": "ἡμέρα",
+        "morph": "N-DPF",
+        "glosa": "[the] days",
+        "id": "Mat.2.1#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "day"
+      },
+      {
+        "t": "Ἡρῴδου",
+        "lemma": "G2264G",
+        "forma": "Ἡρώδης",
+        "morph": "N-GSM-P",
+        "glosa": "of Herod",
+        "id": "Mat.2.1#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "Herod"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.2.1#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βασιλέως",
+        "lemma": "G0935",
+        "forma": "βασιλεύς",
+        "morph": "N-GSM",
+        "glosa": "king",
+        "id": "Mat.2.1#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "king"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "behold",
+        "id": "Mat.2.1#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "look!"
+      },
+      {
+        "t": "μάγοι",
+        "lemma": "G3097",
+        "forma": "μάγος",
+        "morph": "N-NPM",
+        "glosa": "Magi",
+        "id": "Mat.2.1#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "sage"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from [the]",
+        "id": "Mat.2.1#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "away from"
+      },
+      {
+        "t": "ἀνατολῶν",
+        "lemma": "G0395",
+        "forma": "ἀνατολή",
+        "morph": "N-GPF",
+        "glosa": "east",
+        "id": "Mat.2.1#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "east"
+      },
+      {
+        "t": "παρεγένοντο",
+        "lemma": "G3854",
+        "forma": "παραγίνομαι",
+        "morph": "V-2ADI-3P",
+        "glosa": "arrived",
+        "id": "Mat.2.1#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to come"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.2.1#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "toward"
+      },
+      {
+        "t": "Ἱεροσόλυμα",
+        "lemma": "G2414",
+        "forma": "Ἱεροσόλυμα",
+        "morph": "N-APN-L",
+        "glosa": "Jerusalem",
+        "id": "Mat.2.1#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "Jerusalem"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po rodzajniku, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "uwaga": "Τοῦ Ἰησοῦ oddane jako „Jezus”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2,
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "γεννηθέντος, imiesłów bierny, rozbite na zdanie „gdy się narodził”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Βηθλέεμ oddane jako „Betlehemie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τῆς Ἰουδαίας oddane przymiotnikiem „Judzkiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Drugie ἐν przy ἡμέραις oddane jako „za”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἡμέραις, liczba mnoga, oddane liczbą pojedynczą „dnia”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "Ἡρῴδου oddane jako „Heroda”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τοῦ βασιλέως oddane jako „króla”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἰδοὺ oddane jako „oto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "μάγοι oddane jako „mędrcy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἀπὸ oddane jako „ze”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἀνατολῶν, glosa „east”, oddane jako „wschodu”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [],
+      "uwaga": "„słońca” nie ma w grece; przy ἀνατολῶν nie stoi ἥλιος.",
+      "uzasadnienie": "„wschód słońca” dopowiada słońce. W 2,9 to samo „słońca” jest kursywą 1632."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "παρεγένοντο oddane jako „przybyli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "Ἱεροσόλυμα oddane jako „Jeruzalemu”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        20
+      ],
+      "zrodlo": [],
+      "uwaga": "„mówiąc” nie ma tokenu w grece tego wersetu, który kończy się na Ἱεροσόλυμα.",
+      "uzasadnienie": "Imiesłów mowy TR stawia jako λέγοντες na początku 2,2. BG przenosi go na koniec 2,1."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „słońca” dopowiada słońce przy ἀνατολῶν, a „mówiąc” stoi tu za λέγοντες z następnego wersetu. Sens zdarzenia zostaje ten sam.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Τοῦ δὲ Ἰησοῦ γεννηθέντος to genetivus absolutus. BG rozbija imiesłów bierny na „A gdy się Jezus narodził”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀνατολῶν nie ma przy sobie rzeczownika „słońce”, a greka urywa się na Ἱεροσόλυμα. „słońca” i „mówiąc” są dopowiedzeniami.",
+      "tokeny_bg": [
+        15,
+        16,
+        20
+      ],
+      "tokeny_zrodla": [
+        16,
+        19
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Když se pak narodil Ježíš v Betlémě Judově, za dnů Herodesa krále, aj, mudrci od východu slunce přijeli do Jeruzaléma,",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

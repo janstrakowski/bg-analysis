@@ -1,0 +1,364 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.1",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 1
+  },
+  "tekst_bg": "Tedy wstąpiwszy w łódź, przewiózł się, i przyszedł do miasta swego;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tedy"
+    },
+    {
+      "i": 1,
+      "t": "wstąpiwszy"
+    },
+    {
+      "i": 2,
+      "t": "w"
+    },
+    {
+      "i": 3,
+      "t": "łódź"
+    },
+    {
+      "i": 4,
+      "t": "przewiózł"
+    },
+    {
+      "i": 5,
+      "t": "się"
+    },
+    {
+      "i": 6,
+      "t": "i"
+    },
+    {
+      "i": 7,
+      "t": "przyszedł"
+    },
+    {
+      "i": 8,
+      "t": "do"
+    },
+    {
+      "i": 9,
+      "t": "miasta"
+    },
+    {
+      "i": 10,
+      "t": "swego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.1",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.1",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.1#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐμβὰς",
+        "lemma": "G1684",
+        "forma": "ἐμβαίνω",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having climbed",
+        "id": "Mat.9.1#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to climb"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.9.1#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "<the>",
+        "id": "Mat.9.1#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πλοῖον",
+        "lemma": "G4143",
+        "forma": "πλοῖον",
+        "morph": "N-ASN",
+        "glosa": "a boat",
+        "id": "Mat.9.1#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "boat"
+      },
+      {
+        "t": "διεπέρασεν",
+        "lemma": "G1276",
+        "forma": "διαπεράω",
+        "morph": "V-AAI-3S",
+        "glosa": "He passed over",
+        "id": "Mat.9.1#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to cross"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.1#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἦλθεν",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAI-3S",
+        "glosa": "came",
+        "id": "Mat.9.1#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.9.1#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "<the>",
+        "id": "Mat.9.1#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἰδίαν",
+        "lemma": "G2398",
+        "forma": "ἴδιος",
+        "morph": "A-ASF",
+        "glosa": "[his] own",
+        "id": "Mat.9.1#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "one's own/private"
+      },
+      {
+        "t": "πόλιν",
+        "lemma": "G4172",
+        "forma": "πόλις",
+        "morph": "N-ASF",
+        "glosa": "city.",
+        "id": "Mat.9.1#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "city"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Καὶ oddane na początku jako „Tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐμβὰς oddane imiesłowem „wstąpiwszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "εἰς oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τὸ πλοῖον oddane jako „łódź”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "διεπέρασεν, strona czynna, oddane zwrotem „przewiózł się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἦλθεν oddane jako „przyszedł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Drugie εἰς oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9,
+        11
+      ],
+      "uwaga": "τὴν πόλιν oddane jako „miasta”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἰδίαν, „one's own”, oddane jako „swego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token grecki ma polski odpowiednik. „przewiózł się” rozbija jeden czasownik, a rodzajniki wchodzą w „łódź” i „miasta”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Καὶ ἐμβὰς εἰς τὸ πλοῖον διεπέρασεν καὶ ἦλθεν εἰς τὴν ἰδίαν πόλιν nie ma osobnego podmiotu. BG oddaje to jako „Tedy wstąpiwszy w łódź, przewiózł się, i przyszedł do miasta swego”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A vstoupiv na lodí, přeplavil se, a přišel do města svého.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

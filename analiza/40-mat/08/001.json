@@ -1,0 +1,323 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.1",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 1
+  },
+  "tekst_bg": "A gdy zstępował z góry, szedł za nim lud wielki;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "zstępował"
+    },
+    {
+      "i": 3,
+      "t": "z"
+    },
+    {
+      "i": 4,
+      "t": "góry"
+    },
+    {
+      "i": 5,
+      "t": "szedł"
+    },
+    {
+      "i": 6,
+      "t": "za"
+    },
+    {
+      "i": 7,
+      "t": "nim"
+    },
+    {
+      "i": 8,
+      "t": "lud"
+    },
+    {
+      "i": 9,
+      "t": "wielki"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.1",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.1",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Καταβάντι",
+        "lemma": "G2597",
+        "forma": "Καταβάντι",
+        "morph": "V-2AAP-DSM",
+        "glosa": "Having come down",
+        "id": "Mat.8.1#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to come/go down"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.8.1#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτῷ",
+        "morph": "P-DSM",
+        "glosa": "He",
+        "id": "Mat.8.1#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.8.1#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "away from"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSN",
+        "glosa": "the",
+        "id": "Mat.8.1#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὄρους",
+        "lemma": "G3735",
+        "forma": "ὄρος",
+        "morph": "N-GSN",
+        "glosa": "mountain",
+        "id": "Mat.8.1#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "mountain"
+      },
+      {
+        "t": "ἠκολούθησαν",
+        "lemma": "G0190",
+        "forma": "ἀκολουθέω",
+        "morph": "V-AAI-3P",
+        "glosa": "followed",
+        "id": "Mat.8.1#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to follow"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "Him",
+        "id": "Mat.8.1#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὄχλοι",
+        "lemma": "G3793",
+        "forma": "ὄχλος",
+        "morph": "N-NPM",
+        "glosa": "crowds",
+        "id": "Mat.8.1#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "crowd"
+      },
+      {
+        "t": "πολλοί",
+        "lemma": "G4183",
+        "forma": "πολύς",
+        "morph": "A-NPM",
+        "glosa": "great.",
+        "id": "Mat.8.1#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "much"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po imiesłowie, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Καταβάντι, imiesłów aorystu, rozbite na zdanie „gdy zstępował”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "αὐτῷ przy imiesłowie Καταβάντι nie ma polskiego słowa; nie ma tu „on”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀπὸ oddane jako „z”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τοῦ ὄρους oddane jako „góry”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἠκολούθησαν, liczba mnoga, oddane jako „szedł” przy podmiocie „lud”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "αὐτῷ, celownik przy ἀκολουθέω, oddane jako „za nim”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ὄχλοι, liczba mnoga, oddane jako „lud”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "πολλοί oddane jako „wielki”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Zaimek αὐτῷ przy imiesłowie Καταβάντι nie ma odpowiednika. Reszta tokenów jest pokryta, a „lud wielki” nazywa te same tłumy.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      2
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Καταβάντι αὐτῷ to imiesłów z celownikiem podmiotu. BG ma „gdy zstępował” i nie daje osobnego słowa dla αὐτῷ.",
+      "tokeny_bg": [
+        1,
+        2
+      ],
+      "tokeny_zrodla": [
+        0,
+        2
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὄχλοι πολλοί i ἠκολούθησαν są w liczbie mnogiej. BG nazywa ten tłum w liczbie pojedynczej: „szedł … lud wielki”.",
+      "tokeny_bg": [
+        5,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        6,
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A když sstupoval s hory, šli za ním zástupové mnozí.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

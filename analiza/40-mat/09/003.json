@@ -1,0 +1,327 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.3",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 3
+  },
+  "tekst_bg": "A oto niektórzy z nauczonych w Piśmie mówili sami w sobie: Ten bluźni.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "oto"
+    },
+    {
+      "i": 2,
+      "t": "niektórzy"
+    },
+    {
+      "i": 3,
+      "t": "z"
+    },
+    {
+      "i": 4,
+      "t": "nauczonych"
+    },
+    {
+      "i": 5,
+      "t": "w"
+    },
+    {
+      "i": 6,
+      "t": "Piśmie"
+    },
+    {
+      "i": 7,
+      "t": "mówili"
+    },
+    {
+      "i": 8,
+      "t": "sami"
+    },
+    {
+      "i": 9,
+      "t": "w"
+    },
+    {
+      "i": 10,
+      "t": "sobie"
+    },
+    {
+      "i": 11,
+      "t": "Ten"
+    },
+    {
+      "i": 12,
+      "t": "bluźni"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.3",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.3",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.3#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδού",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "behold",
+        "id": "Mat.9.3#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "look!"
+      },
+      {
+        "t": "τινες",
+        "lemma": "G5100",
+        "forma": "τις",
+        "morph": "X-NPM",
+        "glosa": "some",
+        "id": "Mat.9.3#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "one"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.9.3#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γραμματέων",
+        "lemma": "G1122",
+        "forma": "γραμματεύς",
+        "morph": "N-GPM",
+        "glosa": "scribes",
+        "id": "Mat.9.3#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "scribe"
+      },
+      {
+        "t": "εἶπαν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAI-3P",
+        "glosa": "said",
+        "id": "Mat.9.3#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.9.3#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ἑαυτοῖς",
+        "lemma": "G1438",
+        "forma": "ἑαυτοῦ",
+        "morph": "F-3DPM",
+        "glosa": "themselves;",
+        "id": "Mat.9.3#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "themself"
+      },
+      {
+        "t": "οὗτος",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-NSM",
+        "glosa": "This [man]",
+        "id": "Mat.9.3#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "βλασφημεῖ",
+        "lemma": "G0987",
+        "forma": "βλασφημέω",
+        "morph": "V-PAI-3S",
+        "glosa": "blasphemes!",
+        "id": "Mat.9.3#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to blaspheme"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane na początku jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἰδού oddane jako „oto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "τινες oddane jako „niektórzy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τῶν γραμματέων, „of the scribes”, oddane jako „z nauczonych w Piśmie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "εἶπαν oddane jako „mówili”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        10
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἑαυτοῖς, „themselves”, oddane jako „sami” i „sobie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "οὗτος oddane jako „Ten”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "βλασφημεῖ oddane jako „bluźni”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token grecki ma polski odpowiednik. „z nauczonych w Piśmie” rozbija τῶν γραμματέων, a „sami” i „sobie” rozbijają ἑαυτοῖς.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "γραμματέων jest jednym rzeczownikiem „scribe”. BG oddaje τῶν γραμματέων całym zwrotem „z nauczonych w Piśmie”.",
+      "tokeny_bg": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A aj, někteří z zákoníků řekli sami v sobě: Tento se rouhá.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

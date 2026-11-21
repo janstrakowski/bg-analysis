@@ -1,0 +1,532 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.1.5",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 1,
+    "werset": 5
+  },
+  "tekst_bg": "A Salmon spłodził Booza z Rachaby, a Booz spłodził Obeda z Ruty, a Obed spłodził Jessego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "Salmon"
+    },
+    {
+      "i": 2,
+      "t": "spłodził"
+    },
+    {
+      "i": 3,
+      "t": "Booza"
+    },
+    {
+      "i": 4,
+      "t": "z"
+    },
+    {
+      "i": 5,
+      "t": "Rachaby"
+    },
+    {
+      "i": 6,
+      "t": "a"
+    },
+    {
+      "i": 7,
+      "t": "Booz"
+    },
+    {
+      "i": 8,
+      "t": "spłodził"
+    },
+    {
+      "i": 9,
+      "t": "Obeda"
+    },
+    {
+      "i": 10,
+      "t": "z"
+    },
+    {
+      "i": 11,
+      "t": "Ruty"
+    },
+    {
+      "i": 12,
+      "t": "a"
+    },
+    {
+      "i": 13,
+      "t": "Obed"
+    },
+    {
+      "i": 14,
+      "t": "spłodził"
+    },
+    {
+      "i": 15,
+      "t": "Jessego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.1.5",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.1.5",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Σαλμὼν",
+        "lemma": "G4533",
+        "forma": "Σαλμών",
+        "morph": "N-NSM-P",
+        "glosa": "Salmon",
+        "id": "Mat.1.5#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "Salmon"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.5#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.5#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.5#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Βόες",
+        "lemma": "G1003",
+        "forma": "Βοόζ",
+        "morph": "N-ASM-P",
+        "glosa": "Boaz",
+        "id": "Mat.1.5#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Boaz"
+      },
+      {
+        "t": "ἐκ",
+        "lemma": "G1537",
+        "forma": "ἐκ",
+        "morph": "PREP",
+        "glosa": "out of",
+        "id": "Mat.1.5#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "out from"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "<the>",
+        "id": "Mat.1.5#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ῥαχάβ",
+        "lemma": "G4477",
+        "forma": "Ῥαχάβ",
+        "morph": "N-GSF-P",
+        "glosa": "Rahab;",
+        "id": "Mat.1.5#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "Rahab"
+      },
+      {
+        "t": "Βόες",
+        "lemma": "G1003",
+        "forma": "Βοόζ",
+        "morph": "N-NSM-P",
+        "glosa": "Boaz",
+        "id": "Mat.1.5#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "Boaz"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.5#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.5#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.5#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰωβὴδ",
+        "lemma": "G5601",
+        "forma": "Ὠβήδ",
+        "morph": "N-ASM-P",
+        "glosa": "Obed",
+        "id": "Mat.1.5#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "Obed"
+      },
+      {
+        "t": "ἐκ",
+        "lemma": "G1537",
+        "forma": "ἐκ",
+        "morph": "PREP",
+        "glosa": "out of",
+        "id": "Mat.1.5#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "out from"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "<the>",
+        "id": "Mat.1.5#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ῥούθ",
+        "lemma": "G4503",
+        "forma": "Ῥούθ",
+        "morph": "N-GSF-P",
+        "glosa": "Ruth;",
+        "id": "Mat.1.5#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "Ruth"
+      },
+      {
+        "t": "Ἰωβὴδ",
+        "lemma": "G5601",
+        "forma": "Ὠβήδ",
+        "morph": "N-NSM-P",
+        "glosa": "Obed",
+        "id": "Mat.1.5#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "Obed"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.5#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.5#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.5#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰεσσαί",
+        "lemma": "G2421",
+        "forma": "Ἰεσσαί",
+        "morph": "N-ASM-P",
+        "glosa": "Jesse;",
+        "id": "Mat.1.5#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "Jesse"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "Σαλμὼν oddane jako „Salmon”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Βόες oddane jako „Booza”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐκ oddane jako „z”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "rola": "zlanie",
+      "uwaga": "τῆς Ῥαχάβ oddane jako „Rachaby”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG stawia je przed imieniem jako „a”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "Βόες oddane jako „Booz”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ἰωβὴδ oddane jako „Obeda”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        13
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐκ oddane jako „z”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "rola": "zlanie",
+      "uwaga": "τῆς Ῥούθ oddane jako „Ruty”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        17
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG stawia je przed imieniem jako „a”."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        16
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἰωβὴδ oddane jako „Obed”."
+    },
+    {
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        18
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        19,
+        20
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ἰεσσαί oddane jako „Jessego”, a rodzajnik nie ma osobnego słowa."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. ἐκ τῆς Ῥαχάβ i ἐκ τῆς Ῥούθ schodzą się w „z Rachaby” i „z Ruty”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐκ τῆς Ῥαχάβ BG oddaje jako „z Rachaby”, a ἐκ τῆς Ῥούθ jako „z Ruty”.",
+      "tokeny_bg": [
+        4,
+        5,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        5,
+        6,
+        7,
+        13,
+        14,
+        15
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Salmon zplodil Bóza z Raab. A Bóz zplodil Obéda z Rut. Obéd pak zplodil Jesse.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

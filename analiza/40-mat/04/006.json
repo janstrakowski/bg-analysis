@@ -1,0 +1,859 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.6",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 6
+  },
+  "tekst_bg": "I rzekł mu: Jeźliś jest Syn Boży, spuść się na dół, albowiem napisano: Iż Aniołom swoim przykazał o tobie, i będą cię na rękach nosili, abyś snać nie obraził o kamień nogi swojej.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "rzekł"
+    },
+    {
+      "i": 2,
+      "t": "mu"
+    },
+    {
+      "i": 3,
+      "t": "Jeźliś"
+    },
+    {
+      "i": 4,
+      "t": "jest"
+    },
+    {
+      "i": 5,
+      "t": "Syn"
+    },
+    {
+      "i": 6,
+      "t": "Boży"
+    },
+    {
+      "i": 7,
+      "t": "spuść"
+    },
+    {
+      "i": 8,
+      "t": "się"
+    },
+    {
+      "i": 9,
+      "t": "na"
+    },
+    {
+      "i": 10,
+      "t": "dół"
+    },
+    {
+      "i": 11,
+      "t": "albowiem"
+    },
+    {
+      "i": 12,
+      "t": "napisano"
+    },
+    {
+      "i": 13,
+      "t": "Iż"
+    },
+    {
+      "i": 14,
+      "t": "Aniołom"
+    },
+    {
+      "i": 15,
+      "t": "swoim"
+    },
+    {
+      "i": 16,
+      "t": "przykazał"
+    },
+    {
+      "i": 17,
+      "t": "o"
+    },
+    {
+      "i": 18,
+      "t": "tobie"
+    },
+    {
+      "i": 19,
+      "t": "i"
+    },
+    {
+      "i": 20,
+      "t": "będą"
+    },
+    {
+      "i": 21,
+      "t": "cię"
+    },
+    {
+      "i": 22,
+      "t": "na"
+    },
+    {
+      "i": 23,
+      "t": "rękach"
+    },
+    {
+      "i": 24,
+      "t": "nosili"
+    },
+    {
+      "i": 25,
+      "t": "abyś"
+    },
+    {
+      "i": 26,
+      "t": "snać"
+    },
+    {
+      "i": 27,
+      "t": "nie"
+    },
+    {
+      "i": 28,
+      "t": "obraził"
+    },
+    {
+      "i": 29,
+      "t": "o"
+    },
+    {
+      "i": 30,
+      "t": "kamień"
+    },
+    {
+      "i": 31,
+      "t": "nogi"
+    },
+    {
+      "i": 32,
+      "t": "swojej"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.6",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.6",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.6#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "λέγει",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-3S",
+        "glosa": "says",
+        "id": "Mat.4.6#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to him;",
+        "id": "Mat.4.6#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "εἰ",
+        "lemma": "G1487G",
+        "forma": "εἰ",
+        "morph": "COND",
+        "glosa": "If",
+        "id": "Mat.4.6#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "if"
+      },
+      {
+        "t": "υἱὸς",
+        "lemma": "G5207",
+        "forma": "υἱός",
+        "morph": "N-NSM",
+        "glosa": "Son",
+        "id": "Mat.4.6#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "son"
+      },
+      {
+        "t": "εἶ",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-2S",
+        "glosa": "You are",
+        "id": "Mat.4.6#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to be"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "<the>",
+        "id": "Mat.4.6#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θεοῦ",
+        "lemma": "G2316",
+        "forma": "θεός",
+        "morph": "N-GSM-T",
+        "glosa": "of God,",
+        "id": "Mat.4.6#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "God"
+      },
+      {
+        "t": "βάλε",
+        "lemma": "G0906G",
+        "forma": "βάλλω",
+        "morph": "V-2AAM-2S",
+        "glosa": "do throw",
+        "id": "Mat.4.6#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to throw: throw"
+      },
+      {
+        "t": "σεαυτὸν",
+        "lemma": "G4771",
+        "forma": "σεαυτοῦ",
+        "morph": "F-2ASM",
+        "glosa": "Yourself",
+        "id": "Mat.4.6#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "you"
+      },
+      {
+        "t": "κάτω",
+        "lemma": "G2736",
+        "forma": "κάτω",
+        "morph": "PREP",
+        "glosa": "down;",
+        "id": "Mat.4.6#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "under"
+      },
+      {
+        "t": "γέγραπται",
+        "lemma": "G1125",
+        "forma": "γράφω",
+        "morph": "V-RPI-3S",
+        "glosa": "it has been written",
+        "id": "Mat.4.6#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to write"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.4.6#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "for"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.4.6#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "To the",
+        "id": "Mat.4.6#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀγγέλοις",
+        "lemma": "G0032G",
+        "forma": "ἄγγελος",
+        "morph": "N-DPM",
+        "glosa": "angels",
+        "id": "Mat.4.6#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "angel"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him",
+        "id": "Mat.4.6#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐντελεῖται",
+        "lemma": "G1781",
+        "forma": "ἐντέλλω",
+        "morph": "V-FNI-3S",
+        "glosa": "He will give orders",
+        "id": "Mat.4.6#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to order"
+      },
+      {
+        "t": "περὶ",
+        "lemma": "G4012",
+        "forma": "περί",
+        "morph": "PREP",
+        "glosa": "concerning",
+        "id": "Mat.4.6#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "about"
+      },
+      {
+        "t": "σοῦ",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "You,",
+        "id": "Mat.4.6#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "you"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.6#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.4.6#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "χειρῶν",
+        "lemma": "G5495",
+        "forma": "χείρ",
+        "morph": "N-GPF",
+        "glosa": "[their] hands",
+        "id": "Mat.4.6#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "hand"
+      },
+      {
+        "t": "ἀροῦσίν",
+        "lemma": "G0142",
+        "forma": "αἴρω",
+        "morph": "V-FAI-3P",
+        "glosa": "will they bear up",
+        "id": "Mat.4.6#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "to take up"
+      },
+      {
+        "t": "σε",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2AS",
+        "glosa": "You",
+        "id": "Mat.4.6#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "you"
+      },
+      {
+        "t": "μήποτε",
+        "lemma": "G3361",
+        "forma": "μήποτε",
+        "morph": "PRT-N + G4218=PRT",
+        "glosa": "otherwise",
+        "id": "Mat.4.6#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "not"
+      },
+      {
+        "t": "προσκόψῃς",
+        "lemma": "G4350",
+        "forma": "προσκόπτω",
+        "morph": "V-AAS-2S",
+        "glosa": "You may strike",
+        "id": "Mat.4.6#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "to strike"
+      },
+      {
+        "t": "πρὸς",
+        "lemma": "G4314",
+        "forma": "πρός",
+        "morph": "PREP",
+        "glosa": "against",
+        "id": "Mat.4.6#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "to/with"
+      },
+      {
+        "t": "λίθον",
+        "lemma": "G3037",
+        "forma": "λίθος",
+        "morph": "N-ASM",
+        "glosa": "a stone",
+        "id": "Mat.4.6#29",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "stone"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.4.6#30",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πόδα",
+        "lemma": "G4228",
+        "forma": "πούς",
+        "morph": "N-ASM",
+        "glosa": "foot",
+        "id": "Mat.4.6#31",
+        "jezyk": "grc",
+        "i": 30,
+        "leksykon": "foot"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of You.’",
+        "id": "Mat.4.6#32",
+        "jezyk": "grc",
+        "i": 31,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "λέγει, czas teraźniejszy, oddane przeszłym „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "εἰ oddane jako „Jeźliś”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "εἶ oddane jako „jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "υἱὸς oddane jako „Syn”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τοῦ θεοῦ oddane przymiotnikiem „Boży”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "βάλε, glosa „do throw”, oddane jako „spuść”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "σεαυτὸν oddane jako „się”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "κάτω oddane jako „na dół”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "γὰρ stoi po γέγραπται, a BG wynosi je przed czasownik jako „albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "γέγραπται oddane jako „napisano”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ὅτι oddane jako „Iż”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "τοῖς ἀγγέλοις oddane jako „Aniołom”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "αὐτοῦ oddane jako „swoim”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἐντελεῖται, czas przyszły „nakaże”, oddane przeszłym „przykazał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "περὶ oddane jako „o”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "σοῦ oddane jako „tobie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        20,
+        24
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "ἀροῦσίν, czas przyszły, oddane jako „będą nosili”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "σε oddane jako „cię”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "ἐπὶ oddane jako „na”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "χειρῶν oddane jako „rękach”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        25,
+        26,
+        27
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "μήποτε, „żeby czasem nie”, oddane jako „abyś snać nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        28
+      ],
+      "zrodlo": [
+        26
+      ],
+      "uwaga": "προσκόψῃς oddane jako „obraził”; osoba druga zostaje na „abyś”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        29
+      ],
+      "zrodlo": [
+        27
+      ],
+      "uwaga": "πρὸς oddane jako „o”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        30
+      ],
+      "zrodlo": [
+        28
+      ],
+      "uwaga": "λίθον oddane jako „kamień”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        31
+      ],
+      "zrodlo": [
+        29,
+        30
+      ],
+      "uwaga": "τὸν πόδα, biernik, oddane dopełniaczem „nogi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        32
+      ],
+      "zrodlo": [
+        31
+      ],
+      "uwaga": "σου oddane jako „swojej”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_przesuniety",
+    "uzasadnienie": "ἐντελεῖται jest czasem przyszłym i mówi, że Bóg nakaże aniołom. „przykazał” mówi, że rozkaz już został wydany.",
+    "tokeny_bg": [
+      16
+    ],
+    "tokeny_zrodla": [
+      17
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐντελεῖται to czas przyszły, glosa „He will give orders”. BG oddaje go przeszłym „przykazał”.",
+      "tokeny_bg": [
+        16
+      ],
+      "tokeny_zrodla": [
+        17
+      ]
+    },
+    {
+      "rodzaj": "hipoteza",
+      "tekst": "Kralicka w tym cytacie też ma czas przeszły „přikázal”. To nie zmienia oceny wobec czasu przyszłego w TR.",
+      "tokeny_bg": [
+        16
+      ],
+      "tokeny_zrodla": [
+        17
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A řekl mu: Jsi-li Syn Boží, spustiž se dolů; nebo psánoť jest, že andělům svým přikázal o tobě, a na ruce uchopí tebe, abys někde o kámen nohy své neurazil.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

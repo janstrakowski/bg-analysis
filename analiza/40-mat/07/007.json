@@ -1,0 +1,357 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.7",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 7
+  },
+  "tekst_bg": "Proście, a będzie wam dano, szukajcie, a znajdziecie; kołaczcie, a będzie wam otworzono.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Proście"
+    },
+    {
+      "i": 1,
+      "t": "a"
+    },
+    {
+      "i": 2,
+      "t": "będzie"
+    },
+    {
+      "i": 3,
+      "t": "wam"
+    },
+    {
+      "i": 4,
+      "t": "dano"
+    },
+    {
+      "i": 5,
+      "t": "szukajcie"
+    },
+    {
+      "i": 6,
+      "t": "a"
+    },
+    {
+      "i": 7,
+      "t": "znajdziecie"
+    },
+    {
+      "i": 8,
+      "t": "kołaczcie"
+    },
+    {
+      "i": 9,
+      "t": "a"
+    },
+    {
+      "i": 10,
+      "t": "będzie"
+    },
+    {
+      "i": 11,
+      "t": "wam"
+    },
+    {
+      "i": 12,
+      "t": "otworzono"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.7",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.7",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Αἰτεῖτε",
+        "lemma": "G0154",
+        "forma": "αἰτέω",
+        "morph": "V-PAM-2P",
+        "glosa": "do ask",
+        "id": "Mat.7.7#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to ask"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.7#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "and"
+      },
+      {
+        "t": "δοθήσεται",
+        "lemma": "G1325",
+        "forma": "δίδωμι",
+        "morph": "V-FPI-3S",
+        "glosa": "it will be given",
+        "id": "Mat.7.7#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to give"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you;",
+        "id": "Mat.7.7#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "you"
+      },
+      {
+        "t": "ζητεῖτε",
+        "lemma": "G2212",
+        "forma": "ζητέω",
+        "morph": "V-PAM-2P",
+        "glosa": "do seek",
+        "id": "Mat.7.7#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to seek"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.7#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "and"
+      },
+      {
+        "t": "εὑρήσετε",
+        "lemma": "G2147",
+        "forma": "εὑρίσκω",
+        "morph": "V-FAI-2P",
+        "glosa": "you will find;",
+        "id": "Mat.7.7#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to find/meet"
+      },
+      {
+        "t": "κρούετε",
+        "lemma": "G2925",
+        "forma": "κρούω",
+        "morph": "V-PAM-2P",
+        "glosa": "do knock",
+        "id": "Mat.7.7#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to knock"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.7#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀνοιγήσεται",
+        "lemma": "G0455",
+        "forma": "ἀνοίγω",
+        "morph": "V-2FPI-3S",
+        "glosa": "it will be opened",
+        "id": "Mat.7.7#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to open"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you.",
+        "id": "Mat.7.7#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Αἰτεῖτε oddane jako „Proście”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        4
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "δοθήσεται, futurum strony biernej 3 os., oddane jako „będzie dano”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ζητεῖτε oddane jako „szukajcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Drugie καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "εὑρήσετε oddane jako „znajdziecie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "κρούετε oddane jako „kołaczcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Trzecie καὶ oddane jako „a”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        10,
+        12
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἀνοιγήσεται, futurum strony biernej, oddane jako „będzie otworzono”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "Drugie ὑμῖν oddane jako „wam”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Trzy rozkazy i trzy skutki są słowne. Dwie strony bierne rozbite na „będzie” i imiesłów.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "δοθήσεται i ἀνοιγήσεται są 3 os. strony biernej. BG oddaje je jako „będzie dano” i „będzie otworzono”, a ὑμῖν jako „wam”.",
+      "tokeny_bg": [
+        2,
+        3,
+        4,
+        10,
+        11,
+        12
+      ],
+      "tokeny_zrodla": [
+        2,
+        3,
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Proste, a dánoť bude vám; hledejte, a naleznete; tlucte, a bude vám otevříno.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

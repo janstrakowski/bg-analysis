@@ -1,0 +1,497 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.23",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 23
+  },
+  "tekst_bg": "A tak jeźlibyś ofiarował dar twój na ołtarzu, a tambyś wspomniał, iż brat twój ma co przeciwko tobie,",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "tak"
+    },
+    {
+      "i": 2,
+      "t": "jeźlibyś"
+    },
+    {
+      "i": 3,
+      "t": "ofiarował"
+    },
+    {
+      "i": 4,
+      "t": "dar"
+    },
+    {
+      "i": 5,
+      "t": "twój"
+    },
+    {
+      "i": 6,
+      "t": "na"
+    },
+    {
+      "i": 7,
+      "t": "ołtarzu"
+    },
+    {
+      "i": 8,
+      "t": "a"
+    },
+    {
+      "i": 9,
+      "t": "tambyś"
+    },
+    {
+      "i": 10,
+      "t": "wspomniał"
+    },
+    {
+      "i": 11,
+      "t": "iż"
+    },
+    {
+      "i": 12,
+      "t": "brat"
+    },
+    {
+      "i": 13,
+      "t": "twój"
+    },
+    {
+      "i": 14,
+      "t": "ma"
+    },
+    {
+      "i": 15,
+      "t": "co"
+    },
+    {
+      "i": 16,
+      "t": "przeciwko"
+    },
+    {
+      "i": 17,
+      "t": "tobie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.23",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.23",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἐὰν",
+        "lemma": "G1437",
+        "forma": "ἐάν",
+        "morph": "COND",
+        "glosa": "If",
+        "id": "Mat.5.23#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "if"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "therefore",
+        "id": "Mat.5.23#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "προσφέρῃς",
+        "lemma": "G4374",
+        "forma": "προσφέρω",
+        "morph": "V-PAS-2S",
+        "glosa": "you shall offer",
+        "id": "Mat.5.23#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to bring to"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.5.23#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δῶρόν",
+        "lemma": "G1435",
+        "forma": "δῶρον",
+        "morph": "N-ASN",
+        "glosa": "gift",
+        "id": "Mat.5.23#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "gift"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.5.23#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "at",
+        "id": "Mat.5.23#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.5.23#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θυσιαστήριον",
+        "lemma": "G2379",
+        "forma": "θυσιαστήριον",
+        "morph": "N-ASN",
+        "glosa": "altar",
+        "id": "Mat.5.23#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "altar"
+      },
+      {
+        "t": "κἀκεῖ",
+        "lemma": "G2532",
+        "forma": "κἀκεῖ",
+        "morph": "CONJ + G1563=ADV",
+        "glosa": "and there",
+        "id": "Mat.5.23#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "μνησθῇς",
+        "lemma": "G3403",
+        "forma": "μιμνήσκω",
+        "morph": "V-APS-2S",
+        "glosa": "shall remember",
+        "id": "Mat.5.23#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to remember"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.5.23#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.5.23#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀδελφός",
+        "lemma": "G0080",
+        "forma": "ἀδελφός",
+        "morph": "N-NSM",
+        "glosa": "brother",
+        "id": "Mat.5.23#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "brother"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.5.23#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἔχει",
+        "lemma": "G2192",
+        "forma": "ἔχω",
+        "morph": "V-PAI-3S",
+        "glosa": "has",
+        "id": "Mat.5.23#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to have/be"
+      },
+      {
+        "t": "τι",
+        "lemma": "G5100",
+        "forma": "τις",
+        "morph": "X-ASN",
+        "glosa": "something",
+        "id": "Mat.5.23#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "one"
+      },
+      {
+        "t": "κατὰ",
+        "lemma": "G2596",
+        "forma": "κατά",
+        "morph": "PREP",
+        "glosa": "against",
+        "id": "Mat.5.23#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "according to"
+      },
+      {
+        "t": "σοῦ",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "you,",
+        "id": "Mat.5.23#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "rozbicie",
+      "bg": [
+        0,
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "οὖν oddane zwrotem „A tak”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "uwaga": "Ἐὰν προσφέρῃς oddane jako „jeźlibyś ofiarował”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τὸ δῶρόν oddane jako „dar”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Pierwsze σου oddane jako „twój”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐπὶ oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τὸ θυσιαστήριον oddane jako „ołtarzu”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9,
+        10
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "κἀκεῖ μνησθῇς oddane jako „a tambyś wspomniał”; w „tambyś” jest ἐκεῖ i tryb czasownika."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ὅτι oddane jako „iż”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "ὁ ἀδελφός oddane jako „brat”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "Drugie σου oddane jako „twój”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἔχει oddane jako „ma”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "τι oddane jako „co”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "κατὰ oddane jako „przeciwko”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "σοῦ oddane jako „tobie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Nie ma dopowiedzenia ani opuszczenia. οὖν rozbite na „A tak”, a zrost κἀκεῖ razem z μνησθῇς na „a tambyś wspomniał”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "κἀκεῖ to jeden token o glosie „and there”, a razem z μνησθῇς daje „a tambyś wspomniał”.",
+      "tokeny_bg": [
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Protož obětoval-li bys dar svůj na oltář, a tu bys se rozpomenul, že bratr tvůj má něco proti tobě,",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

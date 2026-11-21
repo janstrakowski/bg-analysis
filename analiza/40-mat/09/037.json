@@ -1,0 +1,355 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.37",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 37
+  },
+  "tekst_bg": "Tedy rzekł uczniom swoim: Żniwoć wprawdzie wielkie, ale robotników mało.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tedy"
+    },
+    {
+      "i": 1,
+      "t": "rzekł"
+    },
+    {
+      "i": 2,
+      "t": "uczniom"
+    },
+    {
+      "i": 3,
+      "t": "swoim"
+    },
+    {
+      "i": 4,
+      "t": "Żniwoć"
+    },
+    {
+      "i": 5,
+      "t": "wprawdzie"
+    },
+    {
+      "i": 6,
+      "t": "wielkie"
+    },
+    {
+      "i": 7,
+      "t": "ale"
+    },
+    {
+      "i": 8,
+      "t": "robotników"
+    },
+    {
+      "i": 9,
+      "t": "mało"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.37",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.37",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "Then",
+        "id": "Mat.9.37#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "then"
+      },
+      {
+        "t": "λέγει",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-3S",
+        "glosa": "He says",
+        "id": "Mat.9.37#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "to the",
+        "id": "Mat.9.37#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μαθηταῖς",
+        "lemma": "G3101",
+        "forma": "μαθητής",
+        "morph": "N-DPM",
+        "glosa": "disciples",
+        "id": "Mat.9.37#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "disciple"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him;",
+        "id": "Mat.9.37#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "The",
+        "id": "Mat.9.37#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μὲν",
+        "lemma": "G3303",
+        "forma": "μέν",
+        "morph": "PRT",
+        "glosa": "indeed",
+        "id": "Mat.9.37#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "on the other hand"
+      },
+      {
+        "t": "θερισμὸς",
+        "lemma": "G2326",
+        "forma": "θερισμός",
+        "morph": "N-NSM",
+        "glosa": "harvest",
+        "id": "Mat.9.37#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "harvest"
+      },
+      {
+        "t": "πολύς",
+        "lemma": "G4183",
+        "forma": "πολύς",
+        "morph": "A-NSM",
+        "glosa": "[is] plentiful,",
+        "id": "Mat.9.37#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "much"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.9.37#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.9.37#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐργάται",
+        "lemma": "G2040",
+        "forma": "ἐργάτης",
+        "morph": "N-NPM",
+        "glosa": "workmen",
+        "id": "Mat.9.37#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "worker"
+      },
+      {
+        "t": "ὀλίγοι",
+        "lemma": "G3641",
+        "forma": "ὀλίγος",
+        "morph": "A-NPM",
+        "glosa": "[are] few;",
+        "id": "Mat.9.37#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "little/few"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Τότε oddane jako „Tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "λέγει, praesens „mówi”, oddane jako „rzekł”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "τοῖς μαθηταῖς oddane jako „uczniom”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτοῦ oddane jako „swoim”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5,
+        7
+      ],
+      "uwaga": "ὁ θερισμὸς oddane jako „Żniwoć”; „-ć” tkwi w tym samym tokenie."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "μέν oddane jako „wprawdzie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "πολύς oddane jako „wielkie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "δὲ oddane jako „ale”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9,
+        11
+      ],
+      "uwaga": "οἱ ἐργάται, mianownik, oddane dopełniaczem „robotników” przy „mało”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ὀλίγοι oddane jako „mało”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Zdania imienne nie dostają czasownika „być”, którego nie ma przy πολύς ani przy ὀλίγοι.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὁ μὲν θερισμὸς πολύς nie ma czasownika „być”. BG też go nie dodaje: „Żniwoć wprawdzie wielkie”; μέν jest „wprawdzie”.",
+      "tokeny_bg": [
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Tedy dí učedlníkům svým: Žeň zajisté jest mnohá, ale dělníků málo.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

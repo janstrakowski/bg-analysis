@@ -1,0 +1,530 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.16",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 16
+  },
+  "tekst_bg": "A gdy był wieczór, przywiedli do niego wiele opętanych: i wyganiał duchy słowem; i wszystkie, którzy się źle mieli, uzdrawiał;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "był"
+    },
+    {
+      "i": 3,
+      "t": "wieczór"
+    },
+    {
+      "i": 4,
+      "t": "przywiedli"
+    },
+    {
+      "i": 5,
+      "t": "do"
+    },
+    {
+      "i": 6,
+      "t": "niego"
+    },
+    {
+      "i": 7,
+      "t": "wiele"
+    },
+    {
+      "i": 8,
+      "t": "opętanych"
+    },
+    {
+      "i": 9,
+      "t": "i"
+    },
+    {
+      "i": 10,
+      "t": "wyganiał"
+    },
+    {
+      "i": 11,
+      "t": "duchy"
+    },
+    {
+      "i": 12,
+      "t": "słowem"
+    },
+    {
+      "i": 13,
+      "t": "i"
+    },
+    {
+      "i": 14,
+      "t": "wszystkie"
+    },
+    {
+      "i": 15,
+      "t": "którzy"
+    },
+    {
+      "i": 16,
+      "t": "się"
+    },
+    {
+      "i": 17,
+      "t": "źle"
+    },
+    {
+      "i": 18,
+      "t": "mieli"
+    },
+    {
+      "i": 19,
+      "t": "uzdrawiał"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.16",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.16",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ὀψίας",
+        "lemma": "G3798",
+        "forma": "ὀψία",
+        "morph": "A-GSF",
+        "glosa": "When evening",
+        "id": "Mat.8.16#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "evening"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.8.16#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "γενομένης",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-2ADP-GSF",
+        "glosa": "having come",
+        "id": "Mat.8.16#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to be"
+      },
+      {
+        "t": "προσήνεγκαν",
+        "lemma": "G4374",
+        "forma": "προσφέρω",
+        "morph": "V-AAI-3P",
+        "glosa": "they brought",
+        "id": "Mat.8.16#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to bring to"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to Him",
+        "id": "Mat.8.16#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "δαιμονιζομένους",
+        "lemma": "G1139",
+        "forma": "δαιμονίζομαι",
+        "morph": "V-PNP-APM",
+        "glosa": "being demonised",
+        "id": "Mat.8.16#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "be demonised"
+      },
+      {
+        "t": "πολλούς",
+        "lemma": "G4183",
+        "forma": "πολύς",
+        "morph": "A-APM",
+        "glosa": "many,",
+        "id": "Mat.8.16#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "much"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.16#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐξέβαλεν",
+        "lemma": "G1544",
+        "forma": "ἐκβάλλω",
+        "morph": "V-2AAI-3S",
+        "glosa": "He cast out",
+        "id": "Mat.8.16#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to expel"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APN",
+        "glosa": "the",
+        "id": "Mat.8.16#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πνεύματα",
+        "lemma": "G4151G",
+        "forma": "πνεῦμα",
+        "morph": "N-APN",
+        "glosa": "spirits",
+        "id": "Mat.8.16#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "spirit/breath: spirit"
+      },
+      {
+        "t": "λόγῳ",
+        "lemma": "G3056",
+        "forma": "λόγος",
+        "morph": "N-DSM",
+        "glosa": "by a word,",
+        "id": "Mat.8.16#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "word"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.16#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "πάντας",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-APM",
+        "glosa": "all",
+        "id": "Mat.8.16#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "all"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "those",
+        "id": "Mat.8.16#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κακῶς",
+        "lemma": "G2560",
+        "forma": "κακῶς",
+        "morph": "ADV",
+        "glosa": "sick",
+        "id": "Mat.8.16#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "badly"
+      },
+      {
+        "t": "ἔχοντας",
+        "lemma": "G2192",
+        "forma": "ἔχω",
+        "morph": "V-PAP-APM",
+        "glosa": "being",
+        "id": "Mat.8.16#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to have/be"
+      },
+      {
+        "t": "ἐθεράπευσεν",
+        "lemma": "G2323",
+        "forma": "θεραπεύω",
+        "morph": "V-AAI-3S",
+        "glosa": "He healed,",
+        "id": "Mat.8.16#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to serve/heal"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po Ὀψίας, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2,
+        3
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "uwaga": "Ὀψίας γενομένης, dopełniacz absolutny, oddane jako „gdy był wieczór”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "προσήνεγκαν oddane jako „przywiedli”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτῷ, celownik, oddane jako „do niego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "πολλούς oddane jako „wiele”; BG stawia je przed „opętanych”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "δαιμονιζομένους oddane jako „opętanych”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐξέβαλεν, aoryst, oddane jako „wyganiał”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τὰ πνεύματα oddane jako „duchy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "λόγῳ oddane jako „słowem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "πάντας τοὺς oddane jako „wszystkie”; rodzajnik wcielony w zaimek."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        15,
+        18
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἔχοντας, imiesłów czynny, rozbity na zdanie „którzy mieli”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [],
+      "uwaga": "„się” stoi przy „mieli”, a ἔχοντας jest imiesłowem czynnym.",
+      "uzasadnienie": "Idiom κακῶς ἔχειν BG oddaje przez „mieć się źle”. „się” jest zwrotnością polskiego idiomu i nie dodaje osoby."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "κακῶς oddane jako „źle”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἐθεράπευσεν, aoryst, oddane jako „uzdrawiał”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. Dopełniacz absolutny stał się zdaniem „gdy był wieczór”, a „się” wnosi zwrotność idiomu „mieć się źle” przy czynnym ἔχοντας.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πάντας τοὺς κακῶς ἔχοντας to „wszyscy źle się mający”. BG rozbija imiesłów na „którzy mieli” i dodaje „się” przy „źle”.",
+      "tokeny_bg": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "tokeny_zrodla": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Ὀψίας δὲ γενομένης oddane jako „A gdy był wieczór”. W grece jest dopełniacz absolutny, nie zdanie z „gdy”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A když byl večer, přivedli k němu mnohé, kteříž ďábelství měli, a on vymítal duchy zlé slovem, a všecky, kteříž se zle měli, uzdravil,",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.13",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 13
+  },
+  "tekst_bg": "I rzekł Jezus setnikowi: Idź, a jakoś uwierzył, niech ci się stanie; i uzdrowiony jest sługa jego onejże godziny.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "rzekł"
+    },
+    {
+      "i": 2,
+      "t": "Jezus"
+    },
+    {
+      "i": 3,
+      "t": "setnikowi"
+    },
+    {
+      "i": 4,
+      "t": "Idź"
+    },
+    {
+      "i": 5,
+      "t": "a"
+    },
+    {
+      "i": 6,
+      "t": "jakoś"
+    },
+    {
+      "i": 7,
+      "t": "uwierzył"
+    },
+    {
+      "i": 8,
+      "t": "niech"
+    },
+    {
+      "i": 9,
+      "t": "ci"
+    },
+    {
+      "i": 10,
+      "t": "się"
+    },
+    {
+      "i": 11,
+      "t": "stanie"
+    },
+    {
+      "i": 12,
+      "t": "i"
+    },
+    {
+      "i": 13,
+      "t": "uzdrowiony"
+    },
+    {
+      "i": 14,
+      "t": "jest"
+    },
+    {
+      "i": 15,
+      "t": "sługa"
+    },
+    {
+      "i": 16,
+      "t": "jego"
+    },
+    {
+      "i": 17,
+      "t": "onejże"
+    },
+    {
+      "i": 18,
+      "t": "godziny"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.13",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.13",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.13#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "εἶπεν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAI-3S",
+        "glosa": "said",
+        "id": "Mat.8.13#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.8.13#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.8.13#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "to the",
+        "id": "Mat.8.13#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἑκατοντάρχῃ",
+        "lemma": "G1543",
+        "forma": "ἑκατόνταρχος",
+        "morph": "N-DSM",
+        "glosa": "centurion;",
+        "id": "Mat.8.13#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "centurion"
+      },
+      {
+        "t": "ὕπαγε",
+        "lemma": "G5217",
+        "forma": "ὑπάγω",
+        "morph": "V-PAM-2S",
+        "glosa": "do go,",
+        "id": "Mat.8.13#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to go"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.13#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὡς",
+        "lemma": "G5613",
+        "forma": "ὡς",
+        "morph": "PRT",
+        "glosa": "as",
+        "id": "Mat.8.13#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "as/when"
+      },
+      {
+        "t": "ἐπίστευσας",
+        "lemma": "G4100",
+        "forma": "πιστεύω",
+        "morph": "V-AAI-2S",
+        "glosa": "you have believed",
+        "id": "Mat.8.13#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to trust (in)"
+      },
+      {
+        "t": "γενηθήτω",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-AOM-3S",
+        "glosa": "it should be [done]",
+        "id": "Mat.8.13#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to be"
+      },
+      {
+        "t": "σοι",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DS",
+        "glosa": "to you.",
+        "id": "Mat.8.13#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "you"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.13#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰάθη",
+        "lemma": "G2390",
+        "forma": "ἰάομαι",
+        "morph": "V-API-3S",
+        "glosa": "was healed",
+        "id": "Mat.8.13#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to heal"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.8.13#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "παῖς",
+        "lemma": "G3816",
+        "forma": "παῖς",
+        "morph": "N-NSM",
+        "glosa": "servant",
+        "id": "Mat.8.13#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "child"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him",
+        "id": "Mat.8.13#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.8.13#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.8.13#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὥρᾳ",
+        "lemma": "G5610",
+        "forma": "ὥρα",
+        "morph": "N-DSF",
+        "glosa": "hour",
+        "id": "Mat.8.13#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "hour"
+      },
+      {
+        "t": "ἐκείνῃ",
+        "lemma": "G1565",
+        "forma": "ἐκεῖνος",
+        "morph": "D-DSF",
+        "glosa": "that.",
+        "id": "Mat.8.13#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "that"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "εἶπεν oddane jako „rzekł”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τῷ ἑκατοντάρχῃ oddane jako „setnikowi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὕπαγε oddane jako „Idź”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "ὡς ἐπίστευσας oddane jako „jakoś uwierzył”; końcówka -ś niesie osobę drugą."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        10,
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "γενηθήτω, rozkaźnik aorystu strony biernej deponens, oddane jako „niech się stanie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "σοι oddane jako „ci”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        13,
+        14
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἰάθη, aoryst bierny, oddane jako „uzdrowiony jest”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "ὁ παῖς oddane jako „sługa”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        17,
+        18
+      ],
+      "zrodlo": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "uwaga": "ἐν τῇ ὥρᾳ ἐκείνῃ oddane dopełniaczem czasu „onejże godziny”; ἐν nie ma osobnego przyimka, bo niesie go dopełniacz."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. „niech się stanie” i „uzdrowiony jest” rozbijają stronę bierną, a „onejże godziny” niesie ἐν τῇ ὥρᾳ ἐκείνῃ.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐν τῇ ὥρᾳ ἐκείνῃ nie ma w polskim osobnego przyimka. Dopełniacz czasu „onejże godziny” oddaje cały zwrot „w onej godzinie”.",
+      "tokeny_bg": [
+        17,
+        18
+      ],
+      "tokeny_zrodla": [
+        17,
+        18,
+        19,
+        20
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I řekl Ježíš setníkovi: Jdiž, a jakžs uvěřil, staň se tobě. I uzdraven jest služebník jeho v tu hodinu.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

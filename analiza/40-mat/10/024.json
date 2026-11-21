@@ -1,0 +1,358 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.24",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 24
+  },
+  "tekst_bg": "Nie jestci uczeń nad mistrza, ani sługa nad Pana swego;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Nie"
+    },
+    {
+      "i": 1,
+      "t": "jestci"
+    },
+    {
+      "i": 2,
+      "t": "uczeń"
+    },
+    {
+      "i": 3,
+      "t": "nad"
+    },
+    {
+      "i": 4,
+      "t": "mistrza"
+    },
+    {
+      "i": 5,
+      "t": "ani"
+    },
+    {
+      "i": 6,
+      "t": "sługa"
+    },
+    {
+      "i": 7,
+      "t": "nad"
+    },
+    {
+      "i": 8,
+      "t": "Pana"
+    },
+    {
+      "i": 9,
+      "t": "swego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.24",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.24",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.10.24#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "no"
+      },
+      {
+        "t": "ἔστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is",
+        "id": "Mat.10.24#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to be"
+      },
+      {
+        "t": "μαθητὴς",
+        "lemma": "G3101",
+        "forma": "μαθητής",
+        "morph": "N-NSM",
+        "glosa": "a disciple",
+        "id": "Mat.10.24#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "disciple"
+      },
+      {
+        "t": "ὑπὲρ",
+        "lemma": "G5228",
+        "forma": "ὑπέρ",
+        "morph": "PREP",
+        "glosa": "above",
+        "id": "Mat.10.24#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "above/for"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.10.24#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "διδάσκαλον",
+        "lemma": "G1320",
+        "forma": "διδάσκαλος",
+        "morph": "N-ASM",
+        "glosa": "teacher",
+        "id": "Mat.10.24#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "teacher"
+      },
+      {
+        "t": "οὐδὲ",
+        "lemma": "G3761",
+        "forma": "οὐδέ",
+        "morph": "CONJ-N",
+        "glosa": "nor [is]",
+        "id": "Mat.10.24#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "nor"
+      },
+      {
+        "t": "δοῦλος",
+        "lemma": "G1401",
+        "forma": "δοῦλος",
+        "morph": "N-NSM",
+        "glosa": "a servant",
+        "id": "Mat.10.24#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "slave"
+      },
+      {
+        "t": "ὑπὲρ",
+        "lemma": "G5228",
+        "forma": "ὑπέρ",
+        "morph": "PREP",
+        "glosa": "above",
+        "id": "Mat.10.24#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "above/for"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.10.24#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κύριον",
+        "lemma": "G2962H",
+        "forma": "κύριος",
+        "morph": "N-ASM",
+        "glosa": "master",
+        "id": "Mat.10.24#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "lord: master"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him.",
+        "id": "Mat.10.24#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "Οὐκ oddane jako „Nie”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἔστιν oddane jako „jestci”; w tym samym słowie jest partykuła -ci."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "przeklad",
+      "uwaga": "μαθητὴς oddane jako „uczeń”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὑπὲρ oddane jako „nad”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν διδάσκαλον oddane jako „mistrza”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "οὐδὲ oddane jako „ani”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "δοῦλος oddane jako „sługa”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὑπὲρ oddane jako „nad”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν κύριον oddane jako „Pana”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτοῦ oddane jako „swego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajniki przy „mistrza” i „Pana” są wcielone w rzeczownik.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Οὐκ ἔστιν μαθητὴς ὑπὲρ τὸν διδάσκαλον, οὐδὲ δοῦλος ὑπὲρ τὸν κύριον αὐτοῦ BG oddaje słowo w słowo jako „Nie jestci uczeń nad mistrza, ani sługa nad Pana swego”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Neníť učedlník nad mistra, ani služebník nad pána svého.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

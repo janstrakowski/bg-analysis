@@ -1,0 +1,481 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.3",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 3
+  },
+  "tekst_bg": "Filip i Bartłomiej, Tomasz i Mateusz on celnik, Jakób, syn Alfeusza, i Lebeusz, nazwany Tadeusz;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Filip"
+    },
+    {
+      "i": 1,
+      "t": "i"
+    },
+    {
+      "i": 2,
+      "t": "Bartłomiej"
+    },
+    {
+      "i": 3,
+      "t": "Tomasz"
+    },
+    {
+      "i": 4,
+      "t": "i"
+    },
+    {
+      "i": 5,
+      "t": "Mateusz"
+    },
+    {
+      "i": 6,
+      "t": "on"
+    },
+    {
+      "i": 7,
+      "t": "celnik"
+    },
+    {
+      "i": 8,
+      "t": "Jakób"
+    },
+    {
+      "i": 9,
+      "t": "syn"
+    },
+    {
+      "i": 10,
+      "t": "Alfeusza"
+    },
+    {
+      "i": 11,
+      "t": "i"
+    },
+    {
+      "i": 12,
+      "t": "Lebeusz"
+    },
+    {
+      "i": 13,
+      "t": "nazwany"
+    },
+    {
+      "i": 14,
+      "t": "Tadeusz"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.3",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.3",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Φίλιππος",
+        "lemma": "G5376G",
+        "forma": "Φίλιππος",
+        "morph": "N-NSM-P",
+        "glosa": "Philip",
+        "id": "Mat.10.3#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "Philip"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.3#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "and"
+      },
+      {
+        "t": "Βαρθολομαῖος",
+        "lemma": "G0918",
+        "forma": "Βαρθολομαῖος",
+        "morph": "N-NSM-P",
+        "glosa": "Bartholomew,",
+        "id": "Mat.10.3#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "Bartholomew"
+      },
+      {
+        "t": "Θωμᾶς",
+        "lemma": "G2381",
+        "forma": "Θωμᾶς",
+        "morph": "N-NSM-P",
+        "glosa": "Thomas",
+        "id": "Mat.10.3#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Thomas"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.3#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "and"
+      },
+      {
+        "t": "Μαθθαῖος",
+        "lemma": "G3156",
+        "forma": "Ματθαῖος",
+        "morph": "N-NSM-P",
+        "glosa": "Matthew",
+        "id": "Mat.10.3#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Matthew"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.10.3#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "τελώνης",
+        "lemma": "G5057",
+        "forma": "τελώνης",
+        "morph": "N-NSM",
+        "glosa": "tax collector,",
+        "id": "Mat.10.3#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "tax collector"
+      },
+      {
+        "t": "Ἰάκωβος",
+        "lemma": "G2385H",
+        "forma": "Ἰάκωβος",
+        "morph": "N-NSM-P",
+        "glosa": "James",
+        "id": "Mat.10.3#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "James"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the [son]",
+        "id": "Mat.10.3#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "<the>",
+        "id": "Mat.10.3#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἁλφαίου",
+        "lemma": "G0256",
+        "forma": "Ἀλφαῖος",
+        "morph": "N-GSM-P",
+        "glosa": "of Alphaeus",
+        "id": "Mat.10.3#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "Alphaeus"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.3#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "Λεββαῖος",
+        "lemma": "G3002",
+        "forma": "Λεββαῖος",
+        "morph": "N-NSM-P",
+        "glosa": "Lebbaeus",
+        "id": "Mat.10.3#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "Lebbaeus"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "which",
+        "id": "Mat.10.3#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐπικληθεὶς",
+        "lemma": "G1941",
+        "forma": "ἐπικαλέω",
+        "morph": "V-APP-NSM",
+        "glosa": "having been called",
+        "id": "Mat.10.3#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to call (on)/name"
+      },
+      {
+        "t": "Θαδδαῖος",
+        "lemma": "G2280",
+        "forma": "Θαδδαῖος",
+        "morph": "N-NSM-P",
+        "glosa": "Thaddaeus,",
+        "id": "Mat.10.3#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "Thaddaeus"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Φίλιππος oddane jako „Filip”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "Βαρθολομαῖος oddane jako „Bartłomiej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "Θωμᾶς oddane jako „Tomasz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Μαθθαῖος oddane jako „Mateusz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὁ oddane wskazującym „on”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "τελώνης oddane jako „celnik”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Ἰάκωβος oddane jako „Jakób”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [],
+      "uwaga": "„syn” jest kursywą w 1632. Ἰάκωβος ὁ τοῦ Ἁλφαίου nie ma rzeczownika υἱός."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9,
+        10,
+        11
+      ],
+      "uwaga": "ὁ τοῦ Ἁλφαίου oddane jako „Alfeusza”; oba rodzajniki wchodzą w imię."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "Λεββαῖος oddane jako „Lebeusz”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "ὁ ἐπικληθεὶς, imiesłów bierny „nazwany”, oddane jako „nazwany”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "Θαδδαῖος oddane jako „Tadeusz”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "„syn” jest kursywą przy ὁ τοῦ Ἁλφαίου, gdzie nie ma υἱός. „on” oddaje rodzajnik przy τελώνης, a „nazwany” imiesłów ἐπικληθείς. Imiona zostają te same.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Μαθθαῖος ὁ τελώνης BG oddaje jako „Mateusz on celnik”: rodzajnik ma osobne słowo „on”.",
+      "tokeny_bg": [
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Przy Jakubie „syn” jest kursywą 1632, bo TR ma Ἰάκωβος ὁ τοῦ Ἁλφαίου, bez υἱός.",
+      "tokeny_bg": [
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Filip a Bartoloměj, Tomáš a Matouš, jenž byl celný, Jakub Alfeův a Lebbeus, přijmím Thaddeus,",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

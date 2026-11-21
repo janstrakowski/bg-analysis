@@ -1,0 +1,371 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.14",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 14
+  },
+  "tekst_bg": "Wy jesteście światłość świata, nie może się miasto ukryć na górze leżące.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Wy"
+    },
+    {
+      "i": 1,
+      "t": "jesteście"
+    },
+    {
+      "i": 2,
+      "t": "światłość"
+    },
+    {
+      "i": 3,
+      "t": "świata"
+    },
+    {
+      "i": 4,
+      "t": "nie"
+    },
+    {
+      "i": 5,
+      "t": "może"
+    },
+    {
+      "i": 6,
+      "t": "się"
+    },
+    {
+      "i": 7,
+      "t": "miasto"
+    },
+    {
+      "i": 8,
+      "t": "ukryć"
+    },
+    {
+      "i": 9,
+      "t": "na"
+    },
+    {
+      "i": 10,
+      "t": "górze"
+    },
+    {
+      "i": 11,
+      "t": "leżące"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.14",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.14",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ὑμεῖς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2NP",
+        "glosa": "You yourselves",
+        "id": "Mat.5.14#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἐστε",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-2P",
+        "glosa": "are",
+        "id": "Mat.5.14#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to be"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "the",
+        "id": "Mat.5.14#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "φῶς",
+        "lemma": "G5457",
+        "forma": "φῶς",
+        "morph": "N-NSN",
+        "glosa": "light",
+        "id": "Mat.5.14#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "light"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.5.14#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κόσμου",
+        "lemma": "G2889",
+        "forma": "κόσμος",
+        "morph": "N-GSM",
+        "glosa": "world;",
+        "id": "Mat.5.14#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "world"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.5.14#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "no"
+      },
+      {
+        "t": "δύναται",
+        "lemma": "G1410",
+        "forma": "δύναμαι",
+        "morph": "V-PNI-3S",
+        "glosa": "is able",
+        "id": "Mat.5.14#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "be able"
+      },
+      {
+        "t": "πόλις",
+        "lemma": "G4172",
+        "forma": "πόλις",
+        "morph": "N-NSF",
+        "glosa": "a city",
+        "id": "Mat.5.14#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "city"
+      },
+      {
+        "t": "κρυβῆναι",
+        "lemma": "G2928",
+        "forma": "κρύπτω",
+        "morph": "V-2APN",
+        "glosa": "to be hidden",
+        "id": "Mat.5.14#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to hide"
+      },
+      {
+        "t": "ἐπάνω",
+        "lemma": "G1883",
+        "forma": "ἐπάνω",
+        "morph": "PREP",
+        "glosa": "on",
+        "id": "Mat.5.14#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "above"
+      },
+      {
+        "t": "ὄρους",
+        "lemma": "G3735",
+        "forma": "ὄρος",
+        "morph": "N-GSN",
+        "glosa": "a hill",
+        "id": "Mat.5.14#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "mountain"
+      },
+      {
+        "t": "κειμένη",
+        "lemma": "G2749",
+        "forma": "κεῖμαι",
+        "morph": "V-PNP-NSF",
+        "glosa": "lying;",
+        "id": "Mat.5.14#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to lay/be appointed"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ὑμεῖς oddane jako „Wy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐστε oddane jako „jesteście”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "τὸ φῶς oddane jako „światłość”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τοῦ κόσμου oddane jako „świata”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "οὐ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "δύναται oddane jako „może”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "πόλις oddane jako „miasto”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "κρυβῆναι, bezokolicznik bierny, oddane jako „się ukryć”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἐπάνω oddane jako „na”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ὄρους, dopełniacz, oddane jako „górze”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "κειμένη oddane jako „leżące”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Nie ma dopowiedzenia ani opuszczenia. Bezokolicznik bierny κρυβῆναι rozbity na „się ukryć”, a rodzajniki weszły w „światłość” i „świata”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "κρυβῆναι to bezokolicznik bierny, glosa „to be hidden”, a BG ma „się ukryć” przy „miasto”.",
+      "tokeny_bg": [
+        6,
+        7,
+        8
+      ],
+      "tokeny_zrodla": [
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Vy jste světlo světa. Nemůžeť město na hoře ležící skryto býti.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

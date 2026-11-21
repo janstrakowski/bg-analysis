@@ -1,0 +1,576 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.35",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 35
+  },
+  "tekst_bg": "Bom przyszedł, abym rozerwanie uczynił między synem a ojcem jego, i między córką a matką jej, także między synową i świekrą jej;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Bom"
+    },
+    {
+      "i": 1,
+      "t": "przyszedł"
+    },
+    {
+      "i": 2,
+      "t": "abym"
+    },
+    {
+      "i": 3,
+      "t": "rozerwanie"
+    },
+    {
+      "i": 4,
+      "t": "uczynił"
+    },
+    {
+      "i": 5,
+      "t": "między"
+    },
+    {
+      "i": 6,
+      "t": "synem"
+    },
+    {
+      "i": 7,
+      "t": "a"
+    },
+    {
+      "i": 8,
+      "t": "ojcem"
+    },
+    {
+      "i": 9,
+      "t": "jego"
+    },
+    {
+      "i": 10,
+      "t": "i"
+    },
+    {
+      "i": 11,
+      "t": "między"
+    },
+    {
+      "i": 12,
+      "t": "córką"
+    },
+    {
+      "i": 13,
+      "t": "a"
+    },
+    {
+      "i": 14,
+      "t": "matką"
+    },
+    {
+      "i": 15,
+      "t": "jej"
+    },
+    {
+      "i": 16,
+      "t": "także"
+    },
+    {
+      "i": 17,
+      "t": "między"
+    },
+    {
+      "i": 18,
+      "t": "synową"
+    },
+    {
+      "i": 19,
+      "t": "i"
+    },
+    {
+      "i": 20,
+      "t": "świekrą"
+    },
+    {
+      "i": 21,
+      "t": "jej"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.35",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.35",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἦλθον",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAI-1S",
+        "glosa": "I came",
+        "id": "Mat.10.35#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.10.35#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "διχάσαι",
+        "lemma": "G1369",
+        "forma": "διχάζω",
+        "morph": "V-AAN",
+        "glosa": "to set at variance",
+        "id": "Mat.10.35#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to disunite"
+      },
+      {
+        "t": "ἄνθρωπον",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-ASM",
+        "glosa": "A man",
+        "id": "Mat.10.35#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "a human"
+      },
+      {
+        "t": "κατὰ",
+        "lemma": "G2596",
+        "forma": "κατά",
+        "morph": "PREP",
+        "glosa": "against",
+        "id": "Mat.10.35#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "according to"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.10.35#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατρὸς",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-GSM",
+        "glosa": "father",
+        "id": "Mat.10.35#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "father"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him",
+        "id": "Mat.10.35#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.35#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "and"
+      },
+      {
+        "t": "θυγατέρα",
+        "lemma": "G2364",
+        "forma": "θυγάτηρ",
+        "morph": "N-ASF",
+        "glosa": "a daughter",
+        "id": "Mat.10.35#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "daughter"
+      },
+      {
+        "t": "κατὰ",
+        "lemma": "G2596",
+        "forma": "κατά",
+        "morph": "PREP",
+        "glosa": "against",
+        "id": "Mat.10.35#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "according to"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "the",
+        "id": "Mat.10.35#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μητρὸς",
+        "lemma": "G3384",
+        "forma": "μήτηρ",
+        "morph": "N-GSF",
+        "glosa": "mother",
+        "id": "Mat.10.35#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "mother"
+      },
+      {
+        "t": "αὐτῆς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSF",
+        "glosa": "of her",
+        "id": "Mat.10.35#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.35#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "and"
+      },
+      {
+        "t": "νύμφην",
+        "lemma": "G3565",
+        "forma": "νύμφη",
+        "morph": "N-ASF",
+        "glosa": "a daughter-in-law",
+        "id": "Mat.10.35#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "bride"
+      },
+      {
+        "t": "κατὰ",
+        "lemma": "G2596",
+        "forma": "κατά",
+        "morph": "PREP",
+        "glosa": "against",
+        "id": "Mat.10.35#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "according to"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "the",
+        "id": "Mat.10.35#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πενθερᾶς",
+        "lemma": "G3994",
+        "forma": "πενθερά",
+        "morph": "N-GSF",
+        "glosa": "mother-in-law",
+        "id": "Mat.10.35#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "mother-in-law"
+      },
+      {
+        "t": "αὐτῆς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSF",
+        "glosa": "of her;",
+        "id": "Mat.10.35#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "γὰρ oddane jako „Bom”; w tokenie jest też partykuła osoby -m."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἦλθον oddane jako „przyszedł”."
+    },
+    {
+      "bg": [
+        2,
+        3,
+        4
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "rozbicie",
+      "uwaga": "διχάσαι, bezokolicznik celu, oddane jako „abym rozerwanie uczynił”."
+    },
+    {
+      "bg": [
+        5,
+        7
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "rozbicie",
+      "uwaga": "κατὰ, glosa „against”, oddane jako „między … a”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἄνθρωπον, glosa „A man”, oddane jako „synem”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "rola": "zlanie",
+      "uwaga": "τοῦ πατρὸς oddane jako „ojcem”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "bg": [
+        11,
+        13
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "rozbicie",
+      "uwaga": "κατὰ, glosa „against”, oddane jako „między … a”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "θυγατέρα w bierniku oddane narzędnikiem „córką”."
+    },
+    {
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "rola": "zlanie",
+      "uwaga": "τῆς μητρὸς oddane jako „matką”."
+    },
+    {
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        13
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτῆς oddane jako „jej”."
+    },
+    {
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        14
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „także”."
+    },
+    {
+      "bg": [
+        17,
+        19
+      ],
+      "zrodlo": [
+        16
+      ],
+      "rola": "rozbicie",
+      "uwaga": "κατὰ, glosa „against”, oddane jako „między … i”."
+    },
+    {
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        15
+      ],
+      "rola": "przeklad",
+      "uwaga": "νύμφην oddane jako „synową”."
+    },
+    {
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        17,
+        18
+      ],
+      "rola": "zlanie",
+      "uwaga": "τῆς πενθερᾶς oddane jako „świekrą”."
+    },
+    {
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        19
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτῆς oddane jako „jej”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_przesuniety",
+    "uzasadnienie": "ἄνθρωπον, glosa „A man”, BG oddaje jako „synem”, więc stroną rozłamu jest syn, nie człowiek. κατά, glosa „against”, jest przy tym oddane przez „między … a”.",
+    "tokeny_bg": [
+      6
+    ],
+    "tokeny_zrodla": [
+      3
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἄνθρωπον ma glosę „A man” i leksykon „a human”. BG w tym miejscu ma „synem”, nie „człowieka”.",
+      "tokeny_bg": [
+        6
+      ],
+      "tokeny_zrodla": [
+        3
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "διχάσαι ἄνθρωπον κατὰ τοῦ πατρὸς αὐτοῦ BG oddaje jako „abym rozerwanie uczynił między synem a ojcem jego”. κατά ma glosę „against”.",
+      "tokeny_bg": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Přišelť jsem zajisté, abych rozdělil člověka proti otci jeho, a dceru proti mateři její, a nevěstu proti svegruši její.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

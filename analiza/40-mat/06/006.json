@@ -1,0 +1,900 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.6",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 6
+  },
+  "tekst_bg": "Ale ty, gdy się modlisz, wnijdź do komory swojej, a zawarłszy drzwi swoje, módl się Ojcu twemu, który jest w skrytości; a Ojciec twój, który widzi w skrytości, oddać jawnie.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "ty"
+    },
+    {
+      "i": 2,
+      "t": "gdy"
+    },
+    {
+      "i": 3,
+      "t": "się"
+    },
+    {
+      "i": 4,
+      "t": "modlisz"
+    },
+    {
+      "i": 5,
+      "t": "wnijdź"
+    },
+    {
+      "i": 6,
+      "t": "do"
+    },
+    {
+      "i": 7,
+      "t": "komory"
+    },
+    {
+      "i": 8,
+      "t": "swojej"
+    },
+    {
+      "i": 9,
+      "t": "a"
+    },
+    {
+      "i": 10,
+      "t": "zawarłszy"
+    },
+    {
+      "i": 11,
+      "t": "drzwi"
+    },
+    {
+      "i": 12,
+      "t": "swoje"
+    },
+    {
+      "i": 13,
+      "t": "módl"
+    },
+    {
+      "i": 14,
+      "t": "się"
+    },
+    {
+      "i": 15,
+      "t": "Ojcu"
+    },
+    {
+      "i": 16,
+      "t": "twemu"
+    },
+    {
+      "i": 17,
+      "t": "który"
+    },
+    {
+      "i": 18,
+      "t": "jest"
+    },
+    {
+      "i": 19,
+      "t": "w"
+    },
+    {
+      "i": 20,
+      "t": "skrytości"
+    },
+    {
+      "i": 21,
+      "t": "a"
+    },
+    {
+      "i": 22,
+      "t": "Ojciec"
+    },
+    {
+      "i": 23,
+      "t": "twój"
+    },
+    {
+      "i": 24,
+      "t": "który"
+    },
+    {
+      "i": 25,
+      "t": "widzi"
+    },
+    {
+      "i": 26,
+      "t": "w"
+    },
+    {
+      "i": 27,
+      "t": "skrytości"
+    },
+    {
+      "i": 28,
+      "t": "oddać"
+    },
+    {
+      "i": 29,
+      "t": "jawnie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.6",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.6",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "σὺ",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2NS",
+        "glosa": "You yourself",
+        "id": "Mat.6.6#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "you"
+      },
+      {
+        "t": "δέ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however,",
+        "id": "Mat.6.6#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ὅταν",
+        "lemma": "G3752",
+        "forma": "ὅταν",
+        "morph": "CONJ",
+        "glosa": "when",
+        "id": "Mat.6.6#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "when(-ever)"
+      },
+      {
+        "t": "προσεύχῃ",
+        "lemma": "G4336",
+        "forma": "προσεύχομαι",
+        "morph": "V-PNS-2S",
+        "glosa": "you may pray,",
+        "id": "Mat.6.6#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to pray"
+      },
+      {
+        "t": "εἴσελθε",
+        "lemma": "G1525",
+        "forma": "εἰσέρχομαι",
+        "morph": "V-2AAM-2S",
+        "glosa": "do enter",
+        "id": "Mat.6.6#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to enter"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.6.6#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.6.6#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ταμεῖόν",
+        "lemma": "G5009",
+        "forma": "ταμεῖον",
+        "morph": "N-ASN",
+        "glosa": "room",
+        "id": "Mat.6.6#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "inner room"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you,",
+        "id": "Mat.6.6#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "you"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.6.6#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "κλείσας",
+        "lemma": "G2808",
+        "forma": "κλείω",
+        "morph": "V-AAP-NSM",
+        "glosa": "having shut",
+        "id": "Mat.6.6#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to shut"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.6.6#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θύραν",
+        "lemma": "G2374",
+        "forma": "θύρα",
+        "morph": "N-ASF",
+        "glosa": "door",
+        "id": "Mat.6.6#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "door"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.6.6#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "you"
+      },
+      {
+        "t": "πρόσευξαι",
+        "lemma": "G4336",
+        "forma": "προσεύχομαι",
+        "morph": "V-ADM-2S",
+        "glosa": "do pray",
+        "id": "Mat.6.6#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to pray"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "to the",
+        "id": "Mat.6.6#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατρί",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-DSM-T",
+        "glosa": "Father",
+        "id": "Mat.6.6#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "father"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.6.6#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "you"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "<the>",
+        "id": "Mat.6.6#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.6.6#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSN",
+        "glosa": "<the>",
+        "id": "Mat.6.6#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κρυπτῷ",
+        "lemma": "G2927",
+        "forma": "κρυπτός",
+        "morph": "A-DSN",
+        "glosa": "secret.",
+        "id": "Mat.6.6#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "hidden"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.6.6#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.6.6#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατήρ",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-NSM-T",
+        "glosa": "Father",
+        "id": "Mat.6.6#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "father"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.6.6#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the [One]",
+        "id": "Mat.6.6#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βλέπων",
+        "lemma": "G0991",
+        "forma": "βλέπω",
+        "morph": "V-PAP-NSM",
+        "glosa": "seeing",
+        "id": "Mat.6.6#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "to see"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.6.6#29",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSN",
+        "glosa": "<the>",
+        "id": "Mat.6.6#30",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κρυπτῷ",
+        "lemma": "G2927",
+        "forma": "κρυπτός",
+        "morph": "A-DSN",
+        "glosa": "secret",
+        "id": "Mat.6.6#31",
+        "jezyk": "grc",
+        "i": 30,
+        "leksykon": "hidden"
+      },
+      {
+        "t": "ἀποδώσει",
+        "lemma": "G0591",
+        "forma": "ἀποδίδωμι",
+        "morph": "V-FAI-3S",
+        "glosa": "will reward",
+        "id": "Mat.6.6#32",
+        "jezyk": "grc",
+        "i": 31,
+        "leksykon": "to pay"
+      },
+      {
+        "t": "σοι",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DS",
+        "glosa": "you",
+        "id": "Mat.6.6#33",
+        "jezyk": "grc",
+        "i": 32,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.6.6#34",
+        "jezyk": "grc",
+        "i": 33,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSN",
+        "glosa": "<the>",
+        "id": "Mat.6.6#35",
+        "jezyk": "grc",
+        "i": 34,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "φανερῷ",
+        "lemma": "G5318",
+        "forma": "φανερός",
+        "morph": "A-DSN",
+        "glosa": "public.",
+        "id": "Mat.6.6#36",
+        "jezyk": "grc",
+        "i": 35,
+        "leksykon": "clear"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po σὺ, a BG wynosi je na początek jako „Ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "σὺ oddane jako „ty”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὅταν oddane jako „gdy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "προσεύχῃ, strona medialna deponens, oddane jako „się modlisz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "εἴσελθε oddane jako „wnijdź”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τὸ ταμεῖόν oddane jako „komory”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "σου oddane jako „swojej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "κλείσας, imiesłów „having shut”, oddane jako „zawarłszy”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τὴν θύραν, liczba pojedyncza „door”, oddane jako „drzwi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "σου oddane jako „swoje”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        13,
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "πρόσευξαι, rozkazujący deponens, oddane jako „módl się”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "τῷ πατρί oddane jako „Ojcu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "σου oddane jako „twemu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "τῷ przy ἐν τῷ κρυπτῷ oddane jako „który”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        18
+      ],
+      "zrodlo": [],
+      "uwaga": "„jest” stawia łącznik. Przy τῷ ἐν τῷ κρυπτῷ nie ma εἰμί.",
+      "uzasadnienie": "Rodzajnik τῷ z ἐν nie zawiera εἰμί. Polskie „który jest” potrzebuje łącznika, którego w TR nie ma."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        20,
+        21
+      ],
+      "uwaga": "τῷ κρυπτῷ oddane jako „skrytości”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        23,
+        24
+      ],
+      "uwaga": "ὁ πατήρ oddane jako „Ojciec”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "σου oddane jako „twój”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        26
+      ],
+      "uwaga": "ὁ przy imiesłowie βλέπων oddane jako „który”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        27
+      ],
+      "uwaga": "βλέπων oddane osobowo jako „widzi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        26
+      ],
+      "zrodlo": [
+        28
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        27
+      ],
+      "zrodlo": [
+        29,
+        30
+      ],
+      "uwaga": "τῷ κρυπτῷ oddane jako „skrytości”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        28
+      ],
+      "zrodlo": [
+        31
+      ],
+      "uwaga": "ἀποδώσει, czas przyszły „will reward”, oddane bezokolicznikiem „oddać”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        32
+      ],
+      "uwaga": "σοι, „you”, nie ma polskiego słowa. Przy „oddać” nie ma „tobie” ani „ci”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        29
+      ],
+      "zrodlo": [
+        33,
+        34,
+        35
+      ],
+      "uwaga": "ἐν τῷ φανερῷ skupione w przysłówku „jawnie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "σοι przy ἀποδώσει nie ma odpowiednika. BG kończy bezokolicznikiem „oddać jawnie”, bez „tobie”. „jest” przy pierwszym „który” jest dopowiedzeniem łącznika.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      32
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀποδώσει σοι ἐν τῷ φανερῷ to „will reward you in the public”. BG ma tylko „oddać jawnie”: σοι ginie, a czas przyszły schodzi do bezokolicznika.",
+      "tokeny_bg": [
+        28,
+        29
+      ],
+      "tokeny_zrodla": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τῷ ἐν τῷ κρυπτῷ nie ma εἰμί. BG dopowiada „jest” przy „który”.",
+      "tokeny_bg": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "tokeny_zrodla": [
+        18,
+        19,
+        20,
+        21
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ale ty když bys se modliti chtěl, vejdi do pokojíka svého, a zavra dveře své, modliž se Otci svému, jenž jest v skrytě, a Otec tvůj, kterýž vidí v skrytě, odplatí tobě zjevně.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,783 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.21",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 21
+  },
+  "tekst_bg": "Biada tobie Chorazynie! biada tobie Betsaido! bo gdyby się były w Tyrze i w Sydonie te cuda stały, które się w was stały, dawnoby były w worze i w popiele pokutowały.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Biada"
+    },
+    {
+      "i": 1,
+      "t": "tobie"
+    },
+    {
+      "i": 2,
+      "t": "Chorazynie"
+    },
+    {
+      "i": 3,
+      "t": "biada"
+    },
+    {
+      "i": 4,
+      "t": "tobie"
+    },
+    {
+      "i": 5,
+      "t": "Betsaido"
+    },
+    {
+      "i": 6,
+      "t": "bo"
+    },
+    {
+      "i": 7,
+      "t": "gdyby"
+    },
+    {
+      "i": 8,
+      "t": "się"
+    },
+    {
+      "i": 9,
+      "t": "były"
+    },
+    {
+      "i": 10,
+      "t": "w"
+    },
+    {
+      "i": 11,
+      "t": "Tyrze"
+    },
+    {
+      "i": 12,
+      "t": "i"
+    },
+    {
+      "i": 13,
+      "t": "w"
+    },
+    {
+      "i": 14,
+      "t": "Sydonie"
+    },
+    {
+      "i": 15,
+      "t": "te"
+    },
+    {
+      "i": 16,
+      "t": "cuda"
+    },
+    {
+      "i": 17,
+      "t": "stały"
+    },
+    {
+      "i": 18,
+      "t": "które"
+    },
+    {
+      "i": 19,
+      "t": "się"
+    },
+    {
+      "i": 20,
+      "t": "w"
+    },
+    {
+      "i": 21,
+      "t": "was"
+    },
+    {
+      "i": 22,
+      "t": "stały"
+    },
+    {
+      "i": 23,
+      "t": "dawnoby"
+    },
+    {
+      "i": 24,
+      "t": "były"
+    },
+    {
+      "i": 25,
+      "t": "w"
+    },
+    {
+      "i": 26,
+      "t": "worze"
+    },
+    {
+      "i": 27,
+      "t": "i"
+    },
+    {
+      "i": 28,
+      "t": "w"
+    },
+    {
+      "i": 29,
+      "t": "popiele"
+    },
+    {
+      "i": 30,
+      "t": "pokutowały"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.21",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.21",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Οὐαί",
+        "lemma": "G3759",
+        "forma": "οὐαί",
+        "morph": "INJ",
+        "glosa": "Woe",
+        "id": "Mat.11.21#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "woe!"
+      },
+      {
+        "t": "σοι",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DS",
+        "glosa": "to you",
+        "id": "Mat.11.21#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "you"
+      },
+      {
+        "t": "Χοραζίν",
+        "lemma": "G5523",
+        "forma": "Χοραζίν",
+        "morph": "N-VSF-L",
+        "glosa": "Chorazin!",
+        "id": "Mat.11.21#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "Chorazin"
+      },
+      {
+        "t": "οὐαί",
+        "lemma": "G3759",
+        "forma": "οὐαί",
+        "morph": "INJ",
+        "glosa": "Woe",
+        "id": "Mat.11.21#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "woe!"
+      },
+      {
+        "t": "σοι",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DS",
+        "glosa": "to you",
+        "id": "Mat.11.21#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "you"
+      },
+      {
+        "t": "Βηθσαϊδά",
+        "lemma": "G0966",
+        "forma": "Βηθσαϊδά",
+        "morph": "N-VSF-L",
+        "glosa": "Bethsaida!",
+        "id": "Mat.11.21#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Bethsaida"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "For",
+        "id": "Mat.11.21#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "εἰ",
+        "lemma": "G1487G",
+        "forma": "εἰ",
+        "morph": "COND",
+        "glosa": "if",
+        "id": "Mat.11.21#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "if"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.11.21#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "Τύρῳ",
+        "lemma": "G5184",
+        "forma": "Τύρος",
+        "morph": "N-DSF-L",
+        "glosa": "Tyre",
+        "id": "Mat.11.21#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "Tyre"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.21#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "and"
+      },
+      {
+        "t": "Σιδῶνι",
+        "lemma": "G4605",
+        "forma": "Σιδών",
+        "morph": "N-DSF-L",
+        "glosa": "Sidon",
+        "id": "Mat.11.21#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "Sidon"
+      },
+      {
+        "t": "ἐγένοντο",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-2ADI-3P",
+        "glosa": "had taken place",
+        "id": "Mat.11.21#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to be"
+      },
+      {
+        "t": "αἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPF",
+        "glosa": "the",
+        "id": "Mat.11.21#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δυνάμεις",
+        "lemma": "G1411",
+        "forma": "δύναμις",
+        "morph": "N-NPF",
+        "glosa": "miracles",
+        "id": "Mat.11.21#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "power"
+      },
+      {
+        "t": "αἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPF",
+        "glosa": "which",
+        "id": "Mat.11.21#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γενόμεναι",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-2ADP-NPF",
+        "glosa": "having come to pass",
+        "id": "Mat.11.21#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.11.21#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "you,",
+        "id": "Mat.11.21#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "you"
+      },
+      {
+        "t": "πάλαι",
+        "lemma": "G3819",
+        "forma": "πάλαι",
+        "morph": "ADV",
+        "glosa": "long ago",
+        "id": "Mat.11.21#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "of old"
+      },
+      {
+        "t": "ἂν",
+        "lemma": "G0302",
+        "forma": "ἄν",
+        "morph": "PRT",
+        "glosa": "then would",
+        "id": "Mat.11.21#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "if"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.11.21#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "σάκκῳ",
+        "lemma": "G4526",
+        "forma": "σάκκος",
+        "morph": "N-DSM",
+        "glosa": "sackcloth",
+        "id": "Mat.11.21#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "sackcloth"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.21#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "and"
+      },
+      {
+        "t": "σποδῷ",
+        "lemma": "G4700",
+        "forma": "σποδός",
+        "morph": "N-DSF",
+        "glosa": "ashes",
+        "id": "Mat.11.21#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "ashes"
+      },
+      {
+        "t": "μετενόησαν",
+        "lemma": "G3340",
+        "forma": "μετανοέω",
+        "morph": "V-AAI-3P",
+        "glosa": "they have repented.",
+        "id": "Mat.11.21#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "to repent"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Οὐαί oddane jako „Biada”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "σοι oddane jako „tobie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "Χοραζίν oddane jako „Chorazynie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "Drugie οὐαί oddane jako „biada”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "Drugie σοι oddane jako „tobie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Βηθσαϊδά oddane jako „Betsaido”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὅτι oddane jako „bo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "εἰ w okresie nierzeczywistym oddane jako „gdyby”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9,
+        17
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἐγένοντο, aoryst medialny w protazie, oddane jako „się były stały”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "Τύρῳ oddane jako „Tyrze”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [],
+      "uwaga": "Drugie „w” przed „Sydonie” nie ma osobnego ἐν.",
+      "uzasadnienie": "Jedno ἐν obejmuje Τύρῳ καὶ Σιδῶνι. Polskie „w” przy „Sydonie” powtarza ten przyimek; oba miasta są w TR."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "Σιδῶνι oddane jako „Sydonie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "αἱ, rodzajnik, oddane jako „te”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "δυνάμεις oddane jako „cuda”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "Drugie αἱ oddane jako „które”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        19,
+        22
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "γενόμεναι, imiesłów medialny, oddane jako „się stały”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ὑμῖν oddane jako „was”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        19,
+        20
+      ],
+      "uwaga": "πάλαι ἂν oddane jako „dawnoby”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        24,
+        30
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "μετενόησαν w apodozie oddane jako „były pokutowały”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        26
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "σάκκῳ oddane jako „worze”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        27
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        28
+      ],
+      "zrodlo": [],
+      "uwaga": "Drugie „w” przed „popiele” nie ma osobnego ἐν.",
+      "uzasadnienie": "Jedno ἐν obejmuje σάκκῳ καὶ σποδῷ. Polskie „w” przy „popiele” powtarza ten przyimek; wór i popiół są w TR."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        29
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "σποδῷ oddane jako „popiele”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. Dwa „w” dopowiadają przyimek już obecny przy parze Τύρῳ καὶ Σιδῶνι oraz przy σάκκῳ καὶ σποδῷ. Okres nierzeczywisty zostaje ten sam.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐν Τύρῳ καὶ Σιδῶνι ma jedno ἐν. BG powtarza przyimek: „w Tyrze i w Sydonie”. Tak samo „w worze i w popiele” przy jednym ἐν σάκκῳ καὶ σποδῷ.",
+      "tokeny_bg": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        10,
+        11,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "εἰ … ἐγένοντο … πάλαι ἂν … μετενόησαν BG oddaje jako „gdyby się były … stały … dawnoby były … pokutowały”.",
+      "tokeny_bg": [
+        7,
+        8,
+        9,
+        17,
+        23,
+        24,
+        30
+      ],
+      "tokeny_zrodla": [
+        7,
+        12,
+        19,
+        20,
+        25
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Běda tobě Korozaim, běda tobě Betsaido. Nebo kdyby v Týru a Sidonu byli činěni divové ti, kteříž jsou činěni v vás, dávno by byli v žíni a v popele pokání činili.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

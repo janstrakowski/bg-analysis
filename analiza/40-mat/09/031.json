@@ -1,0 +1,303 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.31",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 31
+  },
+  "tekst_bg": "Lecz oni wyszedłszy, rozsławili go po wszystkiej onej ziemi.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Lecz"
+    },
+    {
+      "i": 1,
+      "t": "oni"
+    },
+    {
+      "i": 2,
+      "t": "wyszedłszy"
+    },
+    {
+      "i": 3,
+      "t": "rozsławili"
+    },
+    {
+      "i": 4,
+      "t": "go"
+    },
+    {
+      "i": 5,
+      "t": "po"
+    },
+    {
+      "i": 6,
+      "t": "wszystkiej"
+    },
+    {
+      "i": 7,
+      "t": "onej"
+    },
+    {
+      "i": 8,
+      "t": "ziemi"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.31",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.31",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "<the>",
+        "id": "Mat.9.31#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "But",
+        "id": "Mat.9.31#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐξελθόντες",
+        "lemma": "G1831",
+        "forma": "ἐξέρχομαι",
+        "morph": "V-2AAP-NPM",
+        "glosa": "having gone out",
+        "id": "Mat.9.31#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to go out"
+      },
+      {
+        "t": "διεφήμισαν",
+        "lemma": "G1310",
+        "forma": "διαφημίζω",
+        "morph": "V-AAI-3P",
+        "glosa": "they make known",
+        "id": "Mat.9.31#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to publish abroad"
+      },
+      {
+        "t": "αὐτὸν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "Him",
+        "id": "Mat.9.31#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.9.31#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ὅλῃ",
+        "lemma": "G3650",
+        "forma": "ὅλος",
+        "morph": "A-DSF",
+        "glosa": "all",
+        "id": "Mat.9.31#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "all"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.9.31#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γῇ",
+        "lemma": "G1093H",
+        "forma": "γῆ",
+        "morph": "N-DSF",
+        "glosa": "land",
+        "id": "Mat.9.31#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "earth: country"
+      },
+      {
+        "t": "ἐκείνῃ",
+        "lemma": "G1565",
+        "forma": "ἐκεῖνος",
+        "morph": "D-DSF",
+        "glosa": "that.",
+        "id": "Mat.9.31#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "that"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po rodzajniku, a BG wynosi je na początek jako „Lecz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "οἱ, rodzajnik użyty rzeczownikowo, oddane jako „oni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐξελθόντες oddane jako „wyszedłszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "διεφήμισαν oddane jako „rozsławili”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτὸν oddane jako „go”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἐν przy całej ziemi oddane jako „po”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὅλῃ oddane jako „wszystkiej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἐκείνῃ oddane jako „onej”; w grece stoi po γῇ."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τῇ γῇ oddane jako „ziemi”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajnik οἱ jest zaimkiem „oni”, a τῇ γῇ zlewa się w „ziemi”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οἱ δὲ BG oddaje jako „Lecz oni”: δὲ jest na początku, a rodzajnik οἱ ma własne słowo „oni”.",
+      "tokeny_bg": [
+        0,
+        1
+      ],
+      "tokeny_zrodla": [
+        0,
+        1
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ale oni vyšedše, rozhlásali jej po vší té zemi.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.1.8",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 1,
+    "werset": 8
+  },
+  "tekst_bg": "A Aza spłodził Jozafata, a Jozafat spłodził Jorama, a Joram spłodził Ozyjasza.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "Aza"
+    },
+    {
+      "i": 2,
+      "t": "spłodził"
+    },
+    {
+      "i": 3,
+      "t": "Jozafata"
+    },
+    {
+      "i": 4,
+      "t": "a"
+    },
+    {
+      "i": 5,
+      "t": "Jozafat"
+    },
+    {
+      "i": 6,
+      "t": "spłodził"
+    },
+    {
+      "i": 7,
+      "t": "Jorama"
+    },
+    {
+      "i": 8,
+      "t": "a"
+    },
+    {
+      "i": 9,
+      "t": "Joram"
+    },
+    {
+      "i": 10,
+      "t": "spłodził"
+    },
+    {
+      "i": 11,
+      "t": "Ozyjasza"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.1.8",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.1.8",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἀσὰφ",
+        "lemma": "G0760",
+        "forma": "Ἀσά",
+        "morph": "N-NSM-P",
+        "glosa": "Asaph",
+        "id": "Mat.1.8#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "Asaph"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.8#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.8#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.8#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰωσαφάτ",
+        "lemma": "G2498",
+        "forma": "Ἰωσαφάτ",
+        "morph": "N-ASM-P",
+        "glosa": "Jehoshaphat;",
+        "id": "Mat.1.8#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Jehoshaphat"
+      },
+      {
+        "t": "Ἰωσαφὰτ",
+        "lemma": "G2498",
+        "forma": "Ἰωσαφάτ",
+        "morph": "N-NSM-P",
+        "glosa": "Jehoshaphat",
+        "id": "Mat.1.8#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Jehoshaphat"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.8#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.8#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.8#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰωράμ",
+        "lemma": "G2496",
+        "forma": "Ἰωράμ",
+        "morph": "N-ASM-P",
+        "glosa": "Joram;",
+        "id": "Mat.1.8#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "Joram"
+      },
+      {
+        "t": "Ἰωρὰμ",
+        "lemma": "G2496",
+        "forma": "Ἰωράμ",
+        "morph": "N-NSM-P",
+        "glosa": "Joram",
+        "id": "Mat.1.8#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "Joram"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.1.8#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγέννησεν",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-AAI-3S",
+        "glosa": "begat",
+        "id": "Mat.1.8#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to beget"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.1.8#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ὀζίαν",
+        "lemma": "G3604",
+        "forma": "Ὀζίας",
+        "morph": "N-ASM-P",
+        "glosa": "Uzziah;",
+        "id": "Mat.1.8#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "Uzziah"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἀσὰφ oddane jako „Aza”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ἰωσαφάτ oddane jako „Jozafata”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG stawia je przed imieniem jako „a”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἰωσαφὰτ oddane jako „Jozafat”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ἰωράμ oddane jako „Jorama”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG stawia je przed imieniem jako „a”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἰωρὰμ oddane jako „Joram”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐγέννησεν oddane jako „spłodził”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν Ὀζίαν oddane jako „Ozyjasza”, a rodzajnik nie ma osobnego słowa."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajnik przy imieniu syna nie ma osobnego polskiego słowa, a δὲ jest wyniesione przed imię.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐγέννησεν BG oddaje jako „spłodził”, a rodzajnik τὸν przy imieniu syna wciela w to imię.",
+      "tokeny_bg": [
+        2,
+        3,
+        6,
+        7,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        2,
+        3,
+        4,
+        7,
+        8,
+        9,
+        12,
+        13,
+        14
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Aza zplodil Jozafata. Jozafat zplodil Joráma. Jorám zplodil Oziáše.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

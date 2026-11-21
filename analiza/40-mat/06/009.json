@@ -1,0 +1,433 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.9",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 9
+  },
+  "tekst_bg": "Wy tedy tak się módlcie: Ojcze nasz, któryś jest w niebiesiech! Święć się imię twoje;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Wy"
+    },
+    {
+      "i": 1,
+      "t": "tedy"
+    },
+    {
+      "i": 2,
+      "t": "tak"
+    },
+    {
+      "i": 3,
+      "t": "się"
+    },
+    {
+      "i": 4,
+      "t": "módlcie"
+    },
+    {
+      "i": 5,
+      "t": "Ojcze"
+    },
+    {
+      "i": 6,
+      "t": "nasz"
+    },
+    {
+      "i": 7,
+      "t": "któryś"
+    },
+    {
+      "i": 8,
+      "t": "jest"
+    },
+    {
+      "i": 9,
+      "t": "w"
+    },
+    {
+      "i": 10,
+      "t": "niebiesiech"
+    },
+    {
+      "i": 11,
+      "t": "Święć"
+    },
+    {
+      "i": 12,
+      "t": "się"
+    },
+    {
+      "i": 13,
+      "t": "imię"
+    },
+    {
+      "i": 14,
+      "t": "twoje"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.9",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.9",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Οὕτως",
+        "lemma": "G3779",
+        "forma": "οὕτω, οὕτως",
+        "morph": "ADV",
+        "glosa": "Thus",
+        "id": "Mat.6.9#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "thus(-ly)"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "therefore",
+        "id": "Mat.6.9#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "προσεύχεσθε",
+        "lemma": "G4336",
+        "forma": "προσεύχομαι",
+        "morph": "V-PNM-2P",
+        "glosa": "do pray",
+        "id": "Mat.6.9#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to pray"
+      },
+      {
+        "t": "ὑμεῖς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2NP",
+        "glosa": "you yourselves:",
+        "id": "Mat.6.9#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "you"
+      },
+      {
+        "t": "πάτερ",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-VSM-T",
+        "glosa": "Father",
+        "id": "Mat.6.9#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "father"
+      },
+      {
+        "t": "ἡμῶν",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GP",
+        "glosa": "of us",
+        "id": "Mat.6.9#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "me"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-VSM",
+        "glosa": "you who [are]",
+        "id": "Mat.6.9#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.6.9#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "the",
+        "id": "Mat.6.9#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανοῖς",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-DPM",
+        "glosa": "heavens,",
+        "id": "Mat.6.9#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "heaven"
+      },
+      {
+        "t": "ἁγιασθήτω",
+        "lemma": "G0037",
+        "forma": "ἁγιάζω",
+        "morph": "V-APM-3S",
+        "glosa": "should be hallowed",
+        "id": "Mat.6.9#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to sanctify"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "the",
+        "id": "Mat.6.9#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὄνομά",
+        "lemma": "G3686",
+        "forma": "ὄνομα",
+        "morph": "N-NSN",
+        "glosa": "name",
+        "id": "Mat.6.9#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "name"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of You;",
+        "id": "Mat.6.9#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὑμεῖς BG wynosi na początek jako „Wy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "οὖν oddane jako „tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Οὕτως oddane jako „tak”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "προσεύχεσθε, rozkazujący deponens, oddane jako „się módlcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "πάτερ, wołacz, oddane jako „Ojcze”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἡμῶν oddane jako „nasz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὁ, rodzajnik wołacza glossowany „you who”, oddane jako „któryś”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [],
+      "uwaga": "„jest” stawia łącznik. Przy ὁ ἐν τοῖς οὐρανοῖς nie ma εἰμί.",
+      "uzasadnienie": "Rodzajnik ὁ z ἐν nie zawiera εἰμί. Polskie „któryś jest” potrzebuje łącznika, którego w TR nie ma."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τοῖς οὐρανοῖς oddane jako „niebiesiech”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        11,
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἁγιασθήτω, rozkazujący strony biernej, oddane jako „Święć się”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τὸ ὄνομά oddane jako „imię”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "σου oddane jako „twoje”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „jest” dopowiada łącznik przy ὁ ἐν τοῖς οὐρανοῖς. ἁγιασθήτω zostaje przy podmiocie „imię” jako „Święć się”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὁ ἐν τοῖς οὐρανοῖς nie ma εἰμί. BG dopowiada „jest” przy „któryś”.",
+      "tokeny_bg": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἁγιασθήτω τὸ ὄνομά σου to rozkazujący strony biernej „should be hallowed the name of You”. BG ma „Święć się imię twoje”.",
+      "tokeny_bg": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "tokeny_zrodla": [
+        10,
+        11,
+        12,
+        13
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A protož vy takto se modlte: Otče náš, jenž jsi v nebesích, posvěť se jméno tvé.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

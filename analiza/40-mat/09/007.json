@@ -1,0 +1,237 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.7",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 7
+  },
+  "tekst_bg": "Tedy wstawszy, poszedł do domu swego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tedy"
+    },
+    {
+      "i": 1,
+      "t": "wstawszy"
+    },
+    {
+      "i": 2,
+      "t": "poszedł"
+    },
+    {
+      "i": 3,
+      "t": "do"
+    },
+    {
+      "i": 4,
+      "t": "domu"
+    },
+    {
+      "i": 5,
+      "t": "swego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.7",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.7",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.7#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐγερθεὶς",
+        "lemma": "G1453",
+        "forma": "ἐγείρω",
+        "morph": "V-APP-NSM",
+        "glosa": "having arisen",
+        "id": "Mat.9.7#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to arise"
+      },
+      {
+        "t": "ἀπῆλθεν",
+        "lemma": "G0565",
+        "forma": "ἀπέρχομαι",
+        "morph": "V-2AAI-3S",
+        "glosa": "he went away",
+        "id": "Mat.9.7#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to go away"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.9.7#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.9.7#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἶκον",
+        "lemma": "G3624G",
+        "forma": "οἶκος",
+        "morph": "N-ASM",
+        "glosa": "house",
+        "id": "Mat.9.7#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "house: home"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him.",
+        "id": "Mat.9.7#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane na początku jako „Tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐγερθεὶς, imiesłów bierny „having arisen”, oddane jako „wstawszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἀπῆλθεν, „he went away”, oddane jako „poszedł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τὸν οἶκον oddane jako „domu”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "αὐτοῦ oddane przymiotnikiem „swego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token grecki ma polski odpowiednik. Rodzajnik τὸν wchodzi w „domu”, a dopełniacz αὐτοῦ daje przymiotnik „swego”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "καὶ ἐγερθεὶς ἀπῆλθεν εἰς τὸν οἶκον αὐτοῦ BG oddaje jako „Tedy wstawszy, poszedł do domu swego”, bez dopisanego podmiotu.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Tedy vstal a odšel do domu svého.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.1",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 1
+  },
+  "tekst_bg": "I stało się, gdy Jezus przestał rozkazywać dwunastu uczniom swoim, poszedł z onąd, aby uczył i kazał w miastach ich.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "stało"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "gdy"
+    },
+    {
+      "i": 4,
+      "t": "Jezus"
+    },
+    {
+      "i": 5,
+      "t": "przestał"
+    },
+    {
+      "i": 6,
+      "t": "rozkazywać"
+    },
+    {
+      "i": 7,
+      "t": "dwunastu"
+    },
+    {
+      "i": 8,
+      "t": "uczniom"
+    },
+    {
+      "i": 9,
+      "t": "swoim"
+    },
+    {
+      "i": 10,
+      "t": "poszedł"
+    },
+    {
+      "i": 11,
+      "t": "z"
+    },
+    {
+      "i": 12,
+      "t": "onąd"
+    },
+    {
+      "i": 13,
+      "t": "aby"
+    },
+    {
+      "i": 14,
+      "t": "uczył"
+    },
+    {
+      "i": 15,
+      "t": "i"
+    },
+    {
+      "i": 16,
+      "t": "kazał"
+    },
+    {
+      "i": 17,
+      "t": "w"
+    },
+    {
+      "i": 18,
+      "t": "miastach"
+    },
+    {
+      "i": 19,
+      "t": "ich"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.1",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.1",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.11.1#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐγένετο",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-2ADI-3S",
+        "glosa": "it came to pass",
+        "id": "Mat.11.1#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ὅτε",
+        "lemma": "G3753",
+        "forma": "ὅτε",
+        "morph": "CONJ",
+        "glosa": "when",
+        "id": "Mat.11.1#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "when"
+      },
+      {
+        "t": "ἐτέλεσεν",
+        "lemma": "G5055",
+        "forma": "τελέω",
+        "morph": "V-AAI-3S",
+        "glosa": "finished",
+        "id": "Mat.11.1#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to finish"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.11.1#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.11.1#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "διατάσσων",
+        "lemma": "G1299",
+        "forma": "διατάσσω",
+        "morph": "V-PAP-NSM",
+        "glosa": "commanding",
+        "id": "Mat.11.1#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to direct"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "the",
+        "id": "Mat.11.1#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δώδεκα",
+        "lemma": "G1427",
+        "forma": "δώδεκα",
+        "morph": "A-NUI",
+        "glosa": "twelve",
+        "id": "Mat.11.1#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "twelve"
+      },
+      {
+        "t": "μαθηταῖς",
+        "lemma": "G3101",
+        "forma": "μαθητής",
+        "morph": "N-DPM",
+        "glosa": "disciples",
+        "id": "Mat.11.1#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "disciple"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him,",
+        "id": "Mat.11.1#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "μετέβη",
+        "lemma": "G3327",
+        "forma": "μεταβαίνω",
+        "morph": "V-2AAI-3S",
+        "glosa": "He departed",
+        "id": "Mat.11.1#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to depart"
+      },
+      {
+        "t": "ἐκεῖθεν",
+        "lemma": "G1564",
+        "forma": "ἐκεῖθεν",
+        "morph": "ADV",
+        "glosa": "from there",
+        "id": "Mat.11.1#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "from there"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSN",
+        "glosa": "<the>",
+        "id": "Mat.11.1#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "διδάσκειν",
+        "lemma": "G1321",
+        "forma": "διδάσκω",
+        "morph": "V-PAN",
+        "glosa": "to teach",
+        "id": "Mat.11.1#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to teach"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.1#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "and"
+      },
+      {
+        "t": "κηρύσσειν",
+        "lemma": "G2784",
+        "forma": "κηρύσσω",
+        "morph": "V-PAN",
+        "glosa": "to preach",
+        "id": "Mat.11.1#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to preach"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.11.1#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ταῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPF",
+        "glosa": "the",
+        "id": "Mat.11.1#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πόλεσιν",
+        "lemma": "G4172",
+        "forma": "πόλις",
+        "morph": "N-DPF",
+        "glosa": "cities",
+        "id": "Mat.11.1#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "city"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them.",
+        "id": "Mat.11.1#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Καὶ oddane jako „I”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐγένετο, forma medialna, oddane jako „stało się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὅτε oddane jako „gdy”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”; ἐτέλεσεν stoi w grece przed imieniem."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἐτέλεσεν oddane jako „przestał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "διατάσσων, imiesłów, oddane bezokolicznikiem „rozkazywać”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "δώδεκα oddane jako „dwunastu”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7,
+        9
+      ],
+      "uwaga": "τοῖς μαθηταῖς oddane jako „uczniom”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "αὐτοῦ oddane jako „swoim”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "μετέβη oddane jako „poszedł”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        11,
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἐκεῖθεν oddane jako „z onąd”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "τοῦ przy bezokoliczniku celu oddane jako „aby”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "διδάσκειν oddane czasownikiem osobowym „uczył”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "κηρύσσειν oddane czasownikiem osobowym „kazał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "ταῖς πόλεσιν oddane jako „miastach”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "αὐτῶν oddane jako „ich”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token grecki ma odpowiednik. „stało się” i „z onąd” rozbijają pojedyncze wyrazy, a rodzajniki wchodzą w rzeczownik.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τοῦ διδάσκειν καὶ κηρύσσειν to bezokoliczniki celu. BG oddaje je zdaniem „aby uczył i kazał”.",
+      "tokeny_bg": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "tokeny_zrodla": [
+        13,
+        14,
+        15,
+        16
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I stalo se, když dokonal Ježíš řeči své, kteréž mluvil, přikázání dávaje dvanácti učedlníkům svým, bral se odtud, aby učil a kázal v městech jejich.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

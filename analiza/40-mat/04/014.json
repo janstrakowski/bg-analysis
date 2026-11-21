@@ -1,0 +1,295 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.14",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 14
+  },
+  "tekst_bg": "Aby się wypełniło, co powiedziano przez Izajasza proroka, mówiącego:",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Aby"
+    },
+    {
+      "i": 1,
+      "t": "się"
+    },
+    {
+      "i": 2,
+      "t": "wypełniło"
+    },
+    {
+      "i": 3,
+      "t": "co"
+    },
+    {
+      "i": 4,
+      "t": "powiedziano"
+    },
+    {
+      "i": 5,
+      "t": "przez"
+    },
+    {
+      "i": 6,
+      "t": "Izajasza"
+    },
+    {
+      "i": 7,
+      "t": "proroka"
+    },
+    {
+      "i": 8,
+      "t": "mówiącego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.14",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.14",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἵνα",
+        "lemma": "G2443",
+        "forma": "ἵνα",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.4.14#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "in order that/to"
+      },
+      {
+        "t": "πληρωθῇ",
+        "lemma": "G4137",
+        "forma": "πληρόω",
+        "morph": "V-APS-3S",
+        "glosa": "it may be fulfilled",
+        "id": "Mat.4.14#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to fulfill"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "that",
+        "id": "Mat.4.14#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ῥηθὲν",
+        "lemma": "G2046",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-APP-NSN",
+        "glosa": "having been spoken",
+        "id": "Mat.4.14#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to say"
+      },
+      {
+        "t": "διὰ",
+        "lemma": "G1223",
+        "forma": "διά",
+        "morph": "PREP",
+        "glosa": "through",
+        "id": "Mat.4.14#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "through/because of"
+      },
+      {
+        "t": "Ἠσαΐου",
+        "lemma": "G2268",
+        "forma": "Ἡσαΐας",
+        "morph": "N-GSM-P",
+        "glosa": "Isaiah",
+        "id": "Mat.4.14#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Isaiah"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.4.14#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "προφήτου",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-GSM",
+        "glosa": "prophet",
+        "id": "Mat.4.14#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "prophet"
+      },
+      {
+        "t": "λέγοντος",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-GSM",
+        "glosa": "saying:",
+        "id": "Mat.4.14#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to say"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἵνα oddane jako „Aby”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "πληρωθῇ, aoryst strony biernej, oddane jako „się wypełniło”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "τὸ, rodzajnik przy imiesłowie, oddane jako „co”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ῥηθὲν oddane jako „powiedziano”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "διὰ oddane jako „przez”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Ἠσαΐου oddane jako „Izajasza”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τοῦ προφήτου oddane jako „proroka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "λέγοντος oddane jako „mówiącego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Cel zostaje ten sam: ma się wypełnić to, co powiedziano przez Izajasza proroka. Strona bierna πληρωθῇ jest rozwinięta w „się wypełniło”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἵνα πληρωθῇ τὸ ῥηθὲν διὰ Ἠσαΐου τοῦ προφήτου BG oddaje jako „Aby się wypełniło, co powiedziano przez Izajasza proroka”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Aby se naplnilo povědění skrze Izaiáše proroka, řkoucího:",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

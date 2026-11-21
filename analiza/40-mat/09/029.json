@@ -1,0 +1,357 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.29",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 29
+  },
+  "tekst_bg": "Tedy się dotknął oczu ich, mówiąc: Według wiary waszej niechaj się wam stanie.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tedy"
+    },
+    {
+      "i": 1,
+      "t": "się"
+    },
+    {
+      "i": 2,
+      "t": "dotknął"
+    },
+    {
+      "i": 3,
+      "t": "oczu"
+    },
+    {
+      "i": 4,
+      "t": "ich"
+    },
+    {
+      "i": 5,
+      "t": "mówiąc"
+    },
+    {
+      "i": 6,
+      "t": "Według"
+    },
+    {
+      "i": 7,
+      "t": "wiary"
+    },
+    {
+      "i": 8,
+      "t": "waszej"
+    },
+    {
+      "i": 9,
+      "t": "niechaj"
+    },
+    {
+      "i": 10,
+      "t": "się"
+    },
+    {
+      "i": 11,
+      "t": "wam"
+    },
+    {
+      "i": 12,
+      "t": "stanie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.29",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.29",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "Then",
+        "id": "Mat.9.29#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἥψατο",
+        "lemma": "G0681",
+        "forma": "ἅπτω",
+        "morph": "V-ADI-3S",
+        "glosa": "He touched",
+        "id": "Mat.9.29#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to touch"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "the",
+        "id": "Mat.9.29#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὀφθαλμῶν",
+        "lemma": "G3788",
+        "forma": "ὀφθαλμός",
+        "morph": "N-GPM",
+        "glosa": "eyes",
+        "id": "Mat.9.29#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "eye"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them",
+        "id": "Mat.9.29#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "λέγων",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NSM",
+        "glosa": "saying;",
+        "id": "Mat.9.29#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to say"
+      },
+      {
+        "t": "κατὰ",
+        "lemma": "G2596",
+        "forma": "κατά",
+        "morph": "PREP",
+        "glosa": "According to",
+        "id": "Mat.9.29#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "according to"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.9.29#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πίστιν",
+        "lemma": "G4102G",
+        "forma": "πίστις",
+        "morph": "N-ASF",
+        "glosa": "faith",
+        "id": "Mat.9.29#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "faith"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.9.29#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "you"
+      },
+      {
+        "t": "γενηθήτω",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-AOM-3S",
+        "glosa": "it should be [done]",
+        "id": "Mat.9.29#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you.",
+        "id": "Mat.9.29#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "τότε oddane jako „Tedy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἥψατο, aoryst strony medialnej, oddane jako „się dotknął”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "τῶν ὀφθαλμῶν oddane jako „oczu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτῶν oddane jako „ich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "λέγων oddane jako „mówiąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "κατὰ oddane jako „Według”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τὴν πίστιν oddane jako „wiary”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ὑμῶν, dopełniacz „was”, oddane przymiotnikiem „waszej”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10,
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "γενηθήτω, rozkaźnik „niech się stanie”, oddane jako „niechaj się … stanie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. „się” należy do medialnego ἥψατο i do γενηθήτω, a rodzajniki są wcielone w rzeczowniki.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "γενηθήτω ὑμῖν BG oddaje jako „niechaj się wam stanie”: jeden rozkaźnik rozbity na „niechaj się stanie”, a ὑμῖν jako „wam”.",
+      "tokeny_bg": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "tokeny_zrodla": [
+        10,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Tedy dotekl se očí jejich, řka: Podle víry vaší staniž se vám.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.39",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 39
+  },
+  "tekst_bg": "Ktoby znalazł duszę swoję, straci ją; a ktoby stracił duszę swoję dla mnie, znajdzie ją.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ktoby"
+    },
+    {
+      "i": 1,
+      "t": "znalazł"
+    },
+    {
+      "i": 2,
+      "t": "duszę"
+    },
+    {
+      "i": 3,
+      "t": "swoję"
+    },
+    {
+      "i": 4,
+      "t": "straci"
+    },
+    {
+      "i": 5,
+      "t": "ją"
+    },
+    {
+      "i": 6,
+      "t": "a"
+    },
+    {
+      "i": 7,
+      "t": "ktoby"
+    },
+    {
+      "i": 8,
+      "t": "stracił"
+    },
+    {
+      "i": 9,
+      "t": "duszę"
+    },
+    {
+      "i": 10,
+      "t": "swoję"
+    },
+    {
+      "i": 11,
+      "t": "dla"
+    },
+    {
+      "i": 12,
+      "t": "mnie"
+    },
+    {
+      "i": 13,
+      "t": "znajdzie"
+    },
+    {
+      "i": 14,
+      "t": "ją"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.39",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.39",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "The [one]",
+        "id": "Mat.10.39#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "εὑρὼν",
+        "lemma": "G2147",
+        "forma": "εὑρίσκω",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having found",
+        "id": "Mat.10.39#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to find/meet"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.10.39#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ψυχὴν",
+        "lemma": "G5590H",
+        "forma": "ψυχή",
+        "morph": "N-ASF",
+        "glosa": "life",
+        "id": "Mat.10.39#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "soul: life"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him",
+        "id": "Mat.10.39#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἀπολέσει",
+        "lemma": "G0622",
+        "forma": "ἀπολλύω",
+        "morph": "V-FAI-3S",
+        "glosa": "will lose",
+        "id": "Mat.10.39#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to destroy"
+      },
+      {
+        "t": "αὐτὴν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASF",
+        "glosa": "it",
+        "id": "Mat.10.39#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.39#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the [one]",
+        "id": "Mat.10.39#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀπολέσας",
+        "lemma": "G0622",
+        "forma": "ἀπολλύω",
+        "morph": "V-AAP-NSM",
+        "glosa": "having lost",
+        "id": "Mat.10.39#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to destroy"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.10.39#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ψυχὴν",
+        "lemma": "G5590H",
+        "forma": "ψυχή",
+        "morph": "N-ASF",
+        "glosa": "life",
+        "id": "Mat.10.39#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "soul: life"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him",
+        "id": "Mat.10.39#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἕνεκεν",
+        "lemma": "G1752",
+        "forma": "ἕνεκα, εἵνεκεν",
+        "morph": "PREP",
+        "glosa": "on account of",
+        "id": "Mat.10.39#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "because of"
+      },
+      {
+        "t": "ἐμοῦ",
+        "lemma": "G1473",
+        "forma": "ἐγώ",
+        "morph": "S-1SGSN",
+        "glosa": "Me",
+        "id": "Mat.10.39#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "εὑρήσει",
+        "lemma": "G2147",
+        "forma": "εὑρίσκω",
+        "morph": "V-FAI-3S",
+        "glosa": "will find",
+        "id": "Mat.10.39#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to find/meet"
+      },
+      {
+        "t": "αὐτήν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASF",
+        "glosa": "it.",
+        "id": "Mat.10.39#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὁ oddane jako „Ktoby”; -by jest w tym samym słowie."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "εὑρὼν, imiesłów aorystu, oddane jako „znalazł”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὴν ψυχὴν, glosa „life”, oddane jako „duszę”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτοῦ oddane jako „swoję”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἀπολέσει oddane jako „straci”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτὴν oddane jako „ją”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὁ oddane jako „ktoby”; -by jest w tym samym słowie."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἀπολέσας, imiesłów aorystu, oddane jako „stracił”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὴν ψυχὴν, glosa „life”, oddane jako „duszę”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτοῦ oddane jako „swoję”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἕνεκεν oddane jako „dla”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐμοῦ oddane jako „mnie”."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15
+      ],
+      "rola": "przeklad",
+      "uwaga": "εὑρήσει oddane jako „znajdzie”."
+    },
+    {
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτήν oddane jako „ją”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajnik przy ψυχὴν jest wcielony w „duszę”, a glosa „life” idzie w to samo słowo.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὁ εὑρὼν τὴν ψυχὴν αὐτοῦ ἀπολέσει αὐτήν BG oddaje jako „Ktoby znalazł duszę swoję, straci ją”. Glosa ψυχὴν to „life”, leksykon „soul: life”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Kdož nalezne duši svou, ztratíť ji; a kdo by ztratil duši svou pro mne, nalezneť ji.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.20",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 20
+  },
+  "tekst_bg": "A oni zaraz opuściwszy sieci, szli za nim.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "oni"
+    },
+    {
+      "i": 2,
+      "t": "zaraz"
+    },
+    {
+      "i": 3,
+      "t": "opuściwszy"
+    },
+    {
+      "i": 4,
+      "t": "sieci"
+    },
+    {
+      "i": 5,
+      "t": "szli"
+    },
+    {
+      "i": 6,
+      "t": "za"
+    },
+    {
+      "i": 7,
+      "t": "nim"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.20",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.20",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "<the>",
+        "id": "Mat.4.20#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.4.20#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "εὐθέως",
+        "lemma": "G2112",
+        "forma": "εὐθέως",
+        "morph": "ADV",
+        "glosa": "immediately",
+        "id": "Mat.4.20#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "immediately"
+      },
+      {
+        "t": "ἀφέντες",
+        "lemma": "G0863G",
+        "forma": "ἀφίημι",
+        "morph": "V-2AAP-NPM",
+        "glosa": "having left",
+        "id": "Mat.4.20#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to release: leave"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APN",
+        "glosa": "the",
+        "id": "Mat.4.20#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δίκτυα",
+        "lemma": "G1350",
+        "forma": "δίκτυον",
+        "morph": "N-APN",
+        "glosa": "nets",
+        "id": "Mat.4.20#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "net"
+      },
+      {
+        "t": "ἠκολούθησαν",
+        "lemma": "G0190",
+        "forma": "ἀκολουθέω",
+        "morph": "V-AAI-3P",
+        "glosa": "they followed",
+        "id": "Mat.4.20#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to follow"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "Him.",
+        "id": "Mat.4.20#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po rodzajniku, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "οἱ, rodzajnik użyty rzeczownikowo, oddane jako „oni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "εὐθέως oddane jako „zaraz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀφέντες oddane jako „opuściwszy”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τὰ δίκτυα oddane jako „sieci”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἠκολούθησαν oddane jako „szli za”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "αὐτῷ oddane jako „nim”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Zaraz zostawiają sieci i idą za nim. ἠκολούθησαν rozkłada się na „szli za”, a αὐτῷ zostaje „nim”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀφέντες τὰ δίκτυα ἠκολούθησαν αὐτῷ BG oddaje jako „opuściwszy sieci, szli za nim”.",
+      "tokeny_bg": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A oni hned opustivše síti, šli za ním.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.28",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 28
+  },
+  "tekst_bg": "A o odzienie przeczże się troszczycie? Przypatrzcie się lilijom polnym, jako rosną; nie pracują, ani przędą.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "o"
+    },
+    {
+      "i": 2,
+      "t": "odzienie"
+    },
+    {
+      "i": 3,
+      "t": "przeczże"
+    },
+    {
+      "i": 4,
+      "t": "się"
+    },
+    {
+      "i": 5,
+      "t": "troszczycie"
+    },
+    {
+      "i": 6,
+      "t": "Przypatrzcie"
+    },
+    {
+      "i": 7,
+      "t": "się"
+    },
+    {
+      "i": 8,
+      "t": "lilijom"
+    },
+    {
+      "i": 9,
+      "t": "polnym"
+    },
+    {
+      "i": 10,
+      "t": "jako"
+    },
+    {
+      "i": 11,
+      "t": "rosną"
+    },
+    {
+      "i": 12,
+      "t": "nie"
+    },
+    {
+      "i": 13,
+      "t": "pracują"
+    },
+    {
+      "i": 14,
+      "t": "ani"
+    },
+    {
+      "i": 15,
+      "t": "przędą"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.28",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.28",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.6.28#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "περὶ",
+        "lemma": "G4012",
+        "forma": "περί",
+        "morph": "PREP",
+        "glosa": "about",
+        "id": "Mat.6.28#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "about"
+      },
+      {
+        "t": "ἐνδύματος",
+        "lemma": "G1742",
+        "forma": "ἔνδυμα",
+        "morph": "N-GSN",
+        "glosa": "clothing",
+        "id": "Mat.6.28#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "clothing"
+      },
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-ASN",
+        "glosa": "why",
+        "id": "Mat.6.28#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "which?"
+      },
+      {
+        "t": "μεριμνᾶτε;",
+        "lemma": "G3309",
+        "forma": "μεριμνάω",
+        "morph": "V-PAI-2P",
+        "glosa": "are you anxious?",
+        "id": "Mat.6.28#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to worry"
+      },
+      {
+        "t": "καταμάθετε",
+        "lemma": "G2648",
+        "forma": "καταμανθάνω",
+        "morph": "V-2AAM-2P",
+        "glosa": "do observe",
+        "id": "Mat.6.28#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to consider"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APN",
+        "glosa": "the",
+        "id": "Mat.6.28#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κρίνα",
+        "lemma": "G2918",
+        "forma": "κρίνον",
+        "morph": "N-APN",
+        "glosa": "lilies",
+        "id": "Mat.6.28#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "lily"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.6.28#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀγροῦ",
+        "lemma": "G0068G",
+        "forma": "ἀγρός",
+        "morph": "N-GSM",
+        "glosa": "field,",
+        "id": "Mat.6.28#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "field"
+      },
+      {
+        "t": "πῶς",
+        "lemma": "G4459",
+        "forma": "πως",
+        "morph": "PRT-I",
+        "glosa": "how",
+        "id": "Mat.6.28#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "how?!"
+      },
+      {
+        "t": "αὐξάνει",
+        "lemma": "G0837",
+        "forma": "αὐξάνει",
+        "morph": "V-PAI-3S",
+        "glosa": "it grows",
+        "id": "Mat.6.28#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to grow"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.6.28#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "no"
+      },
+      {
+        "t": "κοπιᾷ",
+        "lemma": "G2872",
+        "forma": "κοπιᾷ",
+        "morph": "V-PAI-3S",
+        "glosa": "does it labor",
+        "id": "Mat.6.28#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to labor"
+      },
+      {
+        "t": "οὐδὲ",
+        "lemma": "G3761",
+        "forma": "οὐδέ",
+        "morph": "CONJ-N",
+        "glosa": "nor",
+        "id": "Mat.6.28#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "nor"
+      },
+      {
+        "t": "νήθει",
+        "lemma": "G3514",
+        "forma": "νήθει",
+        "morph": "V-PAI-3S",
+        "glosa": "does it spin",
+        "id": "Mat.6.28#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to spin"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καί oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "περί oddane jako „o”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐνδύματος, dopełniacz, oddane jako „odzienie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "τί, „why”, oddane jako „przeczże”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "μεριμνᾶτε, strona czynna „are you anxious”, oddane zwrotem „się troszczycie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "καταμάθετε, rozkazujący strony czynnej „do observe”, oddane zwrotem „Przypatrzcie się”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τὰ κρίνα, biernik, oddane celownikiem „lilijom”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τοῦ ἀγροῦ, dopełniacz „of the field”, oddane przymiotnikiem „polnym”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "πῶς, „how”, oddane jako „jako”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "αὐξάνει, liczba pojedyncza przy neutrum τὰ κρίνα, oddane liczbą mnogą „rosną”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "οὐ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "κοπιᾷ, liczba pojedyncza, oddane jako „pracują”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "οὐδέ oddane jako „ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "νήθει, liczba pojedyncza, oddane jako „przędą”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Orzeczenia αὐξάνει, κοπιᾷ i νήθει są w liczbie pojedynczej przy neutrum τὰ κρίνα, a polska liczba mnoga nazywa te same lilie.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πῶς αὐξάνει οὐ κοπιᾷ οὐδὲ νήθει to orzeczenia w liczbie pojedynczej. BG ma „jako rosną; nie pracują, ani przędą” o tych samych τὰ κρίνα.",
+      "tokeny_bg": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "tokeny_zrodla": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A o oděv proč pečujete? Poučte se na kvítí polním, kterak roste, nepracuje ani přede.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

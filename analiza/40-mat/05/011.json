@@ -1,0 +1,516 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.11",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 11
+  },
+  "tekst_bg": "Błogosławieni jesteście, gdy wam złorzeczyć będą, i prześladować was, i mówić wszystko złe przeciwko wam, kłamając dla mnie.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Błogosławieni"
+    },
+    {
+      "i": 1,
+      "t": "jesteście"
+    },
+    {
+      "i": 2,
+      "t": "gdy"
+    },
+    {
+      "i": 3,
+      "t": "wam"
+    },
+    {
+      "i": 4,
+      "t": "złorzeczyć"
+    },
+    {
+      "i": 5,
+      "t": "będą"
+    },
+    {
+      "i": 6,
+      "t": "i"
+    },
+    {
+      "i": 7,
+      "t": "prześladować"
+    },
+    {
+      "i": 8,
+      "t": "was"
+    },
+    {
+      "i": 9,
+      "t": "i"
+    },
+    {
+      "i": 10,
+      "t": "mówić"
+    },
+    {
+      "i": 11,
+      "t": "wszystko"
+    },
+    {
+      "i": 12,
+      "t": "złe"
+    },
+    {
+      "i": 13,
+      "t": "przeciwko"
+    },
+    {
+      "i": 14,
+      "t": "wam"
+    },
+    {
+      "i": 15,
+      "t": "kłamając"
+    },
+    {
+      "i": 16,
+      "t": "dla"
+    },
+    {
+      "i": 17,
+      "t": "mnie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.11",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.11",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Μακάριοί",
+        "lemma": "G3107",
+        "forma": "μακάριος",
+        "morph": "A-NPM",
+        "glosa": "Blessed",
+        "id": "Mat.5.11#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "blessed"
+      },
+      {
+        "t": "ἐστε",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-2P",
+        "glosa": "are you",
+        "id": "Mat.5.11#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ὅταν",
+        "lemma": "G3752",
+        "forma": "ὅταν",
+        "morph": "CONJ",
+        "glosa": "when",
+        "id": "Mat.5.11#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "when(-ever)"
+      },
+      {
+        "t": "ὀνειδίσωσιν",
+        "lemma": "G3679",
+        "forma": "ὀνειδίζω",
+        "morph": "V-AAS-3P",
+        "glosa": "they may insult",
+        "id": "Mat.5.11#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to revile"
+      },
+      {
+        "t": "ὑμᾶς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2AP",
+        "glosa": "you",
+        "id": "Mat.5.11#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "you"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.11#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "and"
+      },
+      {
+        "t": "διώξωσιν",
+        "lemma": "G1377",
+        "forma": "διώκω",
+        "morph": "V-AAS-3P",
+        "glosa": "they may persecute [you]",
+        "id": "Mat.5.11#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to pursue"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.11#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "εἴπωσιν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAS-3P",
+        "glosa": "they may say",
+        "id": "Mat.5.11#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to say"
+      },
+      {
+        "t": "πᾶν",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-ASN",
+        "glosa": "all kinds of",
+        "id": "Mat.5.11#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "all"
+      },
+      {
+        "t": "πονηρὸν",
+        "lemma": "G4190",
+        "forma": "πονηρός",
+        "morph": "A-ASN",
+        "glosa": "evil",
+        "id": "Mat.5.11#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "evil/bad"
+      },
+      {
+        "t": "ῥῆμα",
+        "lemma": "G4487",
+        "forma": "ῥῆμα",
+        "morph": "N-ASN",
+        "glosa": "declaration",
+        "id": "Mat.5.11#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "declaration"
+      },
+      {
+        "t": "καθ᾽",
+        "lemma": "G2596",
+        "forma": "κατά",
+        "morph": "PREP",
+        "glosa": "against",
+        "id": "Mat.5.11#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "according to"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "you",
+        "id": "Mat.5.11#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "you"
+      },
+      {
+        "t": "ψευδόμενοι",
+        "lemma": "G5574",
+        "forma": "ψεύδομαι",
+        "morph": "V-PNP-NPM",
+        "glosa": "lying",
+        "id": "Mat.5.11#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to lie"
+      },
+      {
+        "t": "ἕνεκεν",
+        "lemma": "G1752",
+        "forma": "ἕνεκα, εἵνεκεν",
+        "morph": "PREP",
+        "glosa": "on account of",
+        "id": "Mat.5.11#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "because of"
+      },
+      {
+        "t": "ἐμοῦ",
+        "lemma": "G1473",
+        "forma": "ἐγώ",
+        "morph": "S-1SGSN",
+        "glosa": "Me.",
+        "id": "Mat.5.11#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "I/we"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Μακάριοί oddane jako „Błogosławieni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐστε oddane jako „jesteście”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὅταν oddane jako „gdy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ὑμᾶς, biernik po czasowniku, oddane celownikiem „wam” przed „złorzeczyć”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὀνειδίσωσιν, coniunctivus aorystu, oddane jako „złorzeczyć będą”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Pierwsze καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "διώξωσιν oddane bezokolicznikiem „prześladować”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [],
+      "uwaga": "„was” nie ma przy διώξωσιν osobnego tokenu.",
+      "uzasadnienie": "W TR διώξωσιν nie ma dopełnienia; „was” powtarza wcześniejsze ὑμᾶς."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "Drugie καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "εἴπωσιν oddane bezokolicznikiem „mówić”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "πᾶν oddane jako „wszystko”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "πονηρὸν oddane jako „złe”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ῥῆμα, rzeczownik „słowo”, nie ma w polskim „wszystko złe” osobnego wyrazu."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καθ᾽ oddane jako „przeciwko”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ὑμῶν oddane jako „wam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ψευδόμενοι, imiesłów strony medialnej, oddane jako „kłamając”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἕνεκεν oddane jako „dla”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἐμοῦ oddane jako „mnie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Rzeczownik ῥῆμα nie ma polskiego odpowiednika. „was” przy „prześladować” jest dopowiedzeniem wcześniejszego ὑμᾶς i ma uzasadnienie.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      11
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πᾶν πονηρὸν ῥῆμα to trzy tokeny, glosa ῥῆμα „declaration”, a BG ma tylko „wszystko złe”.",
+      "tokeny_bg": [
+        11,
+        12
+      ],
+      "tokeny_zrodla": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "διώξωσιν nie ma w TR własnego dopełnienia, a polskie „was” stoi po „prześladować”.",
+      "tokeny_bg": [
+        8
+      ],
+      "tokeny_zrodla": [
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Blahoslavení jste, když vám zlořečiti budou lidé a protivenství činiti, a mluviti všecko zlé o vás, lhouce, pro mne.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

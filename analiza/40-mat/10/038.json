@@ -1,0 +1,457 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.38",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 38
+  },
+  "tekst_bg": "A kto nie bierze krzyża swego, i nie idzie za mną, nie jest mię godzien.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "kto"
+    },
+    {
+      "i": 2,
+      "t": "nie"
+    },
+    {
+      "i": 3,
+      "t": "bierze"
+    },
+    {
+      "i": 4,
+      "t": "krzyża"
+    },
+    {
+      "i": 5,
+      "t": "swego"
+    },
+    {
+      "i": 6,
+      "t": "i"
+    },
+    {
+      "i": 7,
+      "t": "nie"
+    },
+    {
+      "i": 8,
+      "t": "idzie"
+    },
+    {
+      "i": 9,
+      "t": "za"
+    },
+    {
+      "i": 10,
+      "t": "mną"
+    },
+    {
+      "i": 11,
+      "t": "nie"
+    },
+    {
+      "i": 12,
+      "t": "jest"
+    },
+    {
+      "i": 13,
+      "t": "mię"
+    },
+    {
+      "i": 14,
+      "t": "godzien"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.38",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.38",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.10.38#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὃς",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-NSM",
+        "glosa": "he who",
+        "id": "Mat.10.38#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "which"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.10.38#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "no"
+      },
+      {
+        "t": "λαμβάνει",
+        "lemma": "G2983",
+        "forma": "λαμβάνω",
+        "morph": "V-PAI-3S",
+        "glosa": "takes",
+        "id": "Mat.10.38#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to take"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.10.38#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "σταυρὸν",
+        "lemma": "G4716",
+        "forma": "σταυρός",
+        "morph": "N-ASM",
+        "glosa": "cross",
+        "id": "Mat.10.38#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "cross"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him",
+        "id": "Mat.10.38#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.38#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀκολουθεῖ",
+        "lemma": "G0190",
+        "forma": "ἀκολουθέω",
+        "morph": "V-PAI-3S",
+        "glosa": "follows",
+        "id": "Mat.10.38#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to follow"
+      },
+      {
+        "t": "ὀπίσω",
+        "lemma": "G3694",
+        "forma": "ὀπίσω",
+        "morph": "PREP",
+        "glosa": "after",
+        "id": "Mat.10.38#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "after"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "Me,",
+        "id": "Mat.10.38#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "me"
+      },
+      {
+        "t": "οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.10.38#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "no"
+      },
+      {
+        "t": "ἔστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is",
+        "id": "Mat.10.38#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to be"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "of Me",
+        "id": "Mat.10.38#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "me"
+      },
+      {
+        "t": "ἄξιος",
+        "lemma": "G0514",
+        "forma": "ἄξιος",
+        "morph": "A-NSM",
+        "glosa": "worthy.",
+        "id": "Mat.10.38#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "worthy"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὃς oddane jako „kto”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "przeklad",
+      "uwaga": "οὐ oddane jako „nie”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "przeklad",
+      "uwaga": "λαμβάνει oddane jako „bierze”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν σταυρὸν w bierniku oddane dopełniaczem „krzyża”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτοῦ oddane jako „swego”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [],
+      "rola": "dopelnienie",
+      "uwaga": "„nie” przy „idzie” wypisuje przeczenie, które w TR stoi tylko przy λαμβάνει.",
+      "uzasadnienie": "οὐ przeczy λαμβάνει, a καί łączy ἀκολουθεῖ w ten sam warunek. „nie” przy „idzie” wypisuje to przeczenie przy drugim czasowniku; osobnego οὐ przy ἀκολουθεῖ nie ma."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἀκολουθεῖ, glosa „follows”, oddane jako „idzie”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὀπίσω oddane jako „za”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "μου oddane jako „mną”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "οὐκ oddane jako „nie”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἔστιν oddane jako „jest”."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "rola": "przeklad",
+      "uwaga": "μου w dopełniaczu oddane jako „mię”."
+    },
+    {
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἄξιος oddane jako „godzien”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. Drugie „nie” wypisuje przy ἀκολουθεῖ przeczenie, które w TR stoi tylko przy λαμβάνει i obejmuje oba orzeczenia połączone przez καί.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὃς οὐ λαμβάνει τὸν σταυρὸν αὐτοῦ καὶ ἀκολουθεῖ ὀπίσω μου ma jedno οὐ, przy λαμβάνει. BG daje „nie bierze” i dokłada „nie” przy „idzie”.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A kdož nebéře kříže svého a nenásleduje mne, neníť mne hoden.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

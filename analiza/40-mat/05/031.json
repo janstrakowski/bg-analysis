@@ -1,0 +1,362 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.31",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 31
+  },
+  "tekst_bg": "Zasię rzeczono: Ktobykolwiek opuścił żonę swoję, niech jej da list rozwodny;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Zasię"
+    },
+    {
+      "i": 1,
+      "t": "rzeczono"
+    },
+    {
+      "i": 2,
+      "t": "Ktobykolwiek"
+    },
+    {
+      "i": 3,
+      "t": "opuścił"
+    },
+    {
+      "i": 4,
+      "t": "żonę"
+    },
+    {
+      "i": 5,
+      "t": "swoję"
+    },
+    {
+      "i": 6,
+      "t": "niech"
+    },
+    {
+      "i": 7,
+      "t": "jej"
+    },
+    {
+      "i": 8,
+      "t": "da"
+    },
+    {
+      "i": 9,
+      "t": "list"
+    },
+    {
+      "i": 10,
+      "t": "rozwodny"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.31",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.31",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἐρρέθη",
+        "lemma": "G2046",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-API-3S",
+        "glosa": "It was said",
+        "id": "Mat.5.31#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to say"
+      },
+      {
+        "t": "δέ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "also",
+        "id": "Mat.5.31#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that:",
+        "id": "Mat.5.31#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "ὃς",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-NSM",
+        "glosa": "Who[ever]",
+        "id": "Mat.5.31#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "which"
+      },
+      {
+        "t": "ἂν",
+        "lemma": "G0302",
+        "forma": "ἄν",
+        "morph": "PRT",
+        "glosa": "maybe",
+        "id": "Mat.5.31#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "if"
+      },
+      {
+        "t": "ἀπολύσῃ",
+        "lemma": "G0630H",
+        "forma": "ἀπολύω",
+        "morph": "V-AAS-3S",
+        "glosa": "may divorce",
+        "id": "Mat.5.31#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to release: divorce"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.5.31#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γυναῖκα",
+        "lemma": "G1135H",
+        "forma": "γυνή",
+        "morph": "N-ASF",
+        "glosa": "wife",
+        "id": "Mat.5.31#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "woman: wife"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him,",
+        "id": "Mat.5.31#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "δότω",
+        "lemma": "G1325",
+        "forma": "δίδωμι",
+        "morph": "V-2AAM-3S",
+        "glosa": "he should give",
+        "id": "Mat.5.31#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to give"
+      },
+      {
+        "t": "αὐτῇ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSF",
+        "glosa": "to her",
+        "id": "Mat.5.31#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἀποστάσιον",
+        "lemma": "G0647",
+        "forma": "ἀποστάσιον",
+        "morph": "N-ASN",
+        "glosa": "a letter of divorce.’",
+        "id": "Mat.5.31#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "divorce"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δέ stoi po Ἐρρέθη, a BG wynosi je na początek jako „Zasię”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ἐρρέθη, strona bierna, oddane bezosobowo jako „rzeczono”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὅτι, spójnik „that”, nie ma polskiego słowa; cytat otwiera dwukropek."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "ὃς ἂν oddane jako „Ktobykolwiek”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἀπολύσῃ oddane jako „opuścił”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τὴν γυναῖκα oddane jako „żonę”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "αὐτοῦ oddane przymiotnikiem „swoję”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "Rozkaz δότω oddany jako „niech … da”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "αὐτῇ oddane jako „jej”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἀποστάσιον, glosa „a letter of divorce”, oddane jako „list rozwodny”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Spójnik ὅτι po Ἐρρέθη nie ma polskiego słowa. Reszta tokenów jest pokryta, a „list rozwodny” rozbija jeden rzeczownik ἀποστάσιον.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      2
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Ἐρρέθη δέ ὅτι nie ma w polskim spójnika: „Zasię rzeczono” przechodzi od razu do „Ktobykolwiek”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀποστάσιον, glosa „a letter of divorce”, oddane jest dwoma słowami „list rozwodny”, a rozkaz δότω jako „niech da”.",
+      "tokeny_bg": [
+        6,
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        9,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Též řečeno jest: Kdož by koli propustil manželku svou, aby jí dal lístek rozloučení.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

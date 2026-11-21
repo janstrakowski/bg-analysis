@@ -1,0 +1,256 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.20",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 20
+  },
+  "tekst_bg": "A tak z owoców ich poznacie je.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "tak"
+    },
+    {
+      "i": 2,
+      "t": "z"
+    },
+    {
+      "i": 3,
+      "t": "owoców"
+    },
+    {
+      "i": 4,
+      "t": "ich"
+    },
+    {
+      "i": 5,
+      "t": "poznacie"
+    },
+    {
+      "i": 6,
+      "t": "je"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.20",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.20",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἄρα",
+        "lemma": "G0686",
+        "forma": "ἄρα",
+        "morph": "CONJ",
+        "glosa": "Then",
+        "id": "Mat.7.20#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "therefore"
+      },
+      {
+        "t": "γε",
+        "lemma": "G1065",
+        "forma": "γέ",
+        "morph": "PRT",
+        "glosa": "surely",
+        "id": "Mat.7.20#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "indeed"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.7.20#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "away from"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "the",
+        "id": "Mat.7.20#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "καρπῶν",
+        "lemma": "G2590",
+        "forma": "καρπός",
+        "morph": "N-GPM",
+        "glosa": "fruits",
+        "id": "Mat.7.20#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "fruit"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them",
+        "id": "Mat.7.20#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐπιγνώσεσθε",
+        "lemma": "G1921",
+        "forma": "ἐπιγινώσκω",
+        "morph": "V-FDI-2P",
+        "glosa": "you will know",
+        "id": "Mat.7.20#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to come to know"
+      },
+      {
+        "t": "αὐτούς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-APM",
+        "glosa": "them.",
+        "id": "Mat.7.20#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0,
+        1
+      ],
+      "zrodlo": [
+        0,
+        1
+      ],
+      "uwaga": "ἄρα γε oddane zwrotem „A tak”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἀπὸ oddane jako „z”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τῶν καρπῶν oddane jako „owoców”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "αὐτῶν oddane jako „ich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐπιγνώσεσθε oddane jako „poznacie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "αὐτούς oddane jako „je”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "ἄρα γε, owoce i „poznacie je” są pokryte. Rodzajnik wcielony w „owoców”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἄρα γε ἀπὸ τῶν καρπῶν αὐτῶν ἐπιγνώσεσθε αὐτούς BG oddaje jako „A tak z owoców ich poznacie je”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A tak tedy po ovocích jejich poznáte je.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

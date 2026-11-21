@@ -1,0 +1,312 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.6",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 6
+  },
+  "tekst_bg": "Błogosławieni, którzy łakną i pragną sprawiedliwości; albowiem oni nasyceni będą.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Błogosławieni"
+    },
+    {
+      "i": 1,
+      "t": "którzy"
+    },
+    {
+      "i": 2,
+      "t": "łakną"
+    },
+    {
+      "i": 3,
+      "t": "i"
+    },
+    {
+      "i": 4,
+      "t": "pragną"
+    },
+    {
+      "i": 5,
+      "t": "sprawiedliwości"
+    },
+    {
+      "i": 6,
+      "t": "albowiem"
+    },
+    {
+      "i": 7,
+      "t": "oni"
+    },
+    {
+      "i": 8,
+      "t": "nasyceni"
+    },
+    {
+      "i": 9,
+      "t": "będą"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.6",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.6",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Μακάριοι",
+        "lemma": "G3107",
+        "forma": "μακάριος",
+        "morph": "A-NPM",
+        "glosa": "Blessed [are]",
+        "id": "Mat.5.6#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "blessed"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "those",
+        "id": "Mat.5.6#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πεινῶντες",
+        "lemma": "G3983",
+        "forma": "πεινάω",
+        "morph": "V-PAP-NPM",
+        "glosa": "hungering",
+        "id": "Mat.5.6#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to hunger"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.6#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "and"
+      },
+      {
+        "t": "διψῶντες",
+        "lemma": "G1372",
+        "forma": "διψάω",
+        "morph": "V-PAP-NPM",
+        "glosa": "thirsting for",
+        "id": "Mat.5.6#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to thirst"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "<the>",
+        "id": "Mat.5.6#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δικαιοσύνην",
+        "lemma": "G1343",
+        "forma": "δικαιοσύνη",
+        "morph": "N-ASF",
+        "glosa": "righteousness,",
+        "id": "Mat.5.6#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "righteousness"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.5.6#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "αὐτοὶ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-NPM",
+        "glosa": "they themselves",
+        "id": "Mat.5.6#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "χορτασθήσονται",
+        "lemma": "G5526",
+        "forma": "χορτάζω",
+        "morph": "V-FPI-3P",
+        "glosa": "will be filled.",
+        "id": "Mat.5.6#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to feed"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Μακάριοι oddane jako „Błogosławieni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "οἱ przy imiesłowach oddane jako „którzy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "πεινῶντες, imiesłów, oddane osobowym „łakną”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "διψῶντες, imiesłów, oddane osobowym „pragną”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τὴν δικαιοσύνην, biernik, oddane dopełniaczem „sprawiedliwości”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ὅτι oddane jako „albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "αὐτοὶ oddane jako „oni”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "χορτασθήσονται, futurum bierne, oddane jako „nasyceni będą”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Imiesłowy πεινῶντες i διψῶντες rozbite na zdanie „którzy łakną i pragną”. Nic nie dodano i nic nie opuszczono, a obietnica nasycenia zostaje ta sama.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οἱ πεινῶντες καὶ διψῶντες to dwa imiesłowy pod jednym rodzajnikiem, a BG ma zdanie „którzy łakną i pragną”.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Blahoslavení, kteříž lačnějí a žíznějí spravedlnosti, nebo oni nasyceni budou.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

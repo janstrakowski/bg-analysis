@@ -1,0 +1,665 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.25",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 25
+  },
+  "tekst_bg": "I spadł gwałtowny deszcz, i przyszła powódź, i wiatry wiały, i uderzyły na on dom, ale nie upadł, bo był założony na opoce.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "spadł"
+    },
+    {
+      "i": 2,
+      "t": "gwałtowny"
+    },
+    {
+      "i": 3,
+      "t": "deszcz"
+    },
+    {
+      "i": 4,
+      "t": "i"
+    },
+    {
+      "i": 5,
+      "t": "przyszła"
+    },
+    {
+      "i": 6,
+      "t": "powódź"
+    },
+    {
+      "i": 7,
+      "t": "i"
+    },
+    {
+      "i": 8,
+      "t": "wiatry"
+    },
+    {
+      "i": 9,
+      "t": "wiały"
+    },
+    {
+      "i": 10,
+      "t": "i"
+    },
+    {
+      "i": 11,
+      "t": "uderzyły"
+    },
+    {
+      "i": 12,
+      "t": "na"
+    },
+    {
+      "i": 13,
+      "t": "on"
+    },
+    {
+      "i": 14,
+      "t": "dom"
+    },
+    {
+      "i": 15,
+      "t": "ale"
+    },
+    {
+      "i": 16,
+      "t": "nie"
+    },
+    {
+      "i": 17,
+      "t": "upadł"
+    },
+    {
+      "i": 18,
+      "t": "bo"
+    },
+    {
+      "i": 19,
+      "t": "był"
+    },
+    {
+      "i": 20,
+      "t": "założony"
+    },
+    {
+      "i": 21,
+      "t": "na"
+    },
+    {
+      "i": 22,
+      "t": "opoce"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.25",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.25",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.7.25#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "κατέβη",
+        "lemma": "G2597",
+        "forma": "καταβαίνω",
+        "morph": "V-2AAI-3S",
+        "glosa": "came down",
+        "id": "Mat.7.25#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to come/go down"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.7.25#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βροχὴ",
+        "lemma": "G1028",
+        "forma": "βροχή",
+        "morph": "N-NSF",
+        "glosa": "rain",
+        "id": "Mat.7.25#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "rain"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.25#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἦλθον",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAI-3P",
+        "glosa": "came",
+        "id": "Mat.7.25#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.7.25#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ποταμοὶ",
+        "lemma": "G4215",
+        "forma": "ποταμός",
+        "morph": "N-NPM",
+        "glosa": "torrents",
+        "id": "Mat.7.25#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "river"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.25#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἔπνευσαν",
+        "lemma": "G4154",
+        "forma": "πνέω",
+        "morph": "V-AAI-3P",
+        "glosa": "blew",
+        "id": "Mat.7.25#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to blow"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.7.25#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἄνεμοι",
+        "lemma": "G0417",
+        "forma": "ἄνεμος",
+        "morph": "N-NPM",
+        "glosa": "winds,",
+        "id": "Mat.7.25#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "wind"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.25#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "προσέπεσον",
+        "lemma": "G4363",
+        "forma": "προσέπεσον",
+        "morph": "V-2AAI-3P",
+        "glosa": "beat",
+        "id": "Mat.7.25#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to fall/beat"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "that",
+        "id": "Mat.7.25#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἰκίᾳ",
+        "lemma": "G3614G",
+        "forma": "οἰκία",
+        "morph": "N-DSF",
+        "glosa": "house",
+        "id": "Mat.7.25#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "home"
+      },
+      {
+        "t": "ἐκείνῃ",
+        "lemma": "G1565",
+        "forma": "ἐκεῖνος",
+        "morph": "D-DSF",
+        "glosa": "upon,",
+        "id": "Mat.7.25#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "that"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.25#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "and"
+      },
+      {
+        "t": "οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.7.25#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "no"
+      },
+      {
+        "t": "ἔπεσεν",
+        "lemma": "G4098",
+        "forma": "πίπτω",
+        "morph": "V-2AAI-3S",
+        "glosa": "it fell;",
+        "id": "Mat.7.25#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "to collapse"
+      },
+      {
+        "t": "τεθεμελίωτο",
+        "lemma": "G2311",
+        "forma": "θεμελιόω",
+        "morph": "V-LPI-3S",
+        "glosa": "it had been founded",
+        "id": "Mat.7.25#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "to found"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.7.25#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "for"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "upon",
+        "id": "Mat.7.25#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.7.25#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πέτραν",
+        "lemma": "G4073",
+        "forma": "πέτρα",
+        "morph": "N-ASF",
+        "glosa": "rock.",
+        "id": "Mat.7.25#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "rock"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "κατέβη oddane jako „spadł”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [],
+      "uwaga": "„gwałtowny” nie ma przymiotnika przy βροχή. Glosa tego rzeczownika to „rain”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ἡ βροχὴ oddane jako „deszcz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἦλθον, 3 lm., oddane jako „przyszła” przy zbiorowym „powódź”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "οἱ ποταμοὶ, lm. „potoki”, oddane zbiorowo „powódź”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "οἱ ἄνεμοι oddane jako „wiatry”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἔπνευσαν oddane jako „wiały”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "προσέπεσον oddane jako „uderzyły”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        12,
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "οἰκίᾳ, celownik bez przyimka, oddane jako „na … dom”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14,
+        16
+      ],
+      "uwaga": "τῇ … ἐκείνῃ oddane jako „on”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "καὶ przed οὐκ oddane jako „ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "οὐκ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "ἔπεσεν oddane jako „upadł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "γὰρ stoi po czasowniku, a BG wynosi je jako „bo”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        19,
+        20
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "τεθεμελίωτο, plusquamperfectum strony biernej, oddane jako „był założony”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "ἐπὶ oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        23,
+        24
+      ],
+      "uwaga": "τὴν πέτραν oddane jako „opoce”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "„gwałtowny” dodaje cechę deszczu, której nie ma przy βροχή.",
+    "tokeny_bg": [
+      2
+    ],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἡ βροχὴ ma glosę „rain” i nie ma przymiotnika. BG dodaje „gwałtowny”.",
+      "tokeny_bg": [
+        1,
+        2,
+        3
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οἱ ποταμοὶ, liczba mnoga, BG oddaje zbiorowo jako „powódź”, z orzeczeniem „przyszła”.",
+      "tokeny_bg": [
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I spadl příval, a přišly řeky, a váli větrové, a obořili se na ten dům, a nepadl; nebo založen byl na skále.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

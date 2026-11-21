@@ -1,0 +1,346 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.7",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 7
+  },
+  "tekst_bg": "Rzekł mu Jezus: Zasię napisano: Nie będziesz kusił Pana, Boga twego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Rzekł"
+    },
+    {
+      "i": 1,
+      "t": "mu"
+    },
+    {
+      "i": 2,
+      "t": "Jezus"
+    },
+    {
+      "i": 3,
+      "t": "Zasię"
+    },
+    {
+      "i": 4,
+      "t": "napisano"
+    },
+    {
+      "i": 5,
+      "t": "Nie"
+    },
+    {
+      "i": 6,
+      "t": "będziesz"
+    },
+    {
+      "i": 7,
+      "t": "kusił"
+    },
+    {
+      "i": 8,
+      "t": "Pana"
+    },
+    {
+      "i": 9,
+      "t": "Boga"
+    },
+    {
+      "i": 10,
+      "t": "twego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.7",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.7",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἔφη",
+        "lemma": "G5346",
+        "forma": "φημί",
+        "morph": "V-IAI-3S",
+        "glosa": "was saying",
+        "id": "Mat.4.7#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to assert"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to him",
+        "id": "Mat.4.7#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.4.7#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus;",
+        "id": "Mat.4.7#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "πάλιν",
+        "lemma": "G3825",
+        "forma": "πάλιν",
+        "morph": "ADV",
+        "glosa": "Again",
+        "id": "Mat.4.7#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "again"
+      },
+      {
+        "t": "γέγραπται",
+        "lemma": "G1125",
+        "forma": "γράφω",
+        "morph": "V-RPI-3S",
+        "glosa": "it has been written:",
+        "id": "Mat.4.7#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to write"
+      },
+      {
+        "t": "οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.4.7#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "no"
+      },
+      {
+        "t": "ἐκπειράσεις",
+        "lemma": "G1598",
+        "forma": "ἐκπειράζω",
+        "morph": "V-FAI-2S",
+        "glosa": "you will test",
+        "id": "Mat.4.7#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to test/tempt"
+      },
+      {
+        "t": "κύριον",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-ASM-T",
+        "glosa": "[the] Lord",
+        "id": "Mat.4.7#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.4.7#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θεόν",
+        "lemma": "G2316",
+        "forma": "θεός",
+        "morph": "N-ASM-T",
+        "glosa": "God",
+        "id": "Mat.4.7#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "God"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you.’",
+        "id": "Mat.4.7#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἔφη oddane jako „Rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "πάλιν oddane jako „Zasię”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "γέγραπται oddane jako „napisano”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "οὐκ oddane jako „Nie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐκπειράσεις, czas przyszły, oddane jako „będziesz kusił”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "κύριον oddane jako „Pana”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τὸν θεόν oddane jako „Boga”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "σου oddane jako „twego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Zakaz zostaje ten sam: nie wystawiać na próbę Pana, Boga twego. Czas przyszły ἐκπειράσεις jest rozwinięty w „będziesz kusił”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὐκ ἐκπειράσεις to przeczenie czasu przyszłego. BG oddaje je przez „Nie będziesz kusił”.",
+      "tokeny_bg": [
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I řekl mu Ježíš: Zase psáno jest: Nebudeš pokoušeti Pána Boha svého.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

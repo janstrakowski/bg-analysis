@@ -1,0 +1,447 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.1.19",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 1,
+    "werset": 19
+  },
+  "tekst_bg": "Ale Józef, mąż jej, będąc sprawiedliwym i niechcąc jej osławić, chciał ją potajemnie opuścić.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "Józef"
+    },
+    {
+      "i": 2,
+      "t": "mąż"
+    },
+    {
+      "i": 3,
+      "t": "jej"
+    },
+    {
+      "i": 4,
+      "t": "będąc"
+    },
+    {
+      "i": 5,
+      "t": "sprawiedliwym"
+    },
+    {
+      "i": 6,
+      "t": "i"
+    },
+    {
+      "i": 7,
+      "t": "niechcąc"
+    },
+    {
+      "i": 8,
+      "t": "jej"
+    },
+    {
+      "i": 9,
+      "t": "osławić"
+    },
+    {
+      "i": 10,
+      "t": "chciał"
+    },
+    {
+      "i": 11,
+      "t": "ją"
+    },
+    {
+      "i": 12,
+      "t": "potajemnie"
+    },
+    {
+      "i": 13,
+      "t": "opuścić"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.1.19",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.1.19",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἰωσὴφ",
+        "lemma": "G2501G",
+        "forma": "Ἰωσήφ",
+        "morph": "N-NSM-P",
+        "glosa": "Joseph",
+        "id": "Mat.1.19#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "Joseph"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.1.19#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.1.19#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀνὴρ",
+        "lemma": "G0435H",
+        "forma": "ἀνήρ",
+        "morph": "N-NSM",
+        "glosa": "husband",
+        "id": "Mat.1.19#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "man: husband"
+      },
+      {
+        "t": "αὐτῆς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSF",
+        "glosa": "of her,",
+        "id": "Mat.1.19#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "δίκαιος",
+        "lemma": "G1342",
+        "forma": "δίκαιος",
+        "morph": "A-NSM",
+        "glosa": "righteous",
+        "id": "Mat.1.19#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "just"
+      },
+      {
+        "t": "ὢν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAP-NSM",
+        "glosa": "being",
+        "id": "Mat.1.19#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to be"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.1.19#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.1.19#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "not"
+      },
+      {
+        "t": "θέλων",
+        "lemma": "G2309",
+        "forma": "θέλω",
+        "morph": "V-PAP-NSM",
+        "glosa": "willing",
+        "id": "Mat.1.19#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to will/desire"
+      },
+      {
+        "t": "αὐτὴν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASF",
+        "glosa": "her",
+        "id": "Mat.1.19#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "παραδειγματίσαι",
+        "lemma": "G3856",
+        "forma": "παραδειγματίσαι",
+        "morph": "V-AAN",
+        "glosa": "to shame",
+        "id": "Mat.1.19#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to disgrace"
+      },
+      {
+        "t": "ἐβουλήθη",
+        "lemma": "G1014",
+        "forma": "βούλομαι",
+        "morph": "V-AOI-3S",
+        "glosa": "he purposed",
+        "id": "Mat.1.19#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to plan"
+      },
+      {
+        "t": "λάθρᾳ",
+        "lemma": "G2977",
+        "forma": "λάθρα",
+        "morph": "ADV",
+        "glosa": "secretly",
+        "id": "Mat.1.19#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "quietly"
+      },
+      {
+        "t": "ἀπολῦσαι",
+        "lemma": "G0630H",
+        "forma": "ἀπολύω",
+        "morph": "V-AAN",
+        "glosa": "to send away",
+        "id": "Mat.1.19#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to release: divorce"
+      },
+      {
+        "t": "αὐτήν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASF",
+        "glosa": "her.",
+        "id": "Mat.1.19#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po imieniu, a BG wynosi je na początek jako „Ale”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἰωσὴφ oddane jako „Józef”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "rola": "zlanie",
+      "uwaga": "ὁ ἀνὴρ oddane jako „mąż”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτῆς oddane jako „jej”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὢν, stojące po δίκαιος, oddane jako „będąc” przed „sprawiedliwym”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "δίκαιος oddane jako „sprawiedliwym”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "rola": "zlanie",
+      "uwaga": "μὴ θέλων oddane jednym słowem „niechcąc”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτὴν oddane jako „jej”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "παραδειγματίσαι oddane jako „osławić”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐβουλήθη oddane jako „chciał”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        15
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτήν oddane jako „ją”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "rola": "przeklad",
+      "uwaga": "λάθρᾳ oddane jako „potajemnie”."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἀπολῦσαι oddane jako „opuścić”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. μὴ θέλων schodzi się w „niechcąc”, a szyk „ją potajemnie opuścić” przestawia λάθρᾳ ἀπολῦσαι αὐτήν.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "μὴ θέλων BG ściąga w „niechcąc”, a ἐβουλήθη λάθρᾳ ἀπολῦσαι αὐτήν oddaje jako „chciał ją potajemnie opuścić”.",
+      "tokeny_bg": [
+        7,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        12,
+        13,
+        14,
+        15
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ale Jozef muž její spravedlivý jsa, a nechtěv jí v lehkost uvésti, chtěl ji tajně propustiti.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

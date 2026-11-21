@@ -1,0 +1,452 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.47",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 47
+  },
+  "tekst_bg": "A jeźlibyście tylko braci waszych pozdrawiali, cóż osobliwego czynicie? azaż i celnicy tak nie czynią?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "jeźlibyście"
+    },
+    {
+      "i": 2,
+      "t": "tylko"
+    },
+    {
+      "i": 3,
+      "t": "braci"
+    },
+    {
+      "i": 4,
+      "t": "waszych"
+    },
+    {
+      "i": 5,
+      "t": "pozdrawiali"
+    },
+    {
+      "i": 6,
+      "t": "cóż"
+    },
+    {
+      "i": 7,
+      "t": "osobliwego"
+    },
+    {
+      "i": 8,
+      "t": "czynicie"
+    },
+    {
+      "i": 9,
+      "t": "azaż"
+    },
+    {
+      "i": 10,
+      "t": "i"
+    },
+    {
+      "i": 11,
+      "t": "celnicy"
+    },
+    {
+      "i": 12,
+      "t": "tak"
+    },
+    {
+      "i": 13,
+      "t": "nie"
+    },
+    {
+      "i": 14,
+      "t": "czynią"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.47",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.47",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.5.47#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐὰν",
+        "lemma": "G1437",
+        "forma": "ἐάν",
+        "morph": "COND",
+        "glosa": "if",
+        "id": "Mat.5.47#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "if"
+      },
+      {
+        "t": "ἀσπάσησθε",
+        "lemma": "G0782",
+        "forma": "ἀσπάζομαι",
+        "morph": "V-ADS-2P",
+        "glosa": "you shall greet",
+        "id": "Mat.5.47#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to pay respects to"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.5.47#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀδελφοὺς",
+        "lemma": "G0080",
+        "forma": "ἀδελφός",
+        "morph": "N-APM",
+        "glosa": "brothers",
+        "id": "Mat.5.47#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "brother"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.5.47#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "you"
+      },
+      {
+        "t": "μόνον",
+        "lemma": "G3441",
+        "forma": "μόνος",
+        "morph": "A-ASN",
+        "glosa": "only,",
+        "id": "Mat.5.47#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "alone"
+      },
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-ASN",
+        "glosa": "what",
+        "id": "Mat.5.47#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "which?"
+      },
+      {
+        "t": "περισσὸν",
+        "lemma": "G4053",
+        "forma": "περισσός",
+        "morph": "A-ASN",
+        "glosa": "excessive",
+        "id": "Mat.5.47#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "excessive"
+      },
+      {
+        "t": "ποιεῖτε;",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAI-2P",
+        "glosa": "do you?",
+        "id": "Mat.5.47#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "οὐχὶ",
+        "lemma": "G3780",
+        "forma": "οὐχί",
+        "morph": "PRT-N",
+        "glosa": "Surely",
+        "id": "Mat.5.47#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "not!"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "also",
+        "id": "Mat.5.47#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "and"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.5.47#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "τελῶναι",
+        "lemma": "G5057",
+        "forma": "τελῶναι",
+        "morph": "N-NPM",
+        "glosa": "tax collectors",
+        "id": "Mat.5.47#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "tax collector"
+      },
+      {
+        "t": "οὕτως",
+        "lemma": "G3779",
+        "forma": "οὕτως",
+        "morph": "ADV",
+        "glosa": "thus",
+        "id": "Mat.5.47#16",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "thus(-ly)"
+      },
+      {
+        "t": "ποιοῦσιν;",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAI-3P",
+        "glosa": "do?",
+        "id": "Mat.5.47#17",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to do/make: do"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐὰν oddane jako „jeźlibyście”; -by-ście niesie tryb i osobę ἀσπάσησθε."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "μόνον stoi po ὑμῶν, a BG stawia „tylko” przed „braci”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τοὺς ἀδελφοὺς oddane jako „braci”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ὑμῶν oddane przymiotnikiem „waszych”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἀσπάσησθε oddane jako „pozdrawiali”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "τί oddane jako „cóż”; -ż jest partykułą emfatyczną."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "περισσὸν, glosa „excessive”, oddane jako „osobliwego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ποιεῖτε oddane jako „czynicie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        13
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "οὐχὶ, glosa „Surely”, oddane jako „azaż … nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "οἱ τελῶναι oddane jako „celnicy”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "οὕτως oddane jako „tak”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ποιοῦσιν oddane jako „czynią”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. οὐχὶ rozpada się na „azaż … nie”, a rodzajniki wchodzą w „braci” i „celnicy”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐὰν ἀσπάσησθε τοὺς ἀδελφοὺς ὑμῶν μόνον oddane jest jako „jeźlibyście tylko braci waszych pozdrawiali”; μόνον stoi w grece po ὑμῶν.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A budete-li pozdravovati toliko bratří svých, což více nad jiné činíte? Však i publikáni to činí.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

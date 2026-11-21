@@ -1,0 +1,395 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.12",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 12
+  },
+  "tekst_bg": "I odpuść nam nasze winy, jako i my odpuszczamy naszym winowajcom;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "odpuść"
+    },
+    {
+      "i": 2,
+      "t": "nam"
+    },
+    {
+      "i": 3,
+      "t": "nasze"
+    },
+    {
+      "i": 4,
+      "t": "winy"
+    },
+    {
+      "i": 5,
+      "t": "jako"
+    },
+    {
+      "i": 6,
+      "t": "i"
+    },
+    {
+      "i": 7,
+      "t": "my"
+    },
+    {
+      "i": 8,
+      "t": "odpuszczamy"
+    },
+    {
+      "i": 9,
+      "t": "naszym"
+    },
+    {
+      "i": 10,
+      "t": "winowajcom"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.12",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.12",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.6.12#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἄφες",
+        "lemma": "G0863H",
+        "forma": "ἀφίημι",
+        "morph": "V-2AAM-2S",
+        "glosa": "do forgive",
+        "id": "Mat.6.12#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to release: forgive"
+      },
+      {
+        "t": "ἡμῖν",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1DP",
+        "glosa": "us",
+        "id": "Mat.6.12#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "me"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APN",
+        "glosa": "the",
+        "id": "Mat.6.12#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὀφειλήματα",
+        "lemma": "G3783",
+        "forma": "ὀφείλημα",
+        "morph": "N-APN",
+        "glosa": "debts",
+        "id": "Mat.6.12#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "debt"
+      },
+      {
+        "t": "ἡμῶν",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GP",
+        "glosa": "of us,",
+        "id": "Mat.6.12#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "me"
+      },
+      {
+        "t": "ὡς",
+        "lemma": "G5613",
+        "forma": "ὡς",
+        "morph": "PRT",
+        "glosa": "as",
+        "id": "Mat.6.12#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "as/when"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "also",
+        "id": "Mat.6.12#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἡμεῖς",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1NP",
+        "glosa": "we ourselves",
+        "id": "Mat.6.12#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "me"
+      },
+      {
+        "t": "ἀφίεμεν",
+        "lemma": "G0863",
+        "forma": "ἀφίεμεν",
+        "morph": "V-PAI-1P",
+        "glosa": "forgive",
+        "id": "Mat.6.12#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to release: leave"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "the",
+        "id": "Mat.6.12#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὀφειλέταις",
+        "lemma": "G3781",
+        "forma": "ὀφειλέτης",
+        "morph": "N-DPM",
+        "glosa": "debtors",
+        "id": "Mat.6.12#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "debtor"
+      },
+      {
+        "t": "ἡμῶν",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GP",
+        "glosa": "of us;",
+        "id": "Mat.6.12#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "me"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἄφες, „do forgive”, oddane jako „odpuść”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἡμῖν oddane jako „nam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἡμῶν oddane jako „nasze” i przesunięte przed rzeczownik."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τὰ ὀφειλήματα, „debts”, oddane jako „winy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὡς oddane jako „jako”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ, „also”, oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἡμεῖς oddane jako „my”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἀφίεμεν, czas teraźniejszy, oddane jako „odpuszczamy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἡμῶν oddane jako „naszym” i przesunięte przed rzeczownik."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "τοῖς ὀφειλέταις, „debtors”, oddane jako „winowajcom”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_przesuniety",
+    "uzasadnienie": "Nic nie opuszczono i nic nie dopowiedziano, ale ὀφειλήματα to „debts”, a ὀφειλέταις to „debtors”. BG mówi „winy” i „winowajcom”, czyli o winie i winnych, nie o długu i dłużnikach.",
+    "tokeny_bg": [
+      4,
+      10
+    ],
+    "tokeny_zrodla": [
+      4,
+      11
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τὰ ὀφειλήματα glossowane są „debts”, a τοῖς ὀφειλέταις „debtors”. BG ma „winy” i „winowajcom”.",
+      "tokeny_bg": [
+        4,
+        10
+      ],
+      "tokeny_zrodla": [
+        3,
+        4,
+        10,
+        11
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "καὶ ἄφες ἡμῖν ... ὡς καὶ ἡμεῖς ἀφίεμεν ma odpowiedniki „I odpuść nam ... jako i my odpuszczamy”. Czas ἀφίεμεν jest teraźniejszy, jak polskie „odpuszczamy”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A odpusť nám viny naše, jakož i my odpouštíme vinníkům našim.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

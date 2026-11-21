@@ -1,0 +1,455 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.28",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 28
+  },
+  "tekst_bg": "I stało się, gdy dokończył Jezus tych słów, że się zdumiewał lud nad nauką jego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "stało"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "gdy"
+    },
+    {
+      "i": 4,
+      "t": "dokończył"
+    },
+    {
+      "i": 5,
+      "t": "Jezus"
+    },
+    {
+      "i": 6,
+      "t": "tych"
+    },
+    {
+      "i": 7,
+      "t": "słów"
+    },
+    {
+      "i": 8,
+      "t": "że"
+    },
+    {
+      "i": 9,
+      "t": "się"
+    },
+    {
+      "i": 10,
+      "t": "zdumiewał"
+    },
+    {
+      "i": 11,
+      "t": "lud"
+    },
+    {
+      "i": 12,
+      "t": "nad"
+    },
+    {
+      "i": 13,
+      "t": "nauką"
+    },
+    {
+      "i": 14,
+      "t": "jego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.28",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.28",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.7.28#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐγένετο",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-2ADI-3S",
+        "glosa": "it came to pass",
+        "id": "Mat.7.28#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ὅτε",
+        "lemma": "G3753",
+        "forma": "ὅτε",
+        "morph": "CONJ",
+        "glosa": "when",
+        "id": "Mat.7.28#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "when"
+      },
+      {
+        "t": "συνετέλεσεν",
+        "lemma": "G4931",
+        "forma": "συνετέλεσεν",
+        "morph": "V-AAI-3S",
+        "glosa": "completed",
+        "id": "Mat.7.28#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to complete"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.7.28#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.7.28#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "<the>",
+        "id": "Mat.7.28#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λόγους",
+        "lemma": "G3056",
+        "forma": "λόγος",
+        "morph": "N-APM",
+        "glosa": "words",
+        "id": "Mat.7.28#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "word"
+      },
+      {
+        "t": "τούτους",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-APM",
+        "glosa": "these,",
+        "id": "Mat.7.28#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "ἐξεπλήσσοντο",
+        "lemma": "G1605",
+        "forma": "ἐκπλήσσω",
+        "morph": "V-IPI-3P",
+        "glosa": "were astonished",
+        "id": "Mat.7.28#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "be astonished"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.7.28#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὄχλοι",
+        "lemma": "G3793",
+        "forma": "ὄχλος",
+        "morph": "N-NPM",
+        "glosa": "crowds",
+        "id": "Mat.7.28#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "crowd"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "at",
+        "id": "Mat.7.28#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.7.28#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "διδαχῇ",
+        "lemma": "G1322",
+        "forma": "διδαχή",
+        "morph": "N-DSF",
+        "glosa": "teaching",
+        "id": "Mat.7.28#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "teaching"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him;",
+        "id": "Mat.7.28#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Καὶ oddane jako „I”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐγένετο, strona medialna, oddane jako „stało się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὅτε oddane jako „gdy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "συνετέλεσεν oddane jako „dokończył”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "τούτους oddane jako „tych”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τοὺς λόγους oddane jako „słów”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [],
+      "uwaga": "„że” jest kursywą w 1632. Między ὅτε a ἐξεπλήσσοντο nie ma spójnika."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἐξεπλήσσοντο, imperfectum strony biernej 3 lm., oddane jako „się zdumiewał” przy zbiorowym „lud”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "οἱ ὄχλοι, lm. „tłumy”, oddane zbiorowo „lud”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἐπὶ oddane jako „nad”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τῇ διδαχῇ oddane jako „nauką”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Dokończenie słów i zdumienie są pokryte. „że” jest kursywą 1632 i otwiera zdanie, którego spójnika w TR nie ma.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Po τοὺς λόγους τούτους greka przechodzi do ἐξεπλήσσοντο bez spójnika. BG dodaje „że”, kursywę w 1632.",
+      "tokeny_bg": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οἱ ὄχλοι jest liczbą mnogą, a ἐξεπλήσσοντο 3 lm. BG daje zbiorowe „lud” i orzeczenie „zdumiewał”.",
+      "tokeny_bg": [
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I stalo se, když dokonal Ježíš řeči tyto, že se převelmi divili zástupové učení jeho.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

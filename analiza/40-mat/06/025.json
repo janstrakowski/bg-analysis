@@ -1,0 +1,822 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.25",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 25
+  },
+  "tekst_bg": "Dlatego powiadam wam: Nie troszczcie się o żywot wasz, cobyście jedli, albo cobyście pili, ani o ciało wasze, czembyście się odziewali; azaż żywot nie jest zacniejszy niż pokarm, i ciało niż odzienie?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Dlatego"
+    },
+    {
+      "i": 1,
+      "t": "powiadam"
+    },
+    {
+      "i": 2,
+      "t": "wam"
+    },
+    {
+      "i": 3,
+      "t": "Nie"
+    },
+    {
+      "i": 4,
+      "t": "troszczcie"
+    },
+    {
+      "i": 5,
+      "t": "się"
+    },
+    {
+      "i": 6,
+      "t": "o"
+    },
+    {
+      "i": 7,
+      "t": "żywot"
+    },
+    {
+      "i": 8,
+      "t": "wasz"
+    },
+    {
+      "i": 9,
+      "t": "cobyście"
+    },
+    {
+      "i": 10,
+      "t": "jedli"
+    },
+    {
+      "i": 11,
+      "t": "albo"
+    },
+    {
+      "i": 12,
+      "t": "cobyście"
+    },
+    {
+      "i": 13,
+      "t": "pili"
+    },
+    {
+      "i": 14,
+      "t": "ani"
+    },
+    {
+      "i": 15,
+      "t": "o"
+    },
+    {
+      "i": 16,
+      "t": "ciało"
+    },
+    {
+      "i": 17,
+      "t": "wasze"
+    },
+    {
+      "i": 18,
+      "t": "czembyście"
+    },
+    {
+      "i": 19,
+      "t": "się"
+    },
+    {
+      "i": 20,
+      "t": "odziewali"
+    },
+    {
+      "i": 21,
+      "t": "azaż"
+    },
+    {
+      "i": 22,
+      "t": "żywot"
+    },
+    {
+      "i": 23,
+      "t": "nie"
+    },
+    {
+      "i": 24,
+      "t": "jest"
+    },
+    {
+      "i": 25,
+      "t": "zacniejszy"
+    },
+    {
+      "i": 26,
+      "t": "niż"
+    },
+    {
+      "i": 27,
+      "t": "pokarm"
+    },
+    {
+      "i": 28,
+      "t": "i"
+    },
+    {
+      "i": 29,
+      "t": "ciało"
+    },
+    {
+      "i": 30,
+      "t": "niż"
+    },
+    {
+      "i": 31,
+      "t": "odzienie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.25",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.25",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Διὰ",
+        "lemma": "G1223",
+        "forma": "διά",
+        "morph": "PREP",
+        "glosa": "Because of",
+        "id": "Mat.6.25#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "through/because of"
+      },
+      {
+        "t": "τοῦτο",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-ASN",
+        "glosa": "this",
+        "id": "Mat.6.25#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "λέγω",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-1S",
+        "glosa": "I say",
+        "id": "Mat.6.25#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you;",
+        "id": "Mat.6.25#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "you"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.6.25#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "not"
+      },
+      {
+        "t": "μεριμνᾶτε",
+        "lemma": "G3309",
+        "forma": "μεριμνάω",
+        "morph": "V-PAM-2P",
+        "glosa": "do be anxious about",
+        "id": "Mat.6.25#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to worry"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.6.25#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ψυχῇ",
+        "lemma": "G5590H",
+        "forma": "ψυχή",
+        "morph": "N-DSF",
+        "glosa": "life",
+        "id": "Mat.6.25#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "soul: life"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.6.25#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "you"
+      },
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-ASN",
+        "glosa": "what",
+        "id": "Mat.6.25#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "which?"
+      },
+      {
+        "t": "φάγητε",
+        "lemma": "G5315",
+        "forma": "φαγεῖν",
+        "morph": "V-AAS-2P",
+        "glosa": "you may eat",
+        "id": "Mat.6.25#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to eat"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καὶ",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.6.25#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "and"
+      },
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-ASN",
+        "glosa": "what",
+        "id": "Mat.6.25#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "which?"
+      },
+      {
+        "t": "πίητε",
+        "lemma": "G4095",
+        "forma": "πίνω",
+        "morph": "V-2AAS-2P",
+        "glosa": "you may drink,",
+        "id": "Mat.6.25#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to drink"
+      },
+      {
+        "t": "μηδὲ",
+        "lemma": "G3366",
+        "forma": "μηδέ",
+        "morph": "CONJ-N",
+        "glosa": "nor",
+        "id": "Mat.6.25#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "nor"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSN",
+        "glosa": "about the",
+        "id": "Mat.6.25#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "σώματι",
+        "lemma": "G4983",
+        "forma": "σῶμα",
+        "morph": "N-DSN",
+        "glosa": "body",
+        "id": "Mat.6.25#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "body"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.6.25#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "you"
+      },
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-ASN",
+        "glosa": "what",
+        "id": "Mat.6.25#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "which?"
+      },
+      {
+        "t": "ἐνδύσησθε",
+        "lemma": "G1746",
+        "forma": "ἐνδύω",
+        "morph": "V-AMS-2P",
+        "glosa": "you may put on.",
+        "id": "Mat.6.25#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "to put on"
+      },
+      {
+        "t": "οὐχὶ",
+        "lemma": "G3780",
+        "forma": "οὐχί",
+        "morph": "PRT-N",
+        "glosa": "Surely",
+        "id": "Mat.6.25#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "not!"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "<the>",
+        "id": "Mat.6.25#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ψυχὴ",
+        "lemma": "G5590H",
+        "forma": "ψυχή",
+        "morph": "N-NSF",
+        "glosa": "life",
+        "id": "Mat.6.25#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "soul: life"
+      },
+      {
+        "t": "πλεῖόν",
+        "lemma": "G4119",
+        "forma": "πλείων, πλεῖον",
+        "morph": "A-NSN-C",
+        "glosa": "more",
+        "id": "Mat.6.25#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "greater"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is",
+        "id": "Mat.6.25#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "to be"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "<the>",
+        "id": "Mat.6.25#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "τροφῆς",
+        "lemma": "G5160",
+        "forma": "τροφή",
+        "morph": "N-GSF",
+        "glosa": "[than] food",
+        "id": "Mat.6.25#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "food"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.6.25#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "and"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "the",
+        "id": "Mat.6.25#29",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "σῶμα",
+        "lemma": "G4983",
+        "forma": "σῶμα",
+        "morph": "N-NSN",
+        "glosa": "body",
+        "id": "Mat.6.25#30",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "body"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSN",
+        "glosa": "<the>",
+        "id": "Mat.6.25#31",
+        "jezyk": "grc",
+        "i": 30,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐνδύματος;",
+        "lemma": "G1742",
+        "forma": "ἔνδυμα",
+        "morph": "N-GSN",
+        "glosa": "[than] clothing?",
+        "id": "Mat.6.25#32",
+        "jezyk": "grc",
+        "i": 31,
+        "leksykon": "clothing"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "zlanie",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0,
+        1
+      ],
+      "uwaga": "Διὰ τοῦτο, „because of this”, skupione w „Dlatego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "λέγω oddane jako „powiadam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "μή oddane jako „Nie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "μεριμνᾶτε, rozkazujący strony czynnej „do be anxious”, oddane zwrotem „troszczcie się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τῇ ψυχῇ, celownik „for the life”, oddane jako „o żywot”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ὑμῶν oddane jako „wasz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τί φάγητε, „what you may eat”, oddane jako „cobyście jedli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "καί, „and”, oddane jako „albo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12,
+        13
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τί πίητε, „what you may drink”, oddane jako „cobyście pili”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "μηδέ, „nor”, oddane jako „ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15,
+        16
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "τῷ σώματι, celownik „about the body”, oddane jako „o ciało”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ὑμῶν oddane jako „wasze”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "τί, biernik „what”, oddane narzędnikiem „czembyście”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        19,
+        20
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "ἐνδύσησθε, aoryst strony medialnej „you may put on”, oddane jako „się odziewali”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        21,
+        23
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "οὐχί, przeczenie retoryczne „not”, oddane jako „azaż … nie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        21,
+        22
+      ],
+      "uwaga": "ἡ ψυχή, „life”, oddane jako „żywot”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "ἐστιν oddane jako „jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "πλεῖον, „more”, oddane jako „zacniejszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        26,
+        27
+      ],
+      "zrodlo": [
+        25,
+        26
+      ],
+      "uwaga": "τῆς τροφῆς, dopełniacz porównawczy „than food”, oddane jako „niż pokarm”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        28
+      ],
+      "zrodlo": [
+        27
+      ],
+      "uwaga": "καί oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        29
+      ],
+      "zrodlo": [
+        28,
+        29
+      ],
+      "uwaga": "τὸ σῶμα oddane jako „ciało”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        30,
+        31
+      ],
+      "zrodlo": [
+        30,
+        31
+      ],
+      "uwaga": "τοῦ ἐνδύματος, dopełniacz porównawczy, oddane jako „niż odzienie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_przesuniety",
+    "uzasadnienie": "Nic nie opuszczono. καί między jedzeniem a piciem znaczy „and”, a BG ma „albo”. πλεῖον znaczy „more”, a BG mówi „zacniejszy”, nie „więcej”.",
+    "tokeny_bg": [
+      11,
+      25
+    ],
+    "tokeny_zrodla": [
+      11,
+      23
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τί φάγητε καὶ τί πίητε łączy jedzenie i picie przez καί, „and”. BG stawia „albo”.",
+      "tokeny_bg": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tokeny_zrodla": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πλεῖόν ἐστιν τῆς τροφῆς to „is more than food”. BG ma „jest zacniejszy niż pokarm”.",
+      "tokeny_bg": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "tokeny_zrodla": [
+        23,
+        24,
+        25,
+        26
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Protož pravím vám: Nepečujte o život váš, co byste jedli a co pili, ani o tělo vaše, čím byste je odívali. Zdaliž není život více nežli pokrm, a tělo více nežli oděv?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

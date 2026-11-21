@@ -1,0 +1,631 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.10",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 10
+  },
+  "tekst_bg": "I stało się, gdy Jezus siedział za stołem w domu jego, że oto wiele celników i grzeszników przyszedłszy, usiedli z Jezusem i z uczniami jego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "stało"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "gdy"
+    },
+    {
+      "i": 4,
+      "t": "Jezus"
+    },
+    {
+      "i": 5,
+      "t": "siedział"
+    },
+    {
+      "i": 6,
+      "t": "za"
+    },
+    {
+      "i": 7,
+      "t": "stołem"
+    },
+    {
+      "i": 8,
+      "t": "w"
+    },
+    {
+      "i": 9,
+      "t": "domu"
+    },
+    {
+      "i": 10,
+      "t": "jego"
+    },
+    {
+      "i": 11,
+      "t": "że"
+    },
+    {
+      "i": 12,
+      "t": "oto"
+    },
+    {
+      "i": 13,
+      "t": "wiele"
+    },
+    {
+      "i": 14,
+      "t": "celników"
+    },
+    {
+      "i": 15,
+      "t": "i"
+    },
+    {
+      "i": 16,
+      "t": "grzeszników"
+    },
+    {
+      "i": 17,
+      "t": "przyszedłszy"
+    },
+    {
+      "i": 18,
+      "t": "usiedli"
+    },
+    {
+      "i": 19,
+      "t": "z"
+    },
+    {
+      "i": 20,
+      "t": "Jezusem"
+    },
+    {
+      "i": 21,
+      "t": "i"
+    },
+    {
+      "i": 22,
+      "t": "z"
+    },
+    {
+      "i": 23,
+      "t": "uczniami"
+    },
+    {
+      "i": 24,
+      "t": "jego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.10",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.10",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.9.10#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐγένετο",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-2ADI-3S",
+        "glosa": "it came to pass",
+        "id": "Mat.9.10#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to be"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "when he",
+        "id": "Mat.9.10#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἀνακειμένου",
+        "lemma": "G0345",
+        "forma": "ἀνάκειμαι",
+        "morph": "V-PNP-GSM",
+        "glosa": "is reclining",
+        "id": "Mat.9.10#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to recline"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.9.10#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.9.10#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἰκίᾳ",
+        "lemma": "G3614G",
+        "forma": "οἰκία",
+        "morph": "N-DSF",
+        "glosa": "house,",
+        "id": "Mat.9.10#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "home"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.9.10#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "behold",
+        "id": "Mat.9.10#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "look!"
+      },
+      {
+        "t": "πολλοὶ",
+        "lemma": "G4183",
+        "forma": "πολύς",
+        "morph": "A-NPM",
+        "glosa": "many",
+        "id": "Mat.9.10#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "much"
+      },
+      {
+        "t": "τελῶναι",
+        "lemma": "G5057",
+        "forma": "τελώνης",
+        "morph": "N-NPM",
+        "glosa": "tax collectors",
+        "id": "Mat.9.10#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "tax collector"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.10#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἁμαρτωλοὶ",
+        "lemma": "G0268",
+        "forma": "ἁμαρτωλός",
+        "morph": "A-NPM",
+        "glosa": "sinners",
+        "id": "Mat.9.10#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "sinful"
+      },
+      {
+        "t": "ἐλθόντες",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAP-NPM",
+        "glosa": "having come",
+        "id": "Mat.9.10#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "συνανέκειντο",
+        "lemma": "G4873",
+        "forma": "συνανάκειμαι",
+        "morph": "V-INI-3P",
+        "glosa": "they were reclining with",
+        "id": "Mat.9.10#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to dine with"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "<the>",
+        "id": "Mat.9.10#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦ",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-DSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.9.10#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.10#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "and"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "the",
+        "id": "Mat.9.10#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μαθηταῖς",
+        "lemma": "G3101",
+        "forma": "μαθητής",
+        "morph": "N-DPM",
+        "glosa": "disciples",
+        "id": "Mat.9.10#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "disciple"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him.",
+        "id": "Mat.9.10#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane na początku jako „I”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐγένετο, morfologia V-2ADI-3S, oddane jako „stało się”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [],
+      "uwaga": "„gdy” otwiera zdanie czasowe, choć w TR nie ma spójnika ὅτε.",
+      "uzasadnienie": "Dopełniacz absolutny αὐτοῦ ἀνακειμένου nie ma spójnika czasowego. „gdy” dopowiada polskie zdanie."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "αὐτοῦ w dopełniaczu absolutnym oddane imieniem „Jezus”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀνακειμένου, „is reclining”, oddane jako „siedział”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [],
+      "uwaga": "„za stołem” nie ma w TR rzeczownika „stół”.",
+      "uzasadnienie": "ἀνακειμένου znaczy „to recline” i nie zawiera rzeczownika „stół”. „za stołem” dopowiada miejsce posiłku."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τῇ οἰκίᾳ oddane jako „domu”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [],
+      "uwaga": "„jego” przy „domu” jest kursywą w 1632. ἐν τῇ οἰκίᾳ nie ma zaimka dzierżawczego."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ przed ἰδοὺ oddane jako „że”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἰδοὺ oddane jako „oto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "πολλοὶ oddane jako „wiele”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "τελῶναι oddane jako „celników”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἁμαρτωλοὶ oddane jako „grzeszników”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἐλθόντες oddane jako „przyszedłszy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        18,
+        19
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "συνανέκειντο, „they were reclining with”, oddane jako „usiedli z”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "τῷ Ἰησοῦ oddane jako „Jezusem”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22,
+        23
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "τοῖς μαθηταῖς, celownik bez przyimka, oddane jako „z uczniami”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „gdy” i „za stołem” dopowiadają zdanie przy dopełniaczu absolutnym, a kursywa „jego” dodaje dzierżawcę domu, którego ἐν τῇ οἰκίᾳ nie ma.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "αὐτοῦ ἀνακειμένου ἐν τῇ οἰκίᾳ nie ma spójnika ὅτε, imienia „Jezus” ani rzeczownika „stół”. BG mówi „gdy Jezus siedział za stołem w domu jego”, a „jego” jest kursywą w 1632.",
+      "tokeny_bg": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Jedyny αὐτοῦ przed domem jest podmiotem dopełniacza absolutnego. Drugie αὐτοῦ, przy uczniach, BG oddaje osobnym „jego” bez kursywy.",
+      "tokeny_bg": [
+        4,
+        24
+      ],
+      "tokeny_zrodla": [
+        2,
+        20
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I stalo se, když seděl za stolem v domu jeho, a aj, mnozí celní a hříšníci přišedše, stolili s Ježíšem a s učedlníky jeho.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

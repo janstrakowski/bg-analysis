@@ -1,0 +1,749 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.6",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 6
+  },
+  "tekst_bg": "Ale abyście wiedzieli, iż ma moc Syn człowieczy na ziemi odpuszczać grzechy, tedy rzekł powietrzem ruszonemu: Wstawszy, weźmij łoże twoje, a idź do domu twego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "abyście"
+    },
+    {
+      "i": 2,
+      "t": "wiedzieli"
+    },
+    {
+      "i": 3,
+      "t": "iż"
+    },
+    {
+      "i": 4,
+      "t": "ma"
+    },
+    {
+      "i": 5,
+      "t": "moc"
+    },
+    {
+      "i": 6,
+      "t": "Syn"
+    },
+    {
+      "i": 7,
+      "t": "człowieczy"
+    },
+    {
+      "i": 8,
+      "t": "na"
+    },
+    {
+      "i": 9,
+      "t": "ziemi"
+    },
+    {
+      "i": 10,
+      "t": "odpuszczać"
+    },
+    {
+      "i": 11,
+      "t": "grzechy"
+    },
+    {
+      "i": 12,
+      "t": "tedy"
+    },
+    {
+      "i": 13,
+      "t": "rzekł"
+    },
+    {
+      "i": 14,
+      "t": "powietrzem"
+    },
+    {
+      "i": 15,
+      "t": "ruszonemu"
+    },
+    {
+      "i": 16,
+      "t": "Wstawszy"
+    },
+    {
+      "i": 17,
+      "t": "weźmij"
+    },
+    {
+      "i": 18,
+      "t": "łoże"
+    },
+    {
+      "i": 19,
+      "t": "twoje"
+    },
+    {
+      "i": 20,
+      "t": "a"
+    },
+    {
+      "i": 21,
+      "t": "idź"
+    },
+    {
+      "i": 22,
+      "t": "do"
+    },
+    {
+      "i": 23,
+      "t": "domu"
+    },
+    {
+      "i": 24,
+      "t": "twego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.6",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.6",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἵνα",
+        "lemma": "G2443",
+        "forma": "ἵνα",
+        "morph": "CONJ",
+        "glosa": "So that",
+        "id": "Mat.9.6#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "in order that/to"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.9.6#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "εἰδῆτε",
+        "lemma": "G6063",
+        "forma": "εἴδω",
+        "morph": "V-RAS-2P",
+        "glosa": "you may know",
+        "id": "Mat.9.6#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to know"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.9.6#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "ἐξουσίαν",
+        "lemma": "G1849",
+        "forma": "ἐξουσία",
+        "morph": "N-ASF",
+        "glosa": "authority",
+        "id": "Mat.9.6#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "authority"
+      },
+      {
+        "t": "ἔχει",
+        "lemma": "G2192",
+        "forma": "ἔχω",
+        "morph": "V-PAI-3S",
+        "glosa": "has",
+        "id": "Mat.9.6#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to have/be"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.9.6#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "υἱὸς",
+        "lemma": "G5207",
+        "forma": "υἱός",
+        "morph": "N-NSM-T",
+        "glosa": "Son",
+        "id": "Mat.9.6#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "son"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "<the>",
+        "id": "Mat.9.6#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀνθρώπου",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-GSM-T",
+        "glosa": "of Man",
+        "id": "Mat.9.6#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "a human"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "on",
+        "id": "Mat.9.6#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "the",
+        "id": "Mat.9.6#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γῆς",
+        "lemma": "G1093G",
+        "forma": "γῆ",
+        "morph": "N-GSF",
+        "glosa": "earth",
+        "id": "Mat.9.6#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "earth: planet"
+      },
+      {
+        "t": "ἀφιέναι",
+        "lemma": "G0863H",
+        "forma": "ἀφίημι",
+        "morph": "V-PAN",
+        "glosa": "to forgive",
+        "id": "Mat.9.6#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to release: forgive"
+      },
+      {
+        "t": "ἁμαρτίας",
+        "lemma": "G0266",
+        "forma": "ἁμαρτία",
+        "morph": "N-APF",
+        "glosa": "sins..,",
+        "id": "Mat.9.6#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "sin"
+      },
+      {
+        "t": "τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "Then",
+        "id": "Mat.9.6#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "then"
+      },
+      {
+        "t": "λέγει",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-3S",
+        "glosa": "He says",
+        "id": "Mat.9.6#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to say"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "to the",
+        "id": "Mat.9.6#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "παραλυτικῷ",
+        "lemma": "G3885",
+        "forma": "παραλυτικός",
+        "morph": "A-DSM",
+        "glosa": "paralytic;",
+        "id": "Mat.9.6#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "paralytic"
+      },
+      {
+        "t": "ἐγερθεὶς",
+        "lemma": "G1453",
+        "forma": "ἐγείρω",
+        "morph": "V-APP-NSM",
+        "glosa": "Having arisen",
+        "id": "Mat.9.6#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "to arise"
+      },
+      {
+        "t": "ἆρόν",
+        "lemma": "G0142",
+        "forma": "αἴρω",
+        "morph": "V-AAM-2S",
+        "glosa": "do take up",
+        "id": "Mat.9.6#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "to take up"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "your",
+        "id": "Mat.9.6#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "you"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "<the>",
+        "id": "Mat.9.6#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κλίνην",
+        "lemma": "G2825",
+        "forma": "κλίνη",
+        "morph": "N-ASF",
+        "glosa": "mat",
+        "id": "Mat.9.6#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "bed"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.6#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὕπαγε",
+        "lemma": "G5217",
+        "forma": "ὑπάγω",
+        "morph": "V-PAM-2S",
+        "glosa": "do go",
+        "id": "Mat.9.6#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "to go"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.9.6#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.9.6#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἶκόν",
+        "lemma": "G3624G",
+        "forma": "οἶκος",
+        "morph": "N-ASM",
+        "glosa": "house",
+        "id": "Mat.9.6#29",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "house: home"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you.",
+        "id": "Mat.9.6#30",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po ἵνα, a BG wynosi je na początek jako „Ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "uwaga": "ἵνα εἰδῆτε oddane jako „abyście wiedzieli”; końcówka „-ście” niesie osobę z εἰδῆτε."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὅτι oddane jako „iż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐξουσίαν oddane jako „moc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἔχει oddane jako „ma”; w grece dopełnienie stoi przed czasownikiem."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "ὁ υἱὸς oddane jako „Syn”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τοῦ ἀνθρώπου oddane przymiotnikiem „człowieczy”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἐπὶ oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τῆς γῆς oddane jako „ziemi”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἀφιέναι oddane jako „odpuszczać”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ἁμαρτίας oddane jako „grzechy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "τότε oddane jako „tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "λέγει, czas teraźniejszy „He says”, oddane czasem przeszłym „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14,
+        15
+      ],
+      "zrodlo": [
+        17,
+        18
+      ],
+      "uwaga": "τῷ παραλυτικῷ oddane jako „powietrzem ruszonemu”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "ἐγερθεὶς, imiesłów bierny „Having arisen”, oddane jako „Wstawszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ἆρόν oddane jako „weźmij”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "σου oddane jako „twoje”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        22,
+        23
+      ],
+      "uwaga": "τὴν κλίνην oddane jako „łoże”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "ὕπαγε oddane jako „idź”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        26
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        27,
+        28
+      ],
+      "uwaga": "τὸν οἶκόν oddane jako „domu”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        29
+      ],
+      "uwaga": "Drugie σου oddane jako „twego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token grecki ma polski odpowiednik. „Ale” wynosi δὲ na początek, a „powietrzem ruszonemu” i „człowieczy” mieszczą rodzajnik w równolicznym zwrocie.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἵνα δὲ εἰδῆτε ὅτι ἐξουσίαν ἔχει ὁ υἱὸς τοῦ ἀνθρώπου BG oddaje jako „Ale abyście wiedzieli, iż ma moc Syn człowieczy”, z δὲ na początku i z przymiotnikiem „człowieczy” z τοῦ ἀνθρώπου.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ale abyste věděli, žeť má moc Syn člověka na zemi odpouštěti hříchy, tedy dí šlakem poraženému: Vstaň, vezmi lože své, a jdi do domu svého.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

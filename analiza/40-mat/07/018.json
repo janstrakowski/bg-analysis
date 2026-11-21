@@ -1,0 +1,395 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.18",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 18
+  },
+  "tekst_bg": "Nie może dobre drzewo owoców złych przynosić, ani drzewo złe owoców dobrych przynosić.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Nie"
+    },
+    {
+      "i": 1,
+      "t": "może"
+    },
+    {
+      "i": 2,
+      "t": "dobre"
+    },
+    {
+      "i": 3,
+      "t": "drzewo"
+    },
+    {
+      "i": 4,
+      "t": "owoców"
+    },
+    {
+      "i": 5,
+      "t": "złych"
+    },
+    {
+      "i": 6,
+      "t": "przynosić"
+    },
+    {
+      "i": 7,
+      "t": "ani"
+    },
+    {
+      "i": 8,
+      "t": "drzewo"
+    },
+    {
+      "i": 9,
+      "t": "złe"
+    },
+    {
+      "i": 10,
+      "t": "owoców"
+    },
+    {
+      "i": 11,
+      "t": "dobrych"
+    },
+    {
+      "i": 12,
+      "t": "przynosić"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.18",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.18",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.7.18#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "no"
+      },
+      {
+        "t": "δύναται",
+        "lemma": "G1410",
+        "forma": "δύναμαι",
+        "morph": "V-PNI-3S",
+        "glosa": "is able",
+        "id": "Mat.7.18#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "be able"
+      },
+      {
+        "t": "δένδρον",
+        "lemma": "G1186",
+        "forma": "δένδρον",
+        "morph": "N-NSN",
+        "glosa": "a tree",
+        "id": "Mat.7.18#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "tree"
+      },
+      {
+        "t": "ἀγαθὸν",
+        "lemma": "G0018",
+        "forma": "ἀγαθός",
+        "morph": "A-NSN",
+        "glosa": "good",
+        "id": "Mat.7.18#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "good"
+      },
+      {
+        "t": "καρποὺς",
+        "lemma": "G2590",
+        "forma": "καρπός",
+        "morph": "N-APM",
+        "glosa": "fruits",
+        "id": "Mat.7.18#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "fruit"
+      },
+      {
+        "t": "πονηροὺς",
+        "lemma": "G4190",
+        "forma": "πονηρός",
+        "morph": "A-APM",
+        "glosa": "bad",
+        "id": "Mat.7.18#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "evil/bad"
+      },
+      {
+        "t": "ποιεῖν",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAN",
+        "glosa": "to produce",
+        "id": "Mat.7.18#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "οὐδὲ",
+        "lemma": "G3761",
+        "forma": "οὐδέ",
+        "morph": "CONJ-N",
+        "glosa": "nor [is able]",
+        "id": "Mat.7.18#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "nor"
+      },
+      {
+        "t": "δένδρον",
+        "lemma": "G1186",
+        "forma": "δένδρον",
+        "morph": "N-NSN",
+        "glosa": "a tree",
+        "id": "Mat.7.18#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "tree"
+      },
+      {
+        "t": "σαπρὸν",
+        "lemma": "G4550",
+        "forma": "σαπρός",
+        "morph": "A-NSN",
+        "glosa": "bad",
+        "id": "Mat.7.18#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "rotten"
+      },
+      {
+        "t": "καρποὺς",
+        "lemma": "G2590",
+        "forma": "καρπός",
+        "morph": "N-APM",
+        "glosa": "fruits",
+        "id": "Mat.7.18#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "fruit"
+      },
+      {
+        "t": "καλοὺς",
+        "lemma": "G2570G",
+        "forma": "καλός",
+        "morph": "A-APM",
+        "glosa": "good",
+        "id": "Mat.7.18#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "good"
+      },
+      {
+        "t": "ποιεῖν",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAN",
+        "glosa": "to produce.",
+        "id": "Mat.7.18#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to do/make: do"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "οὐ oddane jako „Nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δύναται oddane jako „może”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀγαθὸν oddane jako „dobre”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "δένδρον oddane jako „drzewo”; BG stawia przymiotnik przed rzeczownikiem."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "καρποὺς, biernik, oddane dopełniaczem „owoców”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "πονηροὺς oddane jako „złych”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ποιεῖν oddane jako „przynosić”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "οὐδὲ oddane jako „ani”; glosa dokłada „[is able]”, którego w tokenie nie ma i BG go nie powtarza."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "δένδρον oddane jako „drzewo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "σαπρὸν oddane jako „złe”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καρποὺς oddane dopełniaczem „owoców”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "καλοὺς oddane jako „dobrych”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "Drugie ποιεῖν oddane jako „przynosić”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Przeczenie, οὐδὲ i oba bezokoliczniki są słowne. δύναται nie jest powtórzone po „ani”, bo nie ma go w drugim członie.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὐ δύναται … οὐδὲ … ποιεῖν BG oddaje jako „Nie może … ani … przynosić”, bez drugiego „może”.",
+      "tokeny_bg": [
+        0,
+        1,
+        7,
+        12
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        7,
+        12
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nemůžeť dobrý strom zlého ovoce nésti, ani strom zlý ovoce dobrého vydávati.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

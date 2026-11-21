@@ -1,0 +1,384 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.27",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 27
+  },
+  "tekst_bg": "I któż z was troskliwie myśląc, może przydać do wzrostu swego łokieć jeden?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "któż"
+    },
+    {
+      "i": 2,
+      "t": "z"
+    },
+    {
+      "i": 3,
+      "t": "was"
+    },
+    {
+      "i": 4,
+      "t": "troskliwie"
+    },
+    {
+      "i": 5,
+      "t": "myśląc"
+    },
+    {
+      "i": 6,
+      "t": "może"
+    },
+    {
+      "i": 7,
+      "t": "przydać"
+    },
+    {
+      "i": 8,
+      "t": "do"
+    },
+    {
+      "i": 9,
+      "t": "wzrostu"
+    },
+    {
+      "i": 10,
+      "t": "swego"
+    },
+    {
+      "i": 11,
+      "t": "łokieć"
+    },
+    {
+      "i": 12,
+      "t": "jeden"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.27",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.27",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "τίς",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-NSM",
+        "glosa": "Who",
+        "id": "Mat.6.27#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "which?"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.6.27#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐξ",
+        "lemma": "G1537",
+        "forma": "ἐκ",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.6.27#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "out from"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "you",
+        "id": "Mat.6.27#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "you"
+      },
+      {
+        "t": "μεριμνῶν",
+        "lemma": "G3309",
+        "forma": "μεριμνάω",
+        "morph": "V-PAP-NSM",
+        "glosa": "being anxious",
+        "id": "Mat.6.27#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to worry"
+      },
+      {
+        "t": "δύναται",
+        "lemma": "G1410",
+        "forma": "δύναμαι",
+        "morph": "V-PNI-3S",
+        "glosa": "is able",
+        "id": "Mat.6.27#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "be able"
+      },
+      {
+        "t": "προσθεῖναι",
+        "lemma": "G4369",
+        "forma": "προστίθημι",
+        "morph": "V-2AAN",
+        "glosa": "to add",
+        "id": "Mat.6.27#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to add (to)"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.6.27#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.6.27#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἡλικίαν",
+        "lemma": "G2244",
+        "forma": "ἡλικία",
+        "morph": "N-ASF",
+        "glosa": "lifespan",
+        "id": "Mat.6.27#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "age/height"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him",
+        "id": "Mat.6.27#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "πῆχυν",
+        "lemma": "G4083",
+        "forma": "πῆχυς",
+        "morph": "N-ASM",
+        "glosa": "hour",
+        "id": "Mat.6.27#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "cubit/hour"
+      },
+      {
+        "t": "ἕνα;",
+        "lemma": "G1520",
+        "forma": "εἷς",
+        "morph": "A-ASM",
+        "glosa": "one?",
+        "id": "Mat.6.27#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "one"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δέ stoi po τίς, a BG wynosi je na początek jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "τίς oddane jako „któż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐξ oddane jako „z”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὑμῶν oddane jako „was”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "μεριμνῶν, imiesłów „being anxious”, oddane jako „troskliwie myśląc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "δύναται oddane jako „może”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "προσθεῖναι, „to add”, oddane jako „przydać”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐπί, „upon”, oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τὴν ἡλικίαν, glosa „lifespan”, leksykon „age/height”, oddane jako „wzrostu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "αὐτοῦ oddane jako „swego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "πῆχυν, glosa „hour”, leksykon „cubit/hour”, oddane jako „łokieć”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἕνα oddane jako „jeden”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. ἡλικίαν BG bierze jako „wzrostu”, a πῆχυν jako „łokieć”; oba sensy są w leksykonie paczki. Imiesłów μεριμνῶν zostaje imiesłowem „myśląc”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἡλικίαν ma glosę „lifespan” i leksykon „age/height”, a πῆχυν glosę „hour” i leksykon „cubit/hour”. BG wybiera „wzrostu” i „łokieć”.",
+      "tokeny_bg": [
+        9,
+        11
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A kdo z vás pečlivě mysle, může přidati ku postavě své loket jeden?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

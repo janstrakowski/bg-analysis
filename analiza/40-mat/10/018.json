@@ -1,0 +1,481 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.18",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 18
+  },
+  "tekst_bg": "Także przed starosty i przed króle wodzeni będziecie dla mnie, na świadectwo przeciwko nim i poganom.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Także"
+    },
+    {
+      "i": 1,
+      "t": "przed"
+    },
+    {
+      "i": 2,
+      "t": "starosty"
+    },
+    {
+      "i": 3,
+      "t": "i"
+    },
+    {
+      "i": 4,
+      "t": "przed"
+    },
+    {
+      "i": 5,
+      "t": "króle"
+    },
+    {
+      "i": 6,
+      "t": "wodzeni"
+    },
+    {
+      "i": 7,
+      "t": "będziecie"
+    },
+    {
+      "i": 8,
+      "t": "dla"
+    },
+    {
+      "i": 9,
+      "t": "mnie"
+    },
+    {
+      "i": 10,
+      "t": "na"
+    },
+    {
+      "i": 11,
+      "t": "świadectwo"
+    },
+    {
+      "i": 12,
+      "t": "przeciwko"
+    },
+    {
+      "i": 13,
+      "t": "nim"
+    },
+    {
+      "i": 14,
+      "t": "i"
+    },
+    {
+      "i": 15,
+      "t": "poganom"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.18",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.18",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.18#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "before",
+        "id": "Mat.10.18#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "ἡγεμόνας",
+        "lemma": "G2232",
+        "forma": "ἡγεμών",
+        "morph": "N-APM",
+        "glosa": "governors",
+        "id": "Mat.10.18#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "ruler"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "also",
+        "id": "Mat.10.18#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "then"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.18#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "and"
+      },
+      {
+        "t": "βασιλεῖς",
+        "lemma": "G0935",
+        "forma": "βασιλεύς",
+        "morph": "N-APM",
+        "glosa": "kings",
+        "id": "Mat.10.18#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "king"
+      },
+      {
+        "t": "ἀχθήσεσθε",
+        "lemma": "G0071",
+        "forma": "ἄγω",
+        "morph": "V-FPI-2P",
+        "glosa": "you will be brought",
+        "id": "Mat.10.18#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to bring"
+      },
+      {
+        "t": "ἕνεκεν",
+        "lemma": "G1752",
+        "forma": "ἕνεκα, εἵνεκεν",
+        "morph": "PREP",
+        "glosa": "on account of",
+        "id": "Mat.10.18#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "because of"
+      },
+      {
+        "t": "ἐμοῦ",
+        "lemma": "G1473",
+        "forma": "ἐγώ",
+        "morph": "S-1SGSN",
+        "glosa": "Me",
+        "id": "Mat.10.18#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "for",
+        "id": "Mat.10.18#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "toward"
+      },
+      {
+        "t": "μαρτύριον",
+        "lemma": "G3142",
+        "forma": "μαρτύριον",
+        "morph": "N-ASN",
+        "glosa": "a testimony",
+        "id": "Mat.10.18#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "testimony"
+      },
+      {
+        "t": "αὐτοῖς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DPM",
+        "glosa": "to them",
+        "id": "Mat.10.18#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.18#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPN",
+        "glosa": "to the",
+        "id": "Mat.10.18#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἔθνεσιν",
+        "lemma": "G1484",
+        "forma": "ἔθνος",
+        "morph": "N-DPN",
+        "glosa": "Gentiles.",
+        "id": "Mat.10.18#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "Gentiles"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "zlanie",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0,
+        3
+      ],
+      "uwaga": "καὶ i δὲ oddane łącznie jako „Także”; δέ stoi po ἡγεμόνας, a BG wynosi sens na początek."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐπὶ oddane jako „przed”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἡγεμόνας oddane jako „starosty”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [],
+      "uwaga": "Drugie „przed” powtarza jedno ἐπὶ, które obejmuje i ἡγεμόνας, i βασιλεῖς.",
+      "uzasadnienie": "Jedno ἐπὶ obejmuje ἡγεμόνας i βασιλεῖς. Drugie „przed” powtarza ten sam stosunek przy „króle” i nie wprowadza innego miejsca."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "βασιλεῖς oddane jako „króle”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἀχθήσεσθε, strona bierna, oddane jako „wodzeni będziecie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἕνεκεν oddane jako „dla”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐμοῦ oddane jako „mnie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "εἰς oddane jako „na”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "μαρτύριον oddane jako „świadectwo”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [],
+      "uwaga": "„przeciwko” jest kursywą w 1632. αὐτοῖς jest celownikiem „im”, bez przyimka κατά."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "αὐτοῖς oddane jako „nim”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τοῖς ἔθνεσιν oddane jako „poganom”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_przesuniety",
+    "uzasadnienie": "Celownik αὐτοῖς znaczy świadectwo „im”, a kursywa „przeciwko” obraca je w świadectwo przeciwne i obejmuje też „poganom”. Drugie „przed” tylko powtarza jedno ἐπὶ.",
+    "tokeny_bg": [
+      12,
+      13,
+      15
+    ],
+    "tokeny_zrodla": [
+      11,
+      13,
+      14
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "εἰς μαρτύριον αὐτοῖς καὶ τοῖς ἔθνεσιν to świadectwo celownikom „im i poganom”. BG wstawia kursywę „przeciwko”.",
+      "tokeny_bg": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "tokeny_zrodla": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "καὶ ἐπὶ ἡγεμόνας δὲ καὶ βασιλεῖς ma jedno ἐπὶ. BG powtarza „przed” przy „króle”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ano i před vladaře i před krále vedeni budete pro mne, na svědectví jim, i těm národům.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

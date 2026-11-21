@@ -1,0 +1,298 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.2.10",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 2,
+    "werset": 10
+  },
+  "tekst_bg": "A gdy ujrzeli onę gwiazdę, uradowali się radością bardzo wielką;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "ujrzeli"
+    },
+    {
+      "i": 3,
+      "t": "onę"
+    },
+    {
+      "i": 4,
+      "t": "gwiazdę"
+    },
+    {
+      "i": 5,
+      "t": "uradowali"
+    },
+    {
+      "i": 6,
+      "t": "się"
+    },
+    {
+      "i": 7,
+      "t": "radością"
+    },
+    {
+      "i": 8,
+      "t": "bardzo"
+    },
+    {
+      "i": 9,
+      "t": "wielką"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.2.10",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.2.10",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἰδόντες",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAP-NPM",
+        "glosa": "Having seen",
+        "id": "Mat.2.10#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.2.10#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.2.10#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀστέρα",
+        "lemma": "G0792",
+        "forma": "ἀστήρ",
+        "morph": "N-ASM",
+        "glosa": "star",
+        "id": "Mat.2.10#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "star"
+      },
+      {
+        "t": "ἐχάρησαν",
+        "lemma": "G5463",
+        "forma": "χαίρω",
+        "morph": "V-2AOI-3P",
+        "glosa": "they rejoiced [with]",
+        "id": "Mat.2.10#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to rejoice"
+      },
+      {
+        "t": "χαρὰν",
+        "lemma": "G5479",
+        "forma": "χαρά",
+        "morph": "N-ASF",
+        "glosa": "joy",
+        "id": "Mat.2.10#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "joy"
+      },
+      {
+        "t": "μεγάλην",
+        "lemma": "G3173",
+        "forma": "μέγας",
+        "morph": "A-ASF",
+        "glosa": "great",
+        "id": "Mat.2.10#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "great"
+      },
+      {
+        "t": "σφόδρα",
+        "lemma": "G4970",
+        "forma": "σφόδρα",
+        "morph": "ADV",
+        "glosa": "exceedingly,",
+        "id": "Mat.2.10#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "very"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po imiesłowie, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἰδόντες, imiesłów, rozbite na zdanie „gdy ujrzeli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "τὸν, rodzajnik, oddane jako „onę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀστέρα oddane jako „gwiazdę”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐχάρησαν, aoryst medialny, oddane jako „uradowali się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "χαρὰν, biernik treści, oddane narzędnikiem „radością”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "μεγάλην oddane jako „wielką”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "σφόδρα stoi po μεγάλην, a BG daje „bardzo” przed „wielką”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Nic nie dopowiedziano i nic nie opuszczono. Imiesłów ἰδόντες jest zdaniem „gdy ujrzeli”, a reszta radości jest słowna.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἰδόντες δὲ τὸν ἀστέρα BG rozbija na „A gdy ujrzeli onę gwiazdę”; δὲ stoi na początku.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐχάρησαν χαρὰν μεγάλην σφόδρα oddane jako „uradowali się radością bardzo wielką”.",
+      "tokeny_bg": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A uzřevše hvězdu, zradovali se radostí velmi velikou.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

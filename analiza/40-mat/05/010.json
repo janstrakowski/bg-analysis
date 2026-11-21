@@ -1,0 +1,338 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.10",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 10
+  },
+  "tekst_bg": "Błogosławieni, którzy cierpią prześladowanie dla sprawiedliwości; albowiem ich jest królestwo niebieskie.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Błogosławieni"
+    },
+    {
+      "i": 1,
+      "t": "którzy"
+    },
+    {
+      "i": 2,
+      "t": "cierpią"
+    },
+    {
+      "i": 3,
+      "t": "prześladowanie"
+    },
+    {
+      "i": 4,
+      "t": "dla"
+    },
+    {
+      "i": 5,
+      "t": "sprawiedliwości"
+    },
+    {
+      "i": 6,
+      "t": "albowiem"
+    },
+    {
+      "i": 7,
+      "t": "ich"
+    },
+    {
+      "i": 8,
+      "t": "jest"
+    },
+    {
+      "i": 9,
+      "t": "królestwo"
+    },
+    {
+      "i": 10,
+      "t": "niebieskie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.10",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.10",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Μακάριοι",
+        "lemma": "G3107",
+        "forma": "μακάριος",
+        "morph": "A-NPM",
+        "glosa": "Blessed [are]",
+        "id": "Mat.5.10#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "blessed"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "those",
+        "id": "Mat.5.10#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δεδιωγμένοι",
+        "lemma": "G1377",
+        "forma": "διώκω",
+        "morph": "V-RPP-NPM",
+        "glosa": "persecuted",
+        "id": "Mat.5.10#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to pursue"
+      },
+      {
+        "t": "ἕνεκεν",
+        "lemma": "G1752",
+        "forma": "ἕνεκα, εἵνεκεν",
+        "morph": "PREP",
+        "glosa": "on account of",
+        "id": "Mat.5.10#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "because of"
+      },
+      {
+        "t": "δικαιοσύνης",
+        "lemma": "G1343",
+        "forma": "δικαιοσύνη",
+        "morph": "N-GSF",
+        "glosa": "righteousness,",
+        "id": "Mat.5.10#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "righteousness"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.5.10#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "theirs",
+        "id": "Mat.5.10#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is",
+        "id": "Mat.5.10#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.5.10#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βασιλεία",
+        "lemma": "G0932",
+        "forma": "βασιλεία",
+        "morph": "N-NSF",
+        "glosa": "kingdom",
+        "id": "Mat.5.10#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "kingdom"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.5.10#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανῶν",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-GPM",
+        "glosa": "heavens.",
+        "id": "Mat.5.10#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "heaven"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Μακάριοι oddane jako „Błogosławieni”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2,
+        3
+      ],
+      "zrodlo": [
+        1,
+        2
+      ],
+      "uwaga": "οἱ δεδιωγμένοι, imiesłów bierny perfectum, oddane jako „którzy cierpią prześladowanie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἕνεκεν oddane jako „dla”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "δικαιοσύνης oddane jako „sprawiedliwości”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ὅτι oddane jako „albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "αὐτῶν oddane jako „ich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐστιν oddane jako „jest”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "ἡ βασιλεία oddane jako „królestwo”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "τῶν οὐρανῶν oddane przymiotnikiem „niebieskie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Imiesłów δεδιωγμένοι rozbity na zdanie „którzy cierpią prześladowanie”. Nic nie dodano i nic nie opuszczono, a błogosławieni zostają tymi, których dotyka prześladowanie.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "δεδιωγμένοι to imiesłów bierny perfectum, glosa „persecuted”, a BG ma zdanie „którzy cierpią prześladowanie”.",
+      "tokeny_bg": [
+        1,
+        2,
+        3
+      ],
+      "tokeny_zrodla": [
+        1,
+        2
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Blahoslavení, kteříž protivenství trpí pro spravedlnost, neb jejich jest království nebeské.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

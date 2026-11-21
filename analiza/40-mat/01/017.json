@@ -1,0 +1,801 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.1.17",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 1,
+    "werset": 17
+  },
+  "tekst_bg": "A tak wszystkiego pokolenia od Abrahama aż do Dawida jest pokoleń czternaście, a od Dawida aż do zaprowadzenia do Babilonu, pokoleń czternaście, a od zaprowadzenia do Babilonu aż do Chrystusa, pokoleń czternaście.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "tak"
+    },
+    {
+      "i": 2,
+      "t": "wszystkiego"
+    },
+    {
+      "i": 3,
+      "t": "pokolenia"
+    },
+    {
+      "i": 4,
+      "t": "od"
+    },
+    {
+      "i": 5,
+      "t": "Abrahama"
+    },
+    {
+      "i": 6,
+      "t": "aż"
+    },
+    {
+      "i": 7,
+      "t": "do"
+    },
+    {
+      "i": 8,
+      "t": "Dawida"
+    },
+    {
+      "i": 9,
+      "t": "jest"
+    },
+    {
+      "i": 10,
+      "t": "pokoleń"
+    },
+    {
+      "i": 11,
+      "t": "czternaście"
+    },
+    {
+      "i": 12,
+      "t": "a"
+    },
+    {
+      "i": 13,
+      "t": "od"
+    },
+    {
+      "i": 14,
+      "t": "Dawida"
+    },
+    {
+      "i": 15,
+      "t": "aż"
+    },
+    {
+      "i": 16,
+      "t": "do"
+    },
+    {
+      "i": 17,
+      "t": "zaprowadzenia"
+    },
+    {
+      "i": 18,
+      "t": "do"
+    },
+    {
+      "i": 19,
+      "t": "Babilonu"
+    },
+    {
+      "i": 20,
+      "t": "pokoleń"
+    },
+    {
+      "i": 21,
+      "t": "czternaście"
+    },
+    {
+      "i": 22,
+      "t": "a"
+    },
+    {
+      "i": 23,
+      "t": "od"
+    },
+    {
+      "i": 24,
+      "t": "zaprowadzenia"
+    },
+    {
+      "i": 25,
+      "t": "do"
+    },
+    {
+      "i": 26,
+      "t": "Babilonu"
+    },
+    {
+      "i": 27,
+      "t": "aż"
+    },
+    {
+      "i": 28,
+      "t": "do"
+    },
+    {
+      "i": 29,
+      "t": "Chrystusa"
+    },
+    {
+      "i": 30,
+      "t": "pokoleń"
+    },
+    {
+      "i": 31,
+      "t": "czternaście"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.1.17",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.1.17",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Πᾶσαι",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NPF",
+        "glosa": "All",
+        "id": "Mat.1.17#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "all"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "therefore",
+        "id": "Mat.1.17#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "αἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPF",
+        "glosa": "the",
+        "id": "Mat.1.17#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γενεαὶ",
+        "lemma": "G1074",
+        "forma": "γενεά",
+        "morph": "N-NPF",
+        "glosa": "generations",
+        "id": "Mat.1.17#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "generation"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.1.17#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "away from"
+      },
+      {
+        "t": "Ἀβραὰμ",
+        "lemma": "G0011",
+        "forma": "Ἀβραάμ",
+        "morph": "N-GSM-P",
+        "glosa": "Abraham",
+        "id": "Mat.1.17#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Abraham"
+      },
+      {
+        "t": "ἕως",
+        "lemma": "G2193",
+        "forma": "ἕως",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.1.17#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "until"
+      },
+      {
+        "t": "Δαυὶδ",
+        "lemma": "G1138",
+        "forma": "Δαυείδ, Δαυίδ, Δαβίδ",
+        "morph": "N-GSM-P",
+        "glosa": "David [were]",
+        "id": "Mat.1.17#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "David"
+      },
+      {
+        "t": "γενεαὶ",
+        "lemma": "G1074",
+        "forma": "γενεά",
+        "morph": "N-NPF",
+        "glosa": "generations",
+        "id": "Mat.1.17#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "generation"
+      },
+      {
+        "t": "δεκατέσσαρες",
+        "lemma": "G1180",
+        "forma": "δεκατέσσαρες",
+        "morph": "A-NPF",
+        "glosa": "fourteen",
+        "id": "Mat.1.17#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "fourteen"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.1.17#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.1.17#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "away from"
+      },
+      {
+        "t": "Δαυὶδ",
+        "lemma": "G1138",
+        "forma": "Δαυείδ, Δαυίδ, Δαβίδ",
+        "morph": "N-GSM-P",
+        "glosa": "David",
+        "id": "Mat.1.17#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "David"
+      },
+      {
+        "t": "ἕως",
+        "lemma": "G2193",
+        "forma": "ἕως",
+        "morph": "PREP",
+        "glosa": "until",
+        "id": "Mat.1.17#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "until"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "the",
+        "id": "Mat.1.17#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μετοικεσίας",
+        "lemma": "G3350",
+        "forma": "μετοικεσία",
+        "morph": "N-GSF",
+        "glosa": "carrying away",
+        "id": "Mat.1.17#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "deportation"
+      },
+      {
+        "t": "Βαβυλῶνος",
+        "lemma": "G0897",
+        "forma": "Βαβυλών",
+        "morph": "N-GSF-L",
+        "glosa": "to Babylon",
+        "id": "Mat.1.17#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "Babylon"
+      },
+      {
+        "t": "γενεαὶ",
+        "lemma": "G1074",
+        "forma": "γενεά",
+        "morph": "N-NPF",
+        "glosa": "generations",
+        "id": "Mat.1.17#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "generation"
+      },
+      {
+        "t": "δεκατέσσαρες",
+        "lemma": "G1180",
+        "forma": "δεκατέσσαρες",
+        "morph": "A-NPF",
+        "glosa": "fourteen",
+        "id": "Mat.1.17#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "fourteen"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.1.17#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.1.17#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "away from"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "the",
+        "id": "Mat.1.17#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μετοικεσίας",
+        "lemma": "G3350",
+        "forma": "μετοικεσία",
+        "morph": "N-GSF",
+        "glosa": "carrying away",
+        "id": "Mat.1.17#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "deportation"
+      },
+      {
+        "t": "Βαβυλῶνος",
+        "lemma": "G0897",
+        "forma": "Βαβυλών",
+        "morph": "N-GSF-L",
+        "glosa": "to Babylon",
+        "id": "Mat.1.17#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "Babylon"
+      },
+      {
+        "t": "ἕως",
+        "lemma": "G2193",
+        "forma": "ἕως",
+        "morph": "PREP",
+        "glosa": "until",
+        "id": "Mat.1.17#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "until"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.1.17#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Χριστοῦ",
+        "lemma": "G5547",
+        "forma": "Χριστός",
+        "morph": "N-GSM-T",
+        "glosa": "Christ",
+        "id": "Mat.1.17#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "Christ"
+      },
+      {
+        "t": "γενεαὶ",
+        "lemma": "G1074",
+        "forma": "γενεά",
+        "morph": "N-NPF",
+        "glosa": "generations",
+        "id": "Mat.1.17#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "generation"
+      },
+      {
+        "t": "δεκατέσσαρες",
+        "lemma": "G1180",
+        "forma": "δεκατέσσαρες",
+        "morph": "A-NPF",
+        "glosa": "fourteen.",
+        "id": "Mat.1.17#29",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "fourteen"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0,
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "rozbicie",
+      "uwaga": "οὖν oddane jako „A tak”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "Πᾶσαι oddane jako „wszystkiego”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "rola": "zlanie",
+      "uwaga": "αἱ γενεαὶ oddane jako „pokolenia”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἀπὸ oddane jako „od”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ἀβραὰμ oddane jako „Abrahama”."
+    },
+    {
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "rozbicie",
+      "uwaga": "ἕως oddane jako „aż do”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "Δαυὶδ oddane jako „Dawida”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [],
+      "rola": "dopelnienie",
+      "uwaga": "„jest” jest kursywą w 1632, bo przy γενεαὶ δεκατέσσαρες nie ma czasownika."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "γενεαὶ oddane jako „pokoleń”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "δεκατέσσαρες oddane jako „czternaście”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἀπὸ oddane jako „od”."
+    },
+    {
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "Δαυὶδ oddane jako „Dawida”."
+    },
+    {
+      "bg": [
+        15,
+        16
+      ],
+      "zrodlo": [
+        13
+      ],
+      "rola": "rozbicie",
+      "uwaga": "ἕως oddane jako „aż do”."
+    },
+    {
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "rola": "zlanie",
+      "uwaga": "τῆς μετοικεσίας oddane jako „zaprowadzenia”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        18,
+        19
+      ],
+      "zrodlo": [
+        16
+      ],
+      "rola": "rozbicie",
+      "uwaga": "Βαβυλῶνος, dopełniacz miejsca, oddane jako „do Babilonu”."
+    },
+    {
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        17
+      ],
+      "rola": "przeklad",
+      "uwaga": "γενεαὶ oddane jako „pokoleń”."
+    },
+    {
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        18
+      ],
+      "rola": "przeklad",
+      "uwaga": "δεκατέσσαρες oddane jako „czternaście”."
+    },
+    {
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        19
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        20
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἀπὸ oddane jako „od”."
+    },
+    {
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        21,
+        22
+      ],
+      "rola": "zlanie",
+      "uwaga": "τῆς μετοικεσίας oddane jako „zaprowadzenia”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        25,
+        26
+      ],
+      "zrodlo": [
+        23
+      ],
+      "rola": "rozbicie",
+      "uwaga": "Βαβυλῶνος, dopełniacz miejsca, oddane jako „do Babilonu”."
+    },
+    {
+      "bg": [
+        27,
+        28
+      ],
+      "zrodlo": [
+        24
+      ],
+      "rola": "rozbicie",
+      "uwaga": "ἕως oddane jako „aż do”."
+    },
+    {
+      "bg": [
+        29
+      ],
+      "zrodlo": [
+        25,
+        26
+      ],
+      "rola": "zlanie",
+      "uwaga": "τοῦ Χριστοῦ oddane jako „Chrystusa”, a rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        30
+      ],
+      "zrodlo": [
+        27
+      ],
+      "rola": "przeklad",
+      "uwaga": "γενεαὶ oddane jako „pokoleń”."
+    },
+    {
+      "bg": [
+        31
+      ],
+      "zrodlo": [
+        28
+      ],
+      "rola": "przeklad",
+      "uwaga": "δεκατέσσαρες oddane jako „czternaście”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „jest” jest kursywą w 1632 i dopowiada czasownik przy pierwszym „pokoleń czternaście”. Liczba „pokolenia” nazywa te same γενεαί.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Πᾶσαι οὖν αἱ γενεαὶ BG oddaje jako „A tak wszystkiego pokolenia”, a ἕως jako „aż do”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "„jest” jest kursywą w 1632. Przy γενεαὶ δεκατέσσαρες nie ma czasownika.",
+      "tokeny_bg": [
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A tak všech rodů od Abrahama až do Davida bylo rodů čtrnácte. A od Davida až do zajetí Babylonského rodů čtrnácte. A od zajetí Babylonského až do Krista rodů čtrnácte.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

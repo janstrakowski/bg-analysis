@@ -1,0 +1,549 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.12",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 12
+  },
+  "tekst_bg": "Radujcie się, i weselcie się; albowiem zapłata wasza obfita jest w niebiesiech; tak bowiem prześladowali proroki, którzy byli przed wami.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Radujcie"
+    },
+    {
+      "i": 1,
+      "t": "się"
+    },
+    {
+      "i": 2,
+      "t": "i"
+    },
+    {
+      "i": 3,
+      "t": "weselcie"
+    },
+    {
+      "i": 4,
+      "t": "się"
+    },
+    {
+      "i": 5,
+      "t": "albowiem"
+    },
+    {
+      "i": 6,
+      "t": "zapłata"
+    },
+    {
+      "i": 7,
+      "t": "wasza"
+    },
+    {
+      "i": 8,
+      "t": "obfita"
+    },
+    {
+      "i": 9,
+      "t": "jest"
+    },
+    {
+      "i": 10,
+      "t": "w"
+    },
+    {
+      "i": 11,
+      "t": "niebiesiech"
+    },
+    {
+      "i": 12,
+      "t": "tak"
+    },
+    {
+      "i": 13,
+      "t": "bowiem"
+    },
+    {
+      "i": 14,
+      "t": "prześladowali"
+    },
+    {
+      "i": 15,
+      "t": "proroki"
+    },
+    {
+      "i": 16,
+      "t": "którzy"
+    },
+    {
+      "i": 17,
+      "t": "byli"
+    },
+    {
+      "i": 18,
+      "t": "przed"
+    },
+    {
+      "i": 19,
+      "t": "wami"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.12",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.12",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "χαίρετε",
+        "lemma": "G5463",
+        "forma": "χαίρω",
+        "morph": "V-PAM-2P",
+        "glosa": "do rejoice",
+        "id": "Mat.5.12#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to rejoice"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.12#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀγαλλιᾶσθε",
+        "lemma": "G0021",
+        "forma": "ἀγαλλιάω",
+        "morph": "V-PNM-2P",
+        "glosa": "do exult,",
+        "id": "Mat.5.12#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to rejoice"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.5.12#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.5.12#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μισθὸς",
+        "lemma": "G3408",
+        "forma": "μισθός",
+        "morph": "N-NSM",
+        "glosa": "reward",
+        "id": "Mat.5.12#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "wage"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.5.12#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "you"
+      },
+      {
+        "t": "πολὺς",
+        "lemma": "G4183",
+        "forma": "πολύς",
+        "morph": "A-NSM",
+        "glosa": "[is] great",
+        "id": "Mat.5.12#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "much"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.5.12#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "the",
+        "id": "Mat.5.12#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανοῖς",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-DPM",
+        "glosa": "heavens;",
+        "id": "Mat.5.12#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "heaven"
+      },
+      {
+        "t": "οὕτως",
+        "lemma": "G3779",
+        "forma": "οὕτω, οὕτως",
+        "morph": "ADV",
+        "glosa": "thus",
+        "id": "Mat.5.12#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "thus(-ly)"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.5.12#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "for"
+      },
+      {
+        "t": "ἐδίωξαν",
+        "lemma": "G1377",
+        "forma": "διώκω",
+        "morph": "V-AAI-3P",
+        "glosa": "they persecuted",
+        "id": "Mat.5.12#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to pursue"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.5.12#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "προφήτας",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-APM",
+        "glosa": "prophets",
+        "id": "Mat.5.12#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "prophet"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "<the>",
+        "id": "Mat.5.12#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πρὸ",
+        "lemma": "G4253",
+        "forma": "πρό",
+        "morph": "PREP",
+        "glosa": "before",
+        "id": "Mat.5.12#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "before"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "you.",
+        "id": "Mat.5.12#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "rozbicie",
+      "bg": [
+        0,
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "χαίρετε, tryb rozkazujący strony czynnej, oddane jako „Radujcie się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἀγαλλιᾶσθε, tryb rozkazujący, oddane jako „weselcie się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὅτι oddane jako „albowiem”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "ὁ μισθὸς oddane jako „zapłata”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὑμῶν oddane jako „wasza”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "πολὺς oddane jako „obfita”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [],
+      "uwaga": "„jest” nie ma w grece osobnego ἐστιν.",
+      "uzasadnienie": "W TR przy πολὺς nie ma czasownika „być”; „jest” dopowiada łącznik, który glosa podaje w nawiasie."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τοῖς οὐρανοῖς oddane jako „niebiesiech”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "οὕτως oddane jako „tak”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "γὰρ stoi po οὕτως, a „bowiem” stoi po „tak”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἐδίωξαν oddane jako „prześladowali”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "τοὺς προφήτας oddane jako „proroki”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "Drugi τοὺς, rodzajnik rzeczownikowy przed πρὸ, oddany jako „którzy”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        17
+      ],
+      "zrodlo": [],
+      "uwaga": "„byli” nie ma w grece; τοὺς πρὸ ὑμῶν to „tych przed wami”, bez czasownika, a wyraz jest kursywą 1632."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "πρὸ oddane jako „przed”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ὑμῶν oddane jako „wami”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Dopowiedziane są „jest” przy πολὺς oraz kursywne „byli” przy τοὺς πρὸ ὑμῶν. Żaden token grecki nie został opuszczony, a sens zapłaty i prześladowania proroków zostaje ten sam.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Przy πολὺς nie ma ἐστιν, a BG dodaje „jest”; glosa podaje „[is] great”.",
+      "tokeny_bg": [
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        7
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τοὺς πρὸ ὑμῶν nie ma czasownika, a kursywne „byli” stoi między „którzy” i „przed”.",
+      "tokeny_bg": [
+        16,
+        17,
+        18
+      ],
+      "tokeny_zrodla": [
+        16,
+        17
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Radujte se a veselte se, nebo odplata vaše hojná jest v nebesích. Takť zajisté protivili se prorokům, kteříž byli před vámi.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

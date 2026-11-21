@@ -1,0 +1,361 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.12",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 12
+  },
+  "tekst_bg": "A gdy usłyszał Jezus, iż Jan był podany do więzienia, wrócił się do Galilei;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "usłyszał"
+    },
+    {
+      "i": 3,
+      "t": "Jezus"
+    },
+    {
+      "i": 4,
+      "t": "iż"
+    },
+    {
+      "i": 5,
+      "t": "Jan"
+    },
+    {
+      "i": 6,
+      "t": "był"
+    },
+    {
+      "i": 7,
+      "t": "podany"
+    },
+    {
+      "i": 8,
+      "t": "do"
+    },
+    {
+      "i": 9,
+      "t": "więzienia"
+    },
+    {
+      "i": 10,
+      "t": "wrócił"
+    },
+    {
+      "i": 11,
+      "t": "się"
+    },
+    {
+      "i": 12,
+      "t": "do"
+    },
+    {
+      "i": 13,
+      "t": "Galilei"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.12",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.12",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἀκούσας",
+        "lemma": "G0191",
+        "forma": "ἀκούω",
+        "morph": "V-AAP-NSM",
+        "glosa": "Having heard",
+        "id": "Mat.4.12#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to hear"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.4.12#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.4.12#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.4.12#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.4.12#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "Ἰωάννης",
+        "lemma": "G2491G",
+        "forma": "Ἰωάννης",
+        "morph": "N-NSM-P",
+        "glosa": "John",
+        "id": "Mat.4.12#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "John"
+      },
+      {
+        "t": "παρεδόθη",
+        "lemma": "G3860",
+        "forma": "παραδίδωμι",
+        "morph": "V-API-3S",
+        "glosa": "was delivered up",
+        "id": "Mat.4.12#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to deliver"
+      },
+      {
+        "t": "ἀνεχώρησεν",
+        "lemma": "G0402",
+        "forma": "ἀναχωρέω",
+        "morph": "V-AAI-3S",
+        "glosa": "He withdrew",
+        "id": "Mat.4.12#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to leave"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.4.12#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "<the>",
+        "id": "Mat.4.12#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Γαλιλαίαν",
+        "lemma": "G1056G",
+        "forma": "Γαλιλαία",
+        "morph": "N-ASF-L",
+        "glosa": "Galilee.",
+        "id": "Mat.4.12#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "Galilee"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po imiesłowie, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ἀκούσας, imiesłów aorystu, BG rozwija w „gdy usłyszał”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ὅτι oddane jako „iż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Ἰωάννης oddane jako „Jan”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "παρεδόθη, aoryst strony biernej, oddane jako „był podany”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [],
+      "uwaga": "„do więzienia” jest kursywą w 1632. παρεδόθη nie nazywa miejsca."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        10,
+        11
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἀνεχώρησεν oddane czasownikiem zwrotnym „wrócił się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τὴν Γαλιλαίαν oddane jako „Galilei”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Jezus słyszy, że Jan został wydany, i odchodzi do Galilei. „do więzienia” jest kursywą 1632 i dopowiada miejsce, którego παρεδόθη nie nazywa.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "παρεδόθη znaczy „został wydany” i nie ma przy sobie rzeczownika więzienia. „do więzienia” jest kursywą w 1632.",
+      "tokeny_bg": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        6
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Ἀκούσας to imiesłów. BG rozwija go w „gdy usłyszał”, a δὲ wynosi na początek jako „A”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2
+      ],
+      "tokeny_zrodla": [
+        0,
+        1
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A když uslyšel Ježíš, že by Jan vsazen byl do žaláře, odšel do Galilee.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

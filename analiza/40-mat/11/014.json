@@ -1,0 +1,345 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.14",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 14
+  },
+  "tekst_bg": "A jeźli to chcecie przyjąć, onci jest Elijasz, który miał przyjść.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "jeźli"
+    },
+    {
+      "i": 2,
+      "t": "to"
+    },
+    {
+      "i": 3,
+      "t": "chcecie"
+    },
+    {
+      "i": 4,
+      "t": "przyjąć"
+    },
+    {
+      "i": 5,
+      "t": "onci"
+    },
+    {
+      "i": 6,
+      "t": "jest"
+    },
+    {
+      "i": 7,
+      "t": "Elijasz"
+    },
+    {
+      "i": 8,
+      "t": "który"
+    },
+    {
+      "i": 9,
+      "t": "miał"
+    },
+    {
+      "i": 10,
+      "t": "przyjść"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.14",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.14",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.11.14#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "εἰ",
+        "lemma": "G1487G",
+        "forma": "εἰ",
+        "morph": "COND",
+        "glosa": "if",
+        "id": "Mat.11.14#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "if"
+      },
+      {
+        "t": "θέλετε",
+        "lemma": "G2309",
+        "forma": "θέλω",
+        "morph": "V-PAI-2P",
+        "glosa": "you are willing",
+        "id": "Mat.11.14#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to will/desire"
+      },
+      {
+        "t": "δέξασθαι",
+        "lemma": "G1209",
+        "forma": "δέχομαι",
+        "morph": "V-ADN",
+        "glosa": "to receive [it],",
+        "id": "Mat.11.14#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to receive"
+      },
+      {
+        "t": "αὐτός",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-NSM",
+        "glosa": "he himself",
+        "id": "Mat.11.14#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is",
+        "id": "Mat.11.14#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to be"
+      },
+      {
+        "t": "Ἠλίας",
+        "lemma": "G2243",
+        "forma": "Ἡλίας",
+        "morph": "N-NSM-P",
+        "glosa": "Elijah",
+        "id": "Mat.11.14#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "Elijah"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "who",
+        "id": "Mat.11.14#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μέλλων",
+        "lemma": "G3195",
+        "forma": "μέλλω",
+        "morph": "V-PAP-NSM",
+        "glosa": "is being about",
+        "id": "Mat.11.14#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to ensue"
+      },
+      {
+        "t": "ἔρχεσθαι",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-PNN",
+        "glosa": "to come.",
+        "id": "Mat.11.14#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to come/go"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "εἰ oddane jako „jeźli”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [],
+      "uwaga": "„to” jest kursywą w 1632. δέξασθαι nie ma osobnego dopełnienia."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "θέλετε oddane jako „chcecie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "δέξασθαι oddane jako „przyjąć”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτός oddane jako „onci”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἐστιν oddane jako „jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "Ἠλίας oddane jako „Elijasz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ὁ przy imiesłowie oddane jako „który”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "μέλλων, imiesłów teraźniejszy, oddane jako „miał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἔρχεσθαι oddane jako „przyjść”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „to” jest kursywą i dopowiada dopełnienie przy δέξασθαι, którego w TR nie ma.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "δέξασθαι nie ma zaimka ani rzeczownika w roli dopełnienia. „to” jest kursywą w 1632.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὁ μέλλων ἔρχεσθαι to imiesłów teraźniejszy z bezokolicznikiem. BG oddaje go jako „który miał przyjść”.",
+      "tokeny_bg": [
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A chcete-li přijmouti: Onť jest Eliáš, kterýž přijíti měl.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.11",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 11
+  },
+  "tekst_bg": "Tedy go opuścił dyjabeł, a oto, Aniołowie przystąpili i służyli mu.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tedy"
+    },
+    {
+      "i": 1,
+      "t": "go"
+    },
+    {
+      "i": 2,
+      "t": "opuścił"
+    },
+    {
+      "i": 3,
+      "t": "dyjabeł"
+    },
+    {
+      "i": 4,
+      "t": "a"
+    },
+    {
+      "i": 5,
+      "t": "oto"
+    },
+    {
+      "i": 6,
+      "t": "Aniołowie"
+    },
+    {
+      "i": 7,
+      "t": "przystąpili"
+    },
+    {
+      "i": 8,
+      "t": "i"
+    },
+    {
+      "i": 9,
+      "t": "służyli"
+    },
+    {
+      "i": 10,
+      "t": "mu"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.11",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.11",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "Then",
+        "id": "Mat.4.11#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἀφίησιν",
+        "lemma": "G0863G",
+        "forma": "ἀφίημι",
+        "morph": "V-PAI-3S",
+        "glosa": "leaves",
+        "id": "Mat.4.11#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to release: leave"
+      },
+      {
+        "t": "αὐτὸν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "Him",
+        "id": "Mat.4.11#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.4.11#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "διάβολος",
+        "lemma": "G1228",
+        "forma": "διάβολος",
+        "morph": "A-NSM",
+        "glosa": "devil,",
+        "id": "Mat.4.11#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "devilish/the Devil"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.11#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "behold",
+        "id": "Mat.4.11#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "look!"
+      },
+      {
+        "t": "ἄγγελοι",
+        "lemma": "G0032G",
+        "forma": "ἄγγελος",
+        "morph": "N-NPM",
+        "glosa": "angels",
+        "id": "Mat.4.11#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "angel"
+      },
+      {
+        "t": "προσῆλθον",
+        "lemma": "G4334",
+        "forma": "προσέρχομαι",
+        "morph": "V-2AAI-3P",
+        "glosa": "came",
+        "id": "Mat.4.11#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to come near/agree"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.11#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "διηκόνουν",
+        "lemma": "G1247",
+        "forma": "διακονέω",
+        "morph": "V-IAI-3P",
+        "glosa": "they were ministering",
+        "id": "Mat.4.11#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to serve"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to Him.",
+        "id": "Mat.4.11#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "τότε oddane jako „Tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "αὐτὸν oddane jako „go”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἀφίησιν, czas teraźniejszy, oddane przeszłym „opuścił”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "ὁ διάβολος oddane jako „dyjabeł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἰδοὺ oddane jako „oto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἄγγελοι oddane jako „Aniołowie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "προσῆλθον oddane jako „przystąpili”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "Drugie καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "διηκόνουν oddane jako „służyli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Diabeł go zostawia, a aniołowie przychodzą i służą mu. ἀφίησιν, czas teraźniejszy narracji, brzmi po polsku „opuścił”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀφίησιν αὐτὸν ὁ διάβολος BG oddaje jako „go opuścił dyjabeł”, a καὶ ἰδοὺ ἄγγελοι jako „a oto, Aniołowie”.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Tedy opustil ho ďábel, a aj, andělé přistoupili a sloužili jemu.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

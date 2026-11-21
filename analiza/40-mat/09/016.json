@@ -1,0 +1,619 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.9.16",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 9,
+    "werset": 16
+  },
+  "tekst_bg": "A żaden nie wprawuje łaty sukna nowego w szatę wiotchą; albowiem ono załatanie ujmuje nieco od szaty, i stawa się gorsze rozdarcie;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "żaden"
+    },
+    {
+      "i": 2,
+      "t": "nie"
+    },
+    {
+      "i": 3,
+      "t": "wprawuje"
+    },
+    {
+      "i": 4,
+      "t": "łaty"
+    },
+    {
+      "i": 5,
+      "t": "sukna"
+    },
+    {
+      "i": 6,
+      "t": "nowego"
+    },
+    {
+      "i": 7,
+      "t": "w"
+    },
+    {
+      "i": 8,
+      "t": "szatę"
+    },
+    {
+      "i": 9,
+      "t": "wiotchą"
+    },
+    {
+      "i": 10,
+      "t": "albowiem"
+    },
+    {
+      "i": 11,
+      "t": "ono"
+    },
+    {
+      "i": 12,
+      "t": "załatanie"
+    },
+    {
+      "i": 13,
+      "t": "ujmuje"
+    },
+    {
+      "i": 14,
+      "t": "nieco"
+    },
+    {
+      "i": 15,
+      "t": "od"
+    },
+    {
+      "i": 16,
+      "t": "szaty"
+    },
+    {
+      "i": 17,
+      "t": "i"
+    },
+    {
+      "i": 18,
+      "t": "stawa"
+    },
+    {
+      "i": 19,
+      "t": "się"
+    },
+    {
+      "i": 20,
+      "t": "gorsze"
+    },
+    {
+      "i": 21,
+      "t": "rozdarcie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.9.16",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.9.16",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "οὐδεὶς",
+        "lemma": "G3762",
+        "forma": "οὐδείς",
+        "morph": "A-NSM",
+        "glosa": "No [one]",
+        "id": "Mat.9.16#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "none"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.9.16#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐπιβάλλει",
+        "lemma": "G1911",
+        "forma": "ἐπιβάλλω",
+        "morph": "V-PAI-3S",
+        "glosa": "puts",
+        "id": "Mat.9.16#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to put on/seize"
+      },
+      {
+        "t": "ἐπίβλημα",
+        "lemma": "G1915",
+        "forma": "ἐπίβλημα",
+        "morph": "N-ASN",
+        "glosa": "a patch",
+        "id": "Mat.9.16#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "patch"
+      },
+      {
+        "t": "ῥάκους",
+        "lemma": "G4470",
+        "forma": "ῥάκος",
+        "morph": "N-GSN",
+        "glosa": "of cloth",
+        "id": "Mat.9.16#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "a cloth"
+      },
+      {
+        "t": "ἀγνάφου",
+        "lemma": "G0046",
+        "forma": "ἄγναφος",
+        "morph": "A-GSN",
+        "glosa": "unshrunk",
+        "id": "Mat.9.16#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "unshrunk"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "on",
+        "id": "Mat.9.16#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "ἱματίῳ",
+        "lemma": "G2440",
+        "forma": "ἱμάτιον",
+        "morph": "N-DSN",
+        "glosa": "clothing",
+        "id": "Mat.9.16#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "clothing"
+      },
+      {
+        "t": "παλαιῷ",
+        "lemma": "G3820",
+        "forma": "παλαιός",
+        "morph": "A-DSN",
+        "glosa": "old;",
+        "id": "Mat.9.16#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "old"
+      },
+      {
+        "t": "αἴρει",
+        "lemma": "G0142",
+        "forma": "αἴρω",
+        "morph": "V-PAI-3S",
+        "glosa": "tears away",
+        "id": "Mat.9.16#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to take up"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.9.16#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "for"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.9.16#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πλήρωμα",
+        "lemma": "G4138",
+        "forma": "πλήρωμα",
+        "morph": "N-ASN",
+        "glosa": "patch",
+        "id": "Mat.9.16#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "fulfillment"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSN",
+        "glosa": "of it",
+        "id": "Mat.9.16#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.9.16#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "away from"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSN",
+        "glosa": "the",
+        "id": "Mat.9.16#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἱματίου",
+        "lemma": "G2440",
+        "forma": "ἱμάτιον",
+        "morph": "N-GSN",
+        "glosa": "garment,",
+        "id": "Mat.9.16#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "clothing"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.9.16#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "and"
+      },
+      {
+        "t": "χεῖρον",
+        "lemma": "G5501",
+        "forma": "χείρων",
+        "morph": "A-NSN-C",
+        "glosa": "a worse",
+        "id": "Mat.9.16#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "worse than"
+      },
+      {
+        "t": "σχίσμα",
+        "lemma": "G4978",
+        "forma": "σχίσμα",
+        "morph": "N-NSN",
+        "glosa": "tear",
+        "id": "Mat.9.16#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "split"
+      },
+      {
+        "t": "γίνεται",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-PNI-3S",
+        "glosa": "emerges.",
+        "id": "Mat.9.16#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "to be"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po οὐδεὶς, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "οὐδεὶς, „No one”, oddane zgodą przeczącą „żaden nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐπιβάλλει, „puts”, oddane jako „wprawuje”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἐπίβλημα, „a patch”, oddane jako „łaty”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ῥάκους, „of cloth”, oddane jako „sukna”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἀγνάφου, „unshrunk”, oddane jako „nowego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐπὶ, „on”, oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἱματίῳ oddane jako „szatę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "παλαιῷ, „old”, oddane jako „wiotchą”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "γὰρ stoi po αἴρει, a BG wynosi je przed zdanie jako „albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "τὸ, rodzajnik, oddane jako „ono”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "πλήρωμα, „patch”, oddane jako „załatanie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "αἴρει, „tears away”, oddane jako „ujmuje”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [],
+      "uwaga": "„nieco” nie odpowiada żadnemu tokenowi. αἴρει nie ma przysłówka stopnia."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ἀπὸ oddane jako „od”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "τοῦ ἱματίου oddane jako „szaty”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "αὐτοῦ, zaimek „of it”, nie ma w polskim zdaniu słowa „jego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        18,
+        19
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "γίνεται, morfologia V-PNI-3S, oddane jako „stawa się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "χεῖρον, „a worse”, oddane jako „gorsze”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "σχίσμα, „tear”, oddane jako „rozdarcie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Zaimek αὐτοῦ przy τὸ πλήρωμα nie ma polskiego odpowiednika, a „nieco” jest dopowiedzeniem bez uzasadnienia w tokenach TR.",
+    "tokeny_bg": [
+      14
+    ],
+    "tokeny_zrodla": [
+      13
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "αἴρει γὰρ τὸ πλήρωμα αὐτοῦ ἀπὸ τοῦ ἱματίου ma zaimek αὐτοῦ. BG mówi „ono załatanie ujmuje nieco od szaty”: αὐτοῦ ginie, a „nieco” nie stoi na żadnym tokenie greckim.",
+      "tokeny_bg": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "tokeny_zrodla": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀγνάφου ma w widoku glosę „unshrunk”. BG oddaje ten przymiotnik jako „nowego”.",
+      "tokeny_bg": [
+        6
+      ],
+      "tokeny_zrodla": [
+        5
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Žádný zajisté nepřišívá záplaty sukna nového k rouchu vetchému; nebo ta záplata jeho odtrhla by ještě nějaký díl od roucha, a tak větší by díra byla.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

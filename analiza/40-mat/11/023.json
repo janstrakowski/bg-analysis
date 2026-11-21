@@ -1,0 +1,771 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.23",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 23
+  },
+  "tekst_bg": "A ty Kapernaum! któreś aż do nieba wywyższone, aż do piekła strącone będziesz; bo gdyby się były w Sodomie te cuda działy, które się działy w tobie, zostałaby była aż do dnia dzisiejszego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "ty"
+    },
+    {
+      "i": 2,
+      "t": "Kapernaum"
+    },
+    {
+      "i": 3,
+      "t": "któreś"
+    },
+    {
+      "i": 4,
+      "t": "aż"
+    },
+    {
+      "i": 5,
+      "t": "do"
+    },
+    {
+      "i": 6,
+      "t": "nieba"
+    },
+    {
+      "i": 7,
+      "t": "wywyższone"
+    },
+    {
+      "i": 8,
+      "t": "aż"
+    },
+    {
+      "i": 9,
+      "t": "do"
+    },
+    {
+      "i": 10,
+      "t": "piekła"
+    },
+    {
+      "i": 11,
+      "t": "strącone"
+    },
+    {
+      "i": 12,
+      "t": "będziesz"
+    },
+    {
+      "i": 13,
+      "t": "bo"
+    },
+    {
+      "i": 14,
+      "t": "gdyby"
+    },
+    {
+      "i": 15,
+      "t": "się"
+    },
+    {
+      "i": 16,
+      "t": "były"
+    },
+    {
+      "i": 17,
+      "t": "w"
+    },
+    {
+      "i": 18,
+      "t": "Sodomie"
+    },
+    {
+      "i": 19,
+      "t": "te"
+    },
+    {
+      "i": 20,
+      "t": "cuda"
+    },
+    {
+      "i": 21,
+      "t": "działy"
+    },
+    {
+      "i": 22,
+      "t": "które"
+    },
+    {
+      "i": 23,
+      "t": "się"
+    },
+    {
+      "i": 24,
+      "t": "działy"
+    },
+    {
+      "i": 25,
+      "t": "w"
+    },
+    {
+      "i": 26,
+      "t": "tobie"
+    },
+    {
+      "i": 27,
+      "t": "zostałaby"
+    },
+    {
+      "i": 28,
+      "t": "była"
+    },
+    {
+      "i": 29,
+      "t": "aż"
+    },
+    {
+      "i": 30,
+      "t": "do"
+    },
+    {
+      "i": 31,
+      "t": "dnia"
+    },
+    {
+      "i": 32,
+      "t": "dzisiejszego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.23",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.23",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.11.23#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "σὺ",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2NS",
+        "glosa": "you yourself",
+        "id": "Mat.11.23#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "you"
+      },
+      {
+        "t": "Καφαρναούμ",
+        "lemma": "G2584",
+        "forma": "Καπερναούμ",
+        "morph": "N-VSF-L",
+        "glosa": "Capernaum,",
+        "id": "Mat.11.23#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "Capernaum"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ἡ",
+        "morph": "T-NSF",
+        "glosa": "<the>",
+        "id": "Mat.11.23#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἕως",
+        "lemma": "G2193",
+        "forma": "ἕως",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.11.23#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "until"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "<the>",
+        "id": "Mat.11.23#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανοῦ",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-GSM",
+        "glosa": "heaven",
+        "id": "Mat.11.23#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "heaven"
+      },
+      {
+        "t": "ὑψωθεῖσα",
+        "lemma": "G5312",
+        "forma": "ὑψωθεῖσα",
+        "morph": "V-APP-NSF",
+        "glosa": "having been exalted",
+        "id": "Mat.11.23#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to lift up"
+      },
+      {
+        "t": "ἕως",
+        "lemma": "G2193",
+        "forma": "ἕως",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.11.23#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "until"
+      },
+      {
+        "t": "ᾅδου",
+        "lemma": "G0086",
+        "forma": "ᾍδης",
+        "morph": "N-GSM-L",
+        "glosa": "Hades",
+        "id": "Mat.11.23#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "hell: Hades"
+      },
+      {
+        "t": "καταβιβασθήσῃ",
+        "lemma": "G2601",
+        "forma": "καταβιβασθήσῃ",
+        "morph": "V-FPI-2S",
+        "glosa": "will be brought down",
+        "id": "Mat.11.23#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to bring down"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "For",
+        "id": "Mat.11.23#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "εἰ",
+        "lemma": "G1487G",
+        "forma": "εἰ",
+        "morph": "COND",
+        "glosa": "if",
+        "id": "Mat.11.23#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "if"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.11.23#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "Σοδόμοις",
+        "lemma": "G4670",
+        "forma": "Σόδομα",
+        "morph": "N-DPN-L",
+        "glosa": "Sodom",
+        "id": "Mat.11.23#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "Sodom"
+      },
+      {
+        "t": "ἐγένοντο",
+        "lemma": "G1096",
+        "forma": "ἐγένοντο",
+        "morph": "V-2ADI-3P",
+        "glosa": "happened",
+        "id": "Mat.11.23#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to be"
+      },
+      {
+        "t": "αἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPF",
+        "glosa": "the",
+        "id": "Mat.11.23#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δυνάμεις",
+        "lemma": "G1411",
+        "forma": "δύναμις",
+        "morph": "N-NPF",
+        "glosa": "miracles",
+        "id": "Mat.11.23#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "power"
+      },
+      {
+        "t": "αἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPF",
+        "glosa": "that",
+        "id": "Mat.11.23#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γενόμεναι",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-2ADP-NPF",
+        "glosa": "were happening",
+        "id": "Mat.11.23#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.11.23#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "σοί",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DS",
+        "glosa": "you,",
+        "id": "Mat.11.23#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἔμειναν",
+        "lemma": "G3306",
+        "forma": "ἔμειναν",
+        "morph": "V-AAI-3P",
+        "glosa": "they  remained",
+        "id": "Mat.11.23#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "to stay"
+      },
+      {
+        "t": "ἂν",
+        "lemma": "G0302",
+        "forma": "ἄν",
+        "morph": "PRT",
+        "glosa": "then would",
+        "id": "Mat.11.23#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "if"
+      },
+      {
+        "t": "μέχρι",
+        "lemma": "G3360",
+        "forma": "μέχρι",
+        "morph": "PREP",
+        "glosa": "until",
+        "id": "Mat.11.23#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "until"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "the",
+        "id": "Mat.11.23#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "σήμερον",
+        "lemma": "G4594",
+        "forma": "σήμερον",
+        "morph": "ADV",
+        "glosa": "day.",
+        "id": "Mat.11.23#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "today"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "σὺ oddane jako „ty”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "Καφαρναούμ oddane jako „Kapernaum”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἡ przy imiesłowie oddane jako „któreś”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἕως oddane jako „aż do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τοῦ οὐρανοῦ oddane jako „nieba”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ὑψωθεῖσα oddane jako „wywyższone”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Drugie ἕως oddane jako „aż do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ᾅδου oddane jako „piekła”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        11,
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καταβιβασθήσῃ, strona bierna, oddane jako „strącone będziesz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ὅτι oddane jako „bo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "εἰ oddane jako „gdyby”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        15,
+        16,
+        21
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἐγένοντο oddane jako „się były działy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "Σοδόμοις, liczba mnoga nazwy, oddane jako „Sodomie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "αἱ oddane jako „te”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "δυνάμεις oddane jako „cuda”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "Drugie αἱ oddane jako „które”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        23,
+        24
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "γενόμεναι oddane jako „się działy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        26
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "σοί oddane jako „tobie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        27,
+        28
+      ],
+      "zrodlo": [
+        22,
+        23
+      ],
+      "uwaga": "ἔμειναν ἂν, liczba mnoga, oddane jako „zostałaby była”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        29,
+        30
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "μέχρι oddane jako „aż do”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        31
+      ],
+      "zrodlo": [],
+      "uwaga": "„dnia” jest kursywą w 1632. W TR nie ma rzeczownika ἡμέρα, jest przysłówek σήμερον."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        32
+      ],
+      "zrodlo": [
+        25,
+        26
+      ],
+      "uwaga": "τῆς σήμερον oddane jako „dzisiejszego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „dnia” jest kursywą i dopowiada rzeczownik przy τῆς σήμερον, gdzie stoi sam przysłówek „dziś”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "μέχρι τῆς σήμερον nie ma rzeczownika „dzień”. „dnia” jest kursywą w 1632, a σήμερον oddano jako „dzisiejszego”.",
+      "tokeny_bg": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "tokeny_zrodla": [
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἔμειναν ἂν jest liczbą mnogą. BG daje liczbę pojedynczą „zostałaby była” przy „Sodomie”.",
+      "tokeny_bg": [
+        18,
+        27,
+        28
+      ],
+      "tokeny_zrodla": [
+        14,
+        22,
+        23
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A ty Kafarnaum, kteréž jsi až k nebi vyvýšeno, až do pekla sstrčeno budeš. Nebo kdyby v Sodomě činěni byli divové ti, kteříž jsou činěni v tobě, byliť by zůstali až do dnešního dne.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

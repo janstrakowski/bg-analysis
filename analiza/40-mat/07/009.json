@@ -1,0 +1,481 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.9",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 9
+  },
+  "tekst_bg": "I któryż z was jest człowiek, którego prosiłliby syn jego o chleb, izali mu da kamień?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "któryż"
+    },
+    {
+      "i": 2,
+      "t": "z"
+    },
+    {
+      "i": 3,
+      "t": "was"
+    },
+    {
+      "i": 4,
+      "t": "jest"
+    },
+    {
+      "i": 5,
+      "t": "człowiek"
+    },
+    {
+      "i": 6,
+      "t": "którego"
+    },
+    {
+      "i": 7,
+      "t": "prosiłliby"
+    },
+    {
+      "i": 8,
+      "t": "syn"
+    },
+    {
+      "i": 9,
+      "t": "jego"
+    },
+    {
+      "i": 10,
+      "t": "o"
+    },
+    {
+      "i": 11,
+      "t": "chleb"
+    },
+    {
+      "i": 12,
+      "t": "izali"
+    },
+    {
+      "i": 13,
+      "t": "mu"
+    },
+    {
+      "i": 14,
+      "t": "da"
+    },
+    {
+      "i": 15,
+      "t": "kamień"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.9",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.9",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "Or",
+        "id": "Mat.7.9#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "or"
+      },
+      {
+        "t": "τίς",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-NSM",
+        "glosa": "which",
+        "id": "Mat.7.9#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "which?"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is",
+        "id": "Mat.7.9#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἐξ",
+        "lemma": "G1537",
+        "forma": "ἐκ",
+        "morph": "PREP",
+        "glosa": "of",
+        "id": "Mat.7.9#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "out from"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "you",
+        "id": "Mat.7.9#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἄνθρωπος",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-NSM",
+        "glosa": "a man",
+        "id": "Mat.7.9#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "a human"
+      },
+      {
+        "t": "ὃν",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-ASM",
+        "glosa": "whom",
+        "id": "Mat.7.9#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "which"
+      },
+      {
+        "t": "ἐὰν",
+        "lemma": "G1437",
+        "forma": "ἐάν",
+        "morph": "COND",
+        "glosa": "if",
+        "id": "Mat.7.9#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "if"
+      },
+      {
+        "t": "αἰτήσῃ",
+        "lemma": "G0154",
+        "forma": "αἰτήσῃ",
+        "morph": "V-AMS-2S",
+        "glosa": "you shall ask",
+        "id": "Mat.7.9#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to ask"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.7.9#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "υἱὸς",
+        "lemma": "G5207",
+        "forma": "υἱός",
+        "morph": "N-NSM",
+        "glosa": "son",
+        "id": "Mat.7.9#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "son"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him",
+        "id": "Mat.7.9#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἄρτον",
+        "lemma": "G0740",
+        "forma": "ἄρτος",
+        "morph": "N-ASM",
+        "glosa": "bread,",
+        "id": "Mat.7.9#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "bread"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "surely not",
+        "id": "Mat.7.9#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "not"
+      },
+      {
+        "t": "λίθον",
+        "lemma": "G3037",
+        "forma": "λίθος",
+        "morph": "N-ASM",
+        "glosa": "a stone",
+        "id": "Mat.7.9#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "stone"
+      },
+      {
+        "t": "ἐπιδώσει",
+        "lemma": "G1929",
+        "forma": "ἐπιδίδωμι",
+        "morph": "V-FAI-3S",
+        "glosa": "will he give",
+        "id": "Mat.7.9#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to give/deliver"
+      },
+      {
+        "t": "αὐτῷ;",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to him?",
+        "id": "Mat.7.9#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ἢ, glosa „or”, na początku pytania oddane jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "τίς oddane jako „któryż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐστιν oddane jako „jest”; BG stawia je po „z was”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἐξ oddane jako „z”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ὑμῶν oddane jako „was”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἄνθρωπος oddane jako „człowiek”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὃν oddane jako „którego”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "ἐὰν αἰτήσῃ przy podmiocie ὁ υἱὸς oddane jednym „prosiłliby”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "ὁ υἱὸς oddane jako „syn”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        10,
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἄρτον, sam biernik przy αἰτέω, oddane jako „o chleb”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "μὴ w pytaniu retorycznym oddane jako „izali”, bez osobnego „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "λίθον oddane jako „kamień”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἐπιδώσει oddane jako „da”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Pytanie o chleb i kamień jest pokryte. ἐάν siedzi w „prosiłliby”, a biernik ἄρτον w „o chleb”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὃν ἐὰν αἰτήσῃ ὁ υἱὸς αὐτοῦ ἄρτον BG oddaje jako „którego prosiłliby syn jego o chleb”. μὴ w pytaniu jest „izali”.",
+      "tokeny_bg": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "tokeny_zrodla": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo který z vás jest člověk, kteréhož kdyby prosil syn jeho za chléb, zdali kamene podá jemu?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

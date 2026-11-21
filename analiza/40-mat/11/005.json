@@ -1,0 +1,471 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.5",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 5
+  },
+  "tekst_bg": "Ślepi widzą, a chromi chodzą, trędowaci biorą oczyszczenie, a głusi słyszą, umarli zmartwychwstają, i ubogim Ewangielija opowiadana bywa;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ślepi"
+    },
+    {
+      "i": 1,
+      "t": "widzą"
+    },
+    {
+      "i": 2,
+      "t": "a"
+    },
+    {
+      "i": 3,
+      "t": "chromi"
+    },
+    {
+      "i": 4,
+      "t": "chodzą"
+    },
+    {
+      "i": 5,
+      "t": "trędowaci"
+    },
+    {
+      "i": 6,
+      "t": "biorą"
+    },
+    {
+      "i": 7,
+      "t": "oczyszczenie"
+    },
+    {
+      "i": 8,
+      "t": "a"
+    },
+    {
+      "i": 9,
+      "t": "głusi"
+    },
+    {
+      "i": 10,
+      "t": "słyszą"
+    },
+    {
+      "i": 11,
+      "t": "umarli"
+    },
+    {
+      "i": 12,
+      "t": "zmartwychwstają"
+    },
+    {
+      "i": 13,
+      "t": "i"
+    },
+    {
+      "i": 14,
+      "t": "ubogim"
+    },
+    {
+      "i": 15,
+      "t": "Ewangielija"
+    },
+    {
+      "i": 16,
+      "t": "opowiadana"
+    },
+    {
+      "i": 17,
+      "t": "bywa"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.5",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.5",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "τυφλοὶ",
+        "lemma": "G5185",
+        "forma": "τυφλός",
+        "morph": "A-NPM",
+        "glosa": "Blind",
+        "id": "Mat.11.5#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "blind"
+      },
+      {
+        "t": "ἀναβλέπουσιν",
+        "lemma": "G0308",
+        "forma": "ἀναβλέπω",
+        "morph": "V-PAI-3P",
+        "glosa": "receive sight,",
+        "id": "Mat.11.5#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to look up/again"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.5#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "and"
+      },
+      {
+        "t": "χωλοὶ",
+        "lemma": "G5560",
+        "forma": "χωλός",
+        "morph": "A-NPM",
+        "glosa": "lame",
+        "id": "Mat.11.5#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "lame"
+      },
+      {
+        "t": "περιπατοῦσιν",
+        "lemma": "G4043",
+        "forma": "περιπατέω",
+        "morph": "V-PAI-3P",
+        "glosa": "walk,",
+        "id": "Mat.11.5#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to walk"
+      },
+      {
+        "t": "λεπροὶ",
+        "lemma": "G3015",
+        "forma": "λεπρός",
+        "morph": "A-NPM",
+        "glosa": "lepers",
+        "id": "Mat.11.5#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "leprous"
+      },
+      {
+        "t": "καθαρίζονται",
+        "lemma": "G2511",
+        "forma": "καθαρίζω",
+        "morph": "V-PPI-3P",
+        "glosa": "are cleansed,",
+        "id": "Mat.11.5#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to clean"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.5#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "κωφοὶ",
+        "lemma": "G2974",
+        "forma": "κωφός",
+        "morph": "A-NPM",
+        "glosa": "deaf",
+        "id": "Mat.11.5#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "deaf/mute"
+      },
+      {
+        "t": "ἀκούουσιν",
+        "lemma": "G0191",
+        "forma": "ἀκούω",
+        "morph": "V-PAI-3P",
+        "glosa": "hear,",
+        "id": "Mat.11.5#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to hear"
+      },
+      {
+        "t": "νεκροὶ",
+        "lemma": "G3498",
+        "forma": "νεκρός",
+        "morph": "A-NPM",
+        "glosa": "dead",
+        "id": "Mat.11.5#12",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "dead"
+      },
+      {
+        "t": "ἐγείρονται",
+        "lemma": "G1453",
+        "forma": "ἐγείρω",
+        "morph": "V-PPI-3P",
+        "glosa": "are raised,",
+        "id": "Mat.11.5#13",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to arise"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.5#14",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "πτωχοὶ",
+        "lemma": "G4434",
+        "forma": "πτωχός",
+        "morph": "N-NPM",
+        "glosa": "poor",
+        "id": "Mat.11.5#15",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "poor"
+      },
+      {
+        "t": "εὐαγγελίζονται",
+        "lemma": "G2097",
+        "forma": "εὐαγγελίζομαι",
+        "morph": "V-PPI-3P",
+        "glosa": "are evangelised;",
+        "id": "Mat.11.5#16",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to speak good news"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "τυφλοὶ oddane jako „Ślepi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἀναβλέπουσιν, „odzyskują wzrok”, oddane jako „widzą”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "χωλοὶ oddane jako „chromi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "περιπατοῦσιν oddane jako „chodzą”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "λεπροὶ oddane jako „trędowaci”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "καθαρίζονται, strona bierna „bywają oczyszczeni”, oddane jako „biorą oczyszczenie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "κωφοὶ oddane jako „głusi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἀκούουσιν oddane jako „słyszą”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "νεκροὶ oddane jako „umarli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἐγείρονται oddane jako „zmartwychwstają”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "πτωχοὶ, mianownik, oddane celownikiem „ubogim”, bo orzeczenie rozbito na stronę czynną od „Ewangielii”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        15,
+        16,
+        17
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "εὐαγγελίζονται oddane jako „Ewangielija opowiadana bywa”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Nic nie dodano i nic nie opuszczono. Strona bierna καθαρίζονται i εὐαγγελίζονται dostała inne orzeczenie, a lista cudów zostaje ta sama.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "καθαρίζονται to strona bierna „zostają oczyszczeni”. BG stawia „biorą oczyszczenie”.",
+      "tokeny_bg": [
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        5,
+        6
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πτωχοὶ εὐαγγελίζονται ma podmiot „ubodzy”. BG przenosi orzeczenie na „Ewangielija opowiadana bywa”, a „ubogim” zostaje odbiorcą.",
+      "tokeny_bg": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "tokeny_zrodla": [
+        13,
+        14
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Slepí vidí, a kulhaví chodí, malomocní se čistí, a hluší slyší, mrtví z mrtvých vstávají, chudým pak evangelium se zvěstuje.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}
