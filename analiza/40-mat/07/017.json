@@ -1,0 +1,413 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.17",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 17
+  },
+  "tekst_bg": "Takci wszelkie drzewo dobre owoce dobre przynosi; ale złe drzewo owoce złe przynosi.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Takci"
+    },
+    {
+      "i": 1,
+      "t": "wszelkie"
+    },
+    {
+      "i": 2,
+      "t": "drzewo"
+    },
+    {
+      "i": 3,
+      "t": "dobre"
+    },
+    {
+      "i": 4,
+      "t": "owoce"
+    },
+    {
+      "i": 5,
+      "t": "dobre"
+    },
+    {
+      "i": 6,
+      "t": "przynosi"
+    },
+    {
+      "i": 7,
+      "t": "ale"
+    },
+    {
+      "i": 8,
+      "t": "złe"
+    },
+    {
+      "i": 9,
+      "t": "drzewo"
+    },
+    {
+      "i": 10,
+      "t": "owoce"
+    },
+    {
+      "i": 11,
+      "t": "złe"
+    },
+    {
+      "i": 12,
+      "t": "przynosi"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.17",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.17",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "οὕτως",
+        "lemma": "G3779",
+        "forma": "οὕτω, οὕτως",
+        "morph": "ADV",
+        "glosa": "thus",
+        "id": "Mat.7.17#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "thus(-ly)"
+      },
+      {
+        "t": "πᾶν",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NSN",
+        "glosa": "every",
+        "id": "Mat.7.17#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "all"
+      },
+      {
+        "t": "δένδρον",
+        "lemma": "G1186",
+        "forma": "δένδρον",
+        "morph": "N-NSN",
+        "glosa": "tree",
+        "id": "Mat.7.17#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "tree"
+      },
+      {
+        "t": "ἀγαθὸν",
+        "lemma": "G0018",
+        "forma": "ἀγαθός",
+        "morph": "A-NSN",
+        "glosa": "good",
+        "id": "Mat.7.17#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "good"
+      },
+      {
+        "t": "καρποὺς",
+        "lemma": "G2590",
+        "forma": "καρπός",
+        "morph": "N-APM",
+        "glosa": "fruits",
+        "id": "Mat.7.17#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "fruit"
+      },
+      {
+        "t": "καλοὺς",
+        "lemma": "G2570G",
+        "forma": "καλός",
+        "morph": "A-APM",
+        "glosa": "good",
+        "id": "Mat.7.17#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "good"
+      },
+      {
+        "t": "ποιεῖ",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAI-3S",
+        "glosa": "produces,",
+        "id": "Mat.7.17#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "<the>",
+        "id": "Mat.7.17#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "but",
+        "id": "Mat.7.17#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "then"
+      },
+      {
+        "t": "σαπρὸν",
+        "lemma": "G4550",
+        "forma": "σαπρός",
+        "morph": "A-NSN",
+        "glosa": "the bad",
+        "id": "Mat.7.17#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "rotten"
+      },
+      {
+        "t": "δένδρον",
+        "lemma": "G1186",
+        "forma": "δένδρον",
+        "morph": "N-NSN",
+        "glosa": "tree",
+        "id": "Mat.7.17#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "tree"
+      },
+      {
+        "t": "καρποὺς",
+        "lemma": "G2590",
+        "forma": "καρπός",
+        "morph": "N-APM",
+        "glosa": "fruits",
+        "id": "Mat.7.17#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "fruit"
+      },
+      {
+        "t": "πονηροὺς",
+        "lemma": "G4190",
+        "forma": "πονηρός",
+        "morph": "A-APM",
+        "glosa": "bad",
+        "id": "Mat.7.17#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "evil/bad"
+      },
+      {
+        "t": "ποιεῖ",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAI-3S",
+        "glosa": "produces.",
+        "id": "Mat.7.17#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to do/make: do"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "οὕτως oddane jako „Takci”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "πᾶν oddane jako „wszelkie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "δένδρον oddane jako „drzewo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀγαθὸν oddane jako „dobre”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "καρποὺς oddane jako „owoce”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "καλοὺς, glosa „good”, oddane jako „dobre”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ποιεῖ oddane jako „przynosi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "δὲ stoi po rodzajniku, a BG daje „ale” na początku członu."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "σαπρὸν, glosa „the bad”, oddane jako „złe”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7,
+        10
+      ],
+      "uwaga": "τὸ δένδρον oddane jako „drzewo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "καρποὺς oddane jako „owoce”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "πονηροὺς oddane jako „złe”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "Drugie ποιεῖ oddane jako „przynosi”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Oba drzewa i oba owoce są słowne. Rodzajnik τὸ wcielony w drugie „drzewo”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὕτως πᾶν δένδρον ἀγαθὸν καρποὺς καλοὺς ποιεῖ BG oddaje jako „Takci wszelkie drzewo dobre owoce dobre przynosi”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Takť každý strom dobrý ovoce dobré nese, zlý pak strom zlé ovoce nese.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

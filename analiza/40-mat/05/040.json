@@ -1,0 +1,437 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.40",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 40
+  },
+  "tekst_bg": "I temu, który się z tobą chce prawować, a suknię twoję wziąć, puść mu i płaszcz;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "temu"
+    },
+    {
+      "i": 2,
+      "t": "który"
+    },
+    {
+      "i": 3,
+      "t": "się"
+    },
+    {
+      "i": 4,
+      "t": "z"
+    },
+    {
+      "i": 5,
+      "t": "tobą"
+    },
+    {
+      "i": 6,
+      "t": "chce"
+    },
+    {
+      "i": 7,
+      "t": "prawować"
+    },
+    {
+      "i": 8,
+      "t": "a"
+    },
+    {
+      "i": 9,
+      "t": "suknię"
+    },
+    {
+      "i": 10,
+      "t": "twoję"
+    },
+    {
+      "i": 11,
+      "t": "wziąć"
+    },
+    {
+      "i": 12,
+      "t": "puść"
+    },
+    {
+      "i": 13,
+      "t": "mu"
+    },
+    {
+      "i": 14,
+      "t": "i"
+    },
+    {
+      "i": 15,
+      "t": "płaszcz"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.40",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.40",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.40#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "to the [one]",
+        "id": "Mat.5.40#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θέλοντί",
+        "lemma": "G2309",
+        "forma": "θέλω",
+        "morph": "V-PAP-DSM",
+        "glosa": "willing",
+        "id": "Mat.5.40#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to will/desire"
+      },
+      {
+        "t": "σοι",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DS",
+        "glosa": "you",
+        "id": "Mat.5.40#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "you"
+      },
+      {
+        "t": "κριθῆναι",
+        "lemma": "G2919",
+        "forma": "κρίνω",
+        "morph": "V-APN",
+        "glosa": "to sue",
+        "id": "Mat.5.40#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to judge"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.40#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "and"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.5.40#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "χιτῶνά",
+        "lemma": "G5509",
+        "forma": "χιτών",
+        "morph": "N-ASM",
+        "glosa": "tunic",
+        "id": "Mat.5.40#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "tunic"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.5.40#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "you"
+      },
+      {
+        "t": "λαβεῖν",
+        "lemma": "G2983",
+        "forma": "λαμβάνω",
+        "morph": "V-2AAN",
+        "glosa": "to take,",
+        "id": "Mat.5.40#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to take"
+      },
+      {
+        "t": "ἄφες",
+        "lemma": "G0863I",
+        "forma": "ἀφίημι",
+        "morph": "V-2AAM-2S",
+        "glosa": "do yield",
+        "id": "Mat.5.40#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to release: permit"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to him",
+        "id": "Mat.5.40#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "also",
+        "id": "Mat.5.40#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.5.40#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἱμάτιον",
+        "lemma": "G2440",
+        "forma": "ἱμάτιον",
+        "morph": "N-ASN",
+        "glosa": "cloak;",
+        "id": "Mat.5.40#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "clothing"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "Rodzajnik τῷ, użyty rzeczownikowo, oddany jako „temu”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        6
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "Imiesłów θέλοντί rozbity na zdanie „który … chce”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        3,
+        7
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "κριθῆναι, bezokolicznik strony biernej, glosa „to sue”, oddane jako „się … prawować”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "Celownik σοι oddany jako „z tobą”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τὸν χιτῶνά oddane jako „suknię”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "σου oddane przymiotnikiem „twoję”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "λαβεῖν oddane jako „wziąć”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἄφες, glosa „do yield”, oddane jako „puść”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τὸ ἱμάτιον oddane jako „płaszcz”; rodzajnik nie ma osobnego słowa."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Tokeny są pokryte, bez dopowiedzenia i opuszczenia. Imiesłów θέλοντι rozbity jest na „który chce”, a κριθῆναι na „się prawować”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τῷ θέλοντί σοι κριθῆναι oddane jest jako „temu, który się z tobą chce prawować”: imiesłów staje się zdaniem, a celownik dostaje przyimek „z”.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A tomu, kdož se s tebou chce souditi a sukni tvou vzíti, nech mu i pláště.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

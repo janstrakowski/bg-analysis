@@ -1,0 +1,380 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.26",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 26
+  },
+  "tekst_bg": "Zaprawdęć powiadam: Nie wynijdziesz stamtąd, pókibyś nie oddał do ostatniego pieniążka.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Zaprawdęć"
+    },
+    {
+      "i": 1,
+      "t": "powiadam"
+    },
+    {
+      "i": 2,
+      "t": "Nie"
+    },
+    {
+      "i": 3,
+      "t": "wynijdziesz"
+    },
+    {
+      "i": 4,
+      "t": "stamtąd"
+    },
+    {
+      "i": 5,
+      "t": "pókibyś"
+    },
+    {
+      "i": 6,
+      "t": "nie"
+    },
+    {
+      "i": 7,
+      "t": "oddał"
+    },
+    {
+      "i": 8,
+      "t": "do"
+    },
+    {
+      "i": 9,
+      "t": "ostatniego"
+    },
+    {
+      "i": 10,
+      "t": "pieniążka"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.26",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.26",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἀμὴν",
+        "lemma": "G0281",
+        "forma": "ἀμήν",
+        "morph": "INJ-HEB",
+        "glosa": "Amen",
+        "id": "Mat.5.26#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "amen"
+      },
+      {
+        "t": "λέγω",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-1S",
+        "glosa": "I say",
+        "id": "Mat.5.26#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "σοι",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DS",
+        "glosa": "to you;",
+        "id": "Mat.5.26#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "you"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "certainly",
+        "id": "Mat.5.26#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "no"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.5.26#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "not"
+      },
+      {
+        "t": "ἐξέλθῃς",
+        "lemma": "G1831",
+        "forma": "ἐξέρχομαι",
+        "morph": "V-2AAS-2S",
+        "glosa": "you may come out",
+        "id": "Mat.5.26#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to go out"
+      },
+      {
+        "t": "ἐκεῖθεν",
+        "lemma": "G1564",
+        "forma": "ἐκεῖθεν",
+        "morph": "ADV",
+        "glosa": "from there",
+        "id": "Mat.5.26#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "from there"
+      },
+      {
+        "t": "ἕως",
+        "lemma": "G2193",
+        "forma": "ἕως",
+        "morph": "PREP",
+        "glosa": "until",
+        "id": "Mat.5.26#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "until"
+      },
+      {
+        "t": "ἂν",
+        "lemma": "G0302",
+        "forma": "ἄν",
+        "morph": "PRT",
+        "glosa": "when",
+        "id": "Mat.5.26#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "if"
+      },
+      {
+        "t": "ἀποδῷς",
+        "lemma": "G0591",
+        "forma": "ἀποδίδωμι",
+        "morph": "V-2AAS-2S",
+        "glosa": "you may pay",
+        "id": "Mat.5.26#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to pay"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.5.26#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἔσχατον",
+        "lemma": "G2078",
+        "forma": "ἔσχατος",
+        "morph": "A-ASM",
+        "glosa": "last",
+        "id": "Mat.5.26#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "last/least"
+      },
+      {
+        "t": "κοδράντην",
+        "lemma": "G2835",
+        "forma": "κοδράντης",
+        "morph": "N-ASM",
+        "glosa": "kodranten!",
+        "id": "Mat.5.26#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "penny"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "zlanie",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "uwaga": "„Zaprawdęć” łączy ἀμὴν z enklityką -ć, która oddaje σοι."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "λέγω oddane jako „powiadam”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "Emfatyczne οὐ μὴ oddane jednym „Nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἐξέλθῃς oddane jako „wynijdziesz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐκεῖθεν oddane jako „stamtąd”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "ἕως ἂν oddane jako „pókibyś”; -by niesie partykułę ἂν, a -ś osobę ἀποδῷς."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [],
+      "uwaga": "Drugie „nie” nie ma osobnego przeczenia przy ἀποδῷς.",
+      "uzasadnienie": "Po „póki” polszczyzna stawia przeczenie przy czasowniku, a zdanie znaczy „dopóki nie oddasz”, czyli aż oddasz."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἀποδῷς oddane jako „oddał”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [],
+      "uwaga": "„do” nie ma osobnego przyimka przy bierniku τὸν ἔσχατον κοδράντην.",
+      "uzasadnienie": "Przyimek „do” stawia granicę zapłaty, którą grecki biernik nazywa wprost jako przedmiot ἀποδῷς."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἔσχατον oddane jako „ostatniego”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10,
+        12
+      ],
+      "uwaga": "τὸν … κοδράντην oddane jako „pieniążka”; rodzajnik nie ma osobnego słowa."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. Drugie „nie” jest składniowym przeczeniem przy „póki”, a „do” stawia granicę ostatniego pieniążka.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀμὴν λέγω σοι oddane jest jako „Zaprawdęć powiadam”: enklityka -ć w „Zaprawdęć” niesie σοι.",
+      "tokeny_bg": [
+        0,
+        1
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὐ μὴ jest jednym polskim „Nie”. Drugie „nie” przed „oddał” nie odpowiada osobnemu przeczeniu przy ἀποδῷς.",
+      "tokeny_bg": [
+        2,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        3,
+        4,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Amen pravím tobě: Nevyjdeš odtud nikoli, dokudž i toho posledního haléře nenavrátíš.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

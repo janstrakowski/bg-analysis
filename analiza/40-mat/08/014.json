@@ -1,0 +1,458 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.14",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 14
+  },
+  "tekst_bg": "A gdy Jezus przyszedł do domu Piotrowego, ujrzał świekrę jego, leżącą na łożu i mającą gorączkę.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "Jezus"
+    },
+    {
+      "i": 3,
+      "t": "przyszedł"
+    },
+    {
+      "i": 4,
+      "t": "do"
+    },
+    {
+      "i": 5,
+      "t": "domu"
+    },
+    {
+      "i": 6,
+      "t": "Piotrowego"
+    },
+    {
+      "i": 7,
+      "t": "ujrzał"
+    },
+    {
+      "i": 8,
+      "t": "świekrę"
+    },
+    {
+      "i": 9,
+      "t": "jego"
+    },
+    {
+      "i": 10,
+      "t": "leżącą"
+    },
+    {
+      "i": 11,
+      "t": "na"
+    },
+    {
+      "i": 12,
+      "t": "łożu"
+    },
+    {
+      "i": 13,
+      "t": "i"
+    },
+    {
+      "i": 14,
+      "t": "mającą"
+    },
+    {
+      "i": 15,
+      "t": "gorączkę"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.14",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.14",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.14#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐλθὼν",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having come",
+        "id": "Mat.8.14#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.8.14#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.8.14#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.8.14#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.8.14#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἰκίαν",
+        "lemma": "G3614G",
+        "forma": "οἰκία",
+        "morph": "N-ASF",
+        "glosa": "house",
+        "id": "Mat.8.14#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "home"
+      },
+      {
+        "t": "Πέτρου",
+        "lemma": "G4074G",
+        "forma": "Πέτρος",
+        "morph": "N-GSM-P",
+        "glosa": "of Peter",
+        "id": "Mat.8.14#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "Peter"
+      },
+      {
+        "t": "εἶδεν",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAI-3S",
+        "glosa": "He saw",
+        "id": "Mat.8.14#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.8.14#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πενθερὰν",
+        "lemma": "G3994",
+        "forma": "πενθερά",
+        "morph": "N-ASF",
+        "glosa": "mother-in-law",
+        "id": "Mat.8.14#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "mother-in-law"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him",
+        "id": "Mat.8.14#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "βεβλημένην",
+        "lemma": "G0906H",
+        "forma": "βάλλω",
+        "morph": "V-RPP-ASF",
+        "glosa": "lain down",
+        "id": "Mat.8.14#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to throw: put"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.14#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "and"
+      },
+      {
+        "t": "πυρέσσουσαν",
+        "lemma": "G4445",
+        "forma": "πυρέσσω",
+        "morph": "V-PAP-ASF",
+        "glosa": "fevering",
+        "id": "Mat.8.14#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "be feverish"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Καὶ oddane jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        3
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐλθὼν, imiesłów, rozbity na zdanie „gdy przyszedł”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τὴν οἰκίαν oddane jako „domu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "Πέτρου, dopełniacz, oddane przymiotnikiem „Piotrowego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "εἶδεν oddane jako „ujrzał”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τὴν πενθερὰν oddane jako „świekrę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "βεβλημένην, imiesłów perfectum bierny „lain down”, oddane jako „leżącą”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        11,
+        12
+      ],
+      "zrodlo": [],
+      "uwaga": "„na łożu” stoi przy „leżącą”, a βεβλημένην nie ma rzeczownika „łoże”.",
+      "uzasadnienie": "Imiesłów znaczy „położoną / leżącą” i nie nazywa łoża. „na łożu” dopowiada miejsce."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        14,
+        15
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "πυρέσσουσαν, imiesłów „fevering”, oddane jako „mającą gorączkę”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „na łożu” dopowiada miejsce przy βεβλημένην, a sens widzenia świekry leżącej w gorączce zostaje ten sam.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "βεβλημένην καὶ πυρέσσουσαν nie ma rzeczownika „łoże” ani przyimka „na”. BG dodaje „na łożu” i rozbija „fevering” na „mającą gorączkę”.",
+      "tokeny_bg": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "tokeny_zrodla": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐλθὼν ὁ Ἰησοῦς εἰς τὴν οἰκίαν Πέτρου oddane jako „gdy Jezus przyszedł do domu Piotrowego”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A přišed Ježíš do domu Petrova, uzřel svegruši jeho, ana leží a má zimnici.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

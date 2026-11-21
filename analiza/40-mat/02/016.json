@@ -1,0 +1,990 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.2.16",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 2,
+    "werset": 16
+  },
+  "tekst_bg": "Tedy Herod ujrzawszy, że był oszukany od mędrców, rozgniewał się bardzo, a posławszy pobił wszystkie dziatki, które były w Betlehemie i po wszystkich granicach jego, od dwóch lat i niżej, według czasu, o którym się był pilnie wywiedział od mędrców.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tedy"
+    },
+    {
+      "i": 1,
+      "t": "Herod"
+    },
+    {
+      "i": 2,
+      "t": "ujrzawszy"
+    },
+    {
+      "i": 3,
+      "t": "że"
+    },
+    {
+      "i": 4,
+      "t": "był"
+    },
+    {
+      "i": 5,
+      "t": "oszukany"
+    },
+    {
+      "i": 6,
+      "t": "od"
+    },
+    {
+      "i": 7,
+      "t": "mędrców"
+    },
+    {
+      "i": 8,
+      "t": "rozgniewał"
+    },
+    {
+      "i": 9,
+      "t": "się"
+    },
+    {
+      "i": 10,
+      "t": "bardzo"
+    },
+    {
+      "i": 11,
+      "t": "a"
+    },
+    {
+      "i": 12,
+      "t": "posławszy"
+    },
+    {
+      "i": 13,
+      "t": "pobił"
+    },
+    {
+      "i": 14,
+      "t": "wszystkie"
+    },
+    {
+      "i": 15,
+      "t": "dziatki"
+    },
+    {
+      "i": 16,
+      "t": "które"
+    },
+    {
+      "i": 17,
+      "t": "były"
+    },
+    {
+      "i": 18,
+      "t": "w"
+    },
+    {
+      "i": 19,
+      "t": "Betlehemie"
+    },
+    {
+      "i": 20,
+      "t": "i"
+    },
+    {
+      "i": 21,
+      "t": "po"
+    },
+    {
+      "i": 22,
+      "t": "wszystkich"
+    },
+    {
+      "i": 23,
+      "t": "granicach"
+    },
+    {
+      "i": 24,
+      "t": "jego"
+    },
+    {
+      "i": 25,
+      "t": "od"
+    },
+    {
+      "i": 26,
+      "t": "dwóch"
+    },
+    {
+      "i": 27,
+      "t": "lat"
+    },
+    {
+      "i": 28,
+      "t": "i"
+    },
+    {
+      "i": 29,
+      "t": "niżej"
+    },
+    {
+      "i": 30,
+      "t": "według"
+    },
+    {
+      "i": 31,
+      "t": "czasu"
+    },
+    {
+      "i": 32,
+      "t": "o"
+    },
+    {
+      "i": 33,
+      "t": "którym"
+    },
+    {
+      "i": 34,
+      "t": "się"
+    },
+    {
+      "i": 35,
+      "t": "był"
+    },
+    {
+      "i": 36,
+      "t": "pilnie"
+    },
+    {
+      "i": 37,
+      "t": "wywiedział"
+    },
+    {
+      "i": 38,
+      "t": "od"
+    },
+    {
+      "i": 39,
+      "t": "mędrców"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.2.16",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.2.16",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "Then",
+        "id": "Mat.2.16#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "then"
+      },
+      {
+        "t": "Ἡρῴδης",
+        "lemma": "G2264G",
+        "forma": "Ἡρώδης",
+        "morph": "N-NSM-P",
+        "glosa": "Herod",
+        "id": "Mat.2.16#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "Herod"
+      },
+      {
+        "t": "ἰδὼν",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having seen",
+        "id": "Mat.2.16#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.2.16#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "ἐνεπαίχθη",
+        "lemma": "G1702",
+        "forma": "ἐμπαίζω",
+        "morph": "V-API-3S",
+        "glosa": "he had been outwitted",
+        "id": "Mat.2.16#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to mock"
+      },
+      {
+        "t": "ὑπὸ",
+        "lemma": "G5259G",
+        "forma": "ὑπό",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.2.16#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "by/under: by"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "the",
+        "id": "Mat.2.16#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μάγων",
+        "lemma": "G3097",
+        "forma": "μάγος",
+        "morph": "N-GPM",
+        "glosa": "Magi",
+        "id": "Mat.2.16#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "sage"
+      },
+      {
+        "t": "ἐθυμώθη",
+        "lemma": "G2373",
+        "forma": "θυμόω",
+        "morph": "V-API-3S",
+        "glosa": "was enraged",
+        "id": "Mat.2.16#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to anger"
+      },
+      {
+        "t": "λίαν",
+        "lemma": "G3029",
+        "forma": "λίαν",
+        "morph": "ADV",
+        "glosa": "intensely,",
+        "id": "Mat.2.16#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "greatly"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.2.16#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀποστείλας",
+        "lemma": "G0649",
+        "forma": "ἀποστέλλω",
+        "morph": "V-AAP-NSM",
+        "glosa": "having sent forth",
+        "id": "Mat.2.16#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to send"
+      },
+      {
+        "t": "ἀνεῖλεν",
+        "lemma": "G0337",
+        "forma": "ἀναιρέω",
+        "morph": "V-2AAI-3S",
+        "glosa": "he executed",
+        "id": "Mat.2.16#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to kill"
+      },
+      {
+        "t": "πάντας",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-APM",
+        "glosa": "all",
+        "id": "Mat.2.16#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "all"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.2.16#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "παῖδας",
+        "lemma": "G3816",
+        "forma": "παῖς",
+        "morph": "N-APM",
+        "glosa": "boys",
+        "id": "Mat.2.16#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "child"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "that [were]",
+        "id": "Mat.2.16#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.2.16#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "Βηθλέεμ",
+        "lemma": "G0965",
+        "forma": "Βηθλεέμ",
+        "morph": "N-DSF-L",
+        "glosa": "Bethlehem",
+        "id": "Mat.2.16#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "Bethlehem"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.2.16#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.2.16#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "πᾶσιν",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-DPN",
+        "glosa": "all",
+        "id": "Mat.2.16#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "all"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPN",
+        "glosa": "the",
+        "id": "Mat.2.16#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὁρίοις",
+        "lemma": "G3725",
+        "forma": "ὅριον",
+        "morph": "N-DPN",
+        "glosa": "vicinity",
+        "id": "Mat.2.16#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "region"
+      },
+      {
+        "t": "αὐτῆς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSF",
+        "glosa": "of it",
+        "id": "Mat.2.16#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.2.16#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "away from"
+      },
+      {
+        "t": "διετοῦς",
+        "lemma": "G1332",
+        "forma": "διετής",
+        "morph": "A-GSM",
+        "glosa": "two years old",
+        "id": "Mat.2.16#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "two years old"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.2.16#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "and"
+      },
+      {
+        "t": "κατωτέρω",
+        "lemma": "G6053",
+        "forma": "κατωτέρω",
+        "morph": "ADV",
+        "glosa": "under",
+        "id": "Mat.2.16#29",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "lower"
+      },
+      {
+        "t": "κατὰ",
+        "lemma": "G2596",
+        "forma": "κατά",
+        "morph": "PREP",
+        "glosa": "according to",
+        "id": "Mat.2.16#30",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "according to"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.2.16#31",
+        "jezyk": "grc",
+        "i": 30,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "χρόνον",
+        "lemma": "G5550",
+        "forma": "χρόνος",
+        "morph": "N-ASM",
+        "glosa": "time",
+        "id": "Mat.2.16#32",
+        "jezyk": "grc",
+        "i": 31,
+        "leksykon": "time"
+      },
+      {
+        "t": "ὃν",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-ASM",
+        "glosa": "which",
+        "id": "Mat.2.16#33",
+        "jezyk": "grc",
+        "i": 32,
+        "leksykon": "which"
+      },
+      {
+        "t": "ἠκρίβωσεν",
+        "lemma": "G0198",
+        "forma": "ἀκριβόω",
+        "morph": "V-AAI-3S",
+        "glosa": "he had ascertained",
+        "id": "Mat.2.16#34",
+        "jezyk": "grc",
+        "i": 33,
+        "leksykon": "be exactly"
+      },
+      {
+        "t": "παρὰ",
+        "lemma": "G3844",
+        "forma": "παρά",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.2.16#35",
+        "jezyk": "grc",
+        "i": 34,
+        "leksykon": "from/with/beside"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "the",
+        "id": "Mat.2.16#36",
+        "jezyk": "grc",
+        "i": 35,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μάγων",
+        "lemma": "G3097",
+        "forma": "μάγος",
+        "morph": "N-GPM",
+        "glosa": "Magi.",
+        "id": "Mat.2.16#37",
+        "jezyk": "grc",
+        "i": 36,
+        "leksykon": "sage"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Τότε oddane jako „Tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "Ἡρῴδης oddane jako „Herod”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἰδὼν oddane jako „ujrzawszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὅτι oddane jako „że”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐνεπαίχθη, aoryst bierny „outwitted”, oddane jako „był oszukany”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ὑπὸ oddane jako „od”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τῶν μάγων oddane jako „mędrców”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐθυμώθη, aoryst bierny, oddane jako „rozgniewał się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "λίαν oddane jako „bardzo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καί oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἀποστείλας oddane jako „posławszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἀνεῖλεν, glosa „he executed”, oddane jako „pobił”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "πάντας oddane jako „wszystkie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "τοὺς παῖδας, glosa „boys”, oddane jako „dziatki”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "τοὺς, rodzajnik przy ἐν Βηθλέεμ, oddane jako „które”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        17
+      ],
+      "zrodlo": [],
+      "uwaga": "„były” nie ma w grece czasownika εἰμί.",
+      "uzasadnienie": "Rodzajnik τοὺς z przyimkiem ἐν nie zawiera „być”. „były” otwiera polskie zdanie względne."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "Βηθλέεμ oddane jako „Betlehemie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "καί oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "Drugie ἐν oddane jako „po”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "πᾶσιν oddane jako „wszystkich”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        22,
+        23
+      ],
+      "uwaga": "τοῖς ὁρίοις oddane jako „granicach”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "αὐτῆς, rodzaj żeński, oddane jako „jego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "ἀπὸ oddane jako „od”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        26,
+        27
+      ],
+      "zrodlo": [
+        26
+      ],
+      "uwaga": "διετοῦς, „two years old”, rozbite na „dwóch lat”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        28
+      ],
+      "zrodlo": [
+        27
+      ],
+      "uwaga": "καί oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        29
+      ],
+      "zrodlo": [
+        28
+      ],
+      "uwaga": "κατωτέρω oddane jako „niżej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        30
+      ],
+      "zrodlo": [
+        29
+      ],
+      "uwaga": "κατά oddane jako „według”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        31
+      ],
+      "zrodlo": [
+        30,
+        31
+      ],
+      "uwaga": "τὸν χρόνον oddane jako „czasu”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        32,
+        33
+      ],
+      "zrodlo": [
+        32
+      ],
+      "uwaga": "ὃν, zaimek w bierniku, rozbite na „o którym”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "zrodlo": [
+        33
+      ],
+      "uwaga": "ἠκρίβωσεν, „he had ascertained”, rozbite na „się był pilnie wywiedział”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        38
+      ],
+      "zrodlo": [
+        34
+      ],
+      "uwaga": "παρά oddane jako „od”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        39
+      ],
+      "zrodlo": [
+        35,
+        36
+      ],
+      "uwaga": "τῶν μάγων oddane jako „mędrców”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „były” dopowiada czasownik przy rodzajniku τοὺς ἐν Βηθλέεμ. Sens rozkazu i wieku dzieci zostaje ten sam.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τοὺς ἐν Βηθλέεμ nie ma czasownika εἰμί. BG dodaje „które były”.",
+      "tokeny_bg": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "tokeny_zrodla": [
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἠκρίβωσεν ma glosę „he had ascertained”. BG rozbija je na „się był pilnie wywiedział”.",
+      "tokeny_bg": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "tokeny_zrodla": [
+        33
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Tehdy Herodes uzřev, že by oklamán byl od mudrců, rozhněval se náramně, a poslav služebníky své, zmordoval všecky dítky, kteréž byly v Betlémě i ve všech končinách jeho, od dvouletých a níže, podle času, na kterýž se byl pilně vyptal od mudrců.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

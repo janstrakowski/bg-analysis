@@ -1,0 +1,688 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.25",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 25
+  },
+  "tekst_bg": "Dosyć uczniowi, aby był jako mistrz jego, a sługa jako Pan jego; jeźlić gospodarza Beelzebubem nazywali, czem więcej domowniki jego nazywać będą.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Dosyć"
+    },
+    {
+      "i": 1,
+      "t": "uczniowi"
+    },
+    {
+      "i": 2,
+      "t": "aby"
+    },
+    {
+      "i": 3,
+      "t": "był"
+    },
+    {
+      "i": 4,
+      "t": "jako"
+    },
+    {
+      "i": 5,
+      "t": "mistrz"
+    },
+    {
+      "i": 6,
+      "t": "jego"
+    },
+    {
+      "i": 7,
+      "t": "a"
+    },
+    {
+      "i": 8,
+      "t": "sługa"
+    },
+    {
+      "i": 9,
+      "t": "jako"
+    },
+    {
+      "i": 10,
+      "t": "Pan"
+    },
+    {
+      "i": 11,
+      "t": "jego"
+    },
+    {
+      "i": 12,
+      "t": "jeźlić"
+    },
+    {
+      "i": 13,
+      "t": "gospodarza"
+    },
+    {
+      "i": 14,
+      "t": "Beelzebubem"
+    },
+    {
+      "i": 15,
+      "t": "nazywali"
+    },
+    {
+      "i": 16,
+      "t": "czem"
+    },
+    {
+      "i": 17,
+      "t": "więcej"
+    },
+    {
+      "i": 18,
+      "t": "domowniki"
+    },
+    {
+      "i": 19,
+      "t": "jego"
+    },
+    {
+      "i": 20,
+      "t": "nazywać"
+    },
+    {
+      "i": 21,
+      "t": "będą"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.25",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.25",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἀρκετὸν",
+        "lemma": "G0713",
+        "forma": "ἀρκετός",
+        "morph": "A-NSN",
+        "glosa": "[It is] sufficient",
+        "id": "Mat.10.25#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "sufficient"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "for the",
+        "id": "Mat.10.25#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μαθητῇ",
+        "lemma": "G3101",
+        "forma": "μαθητής",
+        "morph": "N-DSM",
+        "glosa": "disciple",
+        "id": "Mat.10.25#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "disciple"
+      },
+      {
+        "t": "ἵνα",
+        "lemma": "G2443",
+        "forma": "ἵνα",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.10.25#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "in order that/to"
+      },
+      {
+        "t": "γένηται",
+        "lemma": "G1096",
+        "forma": "γίνομαι",
+        "morph": "V-2ADS-3S",
+        "glosa": "he may become",
+        "id": "Mat.10.25#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ὡς",
+        "lemma": "G5613",
+        "forma": "ὡς",
+        "morph": "PRT",
+        "glosa": "as",
+        "id": "Mat.10.25#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "as/when"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.10.25#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "διδάσκαλος",
+        "lemma": "G1320",
+        "forma": "διδάσκαλος",
+        "morph": "N-NSM",
+        "glosa": "teacher",
+        "id": "Mat.10.25#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "teacher"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him",
+        "id": "Mat.10.25#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.25#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.10.25#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δοῦλος",
+        "lemma": "G1401",
+        "forma": "δοῦλος",
+        "morph": "N-NSM",
+        "glosa": "servant",
+        "id": "Mat.10.25#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "slave"
+      },
+      {
+        "t": "ὡς",
+        "lemma": "G5613",
+        "forma": "ὡς",
+        "morph": "PRT",
+        "glosa": "as",
+        "id": "Mat.10.25#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "as/when"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.10.25#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κύριος",
+        "lemma": "G2962H",
+        "forma": "κύριος",
+        "morph": "N-NSM",
+        "glosa": "master",
+        "id": "Mat.10.25#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "lord: master"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him.",
+        "id": "Mat.10.25#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "εἰ",
+        "lemma": "G1487G",
+        "forma": "εἰ",
+        "morph": "COND",
+        "glosa": "If",
+        "id": "Mat.10.25#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "if"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.10.25#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἰκοδεσπότην",
+        "lemma": "G3617",
+        "forma": "οἰκοδεσπότης",
+        "morph": "N-ASM",
+        "glosa": "master of the house",
+        "id": "Mat.10.25#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "householder"
+      },
+      {
+        "t": "Βεελζεβοὺλ",
+        "lemma": "G0954",
+        "forma": "Βεελζεβούλ",
+        "morph": "N-ASM-T",
+        "glosa": "Beelzebul",
+        "id": "Mat.10.25#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "Beelzebul"
+      },
+      {
+        "t": "ἐκάλεσαν",
+        "lemma": "G2564",
+        "forma": "ἐκάλεσαν",
+        "morph": "V-AAI-3P",
+        "glosa": "they called",
+        "id": "Mat.10.25#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "to call: call"
+      },
+      {
+        "t": "πόσῳ",
+        "lemma": "G4214",
+        "forma": "πόσος",
+        "morph": "Q-DSN",
+        "glosa": "how much",
+        "id": "Mat.10.25#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "how much/many?"
+      },
+      {
+        "t": "μᾶλλον",
+        "lemma": "G3123G",
+        "forma": "μᾶλλον",
+        "morph": "ADV",
+        "glosa": "more",
+        "id": "Mat.10.25#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "more"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "those",
+        "id": "Mat.10.25#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἰκιακοὺς",
+        "lemma": "G3615",
+        "forma": "οἰκιακός",
+        "morph": "N-APM",
+        "glosa": "house members",
+        "id": "Mat.10.25#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "member of a house"
+      },
+      {
+        "t": "αὐτοῦ;",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him?",
+        "id": "Mat.10.25#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἀρκετὸν oddane jako „Dosyć”. W TR nie ma tu εἰμί i BG go nie dodaje."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1,
+        2
+      ],
+      "rola": "zlanie",
+      "uwaga": "τῷ μαθητῇ oddane jako „uczniowi”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἵνα oddane jako „aby”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "przeklad",
+      "uwaga": "γένηται, glosa „he may become”, oddane jako „był”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὡς oddane jako „jako”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "rola": "zlanie",
+      "uwaga": "ὁ διδάσκαλος oddane jako „mistrz”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "rola": "zlanie",
+      "uwaga": "ὁ δοῦλος oddane jako „sługa”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὡς oddane jako „jako”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "rola": "zlanie",
+      "uwaga": "ὁ κύριος oddane jako „Pan”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        15
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        16
+      ],
+      "rola": "przeklad",
+      "uwaga": "εἰ oddane jako „jeźlić”; w tym samym słowie jest partykuła -ć."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        17,
+        18
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸν οἰκοδεσπότην oddane jako „gospodarza”."
+    },
+    {
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        19
+      ],
+      "rola": "przeklad",
+      "uwaga": "Βεελζεβοὺλ oddane narzędnikiem „Beelzebubem”."
+    },
+    {
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        20
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐκάλεσαν, aoryst, oddane jako „nazywali”."
+    },
+    {
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        21
+      ],
+      "rola": "przeklad",
+      "uwaga": "πόσῳ oddane jako „czem”."
+    },
+    {
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        22
+      ],
+      "rola": "przeklad",
+      "uwaga": "μᾶλλον oddane jako „więcej”."
+    },
+    {
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        23,
+        24
+      ],
+      "rola": "zlanie",
+      "uwaga": "τοὺς οἰκιακοὺς oddane jako „domowniki”."
+    },
+    {
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        25
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτοῦ; oddane jako „jego”."
+    },
+    {
+      "bg": [
+        20,
+        21
+      ],
+      "zrodlo": [],
+      "rola": "dopelnienie",
+      "uwaga": "„nazywać będą” jest kursywą 1632. Pytanie πόσῳ μᾶλλον τοὺς οἰκιακοὺς αὐτοῦ; nie ma czasownika."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „nazywać będą” jest kursywą 1632 i dopowiada czasownik, którego elipsa πόσῳ μᾶλλον τοὺς οἰκιακοὺς αὐτοῦ; nie wypowiada.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀρκετὸν τῷ μαθητῇ ἵνα γένηται ὡς ὁ διδάσκαλος αὐτοῦ BG oddaje jako „Dosyć uczniowi, aby był jako mistrz jego”, bez dodanego „jest” przy ἀρκετὸν.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Po ἐκάλεσαν pytanie πόσῳ μᾶλλον τοὺς οἰκιακοὺς αὐτοῦ; urywa się bez czasownika. BG dopowiada kursywą „nazywać będą”.",
+      "tokeny_bg": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "tokeny_zrodla": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Dostiť jest učedlníku, aby byl jako mistr jeho, a služebník jako pán jeho. Poněvadž jsou hospodáře Belzebubem nazývali, čím pak více domácí jeho?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

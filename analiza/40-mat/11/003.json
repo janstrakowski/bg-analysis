@@ -1,0 +1,311 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.3",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 3
+  },
+  "tekst_bg": "Rzekł mu: Tyżeś jest on, który ma przyjść, czyli inszego czekać mamy?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Rzekł"
+    },
+    {
+      "i": 1,
+      "t": "mu"
+    },
+    {
+      "i": 2,
+      "t": "Tyżeś"
+    },
+    {
+      "i": 3,
+      "t": "jest"
+    },
+    {
+      "i": 4,
+      "t": "on"
+    },
+    {
+      "i": 5,
+      "t": "który"
+    },
+    {
+      "i": 6,
+      "t": "ma"
+    },
+    {
+      "i": 7,
+      "t": "przyjść"
+    },
+    {
+      "i": 8,
+      "t": "czyli"
+    },
+    {
+      "i": 9,
+      "t": "inszego"
+    },
+    {
+      "i": 10,
+      "t": "czekać"
+    },
+    {
+      "i": 11,
+      "t": "mamy"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.3",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.3",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "εἶπεν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAI-3S",
+        "glosa": "said",
+        "id": "Mat.11.3#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to Him;",
+        "id": "Mat.11.3#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "σὺ",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2NS",
+        "glosa": "You yourself",
+        "id": "Mat.11.3#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "you"
+      },
+      {
+        "t": "εἶ",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-2S",
+        "glosa": "are",
+        "id": "Mat.11.3#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.11.3#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐρχόμενος",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-PNP-NSM",
+        "glosa": "coming [One],",
+        "id": "Mat.11.3#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "or",
+        "id": "Mat.11.3#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "or"
+      },
+      {
+        "t": "ἕτερον",
+        "lemma": "G2087",
+        "forma": "ἕτερος",
+        "morph": "A-ASM",
+        "glosa": "another",
+        "id": "Mat.11.3#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "other"
+      },
+      {
+        "t": "προσδοκῶμεν;",
+        "lemma": "G4328",
+        "forma": "προσδοκάω",
+        "morph": "V-PAI-1P",
+        "glosa": "are we to look for?",
+        "id": "Mat.11.3#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to look for"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "εἶπεν oddane jako „Rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "σὺ oddane jako „Tyżeś”; w wyrazie jest partykuła „-że” i końcówka osoby."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "εἶ oddane jako „jest”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "ὁ ἐρχόμενος, imiesłów „przychodzący”, rozbity na zdanie „on, który ma przyjść”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἢ oddane jako „czyli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἕτερον oddane jako „inszego”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        10,
+        11
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "προσδοκῶμεν oddane jako „czekać mamy”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Tokeny są pokryte. Imiesłów ὁ ἐρχόμενος rozbito na „on, który ma przyjść”, a προσδοκῶμεν na „czekać mamy”; pytanie zostaje to samo.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὁ ἐρχόμενος jest imiesłowem czasu teraźniejszego. BG rozbija go na zdanie „on, który ma przyjść”.",
+      "tokeny_bg": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        4,
+        5
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "προσδοκῶμεν to jedna forma osobowa. BG stawia przy niej bezokolicznik „czekać” i osobowe „mamy”.",
+      "tokeny_bg": [
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        8
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A řekl jemu: Ty-li jsi ten, kterýž přijíti má, čili jiného čekati máme?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

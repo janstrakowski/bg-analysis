@@ -1,0 +1,575 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.41",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 41
+  },
+  "tekst_bg": "Kto przyjmuje proroka w imieniu proroka, zapłatę proroka weźmie; a kto przyjmuje sprawiedliwego w imieniu sprawiedliwego, sprawiedliwego zapłatę weźmie.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Kto"
+    },
+    {
+      "i": 1,
+      "t": "przyjmuje"
+    },
+    {
+      "i": 2,
+      "t": "proroka"
+    },
+    {
+      "i": 3,
+      "t": "w"
+    },
+    {
+      "i": 4,
+      "t": "imieniu"
+    },
+    {
+      "i": 5,
+      "t": "proroka"
+    },
+    {
+      "i": 6,
+      "t": "zapłatę"
+    },
+    {
+      "i": 7,
+      "t": "proroka"
+    },
+    {
+      "i": 8,
+      "t": "weźmie"
+    },
+    {
+      "i": 9,
+      "t": "a"
+    },
+    {
+      "i": 10,
+      "t": "kto"
+    },
+    {
+      "i": 11,
+      "t": "przyjmuje"
+    },
+    {
+      "i": 12,
+      "t": "sprawiedliwego"
+    },
+    {
+      "i": 13,
+      "t": "w"
+    },
+    {
+      "i": 14,
+      "t": "imieniu"
+    },
+    {
+      "i": 15,
+      "t": "sprawiedliwego"
+    },
+    {
+      "i": 16,
+      "t": "sprawiedliwego"
+    },
+    {
+      "i": 17,
+      "t": "zapłatę"
+    },
+    {
+      "i": 18,
+      "t": "weźmie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.41",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.41",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "The [one]",
+        "id": "Mat.10.41#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δεχόμενος",
+        "lemma": "G1209",
+        "forma": "δέχομαι",
+        "morph": "V-PNP-NSM",
+        "glosa": "receiving",
+        "id": "Mat.10.41#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to receive"
+      },
+      {
+        "t": "προφήτην",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-ASM",
+        "glosa": "a prophet",
+        "id": "Mat.10.41#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "prophet"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "in [the]",
+        "id": "Mat.10.41#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "toward"
+      },
+      {
+        "t": "ὄνομα",
+        "lemma": "G3686",
+        "forma": "ὄνομα",
+        "morph": "N-ASN",
+        "glosa": "name",
+        "id": "Mat.10.41#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "name"
+      },
+      {
+        "t": "προφήτου",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-GSM",
+        "glosa": "of a prophet",
+        "id": "Mat.10.41#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "prophet"
+      },
+      {
+        "t": "μισθὸν",
+        "lemma": "G3408",
+        "forma": "μισθός",
+        "morph": "N-ASM",
+        "glosa": "[the] reward",
+        "id": "Mat.10.41#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "wage"
+      },
+      {
+        "t": "προφήτου",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-GSM",
+        "glosa": "of a prophet",
+        "id": "Mat.10.41#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "prophet"
+      },
+      {
+        "t": "λήμψεται",
+        "lemma": "G2983",
+        "forma": "λαμβάνω",
+        "morph": "V-FDI-3S",
+        "glosa": "will receive,",
+        "id": "Mat.10.41#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to take"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.41#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the [one]",
+        "id": "Mat.10.41#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δεχόμενος",
+        "lemma": "G1209",
+        "forma": "δέχομαι",
+        "morph": "V-PNP-NSM",
+        "glosa": "receiving",
+        "id": "Mat.10.41#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to receive"
+      },
+      {
+        "t": "δίκαιον",
+        "lemma": "G1342",
+        "forma": "δίκαιος",
+        "morph": "A-ASM",
+        "glosa": "a righteous [man]",
+        "id": "Mat.10.41#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "just"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "in [the]",
+        "id": "Mat.10.41#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "toward"
+      },
+      {
+        "t": "ὄνομα",
+        "lemma": "G3686",
+        "forma": "ὄνομα",
+        "morph": "N-ASN",
+        "glosa": "name",
+        "id": "Mat.10.41#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "name"
+      },
+      {
+        "t": "δικαίου",
+        "lemma": "G1342",
+        "forma": "δίκαιος",
+        "morph": "A-GSM",
+        "glosa": "of a righteous [man]",
+        "id": "Mat.10.41#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "just"
+      },
+      {
+        "t": "μισθὸν",
+        "lemma": "G3408",
+        "forma": "μισθός",
+        "morph": "N-ASM",
+        "glosa": "[the] reward",
+        "id": "Mat.10.41#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "wage"
+      },
+      {
+        "t": "δικαίου",
+        "lemma": "G1342",
+        "forma": "δίκαιος",
+        "morph": "A-GSM",
+        "glosa": "of a righteous [man]",
+        "id": "Mat.10.41#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "just"
+      },
+      {
+        "t": "λήμψεται",
+        "lemma": "G2983",
+        "forma": "λαμβάνω",
+        "morph": "V-FDI-3S",
+        "glosa": "will receive.",
+        "id": "Mat.10.41#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to take"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὁ, rodzajnik przy imiesłowie, oddane jako „Kto”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "δεχόμενος, imiesłów strony medialnej, oddane jako „przyjmuje”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "przeklad",
+      "uwaga": "προφήτην oddane jako „proroka”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "przeklad",
+      "uwaga": "εἰς oddane jako „w”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὄνομα w bierniku oddane miejscownikiem „imieniu”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "προφήτου oddane jako „proroka”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "μισθὸν oddane jako „zapłatę”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "προφήτου oddane jako „proroka”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "λήμψεται, strona medialna, oddane jako „weźmie”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὁ, rodzajnik przy imiesłowie, oddane jako „kto”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "δεχόμενος, imiesłów strony medialnej, oddane jako „przyjmuje”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "δίκαιον oddane jako „sprawiedliwego”."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "rola": "przeklad",
+      "uwaga": "εἰς oddane jako „w”."
+    },
+    {
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὄνομα w bierniku oddane miejscownikiem „imieniu”."
+    },
+    {
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15
+      ],
+      "rola": "przeklad",
+      "uwaga": "δικαίου oddane jako „sprawiedliwego”."
+    },
+    {
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "rola": "przeklad",
+      "uwaga": "δικαίου stoi po μισθὸν, a „sprawiedliwego” przed „zapłatę”."
+    },
+    {
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        16
+      ],
+      "rola": "przeklad",
+      "uwaga": "μισθὸν oddane jako „zapłatę”."
+    },
+    {
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        18
+      ],
+      "rola": "przeklad",
+      "uwaga": "λήμψεται, strona medialna, oddane jako „weźmie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. W drugim członie „sprawiedliwego zapłatę” przestawia tylko szyk μισθὸν δικαίου.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὁ δεχόμενος προφήτην εἰς ὄνομα προφήτου μισθὸν προφήτου λήμψεται BG oddaje jako „Kto przyjmuje proroka w imieniu proroka, zapłatę proroka weźmie”, i tak samo człon o sprawiedliwym.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Kdo přijímá proroka ve jménu proroka, odplatu proroka vezme; a kdož přijímá spravedlivého ve jménu spravedlivého, odplatu spravedlivého vezme.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

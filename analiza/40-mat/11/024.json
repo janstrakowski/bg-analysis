@@ -1,0 +1,403 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.24",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 24
+  },
+  "tekst_bg": "Nawet powiadam wam: Iż lżej będzie ziemi Sodomskiej w dzień sądny, niżeli tobie.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Nawet"
+    },
+    {
+      "i": 1,
+      "t": "powiadam"
+    },
+    {
+      "i": 2,
+      "t": "wam"
+    },
+    {
+      "i": 3,
+      "t": "Iż"
+    },
+    {
+      "i": 4,
+      "t": "lżej"
+    },
+    {
+      "i": 5,
+      "t": "będzie"
+    },
+    {
+      "i": 6,
+      "t": "ziemi"
+    },
+    {
+      "i": 7,
+      "t": "Sodomskiej"
+    },
+    {
+      "i": 8,
+      "t": "w"
+    },
+    {
+      "i": 9,
+      "t": "dzień"
+    },
+    {
+      "i": 10,
+      "t": "sądny"
+    },
+    {
+      "i": 11,
+      "t": "niżeli"
+    },
+    {
+      "i": 12,
+      "t": "tobie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.24",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.24",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "πλὴν",
+        "lemma": "G4133",
+        "forma": "πλήν",
+        "morph": "CONJ",
+        "glosa": "But",
+        "id": "Mat.11.24#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "but/however"
+      },
+      {
+        "t": "λέγω",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-1S",
+        "glosa": "I say",
+        "id": "Mat.11.24#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you",
+        "id": "Mat.11.24#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.11.24#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "γῇ",
+        "lemma": "G1093H",
+        "forma": "γῆ",
+        "morph": "N-DSF",
+        "glosa": "for [the] land",
+        "id": "Mat.11.24#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "earth: country"
+      },
+      {
+        "t": "Σοδόμων",
+        "lemma": "G4670",
+        "forma": "Σόδομα",
+        "morph": "N-GPN-L",
+        "glosa": "of Sodom",
+        "id": "Mat.11.24#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Sodom"
+      },
+      {
+        "t": "ἀνεκτότερον",
+        "lemma": "G0414",
+        "forma": "ἀνεκτός",
+        "morph": "A-NSN-C",
+        "glosa": "more tolerable",
+        "id": "Mat.11.24#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "bearable"
+      },
+      {
+        "t": "ἔσται",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-FDI-3S",
+        "glosa": "will it be",
+        "id": "Mat.11.24#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.11.24#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ἡμέρᾳ",
+        "lemma": "G2250",
+        "forma": "ἡμέρα",
+        "morph": "N-DSF",
+        "glosa": "day",
+        "id": "Mat.11.24#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "day"
+      },
+      {
+        "t": "κρίσεως",
+        "lemma": "G2920",
+        "forma": "κρίσις",
+        "morph": "N-GSF",
+        "glosa": "of judgment",
+        "id": "Mat.11.24#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "judgment"
+      },
+      {
+        "t": "ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "than",
+        "id": "Mat.11.24#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "or"
+      },
+      {
+        "t": "σοί",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DS",
+        "glosa": "for you.",
+        "id": "Mat.11.24#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "πλὴν oddane jako „Nawet”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "λέγω oddane jako „powiadam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὅτι oddane jako „Iż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἀνεκτότερον oddane jako „lżej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἔσται oddane jako „będzie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "γῇ oddane jako „ziemi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Σοδόμων, dopełniacz, oddane przymiotnikiem „Sodomskiej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἡμέρᾳ oddane jako „dzień”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "κρίσεως oddane przymiotnikiem „sądny”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἢ oddane jako „niżeli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "σοί oddane jako „tobie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token ma odpowiednik. ὅτι jest tu oddane jako „Iż”, a dopełniacze Σοδόμων i κρίσεως jako przymiotniki.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πλὴν λέγω ὑμῖν ὅτι γῇ Σοδόμων ἀνεκτότερον ἔσται BG oddaje w całości, z Σοδόμων jako „Sodomskiej”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ano více pravím vám, že zemi Sodomských lehčeji bude v den soudný nežli tobě.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

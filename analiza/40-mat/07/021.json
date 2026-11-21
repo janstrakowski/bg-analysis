@@ -1,0 +1,630 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.21",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 21
+  },
+  "tekst_bg": "Nie każdy, który mi mówi: Panie, Panie! wnijdzie do królestwa niebieskiego; ale który czyni wolę Ojca mojego, który jest w niebiesiech.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Nie"
+    },
+    {
+      "i": 1,
+      "t": "każdy"
+    },
+    {
+      "i": 2,
+      "t": "który"
+    },
+    {
+      "i": 3,
+      "t": "mi"
+    },
+    {
+      "i": 4,
+      "t": "mówi"
+    },
+    {
+      "i": 5,
+      "t": "Panie"
+    },
+    {
+      "i": 6,
+      "t": "Panie"
+    },
+    {
+      "i": 7,
+      "t": "wnijdzie"
+    },
+    {
+      "i": 8,
+      "t": "do"
+    },
+    {
+      "i": 9,
+      "t": "królestwa"
+    },
+    {
+      "i": 10,
+      "t": "niebieskiego"
+    },
+    {
+      "i": 11,
+      "t": "ale"
+    },
+    {
+      "i": 12,
+      "t": "który"
+    },
+    {
+      "i": 13,
+      "t": "czyni"
+    },
+    {
+      "i": 14,
+      "t": "wolę"
+    },
+    {
+      "i": 15,
+      "t": "Ojca"
+    },
+    {
+      "i": 16,
+      "t": "mojego"
+    },
+    {
+      "i": 17,
+      "t": "który"
+    },
+    {
+      "i": 18,
+      "t": "jest"
+    },
+    {
+      "i": 19,
+      "t": "w"
+    },
+    {
+      "i": 20,
+      "t": "niebiesiech"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.21",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.21",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.7.21#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "no"
+      },
+      {
+        "t": "πᾶς",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NSM",
+        "glosa": "everyone",
+        "id": "Mat.7.21#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "all"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "who",
+        "id": "Mat.7.21#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λέγων",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NSM",
+        "glosa": "is saying",
+        "id": "Mat.7.21#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to say"
+      },
+      {
+        "t": "μοι",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1DS",
+        "glosa": "to Me;",
+        "id": "Mat.7.21#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "me"
+      },
+      {
+        "t": "κύριε",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-VSM-T",
+        "glosa": "Lord",
+        "id": "Mat.7.21#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "κύριε",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-VSM-T",
+        "glosa": "Lord,",
+        "id": "Mat.7.21#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "εἰσελεύσεται",
+        "lemma": "G1525",
+        "forma": "εἰσέρχομαι",
+        "morph": "V-FDI-3S",
+        "glosa": "will enter",
+        "id": "Mat.7.21#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to enter"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.7.21#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.7.21#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βασιλείαν",
+        "lemma": "G0932",
+        "forma": "βασιλεία",
+        "morph": "N-ASF",
+        "glosa": "kingdom",
+        "id": "Mat.7.21#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "kingdom"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.7.21#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανῶν",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-GPM",
+        "glosa": "heavens,",
+        "id": "Mat.7.21#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "heaven"
+      },
+      {
+        "t": "ἀλλ᾽",
+        "lemma": "G0235",
+        "forma": "ἀλλά",
+        "morph": "CONJ",
+        "glosa": "but",
+        "id": "Mat.7.21#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "but"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the [one]",
+        "id": "Mat.7.21#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ποιῶν",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAP-NSM",
+        "glosa": "doing",
+        "id": "Mat.7.21#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.7.21#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θέλημα",
+        "lemma": "G2307",
+        "forma": "θέλημα",
+        "morph": "N-ASN",
+        "glosa": "will",
+        "id": "Mat.7.21#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "will/desire"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.7.21#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατρός",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-GSM-T",
+        "glosa": "Father",
+        "id": "Mat.7.21#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "father"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "of Mine",
+        "id": "Mat.7.21#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "me"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "who [is]",
+        "id": "Mat.7.21#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.7.21#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "οὐρανοῖς",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-DPM",
+        "glosa": "heavens.",
+        "id": "Mat.7.21#25",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "heaven"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Οὐ oddane jako „Nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "πᾶς oddane jako „każdy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὁ przed imiesłowem oddane jako „który”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "μοι oddane jako „mi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "λέγων, imiesłów, oddane jako „mówi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "κύριε oddane jako „Panie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "Drugie κύριε oddane jako „Panie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "εἰσελεύσεται oddane jako „wnijdzie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τὴν βασιλείαν oddane jako „królestwa”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τῶν οὐρανῶν oddane przymiotnikiem „niebieskiego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἀλλ᾽ oddane jako „ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ὁ przed ποιῶν oddane jako „który”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ποιῶν, imiesłów, oddane jako „czyni”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16,
+        17
+      ],
+      "uwaga": "τὸ θέλημα oddane jako „wolę”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "τοῦ πατρός oddane jako „Ojca”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "μου oddane jako „mojego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "τοῦ przed ἐν, glosa „who [is]”, oddane jako „który”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        18
+      ],
+      "zrodlo": [],
+      "uwaga": "„jest” nie ma εἰμί przy τοῦ ἐν οὐρανοῖς.",
+      "uzasadnienie": "Rodzajnik τοῦ z ἐν οὐρανοῖς nie jest czasownikiem. „jest” stawia orzeczenie tego samego miejsca."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "οὐρανοῖς, bez rodzajnika, oddane jako „niebiesiech”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Przeczenie, wejście i wola Ojca są pokryte. „jest” dopowiada orzeczenie przy τοῦ ἐν οὐρανοῖς.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τοῦ ἐν οὐρανοῖς nie zawiera εἰμί ani rodzajnika przy οὐρανοῖς. BG dodaje „jest”, a οὐρανοῖς oddaje jako „niebiesiech”.",
+      "tokeny_bg": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "tokeny_zrodla": [
+        21,
+        22,
+        23
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ne každý, kdož mi říká: Pane, Pane, vejde do království nebeského, ale ten, kdož činí vůli Otce mého, kterýž v nebesích jest.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

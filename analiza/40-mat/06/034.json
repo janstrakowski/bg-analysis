@@ -1,0 +1,557 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.34",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 34
+  },
+  "tekst_bg": "Przetoż nie troszczcie się o jutrzejszy dzień: albowiem jutrzejszy dzień troskać się będzie o swoje potrzeby. Dosyćci ma dzień na swojem utrapieniu.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Przetoż"
+    },
+    {
+      "i": 1,
+      "t": "nie"
+    },
+    {
+      "i": 2,
+      "t": "troszczcie"
+    },
+    {
+      "i": 3,
+      "t": "się"
+    },
+    {
+      "i": 4,
+      "t": "o"
+    },
+    {
+      "i": 5,
+      "t": "jutrzejszy"
+    },
+    {
+      "i": 6,
+      "t": "dzień"
+    },
+    {
+      "i": 7,
+      "t": "albowiem"
+    },
+    {
+      "i": 8,
+      "t": "jutrzejszy"
+    },
+    {
+      "i": 9,
+      "t": "dzień"
+    },
+    {
+      "i": 10,
+      "t": "troskać"
+    },
+    {
+      "i": 11,
+      "t": "się"
+    },
+    {
+      "i": 12,
+      "t": "będzie"
+    },
+    {
+      "i": 13,
+      "t": "o"
+    },
+    {
+      "i": 14,
+      "t": "swoje"
+    },
+    {
+      "i": 15,
+      "t": "potrzeby"
+    },
+    {
+      "i": 16,
+      "t": "Dosyćci"
+    },
+    {
+      "i": 17,
+      "t": "ma"
+    },
+    {
+      "i": 18,
+      "t": "dzień"
+    },
+    {
+      "i": 19,
+      "t": "na"
+    },
+    {
+      "i": 20,
+      "t": "swojem"
+    },
+    {
+      "i": 21,
+      "t": "utrapieniu"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.34",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.34",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.6.34#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "not"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "therefore",
+        "id": "Mat.6.34#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "μεριμνήσητε",
+        "lemma": "G3309",
+        "forma": "μεριμνάω",
+        "morph": "V-AAS-2P",
+        "glosa": "shall you be anxious",
+        "id": "Mat.6.34#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to worry"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "about",
+        "id": "Mat.6.34#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the [things]",
+        "id": "Mat.6.34#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "αὔριον",
+        "lemma": "G0839",
+        "forma": "αὔριον",
+        "morph": "ADV",
+        "glosa": "tomorrow;",
+        "id": "Mat.6.34#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "tomorrow"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "<the>",
+        "id": "Mat.6.34#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.6.34#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "for"
+      },
+      {
+        "t": "αὔριον",
+        "lemma": "G0839",
+        "forma": "αὔριον",
+        "morph": "ADV",
+        "glosa": "tomorrow",
+        "id": "Mat.6.34#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "tomorrow"
+      },
+      {
+        "t": "μεριμνήσει",
+        "lemma": "G3309",
+        "forma": "μεριμνάω",
+        "morph": "V-FAI-3S",
+        "glosa": "will be anxious about",
+        "id": "Mat.6.34#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to worry"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APN",
+        "glosa": "<the>",
+        "id": "Mat.6.34#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἑαυτῆς",
+        "lemma": "G1438",
+        "forma": "ἑαυτοῦ",
+        "morph": "F-3GSF",
+        "glosa": "itself.",
+        "id": "Mat.6.34#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "themself"
+      },
+      {
+        "t": "ἀρκετὸν",
+        "lemma": "G0713",
+        "forma": "ἀρκετός",
+        "morph": "A-NSN",
+        "glosa": "Sufficient",
+        "id": "Mat.6.34#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "sufficient"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "to the",
+        "id": "Mat.6.34#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἡμέρᾳ",
+        "lemma": "G2250",
+        "forma": "ἡμέρα",
+        "morph": "N-DSF",
+        "glosa": "day [is]",
+        "id": "Mat.6.34#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "day"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.6.34#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κακία",
+        "lemma": "G2549",
+        "forma": "κακία",
+        "morph": "N-NSF",
+        "glosa": "trouble",
+        "id": "Mat.6.34#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "evil"
+      },
+      {
+        "t": "αὐτῆς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSF",
+        "glosa": "of it.",
+        "id": "Mat.6.34#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "οὖν stoi po μή, a BG wynosi je na początek jako „Przetoż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "μή oddane jako „nie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "μεριμνήσητε, strona czynna „shall you be anxious”, oddane zwrotem „troszczcie się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "εἰς, „toward”, oddane jako „o”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τὴν αὔριον, rzeczownikowe „tomorrow”, oddane jako „jutrzejszy dzień”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "γάρ stoi po ἡ, a BG wynosi je na początek drugiego zdania jako „albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        6,
+        8
+      ],
+      "uwaga": "ἡ αὔριον oddane jako „jutrzejszy dzień”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        10,
+        11,
+        12
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "μεριμνήσει, czas przyszły strony czynnej „will be anxious”, oddane jako „troskać się będzie”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [],
+      "uwaga": "„o” stawia przyimek. μεριμνήσει łączy się z biernikiem τὰ ἑαυτῆς bez przyimka.",
+      "uzasadnienie": "Przy τὰ ἑαυτῆς nie ma przyimka. Polskie „troszczyć się” wymaga „o”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "τὰ ἑαυτῆς, „the things of itself”, oddane jako „swoje”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [],
+      "uwaga": "„potrzeby” jest kursywą. τὰ ἑαυτῆς nie ma rzeczownika „potrzeba”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἀρκετόν, „sufficient”, oddane jako „Dosyćci”, z partykułą -ci."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        17
+      ],
+      "zrodlo": [],
+      "uwaga": "„ma” stawia orzeczenie. Przy ἀρκετόν nie ma ἔχω ani εἰμί.",
+      "uzasadnienie": "Zdanie ἀρκετὸν τῇ ἡμέρᾳ ἡ κακία αὐτῆς nie ma czasownika. „ma” robi z dnia posiadacza, a nie z κακία orzecznik wystarczalności."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τῇ ἡμέρᾳ, celownik „to the day”, BG stawia jako podmiot „dzień”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        19
+      ],
+      "zrodlo": [],
+      "uwaga": "„na” stawia przyimek. ἡ κακία jest w grece podmiotem w mianowniku.",
+      "uzasadnienie": "ἡ κακία nie stoi przy przyimku. „na” przenosi utrapienie z podmiotu na dopełnienie."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "αὐτῆς oddane jako „swojem”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "ἡ κακία, mianownik „trouble”, oddane jako „utrapieniu”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_przesuniety",
+    "uzasadnienie": "Dopowiedzenia „o”, „potrzeby”, „ma” i „na” są oznaczone. Podmiotem greckim jest ἡ κακία, która jest ἀρκετόν dla dnia. BG mówi, że „dzień” „ma” dosyć na utrapieniu.",
+    "tokeny_bg": [
+      17,
+      18,
+      21
+    ],
+    "tokeny_zrodla": [
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀρκετὸν τῇ ἡμέρᾳ ἡ κακία αὐτῆς ma podmiot ἡ κακία i celownik τῇ ἡμέρᾳ, bez czasownika. BG ma „Dosyćci ma dzień na swojem utrapieniu”: podmiotem jest dzień, a utrapienie stoi przy „na”.",
+      "tokeny_bg": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "tokeny_zrodla": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τὰ ἑαυτῆς nie ma rzeczownika. Kursywa dodaje „potrzeby”, a „o” dopowiada przyimek przy bierniku.",
+      "tokeny_bg": [
+        13,
+        14,
+        15
+      ],
+      "tokeny_zrodla": [
+        10,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Protož nepečujte o zítřejší den, nebo zítřejší den pečovati bude o své věci. Dostiť má den na svém trápení.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

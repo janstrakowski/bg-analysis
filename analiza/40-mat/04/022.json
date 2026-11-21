@@ -1,0 +1,358 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.22",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 22
+  },
+  "tekst_bg": "A oni wnetże opuściwszy łódź i ojca swego, poszli za nim.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "oni"
+    },
+    {
+      "i": 2,
+      "t": "wnetże"
+    },
+    {
+      "i": 3,
+      "t": "opuściwszy"
+    },
+    {
+      "i": 4,
+      "t": "łódź"
+    },
+    {
+      "i": 5,
+      "t": "i"
+    },
+    {
+      "i": 6,
+      "t": "ojca"
+    },
+    {
+      "i": 7,
+      "t": "swego"
+    },
+    {
+      "i": 8,
+      "t": "poszli"
+    },
+    {
+      "i": 9,
+      "t": "za"
+    },
+    {
+      "i": 10,
+      "t": "nim"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.22",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.22",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "<the>",
+        "id": "Mat.4.22#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.4.22#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "εὐθέως",
+        "lemma": "G2112",
+        "forma": "εὐθέως",
+        "morph": "ADV",
+        "glosa": "immediately",
+        "id": "Mat.4.22#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "immediately"
+      },
+      {
+        "t": "ἀφέντες",
+        "lemma": "G0863G",
+        "forma": "ἀφίημι",
+        "morph": "V-2AAP-NPM",
+        "glosa": "having left",
+        "id": "Mat.4.22#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to release: leave"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.4.22#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πλοῖον",
+        "lemma": "G4143",
+        "forma": "πλοῖον",
+        "morph": "N-ASN",
+        "glosa": "boat",
+        "id": "Mat.4.22#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "boat"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.22#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "and"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.4.22#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατέρα",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-ASM",
+        "glosa": "father",
+        "id": "Mat.4.22#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "father"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them",
+        "id": "Mat.4.22#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἠκολούθησαν",
+        "lemma": "G0190",
+        "forma": "ἀκολουθέω",
+        "morph": "V-AAI-3P",
+        "glosa": "they followed",
+        "id": "Mat.4.22#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to follow"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "Him.",
+        "id": "Mat.4.22#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po rodzajniku, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "οἱ oddane jako „oni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "εὐθέως oddane jako „wnetże”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀφέντες oddane jako „opuściwszy”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τὸ πλοῖον oddane jako „łódź”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τὸν πατέρα oddane jako „ojca”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "αὐτῶν oddane jako „swego”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἠκολούθησαν oddane jako „poszli za”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "αὐτῷ oddane jako „nim”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Zaraz zostawiają łódź i ojca i idą za nim. ἠκολούθησαν rozkłada się na „poszli za”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀφέντες τὸ πλοῖον καὶ τὸν πατέρα αὐτῶν ἠκολούθησαν αὐτῷ BG oddaje jako „opuściwszy łódź i ojca swego, poszli za nim”.",
+      "tokeny_bg": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A oni hned opustivše lodí a otce svého, šli za ním.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

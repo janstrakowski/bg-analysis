@@ -1,0 +1,524 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.33",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 33
+  },
+  "tekst_bg": "A ktoby się mnie zaparł przed ludźmi, zaprę się go i Ja przed Ojcem moim, który jest w niebiesiech.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "ktoby"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "mnie"
+    },
+    {
+      "i": 4,
+      "t": "zaparł"
+    },
+    {
+      "i": 5,
+      "t": "przed"
+    },
+    {
+      "i": 6,
+      "t": "ludźmi"
+    },
+    {
+      "i": 7,
+      "t": "zaprę"
+    },
+    {
+      "i": 8,
+      "t": "się"
+    },
+    {
+      "i": 9,
+      "t": "go"
+    },
+    {
+      "i": 10,
+      "t": "i"
+    },
+    {
+      "i": 11,
+      "t": "Ja"
+    },
+    {
+      "i": 12,
+      "t": "przed"
+    },
+    {
+      "i": 13,
+      "t": "Ojcem"
+    },
+    {
+      "i": 14,
+      "t": "moim"
+    },
+    {
+      "i": 15,
+      "t": "który"
+    },
+    {
+      "i": 16,
+      "t": "jest"
+    },
+    {
+      "i": 17,
+      "t": "w"
+    },
+    {
+      "i": 18,
+      "t": "niebiesiech"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.33",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.33",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ὅστις",
+        "lemma": "G3748",
+        "forma": "ὅστις",
+        "morph": "R-NSM",
+        "glosa": "Whoever",
+        "id": "Mat.10.33#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "who/which"
+      },
+      {
+        "t": "δ᾽",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.10.33#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἂν",
+        "lemma": "G0302",
+        "forma": "ἄν",
+        "morph": "PRT",
+        "glosa": "maybe",
+        "id": "Mat.10.33#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "if"
+      },
+      {
+        "t": "ἀρνήσηταί",
+        "lemma": "G0720",
+        "forma": "ἀρνέομαι",
+        "morph": "V-ADS-3S",
+        "glosa": "may deny",
+        "id": "Mat.10.33#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to deny"
+      },
+      {
+        "t": "με",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1AS",
+        "glosa": "Me",
+        "id": "Mat.10.33#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "me"
+      },
+      {
+        "t": "ἔμπροσθεν",
+        "lemma": "G1715",
+        "forma": "ἔμπροσθεν",
+        "morph": "PREP",
+        "glosa": "before",
+        "id": "Mat.10.33#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "before"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "<the>",
+        "id": "Mat.10.33#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀνθρώπων",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-GPM",
+        "glosa": "men,",
+        "id": "Mat.10.33#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "a human"
+      },
+      {
+        "t": "ἀρνήσομαι",
+        "lemma": "G0720",
+        "forma": "ἀρνέομαι",
+        "morph": "V-FDI-1S",
+        "glosa": "will deny",
+        "id": "Mat.10.33#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to deny"
+      },
+      {
+        "t": "κἀγὼ",
+        "lemma": "G1473",
+        "forma": "κἀγώ",
+        "morph": "P-1NS + G2532=CONJ",
+        "glosa": "I myself also",
+        "id": "Mat.10.33#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "αὐτὸν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "him",
+        "id": "Mat.10.33#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἔμπροσθεν",
+        "lemma": "G1715",
+        "forma": "ἔμπροσθεν",
+        "morph": "PREP",
+        "glosa": "before",
+        "id": "Mat.10.33#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "before"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.10.33#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατρός",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-GSM-T",
+        "glosa": "Father",
+        "id": "Mat.10.33#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "father"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "of Mine",
+        "id": "Mat.10.33#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "me"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "who [is]",
+        "id": "Mat.10.33#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.10.33#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "οὐρανοῖς",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-DPM",
+        "glosa": "heavens.",
+        "id": "Mat.10.33#19",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "heaven"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "δ᾽ stoi po ὅστις, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "rola": "zlanie",
+      "uwaga": "ὅστις ἂν oddane jako „ktoby”."
+    },
+    {
+      "bg": [
+        2,
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "rozbicie",
+      "uwaga": "ἀρνήσηταί, strona medialna, oddane jako „się zaparł”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "przeklad",
+      "uwaga": "με oddane jako „mnie”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἔμπροσθεν oddane jako „przed”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "rola": "zlanie",
+      "uwaga": "τῶν ἀνθρώπων oddane jako „ludźmi”."
+    },
+    {
+      "bg": [
+        7,
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "rozbicie",
+      "uwaga": "ἀρνήσομαι, strona medialna, oddane jako „zaprę się”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτὸν oddane jako „go”."
+    },
+    {
+      "bg": [
+        10,
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "rozbicie",
+      "uwaga": "κἀγὼ, „ja także”, oddane jako „i Ja”. Szyk: zaimek stoi po „go”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἔμπροσθεν oddane jako „przed”."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "rola": "zlanie",
+      "uwaga": "τοῦ πατρός oddane jako „Ojcem”."
+    },
+    {
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "rola": "przeklad",
+      "uwaga": "μου oddane jako „moim”."
+    },
+    {
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15
+      ],
+      "rola": "przeklad",
+      "uwaga": "τοῦ, rodzajnik zwrotu ἐν οὐρανοῖς, oddane jako „który”."
+    },
+    {
+      "bg": [
+        16
+      ],
+      "zrodlo": [],
+      "rola": "dopelnienie",
+      "uwaga": "„jest” stoi przy „który … w niebiesiech”. Przy τοῦ ἐν οὐρανοῖς nie ma εἰμί.",
+      "uzasadnienie": "Przy τοῦ ἐν οὐρανοῖς nie ma εἰμί. „jest” jest polskim czasownikiem w zdaniu względnym i nie dodaje o Ojcu nowej treści."
+    },
+    {
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        16
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        17
+      ],
+      "rola": "przeklad",
+      "uwaga": "οὐρανοῖς oddane jako „niebiesiech”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „jest” dopowiada orzeczenie przy τοῦ ἐν οὐρανοῖς, gdzie TR nie ma εἰμί. κἀγὼ rozbija się na „i Ja”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀρνήσομαι κἀγὼ αὐτὸν BG oddaje jako „zaprę się go i Ja”. κἀγὼ, „ja także”, rozbija się na „i Ja”.",
+      "tokeny_bg": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τοῦ ἐν οὐρανοῖς nie ma czasownika εἰμί. BG dodaje „jest” w „który jest w niebiesiech”.",
+      "tokeny_bg": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "tokeny_zrodla": [
+        15,
+        16,
+        17
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ale kdož by mne zapřel před lidmi, zapřímť ho i já před Otcem svým, kterýž jest v nebesích.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

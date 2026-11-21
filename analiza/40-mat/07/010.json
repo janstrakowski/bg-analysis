@@ -1,0 +1,268 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.10",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 10
+  },
+  "tekst_bg": "A prosiłliby o rybę, izali mu da węża?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "prosiłliby"
+    },
+    {
+      "i": 2,
+      "t": "o"
+    },
+    {
+      "i": 3,
+      "t": "rybę"
+    },
+    {
+      "i": 4,
+      "t": "izali"
+    },
+    {
+      "i": 5,
+      "t": "mu"
+    },
+    {
+      "i": 6,
+      "t": "da"
+    },
+    {
+      "i": 7,
+      "t": "węża"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.10",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.10",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "also",
+        "id": "Mat.7.10#02",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐὰν",
+        "lemma": "G1437",
+        "forma": "ἐάν",
+        "morph": "COND",
+        "glosa": "if",
+        "id": "Mat.7.10#03",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "if"
+      },
+      {
+        "t": "ἰχθὺν",
+        "lemma": "G2486",
+        "forma": "ἰχθύς",
+        "morph": "N-ASM",
+        "glosa": "a fish",
+        "id": "Mat.7.10#04",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "fish"
+      },
+      {
+        "t": "αἰτήσῃ",
+        "lemma": "G0154",
+        "forma": "αἰτήσῃ",
+        "morph": "V-AMS-2S",
+        "glosa": "you shall ask",
+        "id": "Mat.7.10#05",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to ask"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "surely not",
+        "id": "Mat.7.10#06",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "not"
+      },
+      {
+        "t": "ὄφιν",
+        "lemma": "G3789",
+        "forma": "ὄφις",
+        "morph": "N-ASM",
+        "glosa": "a serpent",
+        "id": "Mat.7.10#07",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "snake"
+      },
+      {
+        "t": "ἐπιδώσει",
+        "lemma": "G1929",
+        "forma": "ἐπιδίδωμι",
+        "morph": "V-FAI-3S",
+        "glosa": "will he give",
+        "id": "Mat.7.10#08",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to give/deliver"
+      },
+      {
+        "t": "αὐτῷ;",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to him?",
+        "id": "Mat.7.10#09",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1,
+        3
+      ],
+      "uwaga": "ἐὰν αἰτήσῃ oddane jednym „prosiłliby”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἰχθὺν, sam biernik, oddane jako „o rybę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "μὴ w pytaniu retorycznym oddane jako „izali”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ὄφιν oddane jako „węża”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐπιδώσει oddane jako „da”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Warunek, ryba, wąż i pytanie z μὴ są pokryte. Nie ma dopowiedzenia ani opuszczenia.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐὰν ἰχθὺν αἰτήσῃ, μὴ ὄφιν ἐπιδώσει αὐτῷ BG oddaje jako „prosiłliby o rybę, izali mu da węża”.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A prosil-li by za rybu, zdali hada podá jemu?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

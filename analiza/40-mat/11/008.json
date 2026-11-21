@@ -1,0 +1,564 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.8",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 8
+  },
+  "tekst_bg": "Ale coście wyszli widzieć? Izali człowieka w miękkie szaty obleczonego? oto którzy miękkie szaty noszą, w domach królewskich są.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "coście"
+    },
+    {
+      "i": 2,
+      "t": "wyszli"
+    },
+    {
+      "i": 3,
+      "t": "widzieć"
+    },
+    {
+      "i": 4,
+      "t": "Izali"
+    },
+    {
+      "i": 5,
+      "t": "człowieka"
+    },
+    {
+      "i": 6,
+      "t": "w"
+    },
+    {
+      "i": 7,
+      "t": "miękkie"
+    },
+    {
+      "i": 8,
+      "t": "szaty"
+    },
+    {
+      "i": 9,
+      "t": "obleczonego"
+    },
+    {
+      "i": 10,
+      "t": "oto"
+    },
+    {
+      "i": 11,
+      "t": "którzy"
+    },
+    {
+      "i": 12,
+      "t": "miękkie"
+    },
+    {
+      "i": 13,
+      "t": "szaty"
+    },
+    {
+      "i": 14,
+      "t": "noszą"
+    },
+    {
+      "i": 15,
+      "t": "w"
+    },
+    {
+      "i": 16,
+      "t": "domach"
+    },
+    {
+      "i": 17,
+      "t": "królewskich"
+    },
+    {
+      "i": 18,
+      "t": "są"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.8",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.8",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἀλλὰ",
+        "lemma": "G0235",
+        "forma": "ἀλλά",
+        "morph": "CONJ",
+        "glosa": "But",
+        "id": "Mat.11.8#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "but"
+      },
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-ASN",
+        "glosa": "what",
+        "id": "Mat.11.8#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "which?"
+      },
+      {
+        "t": "ἐξήλθατε",
+        "lemma": "G1831",
+        "forma": "ἐξέρχομαι",
+        "morph": "V-2AAI-2P",
+        "glosa": "did you go out",
+        "id": "Mat.11.8#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to go out"
+      },
+      {
+        "t": "ἰδεῖν;",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAN",
+        "glosa": "to see?",
+        "id": "Mat.11.8#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "ἄνθρωπον",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-ASM",
+        "glosa": "A man",
+        "id": "Mat.11.8#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "a human"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.11.8#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "μαλακοῖς",
+        "lemma": "G3120",
+        "forma": "μαλακός",
+        "morph": "A-DPN",
+        "glosa": "delicate",
+        "id": "Mat.11.8#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "soft/effeminate"
+      },
+      {
+        "t": "ἱματίοις",
+        "lemma": "G2440",
+        "forma": "ἱμάτιον",
+        "morph": "N-DPN",
+        "glosa": "garments",
+        "id": "Mat.11.8#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "clothing"
+      },
+      {
+        "t": "ἠμφιεσμένον;",
+        "lemma": "G0294",
+        "forma": "ἀμφιέννυμι",
+        "morph": "V-RPP-ASM",
+        "glosa": "dressed?",
+        "id": "Mat.11.8#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to clothe"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "Behold",
+        "id": "Mat.11.8#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "look!"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "those",
+        "id": "Mat.11.8#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APN",
+        "glosa": "<the>",
+        "id": "Mat.11.8#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μαλακὰ",
+        "lemma": "G3120",
+        "forma": "μαλακός",
+        "morph": "A-APN",
+        "glosa": "delicate [clothing]",
+        "id": "Mat.11.8#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "soft/effeminate"
+      },
+      {
+        "t": "φοροῦντες",
+        "lemma": "G5409",
+        "forma": "φορέω",
+        "morph": "V-PAP-NPM",
+        "glosa": "wearing",
+        "id": "Mat.11.8#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to wear"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.11.8#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "the",
+        "id": "Mat.11.8#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἴκοις",
+        "lemma": "G3624G",
+        "forma": "οἶκος",
+        "morph": "N-DPM",
+        "glosa": "houses",
+        "id": "Mat.11.8#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "house: home"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "<the>",
+        "id": "Mat.11.8#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βασιλέων",
+        "lemma": "G0935",
+        "forma": "βασιλεύς",
+        "morph": "N-GPM",
+        "glosa": "of kings",
+        "id": "Mat.11.8#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "king"
+      },
+      {
+        "t": "εἰσίν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3P",
+        "glosa": "are;",
+        "id": "Mat.11.8#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "to be"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἀλλὰ oddane jako „Ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "τί oddane jako „coście”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐξήλθατε oddane jako „wyszli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἰδεῖν oddane jako „widzieć”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [],
+      "uwaga": "„Izali” jest kursywą w 1632. Pytanie o człowieka nie ma w grece partykuły."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἄνθρωπον oddane jako „człowieka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "μαλακοῖς oddane jako „miękkie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἱματίοις oddane jako „szaty”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἠμφιεσμένον oddane jako „obleczonego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἰδοὺ oddane jako „oto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "οἱ, rodzajnik użyty rzeczownikowo, oddane jako „którzy”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τὰ μαλακὰ oddane jako „miękkie”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [],
+      "uwaga": "„szaty” jest kursywą w 1632. τὰ μαλακὰ nie ma rzeczownika „szata”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "φοροῦντες, imiesłów, oddane osobowo jako „noszą”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "τοῖς οἴκοις oddane jako „domach”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        17,
+        18
+      ],
+      "uwaga": "τῶν βασιλέων oddane przymiotnikiem „królewskich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "εἰσίν oddane jako „są”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. Kursywa „Izali” dopowiada partykułę pytania, a kursywa „szaty” nazywa rzeczownik, którego przy τὰ μαλακὰ nie ma.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τὰ μαλακὰ to sam przymiotnik „miękkie”. Rzeczownik „szaty” jest kursywą w 1632 i nie ma osobnego tokenu greckiego.",
+      "tokeny_bg": [
+        12,
+        13,
+        14
+      ],
+      "tokeny_zrodla": [
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "„Izali” przed ἄνθρωπον jest kursywą. Greckie pytanie nie ma partykuły pytajnej.",
+      "tokeny_bg": [
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        4
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Aneb co jste vyšli viděti? Zda člověka měkkým rouchem oděného? Aj, kteříž se měkkým rouchem odívají, v domích královských jsou.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,637 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.8",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 8
+  },
+  "tekst_bg": "A odpowiadając setnik rzekł: Panie! nie jestem godzien, abyś wszedł pod dach mój; ale tylko rzecz słowo, a będzie uzdrowiony sługa mój.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "odpowiadając"
+    },
+    {
+      "i": 2,
+      "t": "setnik"
+    },
+    {
+      "i": 3,
+      "t": "rzekł"
+    },
+    {
+      "i": 4,
+      "t": "Panie"
+    },
+    {
+      "i": 5,
+      "t": "nie"
+    },
+    {
+      "i": 6,
+      "t": "jestem"
+    },
+    {
+      "i": 7,
+      "t": "godzien"
+    },
+    {
+      "i": 8,
+      "t": "abyś"
+    },
+    {
+      "i": 9,
+      "t": "wszedł"
+    },
+    {
+      "i": 10,
+      "t": "pod"
+    },
+    {
+      "i": 11,
+      "t": "dach"
+    },
+    {
+      "i": 12,
+      "t": "mój"
+    },
+    {
+      "i": 13,
+      "t": "ale"
+    },
+    {
+      "i": 14,
+      "t": "tylko"
+    },
+    {
+      "i": 15,
+      "t": "rzecz"
+    },
+    {
+      "i": 16,
+      "t": "słowo"
+    },
+    {
+      "i": 17,
+      "t": "a"
+    },
+    {
+      "i": 18,
+      "t": "będzie"
+    },
+    {
+      "i": 19,
+      "t": "uzdrowiony"
+    },
+    {
+      "i": 20,
+      "t": "sługa"
+    },
+    {
+      "i": 21,
+      "t": "mój"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.8",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.8",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.8#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀποκριθεὶς",
+        "lemma": "G0611",
+        "forma": "ἀποκρίνω",
+        "morph": "V-AOP-NSM",
+        "glosa": "answering",
+        "id": "Mat.8.8#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to answer"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.8.8#04",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἑκατόνταρχος",
+        "lemma": "G1543",
+        "forma": "ἑκατόνταρχος",
+        "morph": "N-NSM",
+        "glosa": "centurion",
+        "id": "Mat.8.8#05",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "centurion"
+      },
+      {
+        "t": "ἔφη",
+        "lemma": "G5346",
+        "forma": "φημί",
+        "morph": "V-IAI-3S",
+        "glosa": "was saying;",
+        "id": "Mat.8.8#06",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to assert"
+      },
+      {
+        "t": "κύριε",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-VSM-T",
+        "glosa": "Lord,",
+        "id": "Mat.8.8#07",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.8.8#08",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "no"
+      },
+      {
+        "t": "εἰμὶ",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-1S",
+        "glosa": "I am",
+        "id": "Mat.8.8#09",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἱκανὸς",
+        "lemma": "G2425",
+        "forma": "ἱκανός",
+        "morph": "A-NSM",
+        "glosa": "worthy",
+        "id": "Mat.8.8#10",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "sufficient"
+      },
+      {
+        "t": "ἵνα",
+        "lemma": "G2443",
+        "forma": "ἵνα",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.8.8#11",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "in order that/to"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "my",
+        "id": "Mat.8.8#12",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "me"
+      },
+      {
+        "t": "ὑπὸ",
+        "lemma": "G5259H",
+        "forma": "ὑπό",
+        "morph": "PREP",
+        "glosa": "under",
+        "id": "Mat.8.8#13",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "by/under: under"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.8.8#14",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "στέγην",
+        "lemma": "G4721",
+        "forma": "στέγη",
+        "morph": "N-ASF",
+        "glosa": "roof",
+        "id": "Mat.8.8#15",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "roof"
+      },
+      {
+        "t": "εἰσέλθῃς",
+        "lemma": "G1525",
+        "forma": "εἰσέρχομαι",
+        "morph": "V-2AAS-2S",
+        "glosa": "You may come,",
+        "id": "Mat.8.8#16",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to enter"
+      },
+      {
+        "t": "ἀλλὰ",
+        "lemma": "G0235",
+        "forma": "ἀλλά",
+        "morph": "CONJ",
+        "glosa": "but",
+        "id": "Mat.8.8#17",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "but"
+      },
+      {
+        "t": "μόνον",
+        "lemma": "G3441",
+        "forma": "μόνος",
+        "morph": "A-ASN",
+        "glosa": "only",
+        "id": "Mat.8.8#18",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "alone"
+      },
+      {
+        "t": "εἰπὲ",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAM-2S",
+        "glosa": "do speak",
+        "id": "Mat.8.8#19",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to say"
+      },
+      {
+        "t": "λόγον",
+        "lemma": "G3056",
+        "forma": "λόγον",
+        "morph": "N-ASM",
+        "glosa": "a word",
+        "id": "Mat.8.8#20",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "word"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.8#21",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἰαθήσεται",
+        "lemma": "G2390",
+        "forma": "ἰάομαι",
+        "morph": "V-FPI-3S",
+        "glosa": "will be healed",
+        "id": "Mat.8.8#22",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "to heal"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.8.8#23",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "παῖς",
+        "lemma": "G3816",
+        "forma": "παῖς",
+        "morph": "N-NSM",
+        "glosa": "servant",
+        "id": "Mat.8.8#24",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "child"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "of mine.",
+        "id": "Mat.8.8#25",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "me"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἀποκριθεὶς oddane imiesłowem „odpowiadając”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ὁ ἑκατόνταρχος oddane jako „setnik”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἔφη oddane jako „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "κύριε oddane jako „Panie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "οὐκ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "εἰμὶ oddane jako „jestem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἱκανὸς, glosa „worthy”, oddane jako „godzien”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        9,
+        14
+      ],
+      "uwaga": "ἵνα εἰσέλθῃς oddane jako „abyś wszedł”; końcówka -ś niesie osobę drugą czasownika."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ὑπὸ oddane jako „pod”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τὴν στέγην oddane jako „dach”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "μου stoi przed ὑπὸ, a BG kładzie „mój” po „dach”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἀλλὰ oddane jako „ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "μόνον oddane jako „tylko”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "εἰπὲ oddane jako „rzecz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "λόγον oddane jako „słowo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        18,
+        19
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ἰαθήσεται, futurum bierne, oddane jako „będzie uzdrowiony”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        21,
+        22
+      ],
+      "uwaga": "ὁ παῖς oddane jako „sługa”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "μου oddane jako „mój”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. „abyś wszedł” niesie ἵνα εἰσέλθῃς, a „będzie uzdrowiony” rozbija stronę bierną ἰαθήσεται.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὐκ εἰμὶ ἱκανὸς ἵνα μου ὑπὸ τὴν στέγην εἰσέλθῃς oddane jako „nie jestem godzien, abyś wszedł pod dach mój”.",
+      "tokeny_bg": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "tokeny_zrodla": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A odpovídaje setník, řekl: Pane, nejsemť hoden, abys všel pod střechu mou, ale toliko rci slovo, a uzdraven bude služebník můj.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

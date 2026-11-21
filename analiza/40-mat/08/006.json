@@ -1,0 +1,408 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.6",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 6
+  },
+  "tekst_bg": "I mówiąc: Panie! sługa mój leży w domu powietrzem ruszony, i ciężko się trapi.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "mówiąc"
+    },
+    {
+      "i": 2,
+      "t": "Panie"
+    },
+    {
+      "i": 3,
+      "t": "sługa"
+    },
+    {
+      "i": 4,
+      "t": "mój"
+    },
+    {
+      "i": 5,
+      "t": "leży"
+    },
+    {
+      "i": 6,
+      "t": "w"
+    },
+    {
+      "i": 7,
+      "t": "domu"
+    },
+    {
+      "i": 8,
+      "t": "powietrzem"
+    },
+    {
+      "i": 9,
+      "t": "ruszony"
+    },
+    {
+      "i": 10,
+      "t": "i"
+    },
+    {
+      "i": 11,
+      "t": "ciężko"
+    },
+    {
+      "i": 12,
+      "t": "się"
+    },
+    {
+      "i": 13,
+      "t": "trapi"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.6",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.6",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.6#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "λέγων",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NSM",
+        "glosa": "saying;",
+        "id": "Mat.8.6#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "κύριε",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-VSM-T",
+        "glosa": "Lord,",
+        "id": "Mat.8.6#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.8.6#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "παῖς",
+        "lemma": "G3816",
+        "forma": "παῖς",
+        "morph": "N-NSM",
+        "glosa": "servant",
+        "id": "Mat.8.6#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "child"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "of mine",
+        "id": "Mat.8.6#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "me"
+      },
+      {
+        "t": "βέβληται",
+        "lemma": "G0906H",
+        "forma": "βάλλω",
+        "morph": "V-RPI-3S",
+        "glosa": "has been laid",
+        "id": "Mat.8.6#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to throw: put"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.8.6#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.8.6#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἰκίᾳ",
+        "lemma": "G3614G",
+        "forma": "οἰκία",
+        "morph": "N-DSF",
+        "glosa": "house",
+        "id": "Mat.8.6#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "home"
+      },
+      {
+        "t": "παραλυτικὸς",
+        "lemma": "G3885",
+        "forma": "παραλυτικός",
+        "morph": "A-NSM",
+        "glosa": "paralyzed",
+        "id": "Mat.8.6#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "paralytic"
+      },
+      {
+        "t": "δεινῶς",
+        "lemma": "G1171",
+        "forma": "δεινῶς",
+        "morph": "ADV",
+        "glosa": "grievously",
+        "id": "Mat.8.6#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "terribly"
+      },
+      {
+        "t": "βασανιζόμενος",
+        "lemma": "G0928H",
+        "forma": "βασανίζω",
+        "morph": "V-PPP-NSM",
+        "glosa": "being tormented.",
+        "id": "Mat.8.6#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to torture: anguish"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "λέγων oddane jako „mówiąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "κύριε oddane jako „Panie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "ὁ παῖς oddane jako „sługa”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "μου oddane jako „mój”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "βέβληται, perfectum bierne „has been laid”, oddane jako „leży”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τῇ οἰκίᾳ oddane jako „domu”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "παραλυτικὸς, glosa „paralyzed”, oddane jako „powietrzem ruszony”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [],
+      "uwaga": "„i” stoi przed „ciężko”, a między παραλυτικὸς a δεινῶς nie ma καί.",
+      "uzasadnienie": "Oba określenia sługi są w grece zestawione bez spójnika. „i” tylko je łączy po polsku."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "δεινῶς oddane jako „ciężko”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        12,
+        13
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "βασανιζόμενος, imiesłów bierny, oddane jako „się trapi”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „i” przed „ciężko się trapi” nie ma odpowiednika καί, a sens choroby i męki sługi zostaje ten sam.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "παραλυτικὸς δεινῶς βασανιζόμενος nie ma spójnika καί. BG wstawia „i” i oddaje imiesłów bierny jako „się trapi”.",
+      "tokeny_bg": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tokeny_zrodla": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "βέβληται ἐν τῇ οἰκίᾳ, glosa „has been laid in the house”, oddane jako „leży w domu”.",
+      "tokeny_bg": [
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A řka: Pane, služebník můj leží doma šlakem poražený, velmi se trápě.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.31",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 31
+  },
+  "tekst_bg": "Nie bójcie się tedy; nad wiele wróbelków wy zacniejszymi jesteście.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Nie"
+    },
+    {
+      "i": 1,
+      "t": "bójcie"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "tedy"
+    },
+    {
+      "i": 4,
+      "t": "nad"
+    },
+    {
+      "i": 5,
+      "t": "wiele"
+    },
+    {
+      "i": 6,
+      "t": "wróbelków"
+    },
+    {
+      "i": 7,
+      "t": "wy"
+    },
+    {
+      "i": 8,
+      "t": "zacniejszymi"
+    },
+    {
+      "i": 9,
+      "t": "jesteście"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.31",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.31",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.10.31#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "not"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "therefore",
+        "id": "Mat.10.31#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "φοβηθῆτε",
+        "lemma": "G5399",
+        "forma": "φοβηθῆτε",
+        "morph": "V-AOM-2P",
+        "glosa": "do fear",
+        "id": "Mat.10.31#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to fear"
+      },
+      {
+        "t": "πολλῶν",
+        "lemma": "G4183",
+        "forma": "πολύς",
+        "morph": "A-GPN",
+        "glosa": "than many",
+        "id": "Mat.10.31#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "much"
+      },
+      {
+        "t": "στρουθίων",
+        "lemma": "G4765",
+        "forma": "στρουθίον",
+        "morph": "N-GPN",
+        "glosa": "sparrows",
+        "id": "Mat.10.31#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "sparrow"
+      },
+      {
+        "t": "διαφέρετε",
+        "lemma": "G1308",
+        "forma": "διαφέρω",
+        "morph": "V-PAI-2P",
+        "glosa": "are worth more",
+        "id": "Mat.10.31#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to spread/surpass"
+      },
+      {
+        "t": "ὑμεῖς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2NP",
+        "glosa": "you yourselves.",
+        "id": "Mat.10.31#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "μὴ oddane jako „Nie”."
+    },
+    {
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "rozbicie",
+      "uwaga": "φοβηθῆτε, rozkaźnik strony medialnej, oddane jako „bójcie się”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "οὖν stoi po μὴ, a „tedy” po czasowniku."
+    },
+    {
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "rozbicie",
+      "uwaga": "πολλῶν, dopełniacz porównania, oddane jako „nad wiele”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "przeklad",
+      "uwaga": "στρουθίων oddane jako „wróbelków”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὑμεῖς stoi na końcu, a „wy” przed „zacniejszymi”."
+    },
+    {
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "rozbicie",
+      "uwaga": "διαφέρετε, glosa „are worth more”, oddane jako „zacniejszymi jesteście”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Dopełniacz πολλῶν rozbija się na „nad wiele”, a διαφέρετε na „zacniejszymi jesteście”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πολλῶν στρουθίων διαφέρετε ὑμεῖς BG oddaje jako „nad wiele wróbelków wy zacniejszymi jesteście”. Glosa διαφέρετε to „are worth more”.",
+      "tokeny_bg": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Protož nebojte se, mnohých vrabců dražší jste vy.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

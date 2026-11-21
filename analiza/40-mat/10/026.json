@@ -1,0 +1,556 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.26",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 26
+  },
+  "tekst_bg": "Przetoż nie bójcie się ich; albowiem nic nie jest skrytego, coby nie miało być objawiono, i nic tajemnego, czegoby się dowiedzieć nie miano.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Przetoż"
+    },
+    {
+      "i": 1,
+      "t": "nie"
+    },
+    {
+      "i": 2,
+      "t": "bójcie"
+    },
+    {
+      "i": 3,
+      "t": "się"
+    },
+    {
+      "i": 4,
+      "t": "ich"
+    },
+    {
+      "i": 5,
+      "t": "albowiem"
+    },
+    {
+      "i": 6,
+      "t": "nic"
+    },
+    {
+      "i": 7,
+      "t": "nie"
+    },
+    {
+      "i": 8,
+      "t": "jest"
+    },
+    {
+      "i": 9,
+      "t": "skrytego"
+    },
+    {
+      "i": 10,
+      "t": "coby"
+    },
+    {
+      "i": 11,
+      "t": "nie"
+    },
+    {
+      "i": 12,
+      "t": "miało"
+    },
+    {
+      "i": 13,
+      "t": "być"
+    },
+    {
+      "i": 14,
+      "t": "objawiono"
+    },
+    {
+      "i": 15,
+      "t": "i"
+    },
+    {
+      "i": 16,
+      "t": "nic"
+    },
+    {
+      "i": 17,
+      "t": "tajemnego"
+    },
+    {
+      "i": 18,
+      "t": "czegoby"
+    },
+    {
+      "i": 19,
+      "t": "się"
+    },
+    {
+      "i": 20,
+      "t": "dowiedzieć"
+    },
+    {
+      "i": 21,
+      "t": "nie"
+    },
+    {
+      "i": 22,
+      "t": "miano"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.26",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.26",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.10.26#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "not"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "therefore",
+        "id": "Mat.10.26#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "φοβηθῆτε",
+        "lemma": "G5399",
+        "forma": "φοβέω",
+        "morph": "V-AOM-2P",
+        "glosa": "do fear",
+        "id": "Mat.10.26#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to fear"
+      },
+      {
+        "t": "αὐτούς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-APM",
+        "glosa": "them;",
+        "id": "Mat.10.26#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "οὐδὲν",
+        "lemma": "G3762",
+        "forma": "οὐδείς",
+        "morph": "A-NSN",
+        "glosa": "no [thing]",
+        "id": "Mat.10.26#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "none"
+      },
+      {
+        "t": "γάρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.10.26#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "for"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is",
+        "id": "Mat.10.26#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to be"
+      },
+      {
+        "t": "κεκαλυμμένον",
+        "lemma": "G2572",
+        "forma": "καλύπτω",
+        "morph": "V-RPP-NSN",
+        "glosa": "concealed",
+        "id": "Mat.10.26#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to cover"
+      },
+      {
+        "t": "ὃ",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-NSN",
+        "glosa": "which",
+        "id": "Mat.10.26#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "which"
+      },
+      {
+        "t": "οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.10.26#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "no"
+      },
+      {
+        "t": "ἀποκαλυφθήσεται",
+        "lemma": "G0601",
+        "forma": "ἀποκαλύπτω",
+        "morph": "V-FPI-3S",
+        "glosa": "will be revealed",
+        "id": "Mat.10.26#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to reveal"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "or",
+        "id": "Mat.10.26#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "and"
+      },
+      {
+        "t": "κρυπτὸν",
+        "lemma": "G2927",
+        "forma": "κρυπτός",
+        "morph": "A-NSN",
+        "glosa": "hidden",
+        "id": "Mat.10.26#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "hidden"
+      },
+      {
+        "t": "ὃ",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-NSN",
+        "glosa": "which",
+        "id": "Mat.10.26#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "which"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.10.26#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "no"
+      },
+      {
+        "t": "γνωσθήσεται",
+        "lemma": "G1097",
+        "forma": "γινώσκω",
+        "morph": "V-FPI-3S",
+        "glosa": "will be known.",
+        "id": "Mat.10.26#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to know"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "οὖν stoi po μὴ, a BG wynosi je na początek jako „Przetoż”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "rozbicie",
+      "uwaga": "φοβηθῆτε, rozkaźnik strony medialnej, oddane jako „bójcie się”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτούς w bierniku oddane dopełniaczem „ich”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "γάρ stoi po οὐδὲν, a „albowiem” otwiera zdanie."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "przeklad",
+      "uwaga": "οὐδὲν oddane jako „nic”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [],
+      "rola": "dopelnienie",
+      "uwaga": "„nie” przy „nic” powtarza przeczenie. Przy ἐστιν w TR nie ma drugiego οὐκ.",
+      "uzasadnienie": "„nic nie” to składnia przeczenia przy οὐδὲν. Drugie „nie” nie dodaje nowego zaprzeczenia."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐστιν oddane jako „jest”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "κεκαλυμμένον, imiesłów bierny dokonany, oddane jako „skrytego”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὃ oddane jako „coby”; -by jest w tym samym słowie."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "οὐκ oddane jako „nie”."
+    },
+    {
+      "bg": [
+        12,
+        13,
+        14
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "rozbicie",
+      "uwaga": "ἀποκαλυφθήσεται, przyszły bierny, oddane jako „miało być objawiono”."
+    },
+    {
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "bg": [
+        16
+      ],
+      "zrodlo": [],
+      "rola": "dopelnienie",
+      "uwaga": "„nic” wznawia οὐδὲν przy κρυπτὸν, które w TR stoi bez przeczenia.",
+      "uzasadnienie": "κρυπτὸν jest elipsą po οὐδὲν. „nic” wypisuje to przeczenie, którego przy drugim członie nie ma."
+    },
+    {
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "κρυπτὸν oddane jako „tajemnego”."
+    },
+    {
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        13
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὃ oddane jako „czegoby”; -by jest w tym samym słowie."
+    },
+    {
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        14
+      ],
+      "rola": "przeklad",
+      "uwaga": "οὐ oddane jako „nie”."
+    },
+    {
+      "bg": [
+        19,
+        20,
+        22
+      ],
+      "zrodlo": [
+        15
+      ],
+      "rola": "rozbicie",
+      "uwaga": "γνωσθήσεται, przyszły bierny „będzie poznane”, oddane jako „się dowiedzieć miano”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „nie” przy „nic” jest składnią przeczenia, a drugie „nic” wznawia elipsę οὐδὲν przy κρυπτὸν.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "μὴ οὖν φοβηθῆτε αὐτούς BG oddaje jako „Przetoż nie bójcie się ich”. οὐδὲν … κεκαλυμμένον ὃ οὐκ ἀποκαλυφθήσεται jako „nic nie jest skrytego, coby nie miało być objawiono”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Przy κρυπτὸν nie ma drugiego οὐδὲν. BG dodaje „nic” w „nic tajemnego”, a γνωσθήσεται oddaje jako „się dowiedzieć nie miano”.",
+      "tokeny_bg": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "tokeny_zrodla": [
+        12,
+        13,
+        14,
+        15
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Protož nebojte se jich; nebť není nic skrytého, což by nemělo býti zjeveno, ani co tajného, ješto by nemělo zvědíno býti.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

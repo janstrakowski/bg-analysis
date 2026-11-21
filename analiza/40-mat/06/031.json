@@ -1,0 +1,416 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.31",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 31
+  },
+  "tekst_bg": "Nie troszczcie się tedy, mówiąc: Cóż będziemy jeść? albo co będziemy pić? albo czem się będziemy przyodziewać?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Nie"
+    },
+    {
+      "i": 1,
+      "t": "troszczcie"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "tedy"
+    },
+    {
+      "i": 4,
+      "t": "mówiąc"
+    },
+    {
+      "i": 5,
+      "t": "Cóż"
+    },
+    {
+      "i": 6,
+      "t": "będziemy"
+    },
+    {
+      "i": 7,
+      "t": "jeść"
+    },
+    {
+      "i": 8,
+      "t": "albo"
+    },
+    {
+      "i": 9,
+      "t": "co"
+    },
+    {
+      "i": 10,
+      "t": "będziemy"
+    },
+    {
+      "i": 11,
+      "t": "pić"
+    },
+    {
+      "i": 12,
+      "t": "albo"
+    },
+    {
+      "i": 13,
+      "t": "czem"
+    },
+    {
+      "i": 14,
+      "t": "się"
+    },
+    {
+      "i": 15,
+      "t": "będziemy"
+    },
+    {
+      "i": 16,
+      "t": "przyodziewać"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.31",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.31",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.6.31#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "not"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "therefore",
+        "id": "Mat.6.31#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "μεριμνήσητε",
+        "lemma": "G3309",
+        "forma": "μεριμνάω",
+        "morph": "V-AAS-2P",
+        "glosa": "shall you be anxious",
+        "id": "Mat.6.31#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to worry"
+      },
+      {
+        "t": "λέγοντες",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NPM",
+        "glosa": "saying;",
+        "id": "Mat.6.31#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to say"
+      },
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-ASN",
+        "glosa": "What",
+        "id": "Mat.6.31#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "which?"
+      },
+      {
+        "t": "φάγωμεν",
+        "lemma": "G5315",
+        "forma": "φαγεῖν",
+        "morph": "V-AAS-1P",
+        "glosa": "shall we eat",
+        "id": "Mat.6.31#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to eat"
+      },
+      {
+        "t": "ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "Or",
+        "id": "Mat.6.31#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "or"
+      },
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-ASN",
+        "glosa": "what",
+        "id": "Mat.6.31#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "which?"
+      },
+      {
+        "t": "πίωμεν",
+        "lemma": "G4095",
+        "forma": "πίνω",
+        "morph": "V-2AAS-1P",
+        "glosa": "shall we drink",
+        "id": "Mat.6.31#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to drink"
+      },
+      {
+        "t": "ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "Or",
+        "id": "Mat.6.31#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "or"
+      },
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-ASN",
+        "glosa": "what",
+        "id": "Mat.6.31#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "which?"
+      },
+      {
+        "t": "περιβαλώμεθα;",
+        "lemma": "G4016",
+        "forma": "περιβάλλω",
+        "morph": "V-2AMS-1P",
+        "glosa": "shall we wear?",
+        "id": "Mat.6.31#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to clothe"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "μή oddane jako „Nie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "μεριμνήσητε, tryb łączący strony czynnej „shall you be anxious”, oddane zwrotem „troszczcie się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "οὖν oddane jako „tedy” i przesunięte za czasownik."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "λέγοντες, imiesłów „saying”, oddane jako „mówiąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "τί oddane jako „Cóż”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "φάγωμεν, tryb łączący „shall we eat”, oddane jako „będziemy jeść”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἤ oddane jako „albo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "τί oddane jako „co”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        10,
+        11
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "πίωμεν, „shall we drink”, oddane jako „będziemy pić”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἤ oddane jako „albo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "τί, biernik „what”, oddane narzędnikiem „czem”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        14,
+        15,
+        16
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "περιβαλώμεθα, aoryst strony medialnej „shall we wear”, oddane jako „się będziemy przyodziewać”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Tryb łączący φάγωμεν, πίωμεν i περιβαλώμεθα BG oddaje przyszłym „będziemy jeść”, „będziemy pić” i „będziemy przyodziewać”. Pytania zostają te same.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "μὴ οὖν μεριμνήσητε λέγοντες τί φάγωμεν ἢ τί πίωμεν ἢ τί περιβαλώμεθα BG oddaje jako „Nie troszczcie się tedy, mówiąc: Cóż będziemy jeść? albo co będziemy pić? albo czem się będziemy przyodziewać?”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nepečujtež tedy, říkajíce: Co budeme jísti? anebo: Co budeme píti? anebo: Čím se budeme odívati?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

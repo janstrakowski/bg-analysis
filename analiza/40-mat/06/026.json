@@ -1,0 +1,774 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.26",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 26
+  },
+  "tekst_bg": "Spojrzyjcie na ptaki niebieskie, iż nie sieją ani żną, ani zbierają do gumien, a wżdy Ojciec wasz niebieski żywi je; izali wy nie jesteście daleko zacniejsi nad nie?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Spojrzyjcie"
+    },
+    {
+      "i": 1,
+      "t": "na"
+    },
+    {
+      "i": 2,
+      "t": "ptaki"
+    },
+    {
+      "i": 3,
+      "t": "niebieskie"
+    },
+    {
+      "i": 4,
+      "t": "iż"
+    },
+    {
+      "i": 5,
+      "t": "nie"
+    },
+    {
+      "i": 6,
+      "t": "sieją"
+    },
+    {
+      "i": 7,
+      "t": "ani"
+    },
+    {
+      "i": 8,
+      "t": "żną"
+    },
+    {
+      "i": 9,
+      "t": "ani"
+    },
+    {
+      "i": 10,
+      "t": "zbierają"
+    },
+    {
+      "i": 11,
+      "t": "do"
+    },
+    {
+      "i": 12,
+      "t": "gumien"
+    },
+    {
+      "i": 13,
+      "t": "a"
+    },
+    {
+      "i": 14,
+      "t": "wżdy"
+    },
+    {
+      "i": 15,
+      "t": "Ojciec"
+    },
+    {
+      "i": 16,
+      "t": "wasz"
+    },
+    {
+      "i": 17,
+      "t": "niebieski"
+    },
+    {
+      "i": 18,
+      "t": "żywi"
+    },
+    {
+      "i": 19,
+      "t": "je"
+    },
+    {
+      "i": 20,
+      "t": "izali"
+    },
+    {
+      "i": 21,
+      "t": "wy"
+    },
+    {
+      "i": 22,
+      "t": "nie"
+    },
+    {
+      "i": 23,
+      "t": "jesteście"
+    },
+    {
+      "i": 24,
+      "t": "daleko"
+    },
+    {
+      "i": 25,
+      "t": "zacniejsi"
+    },
+    {
+      "i": 26,
+      "t": "nad"
+    },
+    {
+      "i": 27,
+      "t": "nie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.26",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.26",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἐμβλέψατε",
+        "lemma": "G1689",
+        "forma": "ἐμβλέπω",
+        "morph": "V-AAM-2P",
+        "glosa": "do look",
+        "id": "Mat.6.26#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to look into/upon"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "at",
+        "id": "Mat.6.26#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APN",
+        "glosa": "the",
+        "id": "Mat.6.26#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πετεινὰ",
+        "lemma": "G4071",
+        "forma": "πετεινός",
+        "morph": "N-APN",
+        "glosa": "birds",
+        "id": "Mat.6.26#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "bird"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.6.26#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανοῦ",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-GSM",
+        "glosa": "air",
+        "id": "Mat.6.26#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "heaven"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.6.26#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.6.26#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "no"
+      },
+      {
+        "t": "σπείρουσιν",
+        "lemma": "G4687",
+        "forma": "σπείρω",
+        "morph": "V-PAI-3P",
+        "glosa": "they sow",
+        "id": "Mat.6.26#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to sow"
+      },
+      {
+        "t": "οὐδὲ",
+        "lemma": "G3761",
+        "forma": "οὐδέ",
+        "morph": "CONJ-N",
+        "glosa": "nor",
+        "id": "Mat.6.26#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "nor"
+      },
+      {
+        "t": "θερίζουσιν",
+        "lemma": "G2325",
+        "forma": "θερίζω",
+        "morph": "V-PAI-3P",
+        "glosa": "do they reap",
+        "id": "Mat.6.26#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to reap"
+      },
+      {
+        "t": "οὐδὲ",
+        "lemma": "G3761",
+        "forma": "οὐδέ",
+        "morph": "CONJ-N",
+        "glosa": "nor",
+        "id": "Mat.6.26#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "nor"
+      },
+      {
+        "t": "συνάγουσιν",
+        "lemma": "G4863",
+        "forma": "συνάγω",
+        "morph": "V-PAI-3P",
+        "glosa": "do they gather",
+        "id": "Mat.6.26#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to assemble"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.6.26#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "toward"
+      },
+      {
+        "t": "ἀποθήκας",
+        "lemma": "G0596",
+        "forma": "ἀποθήκη",
+        "morph": "N-APF",
+        "glosa": "barns —",
+        "id": "Mat.6.26#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "storehouse"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.6.26#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.6.26#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατὴρ",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-NSM-T",
+        "glosa": "Father",
+        "id": "Mat.6.26#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "father"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.6.26#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.6.26#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐράνιος",
+        "lemma": "G3770",
+        "forma": "οὐράνιος",
+        "morph": "A-NSM",
+        "glosa": "Heavenly",
+        "id": "Mat.6.26#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "heavenly"
+      },
+      {
+        "t": "τρέφει",
+        "lemma": "G5142",
+        "forma": "τρέφω",
+        "morph": "V-PAI-3S",
+        "glosa": "feeds",
+        "id": "Mat.6.26#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "to feed"
+      },
+      {
+        "t": "αὐτά",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-APN",
+        "glosa": "them;",
+        "id": "Mat.6.26#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "οὐχ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "Surely",
+        "id": "Mat.6.26#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "no"
+      },
+      {
+        "t": "ὑμεῖς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2NP",
+        "glosa": "you yourselves",
+        "id": "Mat.6.26#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "you"
+      },
+      {
+        "t": "μᾶλλον",
+        "lemma": "G3123G",
+        "forma": "μᾶλλον",
+        "morph": "ADV",
+        "glosa": "much",
+        "id": "Mat.6.26#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "more"
+      },
+      {
+        "t": "διαφέρετε",
+        "lemma": "G1308",
+        "forma": "διαφέρω",
+        "morph": "V-PAI-2P",
+        "glosa": "are more valuable",
+        "id": "Mat.6.26#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "to spread/surpass"
+      },
+      {
+        "t": "αὐτῶν;",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPN",
+        "glosa": "than they?",
+        "id": "Mat.6.26#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἐμβλέψατε, „do look”, oddane jako „Spojrzyjcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "εἰς, „toward”, oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "τὰ πετεινά, „birds”, oddane jako „ptaki”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τοῦ οὐρανοῦ, glosa „air”, leksykon „heaven”, oddane przymiotnikiem „niebieskie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὅτι oddane jako „iż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "οὐ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "σπείρουσιν, „they sow”, oddane jako „sieją”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "οὐδέ oddane jako „ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "θερίζουσιν oddane jako „żną”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "οὐδέ oddane jako „ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "συνάγουσιν oddane jako „zbierają”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ἀποθήκας, „barns”, oddane jako „gumien”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "καί oddane jako „a”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [],
+      "uwaga": "„wżdy” dopowiada „jednak”. καί ma już odpowiednik „a”.",
+      "uzasadnienie": "καί nie jest partykułą ὅμως ani ἀλλά. „wżdy” dopowiada przeciwstawienie, którego osobnym słowem w TR nie ma."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16,
+        17
+      ],
+      "uwaga": "ὁ πατήρ oddane jako „Ojciec”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ὑμῶν oddane jako „wasz”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        19,
+        20
+      ],
+      "uwaga": "ὁ οὐράνιος oddane jako „niebieski”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "τρέφει, „feeds”, oddane jako „żywi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "αὐτά oddane jako „je”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        20,
+        22
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "οὐχ, przeczenie retoryczne „not”, oddane jako „izali … nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "ὑμεῖς oddane jako „wy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "μᾶλλον, „more”, oddane jako „daleko”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        23,
+        25
+      ],
+      "zrodlo": [
+        26
+      ],
+      "uwaga": "διαφέρετε, „are more valuable”, oddane jako „jesteście … zacniejsi”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        26,
+        27
+      ],
+      "zrodlo": [
+        27
+      ],
+      "uwaga": "αὐτῶν, dopełniacz porównawczy „than they”, oddane jako „nad nie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „wżdy” dopowiada „jednak” przy καί, które ma już „a”. Ojciec nadal żywi ptaki, a wy jesteście od nich zacniejsi.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "καὶ ὁ πατὴρ ὑμῶν ὁ οὐράνιος τρέφει αὐτά BG oddaje jako „a wżdy Ojciec wasz niebieski żywi je”. „wżdy” nie ma osobnego słowa w grece.",
+      "tokeny_bg": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "tokeny_zrodla": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὐχ ὑμεῖς μᾶλλον διαφέρετε αὐτῶν BG rozkłada na „izali wy nie jesteście daleko zacniejsi nad nie”.",
+      "tokeny_bg": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "tokeny_zrodla": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Hleďte na ptactvo nebeské, žeť nesejí ani žnou, ani shromažďují do stodol, avšak Otec váš nebeský krmí je. I zdaliž vy jich mnohem nepřevyšujete?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

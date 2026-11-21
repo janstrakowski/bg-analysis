@@ -1,0 +1,522 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.4",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 4
+  },
+  "tekst_bg": "A on odpowiadając rzekł: Napisano: Nie samym chlebem człowiek żyć będzie, ale każdem słowem pochodzącem przez usta Boże.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "on"
+    },
+    {
+      "i": 2,
+      "t": "odpowiadając"
+    },
+    {
+      "i": 3,
+      "t": "rzekł"
+    },
+    {
+      "i": 4,
+      "t": "Napisano"
+    },
+    {
+      "i": 5,
+      "t": "Nie"
+    },
+    {
+      "i": 6,
+      "t": "samym"
+    },
+    {
+      "i": 7,
+      "t": "chlebem"
+    },
+    {
+      "i": 8,
+      "t": "człowiek"
+    },
+    {
+      "i": 9,
+      "t": "żyć"
+    },
+    {
+      "i": 10,
+      "t": "będzie"
+    },
+    {
+      "i": 11,
+      "t": "ale"
+    },
+    {
+      "i": 12,
+      "t": "każdem"
+    },
+    {
+      "i": 13,
+      "t": "słowem"
+    },
+    {
+      "i": 14,
+      "t": "pochodzącem"
+    },
+    {
+      "i": 15,
+      "t": "przez"
+    },
+    {
+      "i": 16,
+      "t": "usta"
+    },
+    {
+      "i": 17,
+      "t": "Boże"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.4",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.4",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.4.4#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "But",
+        "id": "Mat.4.4#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἀποκριθεὶς",
+        "lemma": "G0611",
+        "forma": "ἀποκρίνω",
+        "morph": "V-AOP-NSM",
+        "glosa": "answering",
+        "id": "Mat.4.4#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to answer"
+      },
+      {
+        "t": "εἶπεν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAI-3S",
+        "glosa": "He said;",
+        "id": "Mat.4.4#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to say"
+      },
+      {
+        "t": "γέγραπται",
+        "lemma": "G1125",
+        "forma": "γράφω",
+        "morph": "V-RPI-3S",
+        "glosa": "It has been written:",
+        "id": "Mat.4.4#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to write"
+      },
+      {
+        "t": "οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.4.4#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "no"
+      },
+      {
+        "t": "ἐπ᾽",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.4.4#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "ἄρτῳ",
+        "lemma": "G0740",
+        "forma": "ἄρτος",
+        "morph": "N-DSM",
+        "glosa": "bread",
+        "id": "Mat.4.4#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "bread"
+      },
+      {
+        "t": "μόνῳ",
+        "lemma": "G3441",
+        "forma": "μόνος",
+        "morph": "A-DSM",
+        "glosa": "alone",
+        "id": "Mat.4.4#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "alone"
+      },
+      {
+        "t": "ζήσεται",
+        "lemma": "G2198",
+        "forma": "ζάω",
+        "morph": "V-FDI-3S",
+        "glosa": "will live",
+        "id": "Mat.4.4#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to live"
+      },
+      {
+        "t": "ἄνθρωπος",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-NSM",
+        "glosa": "man,",
+        "id": "Mat.4.4#12",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "a human"
+      },
+      {
+        "t": "ἀλλ᾽",
+        "lemma": "G0235",
+        "forma": "ἀλλά",
+        "morph": "CONJ",
+        "glosa": "but",
+        "id": "Mat.4.4#13",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "but"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.4.4#14",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "παντὶ",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-DSN",
+        "glosa": "every",
+        "id": "Mat.4.4#15",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "all"
+      },
+      {
+        "t": "ῥήματι",
+        "lemma": "G4487",
+        "forma": "ῥῆμα",
+        "morph": "N-DSN",
+        "glosa": "declaration",
+        "id": "Mat.4.4#16",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "declaration"
+      },
+      {
+        "t": "ἐκπορευομένῳ",
+        "lemma": "G1607",
+        "forma": "ἐκπορεύω",
+        "morph": "V-PNP-DSN",
+        "glosa": "coming out",
+        "id": "Mat.4.4#17",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to depart"
+      },
+      {
+        "t": "διὰ",
+        "lemma": "G1223",
+        "forma": "διά",
+        "morph": "PREP",
+        "glosa": "through",
+        "id": "Mat.4.4#18",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "through/because of"
+      },
+      {
+        "t": "στόματος",
+        "lemma": "G4750",
+        "forma": "στόμα",
+        "morph": "N-GSN",
+        "glosa": "[the] mouth",
+        "id": "Mat.4.4#19",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "mouth"
+      },
+      {
+        "t": "θεοῦ",
+        "lemma": "G2316",
+        "forma": "θεός",
+        "morph": "N-GSM-T",
+        "glosa": "of God.’",
+        "id": "Mat.4.4#20",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "God"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po rodzajniku, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ὁ, rodzajnik użyty rzeczownikowo, oddane jako „on”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἀποκριθεὶς oddane jako „odpowiadając”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "εἶπεν oddane jako „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "γέγραπται, perfectum strony biernej, oddane jako „Napisano”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "οὐκ oddane jako „Nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "μόνῳ oddane jako „samym”; szyk stawia przymiotnik przed rzeczownikiem."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "ἐπ᾽ ἄρτῳ oddane narzędnikiem „chlebem”; przyimek nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἄνθρωπος oddane jako „człowiek”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ζήσεται, czas przyszły, oddane jako „żyć będzie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἀλλ᾽ oddane jako „ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "παντὶ oddane jako „każdem”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12,
+        14
+      ],
+      "uwaga": "ἐπὶ ῥήματι oddane narzędnikiem „słowem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἐκπορευομένῳ oddane jako „pochodzącem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "διὰ oddane jako „przez”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "στόματος, dopełniacz, oddane jako „usta” przy „przez”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "θεοῦ w dopełniaczu oddane przymiotnikiem „Boże”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma grupę. ἐπ᾽ i ἐπὶ wchodzą w narzędnik „chlebem” i „słowem”, a ζήσεται rozkłada się na „żyć będzie”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐπ᾽ ἄρτῳ i ἐπὶ ῥήματι nie mają osobnego polskiego przyimka. Ich funkcję niesie narzędnik „chlebem” i „słowem”.",
+      "tokeny_bg": [
+        7,
+        13
+      ],
+      "tokeny_zrodla": [
+        6,
+        7,
+        12,
+        14
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "On pak odpovídaje, řekl: Psánoť jest: Ne samým chlebem živ bude člověk, ale každým slovem vycházejícím skrze ústa Boží.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

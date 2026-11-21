@@ -1,0 +1,353 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.19",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 19
+  },
+  "tekst_bg": "I rzekł im: Pójdźcie za mną, a uczynię was rybitwami ludzi.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "rzekł"
+    },
+    {
+      "i": 2,
+      "t": "im"
+    },
+    {
+      "i": 3,
+      "t": "Pójdźcie"
+    },
+    {
+      "i": 4,
+      "t": "za"
+    },
+    {
+      "i": 5,
+      "t": "mną"
+    },
+    {
+      "i": 6,
+      "t": "a"
+    },
+    {
+      "i": 7,
+      "t": "uczynię"
+    },
+    {
+      "i": 8,
+      "t": "was"
+    },
+    {
+      "i": 9,
+      "t": "rybitwami"
+    },
+    {
+      "i": 10,
+      "t": "ludzi"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.19",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.19",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.4.19#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "λέγει",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-3S",
+        "glosa": "He says",
+        "id": "Mat.4.19#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτοῖς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DPM",
+        "glosa": "to them;",
+        "id": "Mat.4.19#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "δεῦτε",
+        "lemma": "G1205",
+        "forma": "δεῦτε",
+        "morph": "INJ",
+        "glosa": "Come",
+        "id": "Mat.4.19#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "come"
+      },
+      {
+        "t": "ὀπίσω",
+        "lemma": "G3694",
+        "forma": "ὀπίσω",
+        "morph": "PREP",
+        "glosa": "after",
+        "id": "Mat.4.19#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "after"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "Me,",
+        "id": "Mat.4.19#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "me"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.19#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "and"
+      },
+      {
+        "t": "ποιήσω",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-FAI-1S",
+        "glosa": "I will make",
+        "id": "Mat.4.19#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "ὑμᾶς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2AP",
+        "glosa": "you",
+        "id": "Mat.4.19#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἁλιεῖς",
+        "lemma": "G0231",
+        "forma": "ἁλιεύς",
+        "morph": "N-APM",
+        "glosa": "fishers",
+        "id": "Mat.4.19#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "fisherman"
+      },
+      {
+        "t": "ἀνθρώπων",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-GPM",
+        "glosa": "of men.",
+        "id": "Mat.4.19#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "a human"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "λέγει, czas teraźniejszy, oddane przeszłym „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "αὐτοῖς oddane jako „im”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "δεῦτε, glosa „Come”, oddane jako „Pójdźcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ὀπίσω oddane jako „za”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "μου, dopełniacz, oddane narzędnikiem „mną”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ποιήσω oddane jako „uczynię”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ὑμᾶς oddane jako „was”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἁλιεῖς, biernik, oddane narzędnikiem „rybitwami”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἀνθρώπων oddane jako „ludzi”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Wezwanie zostaje to samo: pójść za nim, a on uczyni ich rybakami ludzi. λέγει, czas teraźniejszy, brzmi po polsku „rzekł”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "δεῦτε ὀπίσω μου καὶ ποιήσω ὑμᾶς ἁλιεῖς ἀνθρώπων BG oddaje jako „Pójdźcie za mną, a uczynię was rybitwami ludzi”.",
+      "tokeny_bg": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I dí jim: Pojďte za mnou, a učiním vás rybáře lidí.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

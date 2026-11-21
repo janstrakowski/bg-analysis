@@ -1,0 +1,434 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.2.21",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 2,
+    "werset": 21
+  },
+  "tekst_bg": "A on wstawszy, wziął do siebie dzieciątko i matkę jego, i przyszedł do ziemi Izraelskiej.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "on"
+    },
+    {
+      "i": 2,
+      "t": "wstawszy"
+    },
+    {
+      "i": 3,
+      "t": "wziął"
+    },
+    {
+      "i": 4,
+      "t": "do"
+    },
+    {
+      "i": 5,
+      "t": "siebie"
+    },
+    {
+      "i": 6,
+      "t": "dzieciątko"
+    },
+    {
+      "i": 7,
+      "t": "i"
+    },
+    {
+      "i": 8,
+      "t": "matkę"
+    },
+    {
+      "i": 9,
+      "t": "jego"
+    },
+    {
+      "i": 10,
+      "t": "i"
+    },
+    {
+      "i": 11,
+      "t": "przyszedł"
+    },
+    {
+      "i": 12,
+      "t": "do"
+    },
+    {
+      "i": 13,
+      "t": "ziemi"
+    },
+    {
+      "i": 14,
+      "t": "Izraelskiej"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.2.21",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.2.21",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.2.21#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.2.21#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐγερθεὶς",
+        "lemma": "G1453",
+        "forma": "ἐγείρω",
+        "morph": "V-APP-NSM",
+        "glosa": "having arisen",
+        "id": "Mat.2.21#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to arise"
+      },
+      {
+        "t": "παρέλαβεν",
+        "lemma": "G3880",
+        "forma": "παραλαμβάνω",
+        "morph": "V-2AAI-3S",
+        "glosa": "he took",
+        "id": "Mat.2.21#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to take"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.2.21#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "παιδίον",
+        "lemma": "G3813",
+        "forma": "παιδίον",
+        "morph": "N-ASN",
+        "glosa": "Child",
+        "id": "Mat.2.21#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "child"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.2.21#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "and"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.2.21#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μητέρα",
+        "lemma": "G3384",
+        "forma": "μήτηρ",
+        "morph": "N-ASF",
+        "glosa": "mother",
+        "id": "Mat.2.21#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "mother"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him",
+        "id": "Mat.2.21#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.2.21#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἦλθεν",
+        "lemma": "G2064",
+        "forma": "ἦλθεν",
+        "morph": "V-2AAI-3S",
+        "glosa": "came",
+        "id": "Mat.2.21#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.2.21#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "toward"
+      },
+      {
+        "t": "γῆν",
+        "lemma": "G1093H",
+        "forma": "γῆ",
+        "morph": "N-ASF",
+        "glosa": "[the] land",
+        "id": "Mat.2.21#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "earth: country"
+      },
+      {
+        "t": "Ἰσραήλ",
+        "lemma": "G2474",
+        "forma": "Ἰσραήλ",
+        "morph": "N-GSM-L",
+        "glosa": "of Israel.",
+        "id": "Mat.2.21#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "Israel"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po rodzajniku, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ὁ, rodzajnik użyty rzeczownikowo, oddane jako „on”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐγερθεὶς oddane jako „wstawszy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        3,
+        4,
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "παρέλαβεν, „he took”, rozbite na „wziął do siebie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τὸ παιδίον oddane jako „dzieciątko”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "καί oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τὴν μητέρα oddane jako „matkę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καί oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἦλθεν oddane jako „przyszedł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "γῆν oddane jako „ziemi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "Ἰσραήλ w dopełniaczu oddane przymiotnikiem „Izraelskiej”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. „do siebie” rozbija παρέλαβεν, a rodzajniki weszły w „dzieciątko” i „matkę”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Ὁ δὲ ἐγερθεὶς παρέλαβεν τὸ παιδίον oddane jako „A on wstawszy, wziął do siebie dzieciątko”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Kterýžto vstav, vzal dítě i matku jeho, a přišel do země Izraelské.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

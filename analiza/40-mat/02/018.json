@@ -1,0 +1,610 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.2.18",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 2,
+    "werset": 18
+  },
+  "tekst_bg": "Głos w Ramie słyszany jest, lament, i płacz, i narzekanie wielkie: Rachel płacząca synów swoich nie dała się pocieszyć, przeto, że ich niemasz.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Głos"
+    },
+    {
+      "i": 1,
+      "t": "w"
+    },
+    {
+      "i": 2,
+      "t": "Ramie"
+    },
+    {
+      "i": 3,
+      "t": "słyszany"
+    },
+    {
+      "i": 4,
+      "t": "jest"
+    },
+    {
+      "i": 5,
+      "t": "lament"
+    },
+    {
+      "i": 6,
+      "t": "i"
+    },
+    {
+      "i": 7,
+      "t": "płacz"
+    },
+    {
+      "i": 8,
+      "t": "i"
+    },
+    {
+      "i": 9,
+      "t": "narzekanie"
+    },
+    {
+      "i": 10,
+      "t": "wielkie"
+    },
+    {
+      "i": 11,
+      "t": "Rachel"
+    },
+    {
+      "i": 12,
+      "t": "płacząca"
+    },
+    {
+      "i": 13,
+      "t": "synów"
+    },
+    {
+      "i": 14,
+      "t": "swoich"
+    },
+    {
+      "i": 15,
+      "t": "nie"
+    },
+    {
+      "i": 16,
+      "t": "dała"
+    },
+    {
+      "i": 17,
+      "t": "się"
+    },
+    {
+      "i": 18,
+      "t": "pocieszyć"
+    },
+    {
+      "i": 19,
+      "t": "przeto"
+    },
+    {
+      "i": 20,
+      "t": "że"
+    },
+    {
+      "i": 21,
+      "t": "ich"
+    },
+    {
+      "i": 22,
+      "t": "niemasz"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.2.18",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.2.18",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "φωνὴ",
+        "lemma": "G5456G",
+        "forma": "φωνή",
+        "morph": "N-NSF",
+        "glosa": "A voice",
+        "id": "Mat.2.18#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "voice/sound: voice"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.2.18#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "Ῥαμὰ",
+        "lemma": "G4471",
+        "forma": "Ῥαμᾶ",
+        "morph": "N-DSF-L",
+        "glosa": "Ramah",
+        "id": "Mat.2.18#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "Ramah"
+      },
+      {
+        "t": "ἠκούσθη",
+        "lemma": "G0191",
+        "forma": "ἀκούω",
+        "morph": "V-API-3S",
+        "glosa": "was heard,",
+        "id": "Mat.2.18#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to hear"
+      },
+      {
+        "t": "θρῆνος",
+        "lemma": "G2355",
+        "forma": "θρῆνος",
+        "morph": "N-NSM",
+        "glosa": "lamentation",
+        "id": "Mat.2.18#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "lamentation"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.2.18#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "and"
+      },
+      {
+        "t": "κλαυθμὸς",
+        "lemma": "G2805",
+        "forma": "κλαυθμός",
+        "morph": "N-NSM",
+        "glosa": "weeping",
+        "id": "Mat.2.18#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "weeping"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.2.18#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὀδυρμὸς",
+        "lemma": "G3602",
+        "forma": "ὀδυρμός",
+        "morph": "N-NSM",
+        "glosa": "mourning",
+        "id": "Mat.2.18#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "mourning"
+      },
+      {
+        "t": "πολύς",
+        "lemma": "G4183",
+        "forma": "πολύς",
+        "morph": "A-NSM",
+        "glosa": "great,",
+        "id": "Mat.2.18#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "much"
+      },
+      {
+        "t": "Ῥαχὴλ",
+        "lemma": "G4478",
+        "forma": "Ῥαχήλ",
+        "morph": "N-NSF-P",
+        "glosa": "Rachel",
+        "id": "Mat.2.18#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "Rachel"
+      },
+      {
+        "t": "κλαίουσα",
+        "lemma": "G2799",
+        "forma": "κλαίω",
+        "morph": "V-PAP-NSF",
+        "glosa": "weeping [for]",
+        "id": "Mat.2.18#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to weep"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APN",
+        "glosa": "the",
+        "id": "Mat.2.18#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "τέκνα",
+        "lemma": "G5043",
+        "forma": "τέκνον",
+        "morph": "N-APN",
+        "glosa": "children",
+        "id": "Mat.2.18#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "child"
+      },
+      {
+        "t": "αὐτῆς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSF",
+        "glosa": "of her,",
+        "id": "Mat.2.18#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.2.18#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "and"
+      },
+      {
+        "t": "οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.2.18#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "no"
+      },
+      {
+        "t": "ἤθελεν",
+        "lemma": "G2309",
+        "forma": "θέλω",
+        "morph": "V-IAI-3S",
+        "glosa": "was willing",
+        "id": "Mat.2.18#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to will/desire"
+      },
+      {
+        "t": "παρακληθῆναι",
+        "lemma": "G3870",
+        "forma": "παρακαλέω",
+        "morph": "V-APN",
+        "glosa": "to be comforted",
+        "id": "Mat.2.18#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to plead/comfort"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "because",
+        "id": "Mat.2.18#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "no more",
+        "id": "Mat.2.18#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "no"
+      },
+      {
+        "t": "εἰσίν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3P",
+        "glosa": "they are.",
+        "id": "Mat.2.18#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "to be"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "φωνὴ oddane jako „Głos”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "Ῥαμὰ oddane jako „Ramie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἠκούσθη, aoryst „was heard”, oddane jako „słyszany jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "θρῆνος oddane jako „lament”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "καί oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "κλαυθμὸς oddane jako „płacz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καί oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ὀδυρμὸς oddane jako „narzekanie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "πολύς oddane jako „wielkie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "Ῥαχὴλ oddane jako „Rachel”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "κλαίουσα oddane jako „płacząca”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τὰ τέκνα, glosa „children”, oddane jako „synów”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "αὐτῆς oddane jako „swoich”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "καί przed οὐκ ἤθελεν nie ma polskiego spójnika."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "οὐκ oddane jako „nie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        16,
+        17,
+        18
+      ],
+      "zrodlo": [
+        17,
+        18
+      ],
+      "uwaga": "ἤθελεν παρακληθῆναι, „was willing to be comforted”, oddane jako „dała się pocieszyć”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        19,
+        20
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "ὅτι, glosa „because”, rozbite na „przeto że”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21,
+        22
+      ],
+      "zrodlo": [
+        20,
+        21
+      ],
+      "uwaga": "οὐκ εἰσίν oddane jako „ich niemasz”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Spójnik καί przed οὐκ ἤθελεν nie ma polskiego słowa. τὰ τέκνα, glosa „children”, BG oddaje jako „synów”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      15
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "καί stoi przed οὐκ ἤθελεν i nie ma odpowiednika między „swoich” a „nie dała”.",
+      "tokeny_bg": [
+        14,
+        15
+      ],
+      "tokeny_zrodla": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τὰ τέκνα ma glosę „children”. BG daje „synów”.",
+      "tokeny_bg": [
+        13
+      ],
+      "tokeny_zrodla": [
+        12,
+        13
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Hlas v Ráma slyšán jest, naříkání a pláč a kvílení mnohé; Ráchel plačící synů svých, a nedala se potěšiti, protože jich není.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

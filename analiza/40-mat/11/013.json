@@ -1,0 +1,310 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.13",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 13
+  },
+  "tekst_bg": "Bo wszyscy prorocy i zakon aż do Jana prorokowali.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Bo"
+    },
+    {
+      "i": 1,
+      "t": "wszyscy"
+    },
+    {
+      "i": 2,
+      "t": "prorocy"
+    },
+    {
+      "i": 3,
+      "t": "i"
+    },
+    {
+      "i": 4,
+      "t": "zakon"
+    },
+    {
+      "i": 5,
+      "t": "aż"
+    },
+    {
+      "i": 6,
+      "t": "do"
+    },
+    {
+      "i": 7,
+      "t": "Jana"
+    },
+    {
+      "i": 8,
+      "t": "prorokowali"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.13",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.13",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "πάντες",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NPM",
+        "glosa": "All",
+        "id": "Mat.11.13#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "all"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.11.13#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.11.13#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "προφῆται",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-NPM",
+        "glosa": "prophets",
+        "id": "Mat.11.13#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "prophet"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.13#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.11.13#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "νόμος",
+        "lemma": "G3551",
+        "forma": "νόμος",
+        "morph": "N-NSM",
+        "glosa": "law",
+        "id": "Mat.11.13#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "law"
+      },
+      {
+        "t": "ἕως",
+        "lemma": "G2193",
+        "forma": "ἕως",
+        "morph": "PREP",
+        "glosa": "until",
+        "id": "Mat.11.13#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "until"
+      },
+      {
+        "t": "Ἰωάννου",
+        "lemma": "G2491G",
+        "forma": "Ἰωάννης",
+        "morph": "N-GSM-P",
+        "glosa": "John",
+        "id": "Mat.11.13#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "John"
+      },
+      {
+        "t": "ἐπροφήτευσαν",
+        "lemma": "G4395",
+        "forma": "προφητεύω",
+        "morph": "V-AAI-3P",
+        "glosa": "prophesied.",
+        "id": "Mat.11.13#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to prophesy"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "γὰρ stoi na drugim miejscu, a BG wynosi je na początek jako „Bo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "πάντες oddane jako „wszyscy”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "οἱ προφῆται oddane jako „prorocy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "ὁ νόμος oddane jako „zakon”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἕως oddane jako „aż do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Ἰωάννου oddane jako „Jana”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἐπροφήτευσαν oddane jako „prorokowali”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token ma odpowiednik. ἕως rozbito na „aż do”, a rodzajniki przy προφῆται i νόμος weszły w rzeczownik.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πάντες οἱ προφῆται καὶ ὁ νόμος ἕως Ἰωάννου ἐπροφήτευσαν BG oddaje słowo w słowo, z ἕως jako „aż do”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo všickni Proroci i Zákon až do Jana prorokovali.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

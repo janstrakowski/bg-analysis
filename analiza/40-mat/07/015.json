@@ -1,0 +1,481 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.15",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 15
+  },
+  "tekst_bg": "A strzeżcie się fałszywych proroków, którzy przychodzą do was w odzieniu owczem, ale wewnątrz są wilcy drapieżni.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "strzeżcie"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "fałszywych"
+    },
+    {
+      "i": 4,
+      "t": "proroków"
+    },
+    {
+      "i": 5,
+      "t": "którzy"
+    },
+    {
+      "i": 6,
+      "t": "przychodzą"
+    },
+    {
+      "i": 7,
+      "t": "do"
+    },
+    {
+      "i": 8,
+      "t": "was"
+    },
+    {
+      "i": 9,
+      "t": "w"
+    },
+    {
+      "i": 10,
+      "t": "odzieniu"
+    },
+    {
+      "i": 11,
+      "t": "owczem"
+    },
+    {
+      "i": 12,
+      "t": "ale"
+    },
+    {
+      "i": 13,
+      "t": "wewnątrz"
+    },
+    {
+      "i": 14,
+      "t": "są"
+    },
+    {
+      "i": 15,
+      "t": "wilcy"
+    },
+    {
+      "i": 16,
+      "t": "drapieżni"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.15",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.15",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Προσέχετε",
+        "lemma": "G4337",
+        "forma": "προσέχω",
+        "morph": "V-PAM-2P",
+        "glosa": "do beware",
+        "id": "Mat.7.15#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to watch out"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.7.15#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "of",
+        "id": "Mat.7.15#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "away from"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "the",
+        "id": "Mat.7.15#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ψευδοπροφητῶν",
+        "lemma": "G5578",
+        "forma": "ψευδοπροφήτης",
+        "morph": "N-GPM",
+        "glosa": "false prophets",
+        "id": "Mat.7.15#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "false prophet"
+      },
+      {
+        "t": "οἵτινες",
+        "lemma": "G3748",
+        "forma": "ὅστις",
+        "morph": "R-NPM",
+        "glosa": "who",
+        "id": "Mat.7.15#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "who/which"
+      },
+      {
+        "t": "ἔρχονται",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-PNI-3P",
+        "glosa": "come",
+        "id": "Mat.7.15#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "πρὸς",
+        "lemma": "G4314",
+        "forma": "πρός",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.7.15#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to/with"
+      },
+      {
+        "t": "ὑμᾶς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2AP",
+        "glosa": "you",
+        "id": "Mat.7.15#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.7.15#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ἐνδύμασιν",
+        "lemma": "G1742",
+        "forma": "ἔνδυμα",
+        "morph": "N-DPN",
+        "glosa": "clothing",
+        "id": "Mat.7.15#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "clothing"
+      },
+      {
+        "t": "προβάτων",
+        "lemma": "G4263",
+        "forma": "πρόβατον",
+        "morph": "N-GPN",
+        "glosa": "of sheep,",
+        "id": "Mat.7.15#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "sheep"
+      },
+      {
+        "t": "ἔσωθεν",
+        "lemma": "G2081",
+        "forma": "ἔσωθεν",
+        "morph": "ADV",
+        "glosa": "inwardly",
+        "id": "Mat.7.15#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "inwardly"
+      },
+      {
+        "t": "δέ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.7.15#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "then"
+      },
+      {
+        "t": "εἰσιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3P",
+        "glosa": "they are",
+        "id": "Mat.7.15#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to be"
+      },
+      {
+        "t": "λύκοι",
+        "lemma": "G3074",
+        "forma": "λύκος",
+        "morph": "N-NPM",
+        "glosa": "wolves",
+        "id": "Mat.7.15#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "wolf"
+      },
+      {
+        "t": "ἅρπαγες",
+        "lemma": "G0727",
+        "forma": "ἅρπαξ",
+        "morph": "A-NPM",
+        "glosa": "ravenous.",
+        "id": "Mat.7.15#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "rapacious"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi drugie, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Προσέχετε, strona czynna, oddane zwrotem „strzeżcie się”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [
+        2,
+        3,
+        4
+      ],
+      "uwaga": "ἀπὸ τῶν ψευδοπροφητῶν oddane dopełniaczem „fałszywych proroków”; złożenie rozbite na przymiotnik i rzeczownik."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "οἵτινες oddane jako „którzy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἔρχονται oddane jako „przychodzą”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "πρὸς oddane jako „do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ὑμᾶς oddane jako „was”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἐνδύμασιν oddane jako „odzieniu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "προβάτων, dopełniacz, oddane przymiotnikiem „owczem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "δέ, glosa „however”, oddane jako „ale”; BG stawia je przed ἔσωθεν."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἔσωθεν oddane jako „wewnątrz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "εἰσιν oddane jako „są”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "λύκοι oddane jako „wilcy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἅρπαγες oddane jako „drapieżni”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Ostrzeżenie, odzienie i wilki są pokryte. ἀπό siedzi w dopełniaczu „fałszywych proroków”, a „się” jest zwrotem „strzec się”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Προσέχετε δὲ ἀπὸ τῶν ψευδοπροφητῶν BG oddaje jako „A strzeżcie się fałszywych proroków”, bez osobnego przyimka.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Pilně se pak varujte falešných proroků, kteříž přicházejí k vám v rouše ovčím, ale vnitř jsou vlci hltaví.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

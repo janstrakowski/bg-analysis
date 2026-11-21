@@ -1,0 +1,210 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.3.8",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 3,
+    "werset": 8
+  },
+  "tekst_bg": "Przynoścież tedy owoce godne pokuty;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Przynoścież"
+    },
+    {
+      "i": 1,
+      "t": "tedy"
+    },
+    {
+      "i": 2,
+      "t": "owoce"
+    },
+    {
+      "i": 3,
+      "t": "godne"
+    },
+    {
+      "i": 4,
+      "t": "pokuty"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.3.8",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.3.8",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ποιήσατε",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-AAM-2P",
+        "glosa": "do produce",
+        "id": "Mat.3.8#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "therefore",
+        "id": "Mat.3.8#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "καρποὺς",
+        "lemma": "G2590",
+        "forma": "καρποὺς",
+        "morph": "N-APM",
+        "glosa": "fruits",
+        "id": "Mat.3.8#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "fruit"
+      },
+      {
+        "t": "ἄξιους",
+        "lemma": "G0514",
+        "forma": "ἄξιους",
+        "morph": "A-APM",
+        "glosa": "worthy",
+        "id": "Mat.3.8#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "worthy"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "<the>",
+        "id": "Mat.3.8#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μετανοίας",
+        "lemma": "G3341",
+        "forma": "μετάνοια",
+        "morph": "N-GSF",
+        "glosa": "of repentance.",
+        "id": "Mat.3.8#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "repentance"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ποιήσατε, „do produce”, oddane jako „Przynoścież”; partykuła -ż tkwi w tym samym wyrazie."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "οὖν oddane jako „tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "καρποὺς oddane jako „owoce”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀξίους oddane jako „godne”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τῆς μετανοίας oddane jako „pokuty”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajnik τῆς wszedł w „pokuty”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ποιήσατε οὖν καρποὺς ἀξίους τῆς μετανοίας BG oddaje jako „Przynoścież tedy owoce godne pokuty”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Protož čiňte ovoce hodné pokání.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

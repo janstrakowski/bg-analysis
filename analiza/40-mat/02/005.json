@@ -1,0 +1,394 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.2.5",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 2,
+    "werset": 5
+  },
+  "tekst_bg": "A oni mu rzekli: W Betlehemie Judzkiem; bo tak napisano przez proroka:",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "oni"
+    },
+    {
+      "i": 2,
+      "t": "mu"
+    },
+    {
+      "i": 3,
+      "t": "rzekli"
+    },
+    {
+      "i": 4,
+      "t": "W"
+    },
+    {
+      "i": 5,
+      "t": "Betlehemie"
+    },
+    {
+      "i": 6,
+      "t": "Judzkiem"
+    },
+    {
+      "i": 7,
+      "t": "bo"
+    },
+    {
+      "i": 8,
+      "t": "tak"
+    },
+    {
+      "i": 9,
+      "t": "napisano"
+    },
+    {
+      "i": 10,
+      "t": "przez"
+    },
+    {
+      "i": 11,
+      "t": "proroka"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.2.5",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.2.5",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "<the>",
+        "id": "Mat.2.5#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.2.5#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "εἶπαν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAI-3P",
+        "glosa": "they said",
+        "id": "Mat.2.5#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to him;",
+        "id": "Mat.2.5#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "In",
+        "id": "Mat.2.5#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "Βηθλέεμ",
+        "lemma": "G0965",
+        "forma": "Βηθλεέμ",
+        "morph": "N-DSF-L",
+        "glosa": "Bethlehem",
+        "id": "Mat.2.5#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Bethlehem"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "<the>",
+        "id": "Mat.2.5#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰουδαίας",
+        "lemma": "G2449",
+        "forma": "Ἰουδαία",
+        "morph": "N-GSF-L",
+        "glosa": "of Judea.",
+        "id": "Mat.2.5#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "Judea"
+      },
+      {
+        "t": "οὕτως",
+        "lemma": "G3779",
+        "forma": "οὕτω, οὕτως",
+        "morph": "ADV",
+        "glosa": "thus",
+        "id": "Mat.2.5#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "thus(-ly)"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.2.5#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "for"
+      },
+      {
+        "t": "γέγραπται",
+        "lemma": "G1125",
+        "forma": "γράφω",
+        "morph": "V-RPI-3S",
+        "glosa": "it has been written",
+        "id": "Mat.2.5#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to write"
+      },
+      {
+        "t": "διὰ",
+        "lemma": "G1223",
+        "forma": "διά",
+        "morph": "PREP",
+        "glosa": "through",
+        "id": "Mat.2.5#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "through/because of"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.2.5#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "προφήτου",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-GSM",
+        "glosa": "prophet:",
+        "id": "Mat.2.5#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "prophet"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po rodzajniku, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "οἱ, rodzajnik użyty rzeczownikowo, oddane jako „oni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "εἶπαν oddane jako „rzekli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐν oddane jako „W”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Βηθλέεμ oddane jako „Betlehemie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τῆς Ἰουδαίας oddane przymiotnikiem „Judzkiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "γάρ stoi po οὕτως, a BG daje „bo” przed „tak”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "οὕτως oddane jako „tak”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "γέγραπται, perfectum bierne, oddane jako „napisano”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "διά oddane jako „przez”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τοῦ προφήτου oddane jako „proroka”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajniki weszły w „Judzkiem” i „proroka”, a δὲ i γάρ stoją w polskim na innym miejscu.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οἱ δὲ εἶπαν αὐτῷ oddane jako „A oni mu rzekli”; rodzajnik οἱ jest zaimkiem „oni”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Oni pak řekli jemu: V Betlémě Judově. Nebo tak jest psáno skrze proroka:",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

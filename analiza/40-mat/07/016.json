@@ -1,0 +1,448 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.16",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 16
+  },
+  "tekst_bg": "Z owoców ich poznacie je; izali zbierają z ciernia grona winne, albo z ostu figi?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Z"
+    },
+    {
+      "i": 1,
+      "t": "owoców"
+    },
+    {
+      "i": 2,
+      "t": "ich"
+    },
+    {
+      "i": 3,
+      "t": "poznacie"
+    },
+    {
+      "i": 4,
+      "t": "je"
+    },
+    {
+      "i": 5,
+      "t": "izali"
+    },
+    {
+      "i": 6,
+      "t": "zbierają"
+    },
+    {
+      "i": 7,
+      "t": "z"
+    },
+    {
+      "i": 8,
+      "t": "ciernia"
+    },
+    {
+      "i": 9,
+      "t": "grona"
+    },
+    {
+      "i": 10,
+      "t": "winne"
+    },
+    {
+      "i": 11,
+      "t": "albo"
+    },
+    {
+      "i": 12,
+      "t": "z"
+    },
+    {
+      "i": 13,
+      "t": "ostu"
+    },
+    {
+      "i": 14,
+      "t": "figi"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.16",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.16",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "By",
+        "id": "Mat.7.16#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "away from"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "the",
+        "id": "Mat.7.16#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "καρπῶν",
+        "lemma": "G2590",
+        "forma": "καρπός",
+        "morph": "N-GPM",
+        "glosa": "fruits",
+        "id": "Mat.7.16#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "fruit"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them",
+        "id": "Mat.7.16#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐπιγνώσεσθε",
+        "lemma": "G1921",
+        "forma": "ἐπιγινώσκω",
+        "morph": "V-FDI-2P",
+        "glosa": "you will know",
+        "id": "Mat.7.16#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to come to know"
+      },
+      {
+        "t": "αὐτούς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-APM",
+        "glosa": "them.",
+        "id": "Mat.7.16#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "μήτι",
+        "lemma": "G3385",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "surely not ever",
+        "id": "Mat.7.16#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "surely not"
+      },
+      {
+        "t": "συλλέγουσιν",
+        "lemma": "G4816",
+        "forma": "συλλέγω",
+        "morph": "V-PAI-3P",
+        "glosa": "do they gather",
+        "id": "Mat.7.16#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to collect"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.7.16#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "away from"
+      },
+      {
+        "t": "ἀκανθῶν",
+        "lemma": "G0173",
+        "forma": "ἄκανθα",
+        "morph": "N-GPF",
+        "glosa": "thorns",
+        "id": "Mat.7.16#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "a thorn"
+      },
+      {
+        "t": "σταφυλήν",
+        "lemma": "G4718",
+        "forma": "σταφυλήν",
+        "morph": "N-ASF",
+        "glosa": "grape",
+        "id": "Mat.7.16#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "grapes"
+      },
+      {
+        "t": "ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "or",
+        "id": "Mat.7.16#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "or"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.7.16#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "away from"
+      },
+      {
+        "t": "τριβόλων",
+        "lemma": "G5146",
+        "forma": "τρίβολος",
+        "morph": "N-GPM",
+        "glosa": "thistles",
+        "id": "Mat.7.16#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "thistle"
+      },
+      {
+        "t": "σῦκα;",
+        "lemma": "G4810",
+        "forma": "σῦκον",
+        "morph": "N-APN",
+        "glosa": "figs?",
+        "id": "Mat.7.16#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "fig"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἀπὸ oddane jako „Z”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1,
+        2
+      ],
+      "uwaga": "τῶν καρπῶν oddane jako „owoców”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "αὐτῶν oddane jako „ich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐπιγνώσεσθε oddane jako „poznacie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "αὐτούς oddane jako „je”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "μήτι, pytanie z oczekiwanym „nie”, oddane jako „izali”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "συλλέγουσιν oddane jako „zbierają”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἀπὸ oddane jako „z”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἀκανθῶν, dopełniacz lm., oddane jako „ciernia”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "σταφυλὴν, lp. „grono”, oddane jako „grona winne”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἢ oddane jako „albo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἀπὸ oddane jako „z”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "τριβόλων, dopełniacz lm., oddane jako „ostu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "σῦκα oddane jako „figi”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Owoce, pytanie i oba zbiory są pokryte. σταφυλήν rozbite na „grona winne”, bez dopowiedzenia spoza tego rzeczownika.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "μήτι συλλέγουσιν ἀπὸ ἀκανθῶν σταφυλὴν ἢ ἀπὸ τριβόλων σῦκα BG oddaje jako „izali zbierają z ciernia grona winne, albo z ostu figi”.",
+      "tokeny_bg": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "tokeny_zrodla": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Po ovocích jejich poznáte je. Zdaliž sbírají z trní hrozny, aneb z bodláčí fíky?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

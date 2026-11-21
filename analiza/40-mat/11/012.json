@@ -1,0 +1,474 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.12",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 12
+  },
+  "tekst_bg": "A ode dni Jana Chrzciciela aż dotąd królestwo niebieskie gwałt cierpi, a gwałtownicy porywają je.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "ode"
+    },
+    {
+      "i": 2,
+      "t": "dni"
+    },
+    {
+      "i": 3,
+      "t": "Jana"
+    },
+    {
+      "i": 4,
+      "t": "Chrzciciela"
+    },
+    {
+      "i": 5,
+      "t": "aż"
+    },
+    {
+      "i": 6,
+      "t": "dotąd"
+    },
+    {
+      "i": 7,
+      "t": "królestwo"
+    },
+    {
+      "i": 8,
+      "t": "niebieskie"
+    },
+    {
+      "i": 9,
+      "t": "gwałt"
+    },
+    {
+      "i": 10,
+      "t": "cierpi"
+    },
+    {
+      "i": 11,
+      "t": "a"
+    },
+    {
+      "i": 12,
+      "t": "gwałtownicy"
+    },
+    {
+      "i": 13,
+      "t": "porywają"
+    },
+    {
+      "i": 14,
+      "t": "je"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.12",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.12",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "From",
+        "id": "Mat.11.12#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "away from"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.11.12#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPF",
+        "glosa": "the",
+        "id": "Mat.11.12#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἡμερῶν",
+        "lemma": "G2250",
+        "forma": "ἡμέρα",
+        "morph": "N-GPF",
+        "glosa": "days",
+        "id": "Mat.11.12#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "day"
+      },
+      {
+        "t": "Ἰωάννου",
+        "lemma": "G2491G",
+        "forma": "Ἰωάννης",
+        "morph": "N-GSM-P",
+        "glosa": "of John",
+        "id": "Mat.11.12#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "John"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.11.12#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βαπτιστοῦ",
+        "lemma": "G0910",
+        "forma": "Βαπτιστής",
+        "morph": "N-GSM",
+        "glosa": "Baptist",
+        "id": "Mat.11.12#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "one who baptizes"
+      },
+      {
+        "t": "ἕως",
+        "lemma": "G2193",
+        "forma": "ἕως",
+        "morph": "PREP",
+        "glosa": "until",
+        "id": "Mat.11.12#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "until"
+      },
+      {
+        "t": "ἄρτι",
+        "lemma": "G0737",
+        "forma": "ἄρτι",
+        "morph": "ADV",
+        "glosa": "now",
+        "id": "Mat.11.12#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "now"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.11.12#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βασιλεία",
+        "lemma": "G0932",
+        "forma": "βασιλεία",
+        "morph": "N-NSF",
+        "glosa": "kingdom",
+        "id": "Mat.11.12#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "kingdom"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.11.12#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανῶν",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-GPM",
+        "glosa": "heavens",
+        "id": "Mat.11.12#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "heaven"
+      },
+      {
+        "t": "βιάζεται",
+        "lemma": "G0971",
+        "forma": "βιάζω",
+        "morph": "V-PEI-3S",
+        "glosa": "is taken by violence,",
+        "id": "Mat.11.12#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to force"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and [the]",
+        "id": "Mat.11.12#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "and"
+      },
+      {
+        "t": "βιασταὶ",
+        "lemma": "G0973",
+        "forma": "βιαστής",
+        "morph": "N-NPM",
+        "glosa": "violent",
+        "id": "Mat.11.12#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "forceful person"
+      },
+      {
+        "t": "ἁρπάζουσιν",
+        "lemma": "G0726",
+        "forma": "ἁρπάζω",
+        "morph": "V-PAI-3P",
+        "glosa": "claim",
+        "id": "Mat.11.12#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to seize"
+      },
+      {
+        "t": "αὐτήν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASF",
+        "glosa": "it.",
+        "id": "Mat.11.12#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po ἀπὸ, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἀπὸ oddane jako „ode”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "τῶν ἡμερῶν oddane jako „dni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "Ἰωάννου oddane jako „Jana”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τοῦ βαπτιστοῦ oddane jako „Chrzciciela”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἕως oddane jako „aż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἄρτι oddane jako „dotąd”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "ἡ βασιλεία oddane jako „królestwo”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τῶν οὐρανῶν oddane przymiotnikiem „niebieskie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "βιάζεται oddane jako „gwałt cierpi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "βιασταὶ oddane jako „gwałtownicy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἁρπάζουσιν oddane jako „porywają”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "αὐτήν oddane jako „je”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token ma odpowiednik. βιάζεται rozbito na „gwałt cierpi”, a rodzajniki weszły w rzeczowniki.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "βιάζεται ma glosę „is taken by violence”. BG oddaje to dwoma słowami „gwałt cierpi”, bez zmiany podmiotu ἡ βασιλεία.",
+      "tokeny_bg": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ode dnů pak Jana Křtitele až dosavad království nebeské násilí trpí, a ti, kteříž násilí činí, uchvacujíť je.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

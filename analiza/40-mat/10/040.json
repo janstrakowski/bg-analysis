@@ -1,0 +1,417 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.40",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 40
+  },
+  "tekst_bg": "Kto was przyjmuje, mnie przyjmuje; a kto mnie przyjmuje, przyjmuje tego, który mię posłał.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Kto"
+    },
+    {
+      "i": 1,
+      "t": "was"
+    },
+    {
+      "i": 2,
+      "t": "przyjmuje"
+    },
+    {
+      "i": 3,
+      "t": "mnie"
+    },
+    {
+      "i": 4,
+      "t": "przyjmuje"
+    },
+    {
+      "i": 5,
+      "t": "a"
+    },
+    {
+      "i": 6,
+      "t": "kto"
+    },
+    {
+      "i": 7,
+      "t": "mnie"
+    },
+    {
+      "i": 8,
+      "t": "przyjmuje"
+    },
+    {
+      "i": 9,
+      "t": "przyjmuje"
+    },
+    {
+      "i": 10,
+      "t": "tego"
+    },
+    {
+      "i": 11,
+      "t": "który"
+    },
+    {
+      "i": 12,
+      "t": "mię"
+    },
+    {
+      "i": 13,
+      "t": "posłał"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.40",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.40",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "The [One]",
+        "id": "Mat.10.40#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δεχόμενος",
+        "lemma": "G1209",
+        "forma": "δέχομαι",
+        "morph": "V-PNP-NSM",
+        "glosa": "receiving",
+        "id": "Mat.10.40#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to receive"
+      },
+      {
+        "t": "ὑμᾶς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2AP",
+        "glosa": "you",
+        "id": "Mat.10.40#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἐμὲ",
+        "lemma": "G1473",
+        "forma": "ἐγώ",
+        "morph": "P-1AS",
+        "glosa": "Me myself",
+        "id": "Mat.10.40#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "δέχεται",
+        "lemma": "G1209",
+        "forma": "δέχομαι",
+        "morph": "V-PNI-3S",
+        "glosa": "receives,",
+        "id": "Mat.10.40#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to receive"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.10.40#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the [one]",
+        "id": "Mat.10.40#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐμὲ",
+        "lemma": "G1473",
+        "forma": "ἐγώ",
+        "morph": "P-1AS",
+        "glosa": "Me myself",
+        "id": "Mat.10.40#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "δεχόμενος",
+        "lemma": "G1209",
+        "forma": "δέχομαι",
+        "morph": "V-PNP-NSM",
+        "glosa": "receiving",
+        "id": "Mat.10.40#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to receive"
+      },
+      {
+        "t": "δέχεται",
+        "lemma": "G1209",
+        "forma": "δέχομαι",
+        "morph": "V-PNI-3S",
+        "glosa": "he receives",
+        "id": "Mat.10.40#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to receive"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the [One]",
+        "id": "Mat.10.40#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀποστείλαντά",
+        "lemma": "G0649",
+        "forma": "ἀποστέλλω",
+        "morph": "V-AAP-ASM",
+        "glosa": "having sent",
+        "id": "Mat.10.40#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to send"
+      },
+      {
+        "t": "με",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1AS",
+        "glosa": "Me.",
+        "id": "Mat.10.40#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "me"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "Ὁ, rodzajnik przy imiesłowie, oddane jako „Kto”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "δεχόμενος, imiesłów strony medialnej, oddane jako „przyjmuje”. Szyk: imiesłów stoi przed ὑμᾶς."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὑμᾶς oddane jako „was”."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐμὲ oddane jako „mnie”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "przeklad",
+      "uwaga": "δέχεται, strona medialna, oddane jako „przyjmuje”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὁ, rodzajnik przy imiesłowie, oddane jako „kto”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐμὲ oddane jako „mnie”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "δεχόμενος, imiesłów strony medialnej, oddane jako „przyjmuje”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "δέχεται, strona medialna, oddane jako „przyjmuje”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "τὸν, rodzajnik przy imiesłowie, oddane jako „tego”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [],
+      "rola": "dopelnienie",
+      "uwaga": "„który” otwiera zdanie przy imiesłowie ἀποστείλαντά. W TR nie ma zaimka ὅς.",
+      "uzasadnienie": "Rodzajnik τὸν przy imiesłowie ἀποστείλαντά nie jest zaimkiem względnym. „który” otwiera zdanie, którego w TR nie ma."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἀποστείλαντά, imiesłów aorystu, oddane jako „posłał”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "με oddane jako „mię”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „który” dopowiada zdanie względne przy imiesłowie ἀποστείλαντά, bo rodzajnik τὸν nie jest zaimkiem ὅς.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Ὁ δεχόμενος ὑμᾶς ἐμὲ δέχεται BG oddaje jako „Kto was przyjmuje, mnie przyjmuje”. τὸν ἀποστείλαντά με dostaje dodatkowe „który” w „tego, który mię posłał”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        10,
+        11,
+        12
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Kdož vás přijímá, mneť přijímá; a kdo mne přijímá, přijímáť toho, kterýž mne poslal.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

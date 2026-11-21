@@ -1,0 +1,488 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.29",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 29
+  },
+  "tekst_bg": "A Ja wam powiadam, iż ani Salomon we wszystkiej sławie swojej nie był tak przyodziany, jako jedna z tych.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "Ja"
+    },
+    {
+      "i": 2,
+      "t": "wam"
+    },
+    {
+      "i": 3,
+      "t": "powiadam"
+    },
+    {
+      "i": 4,
+      "t": "iż"
+    },
+    {
+      "i": 5,
+      "t": "ani"
+    },
+    {
+      "i": 6,
+      "t": "Salomon"
+    },
+    {
+      "i": 7,
+      "t": "we"
+    },
+    {
+      "i": 8,
+      "t": "wszystkiej"
+    },
+    {
+      "i": 9,
+      "t": "sławie"
+    },
+    {
+      "i": 10,
+      "t": "swojej"
+    },
+    {
+      "i": 11,
+      "t": "nie"
+    },
+    {
+      "i": 12,
+      "t": "był"
+    },
+    {
+      "i": 13,
+      "t": "tak"
+    },
+    {
+      "i": 14,
+      "t": "przyodziany"
+    },
+    {
+      "i": 15,
+      "t": "jako"
+    },
+    {
+      "i": 16,
+      "t": "jedna"
+    },
+    {
+      "i": 17,
+      "t": "z"
+    },
+    {
+      "i": 18,
+      "t": "tych"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.29",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.29",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "λέγω",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-1S",
+        "glosa": "I say",
+        "id": "Mat.6.29#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to say"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.6.29#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you",
+        "id": "Mat.6.29#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.6.29#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "οὐδὲ",
+        "lemma": "G3761",
+        "forma": "οὐδέ",
+        "morph": "CONJ-N",
+        "glosa": "not even",
+        "id": "Mat.6.29#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "nor"
+      },
+      {
+        "t": "Σολομὼν",
+        "lemma": "G4672G",
+        "forma": "Σολομών, Σαλωμών",
+        "morph": "N-NSM-P",
+        "glosa": "Solomon",
+        "id": "Mat.6.29#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Solomon"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.6.29#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "πάσῃ",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-DSF",
+        "glosa": "all",
+        "id": "Mat.6.29#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "all"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.6.29#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δόξῃ",
+        "lemma": "G1391",
+        "forma": "δόξα",
+        "morph": "N-DSF",
+        "glosa": "glory",
+        "id": "Mat.6.29#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "glory"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him",
+        "id": "Mat.6.29#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "περιεβάλετο",
+        "lemma": "G4016",
+        "forma": "περιβάλλω",
+        "morph": "V-2AMI-3S",
+        "glosa": "was adorned",
+        "id": "Mat.6.29#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to clothe"
+      },
+      {
+        "t": "ὡς",
+        "lemma": "G5613",
+        "forma": "ὡς",
+        "morph": "PRT",
+        "glosa": "like",
+        "id": "Mat.6.29#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "as/when"
+      },
+      {
+        "t": "ἓν",
+        "lemma": "G1520",
+        "forma": "εἷς",
+        "morph": "A-NSN",
+        "glosa": "one",
+        "id": "Mat.6.29#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "one"
+      },
+      {
+        "t": "τούτων",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-GPN",
+        "glosa": "of these.",
+        "id": "Mat.6.29#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "this/he/she/it"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δέ stoi po λέγω, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [],
+      "uwaga": "„Ja” nazywa osobę z λέγω. Osobnego ἐγώ w TR nie ma.",
+      "uzasadnienie": "λέγω ma pierwszą osobę w końcówce, bez zaimka ἐγώ. „Ja” uwydatnia ten podmiot przy „powiadam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "λέγω oddane jako „powiadam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὅτι oddane jako „iż”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        11
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "οὐδέ, „not even”, oddane polskim zaprzeczeniem „ani … nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Σολομών oddane jako „Salomon”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐν oddane jako „we”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "πάσῃ oddane jako „wszystkiej”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τῇ δόξῃ, „glory”, oddane jako „sławie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "αὐτοῦ oddane jako „swojej”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        12,
+        14
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "περιεβάλετο, aoryst strony medialnej „was adorned”, oddane jako „był … przyodziany”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [],
+      "uwaga": "„tak” jest kursywą. Przy ὡς nie ma οὕτως."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ὡς, „like”, oddane jako „jako”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἕν, nijakie „one”, oddane jako „jedna”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        17,
+        18
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "τούτων, dopełniacz „of these”, oddane jako „z tych”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „Ja” uwydatnia osobę z λέγω, a kursywa „tak” dopowiada korelację przy ὡς. Salomon nadal nie był ubrany jak lilia.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "λέγω δὲ ὑμῖν nie ma ἐγώ. BG dopowiada „Ja” przy „powiadam”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὐδὲ Σολομὼν … περιεβάλετο ὡς ἓν τούτων nie ma οὕτως. Kursywa dodaje „tak” w parze „tak … jako”.",
+      "tokeny_bg": [
+        5,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "tokeny_zrodla": [
+        4,
+        11,
+        12
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A aj, pravím vám, že ani Šalomoun ve vší slávě své tak odín nebyl, jako jedno z nich.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

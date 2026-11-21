@@ -1,0 +1,365 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.21",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 21
+  },
+  "tekst_bg": "Albowiem gdzie jest skarb wasz, tam jest i serce wasze.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Albowiem"
+    },
+    {
+      "i": 1,
+      "t": "gdzie"
+    },
+    {
+      "i": 2,
+      "t": "jest"
+    },
+    {
+      "i": 3,
+      "t": "skarb"
+    },
+    {
+      "i": 4,
+      "t": "wasz"
+    },
+    {
+      "i": 5,
+      "t": "tam"
+    },
+    {
+      "i": 6,
+      "t": "jest"
+    },
+    {
+      "i": 7,
+      "t": "i"
+    },
+    {
+      "i": 8,
+      "t": "serce"
+    },
+    {
+      "i": 9,
+      "t": "wasze"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.21",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.21",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ὅπου",
+        "lemma": "G3699",
+        "forma": "ὅπου",
+        "morph": "CONJ",
+        "glosa": "Where",
+        "id": "Mat.6.21#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "where(-ever)"
+      },
+      {
+        "t": "γάρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.6.21#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is",
+        "id": "Mat.6.21#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.6.21#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θησαυρός",
+        "lemma": "G2344",
+        "forma": "θησαυρός",
+        "morph": "N-NSM",
+        "glosa": "treasure",
+        "id": "Mat.6.21#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "treasure"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G5216",
+        "forma": "ὑμῶν",
+        "morph": "P-2GP",
+        "glosa": "of you [all]",
+        "id": "Mat.6.21#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "of you"
+      },
+      {
+        "t": "ἐκεῖ",
+        "lemma": "G1563",
+        "forma": "ἐκεῖ",
+        "morph": "ADV",
+        "glosa": "there",
+        "id": "Mat.6.21#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "there"
+      },
+      {
+        "t": "ἔσται",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-FDI-3S",
+        "glosa": "will be",
+        "id": "Mat.6.21#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to be"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "also",
+        "id": "Mat.6.21#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.6.21#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "καρδία",
+        "lemma": "G2588",
+        "forma": "καρδία",
+        "morph": "N-NSF",
+        "glosa": "heart",
+        "id": "Mat.6.21#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "heart"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G5216",
+        "forma": "ὑμῶν",
+        "morph": "P-2GP",
+        "glosa": "of you [all]",
+        "id": "Mat.6.21#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "of you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "γάρ stoi po ὅπου, a BG wynosi je na początek jako „Albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ὅπου oddane jako „gdzie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐστιν, czas teraźniejszy, oddane jako „jest”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "ὁ θησαυρός oddane jako „skarb”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ὑμῶν oddane jako „wasz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐκεῖ oddane jako „tam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἔσται, czas przyszły „will be”, oddane teraźniejszym „jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "καί, glosa „also”, oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "ἡ καρδία oddane jako „serce”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ὑμῶν oddane jako „wasze”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_przesuniety",
+    "uzasadnienie": "Nic nie opuszczono i nic nie dopowiedziano, ale ἔσται jest czasem przyszłym „will be”, a BG mówi „jest”. Serce nie „będzie” przy skarbie, tylko już „jest”.",
+    "tokeny_bg": [
+      6
+    ],
+    "tokeny_zrodla": [
+      7
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐστιν przy skarbie jest teraźniejsze i BG ma „jest”. ἔσται przy sercu jest przyszłe, a BG znowu ma „jest”, nie „będzie”.",
+      "tokeny_bg": [
+        2,
+        6
+      ],
+      "tokeny_zrodla": [
+        2,
+        7
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὅπου γάρ ἐστιν ὁ θησαυρὸς ὑμῶν ἐκεῖ BG oddaje jako „Albowiem gdzie jest skarb wasz, tam”, z γάρ na początku.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo kdežť jest poklad váš, tuť jest i srdce vaše.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

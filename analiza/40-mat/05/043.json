@@ -1,0 +1,361 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.43",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 43
+  },
+  "tekst_bg": "Słyszeliście, iż rzeczono: Będziesz miłował bliźniego twego, a będziesz miał w nienawiści nieprzyjaciela twego;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Słyszeliście"
+    },
+    {
+      "i": 1,
+      "t": "iż"
+    },
+    {
+      "i": 2,
+      "t": "rzeczono"
+    },
+    {
+      "i": 3,
+      "t": "Będziesz"
+    },
+    {
+      "i": 4,
+      "t": "miłował"
+    },
+    {
+      "i": 5,
+      "t": "bliźniego"
+    },
+    {
+      "i": 6,
+      "t": "twego"
+    },
+    {
+      "i": 7,
+      "t": "a"
+    },
+    {
+      "i": 8,
+      "t": "będziesz"
+    },
+    {
+      "i": 9,
+      "t": "miał"
+    },
+    {
+      "i": 10,
+      "t": "w"
+    },
+    {
+      "i": 11,
+      "t": "nienawiści"
+    },
+    {
+      "i": 12,
+      "t": "nieprzyjaciela"
+    },
+    {
+      "i": 13,
+      "t": "twego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.43",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.43",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἠκούσατε",
+        "lemma": "G0191",
+        "forma": "ἀκούω",
+        "morph": "V-AAI-2P",
+        "glosa": "You have heard",
+        "id": "Mat.5.43#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to hear"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.5.43#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "ἐρρέθη",
+        "lemma": "G2046",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-API-3S",
+        "glosa": "it was said;",
+        "id": "Mat.5.43#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ἀγαπήσεις",
+        "lemma": "G0025",
+        "forma": "ἀγαπάω",
+        "morph": "V-FAI-2S",
+        "glosa": "You will love",
+        "id": "Mat.5.43#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to love"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.5.43#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πλησίον",
+        "lemma": "G4139",
+        "forma": "πλησίον",
+        "morph": "ADV",
+        "glosa": "neighbour",
+        "id": "Mat.5.43#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "near/neighbor"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.5.43#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "you"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.43#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "and"
+      },
+      {
+        "t": "μισήσεις",
+        "lemma": "G3404",
+        "forma": "μισέω",
+        "morph": "V-FAI-2S",
+        "glosa": "will hate",
+        "id": "Mat.5.43#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to hate"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.5.43#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐχθρόν",
+        "lemma": "G2190",
+        "forma": "ἐχθρός",
+        "morph": "N-ASM",
+        "glosa": "enemy",
+        "id": "Mat.5.43#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "enemy"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you.’",
+        "id": "Mat.5.43#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ἠκούσατε oddane jako „Słyszeliście”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ὅτι oddane jako „iż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐρρέθη, strona bierna, oddane bezosobowo jako „rzeczono”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀγαπήσεις, czas przyszły, oddane jako „Będziesz miłował”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τὸν πλησίον oddane jako „bliźniego”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "σου oddane przymiotnikiem „twego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "μισήσεις, glosa „will hate”, oddane jako „będziesz miał w nienawiści”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τὸν ἐχθρόν oddane jako „nieprzyjaciela”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "σου oddane przymiotnikiem „twego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. μισήσεις rozpada się na „będziesz miał w nienawiści”, a rodzajniki wchodzą w rzeczowniki.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "μισήσεις, glosa „will hate”, oddane jest czterema słowami „będziesz miał w nienawiści”.",
+      "tokeny_bg": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        8
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Slyšeli jste, že řečeno jest: Milovati budeš bližního svého, a nenáviděti budeš nepřítele svého.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

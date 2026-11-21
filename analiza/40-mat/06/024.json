@@ -1,0 +1,744 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.24",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 24
+  },
+  "tekst_bg": "Nikt nie może dwom panom służyć, gdyż albo jednego będzie miał w nienawiści, a drugiego będzie miłował; albo jednego trzymać się będzie, a drugim pogardzi; nie możecie Bogu służyć i mamonie.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Nikt"
+    },
+    {
+      "i": 1,
+      "t": "nie"
+    },
+    {
+      "i": 2,
+      "t": "może"
+    },
+    {
+      "i": 3,
+      "t": "dwom"
+    },
+    {
+      "i": 4,
+      "t": "panom"
+    },
+    {
+      "i": 5,
+      "t": "służyć"
+    },
+    {
+      "i": 6,
+      "t": "gdyż"
+    },
+    {
+      "i": 7,
+      "t": "albo"
+    },
+    {
+      "i": 8,
+      "t": "jednego"
+    },
+    {
+      "i": 9,
+      "t": "będzie"
+    },
+    {
+      "i": 10,
+      "t": "miał"
+    },
+    {
+      "i": 11,
+      "t": "w"
+    },
+    {
+      "i": 12,
+      "t": "nienawiści"
+    },
+    {
+      "i": 13,
+      "t": "a"
+    },
+    {
+      "i": 14,
+      "t": "drugiego"
+    },
+    {
+      "i": 15,
+      "t": "będzie"
+    },
+    {
+      "i": 16,
+      "t": "miłował"
+    },
+    {
+      "i": 17,
+      "t": "albo"
+    },
+    {
+      "i": 18,
+      "t": "jednego"
+    },
+    {
+      "i": 19,
+      "t": "trzymać"
+    },
+    {
+      "i": 20,
+      "t": "się"
+    },
+    {
+      "i": 21,
+      "t": "będzie"
+    },
+    {
+      "i": 22,
+      "t": "a"
+    },
+    {
+      "i": 23,
+      "t": "drugim"
+    },
+    {
+      "i": 24,
+      "t": "pogardzi"
+    },
+    {
+      "i": 25,
+      "t": "nie"
+    },
+    {
+      "i": 26,
+      "t": "możecie"
+    },
+    {
+      "i": 27,
+      "t": "Bogu"
+    },
+    {
+      "i": 28,
+      "t": "służyć"
+    },
+    {
+      "i": 29,
+      "t": "i"
+    },
+    {
+      "i": 30,
+      "t": "mamonie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.24",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.24",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Οὐδεὶς",
+        "lemma": "G3762",
+        "forma": "οὐδείς",
+        "morph": "A-NSM",
+        "glosa": "No [one]",
+        "id": "Mat.6.24#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "none"
+      },
+      {
+        "t": "δύναται",
+        "lemma": "G1410",
+        "forma": "δύναμαι",
+        "morph": "V-PNI-3S",
+        "glosa": "is able",
+        "id": "Mat.6.24#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "be able"
+      },
+      {
+        "t": "δυσὶ",
+        "lemma": "G1417",
+        "forma": "δύο",
+        "morph": "A-DPM",
+        "glosa": "two",
+        "id": "Mat.6.24#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "two"
+      },
+      {
+        "t": "κυρίοις",
+        "lemma": "G2962H",
+        "forma": "κύριος",
+        "morph": "N-DPM",
+        "glosa": "masters",
+        "id": "Mat.6.24#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "lord: master"
+      },
+      {
+        "t": "δουλεύειν",
+        "lemma": "G1398",
+        "forma": "δουλεύω",
+        "morph": "V-PAN",
+        "glosa": "to serve;",
+        "id": "Mat.6.24#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "be a slave"
+      },
+      {
+        "t": "ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "either",
+        "id": "Mat.6.24#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "or"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.6.24#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "for"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.6.24#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἕνα",
+        "lemma": "G1520",
+        "forma": "εἷς",
+        "morph": "A-ASM",
+        "glosa": "one",
+        "id": "Mat.6.24#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "one"
+      },
+      {
+        "t": "μισήσει",
+        "lemma": "G3404",
+        "forma": "μισέω",
+        "morph": "V-FAI-3S",
+        "glosa": "he will hate",
+        "id": "Mat.6.24#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to hate"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.6.24#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "and"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.6.24#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἕτερον",
+        "lemma": "G2087",
+        "forma": "ἕτερος",
+        "morph": "A-ASM",
+        "glosa": "other",
+        "id": "Mat.6.24#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "other"
+      },
+      {
+        "t": "ἀγαπήσει",
+        "lemma": "G0025",
+        "forma": "ἀγαπάω",
+        "morph": "V-FAI-3S",
+        "glosa": "he will love",
+        "id": "Mat.6.24#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to love"
+      },
+      {
+        "t": "ἢ",
+        "lemma": "G2228",
+        "forma": "ἤ",
+        "morph": "CONJ",
+        "glosa": "or",
+        "id": "Mat.6.24#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "or"
+      },
+      {
+        "t": "ἑνὸς",
+        "lemma": "G1520",
+        "forma": "εἷς",
+        "morph": "A-GSM",
+        "glosa": "to [the] one",
+        "id": "Mat.6.24#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "one"
+      },
+      {
+        "t": "ἀνθέξεται",
+        "lemma": "G0472",
+        "forma": "ἀντέχω",
+        "morph": "V-FDI-3S",
+        "glosa": "he will be devoted",
+        "id": "Mat.6.24#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to cling to"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.6.24#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "and"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.6.24#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἑτέρου",
+        "lemma": "G2087",
+        "forma": "ἕτερος",
+        "morph": "A-GSM",
+        "glosa": "other",
+        "id": "Mat.6.24#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "other"
+      },
+      {
+        "t": "καταφρονήσει",
+        "lemma": "G2706",
+        "forma": "καταφρονέω",
+        "morph": "V-FAI-3S",
+        "glosa": "he will despise.",
+        "id": "Mat.6.24#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "to despise"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.6.24#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "no"
+      },
+      {
+        "t": "δύνασθε",
+        "lemma": "G1410",
+        "forma": "δύναμαι",
+        "morph": "V-PNI-2P",
+        "glosa": "you are able",
+        "id": "Mat.6.24#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "be able"
+      },
+      {
+        "t": "θεῷ",
+        "lemma": "G2316",
+        "forma": "θεός",
+        "morph": "N-DSM-T",
+        "glosa": "God",
+        "id": "Mat.6.24#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "God"
+      },
+      {
+        "t": "δουλεύειν",
+        "lemma": "G1398",
+        "forma": "δουλεύω",
+        "morph": "V-PAN",
+        "glosa": "to serve",
+        "id": "Mat.6.24#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "be a slave"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.6.24#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "and"
+      },
+      {
+        "t": "μαμωνᾷ",
+        "lemma": "G3126",
+        "forma": "μαμμωνᾶς",
+        "morph": "N-DSM",
+        "glosa": "money.",
+        "id": "Mat.6.24#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "wealth"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "rozbicie",
+      "bg": [
+        0,
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Οὐδείς, „no one”, oddane polskim zaprzeczeniem „Nikt nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δύναται, „is able”, oddane jako „może”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "δυσί oddane jako „dwom”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "κυρίοις, „masters”, oddane jako „panom”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "δουλεύειν, „to serve”, oddane jako „służyć”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "γάρ stoi po ἤ, a BG wynosi je przed „albo” jako „gdyż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἤ, „either”, oddane jako „albo”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τὸν ἕνα oddane jako „jednego”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "μισήσει, „he will hate”, oddane zwrotem „będzie miał w nienawiści”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καί oddane jako „a”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τὸν ἕτερον oddane jako „drugiego”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        15,
+        16
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἀγαπήσει, czas przyszły „he will love”, oddane jako „będzie miłował”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ἤ, „or”, oddane jako „albo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἑνός, dopełniacz bez rodzajnika, oddane jako „jednego”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        19,
+        20,
+        21
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ἀνθέξεται, czas przyszły deponens „he will be devoted”, oddane jako „trzymać się będzie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "καί oddane jako „a”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "τοῦ ἑτέρου, dopełniacz, oddane narzędnikiem „drugim”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "καταφρονήσει, „he will despise”, oddane jako „pogardzi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "οὐ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        26
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "δύνασθε oddane jako „możecie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        27
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "θεῷ, celownik bez rodzajnika, oddane jako „Bogu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        28
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "δουλεύειν oddane jako „służyć”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        29
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "καί oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        30
+      ],
+      "zrodlo": [
+        26
+      ],
+      "uwaga": "μαμωνᾷ oddane jako „mamonie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. μισήσει rozchodzi się w zwrot „będzie miał w nienawiści”, a deponens ἀνθέξεται w „trzymać się będzie”. Nadal nikt nie służy dwom panom.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Οὐδεὶς δύναται δυσὶ κυρίοις δουλεύειν BG oddaje jako „Nikt nie może dwom panom służyć”. Przeczenie z οὐδείς stoi w „Nikt nie”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Žádný nemůže dvěma pánům sloužiti. Nebo zajisté jednoho nenáviděti bude, a druhého milovati, aneb jednoho přídržeti se bude, a druhým pohrdne. Nemůžte Bohu sloužiti i mamoně.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

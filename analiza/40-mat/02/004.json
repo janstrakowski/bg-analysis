@@ -1,0 +1,462 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.2.4",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 2,
+    "werset": 4
+  },
+  "tekst_bg": "Przetoż zebrawszy wszystkie przedniejsze kapłany i nauczyciele ludu, dowiadywał się od nich, gdzieby się miał Chrystus narodzić.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Przetoż"
+    },
+    {
+      "i": 1,
+      "t": "zebrawszy"
+    },
+    {
+      "i": 2,
+      "t": "wszystkie"
+    },
+    {
+      "i": 3,
+      "t": "przedniejsze"
+    },
+    {
+      "i": 4,
+      "t": "kapłany"
+    },
+    {
+      "i": 5,
+      "t": "i"
+    },
+    {
+      "i": 6,
+      "t": "nauczyciele"
+    },
+    {
+      "i": 7,
+      "t": "ludu"
+    },
+    {
+      "i": 8,
+      "t": "dowiadywał"
+    },
+    {
+      "i": 9,
+      "t": "się"
+    },
+    {
+      "i": 10,
+      "t": "od"
+    },
+    {
+      "i": 11,
+      "t": "nich"
+    },
+    {
+      "i": 12,
+      "t": "gdzieby"
+    },
+    {
+      "i": 13,
+      "t": "się"
+    },
+    {
+      "i": 14,
+      "t": "miał"
+    },
+    {
+      "i": 15,
+      "t": "Chrystus"
+    },
+    {
+      "i": 16,
+      "t": "narodzić"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.2.4",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.2.4",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.2.4#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "συναγαγὼν",
+        "lemma": "G4863",
+        "forma": "συνάγω",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having gathered together",
+        "id": "Mat.2.4#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to assemble"
+      },
+      {
+        "t": "πάντας",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-APM",
+        "glosa": "all",
+        "id": "Mat.2.4#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "all"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.2.4#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀρχιερεῖς",
+        "lemma": "G0749",
+        "forma": "ἀρχιερεύς",
+        "morph": "N-APM",
+        "glosa": "chief priests",
+        "id": "Mat.2.4#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "high-priest"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.2.4#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "and"
+      },
+      {
+        "t": "γραμματεῖς",
+        "lemma": "G1122",
+        "forma": "γραμματεύς",
+        "morph": "N-APM",
+        "glosa": "scribes",
+        "id": "Mat.2.4#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "scribe"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.2.4#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λαοῦ",
+        "lemma": "G2992",
+        "forma": "λαός",
+        "morph": "N-GSM",
+        "glosa": "people",
+        "id": "Mat.2.4#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "a people"
+      },
+      {
+        "t": "ἐπυνθάνετο",
+        "lemma": "G4441",
+        "forma": "πυνθάνομαι",
+        "morph": "V-INI-3S",
+        "glosa": "he was inquiring",
+        "id": "Mat.2.4#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to inquire"
+      },
+      {
+        "t": "παρ᾽",
+        "lemma": "G3844",
+        "forma": "παρά",
+        "morph": "PREP",
+        "glosa": "of",
+        "id": "Mat.2.4#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "from/with/beside"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "them",
+        "id": "Mat.2.4#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ποῦ",
+        "lemma": "G4226",
+        "forma": "ποῦ",
+        "morph": "ADV-I",
+        "glosa": "where",
+        "id": "Mat.2.4#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "where?"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.2.4#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "χριστὸς",
+        "lemma": "G5547",
+        "forma": "Χριστός",
+        "morph": "N-NSM-T",
+        "glosa": "Christ",
+        "id": "Mat.2.4#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "Christ"
+      },
+      {
+        "t": "γεννᾶται",
+        "lemma": "G1080",
+        "forma": "γεννάω",
+        "morph": "V-PPI-3S",
+        "glosa": "is born.",
+        "id": "Mat.2.4#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to beget"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καί, glosa „And”, oddane jako „Przetoż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "συναγαγὼν oddane jako „zebrawszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "πάντας oddane jako „wszystkie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τοὺς ἀρχιερεῖς oddane jako „przedniejsze kapłany”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "καί oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "γραμματεῖς, glosa „scribes”, oddane jako „nauczyciele”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τοῦ λαοῦ oddane jako „ludu”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἐπυνθάνετο, imperfectum czasownika zwrotnego, oddane jako „dowiadywał się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "παρ᾽ oddane jako „od”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "αὐτῶν oddane jako „nich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ποῦ oddane jako „gdzieby”; partykuła „by” jest w tym samym słowie."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "ὁ χριστὸς oddane jako „Chrystus”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        13,
+        14,
+        16
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "γεννᾶται, praesens bierny, rozbite na „się miał narodzić”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Nic nie opuszczono i nie dopowiedziano osobnego słowa. Pytanie ποῦ ὁ χριστὸς γεννᾶται ma w polskim inne orzeczenie: „gdzieby się miał Chrystus narodzić”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "γεννᾶται to praesens bierny „is born”. BG rozbija je na modalne „się miał narodzić”.",
+      "tokeny_bg": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "tokeny_zrodla": [
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "καί ma glosę „And”, a pierwsze polskie słowo to „Przetoż”.",
+      "tokeny_bg": [
+        0
+      ],
+      "tokeny_zrodla": [
+        0
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A svolav všecky přední kněží a učitele lidu, tázal se jich, kde by se Kristus měl naroditi.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

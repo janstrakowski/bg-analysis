@@ -1,0 +1,336 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.30",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 30
+  },
+  "tekst_bg": "Albowiem jarzmo moje wdzięczne jest, a brzemię moje lekkie jest.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Albowiem"
+    },
+    {
+      "i": 1,
+      "t": "jarzmo"
+    },
+    {
+      "i": 2,
+      "t": "moje"
+    },
+    {
+      "i": 3,
+      "t": "wdzięczne"
+    },
+    {
+      "i": 4,
+      "t": "jest"
+    },
+    {
+      "i": 5,
+      "t": "a"
+    },
+    {
+      "i": 6,
+      "t": "brzemię"
+    },
+    {
+      "i": 7,
+      "t": "moje"
+    },
+    {
+      "i": 8,
+      "t": "lekkie"
+    },
+    {
+      "i": 9,
+      "t": "jest"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.30",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.30",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "The",
+        "id": "Mat.11.30#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.11.30#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "ζυγός",
+        "lemma": "G2218",
+        "forma": "ζυγός",
+        "morph": "N-NSM",
+        "glosa": "yoke",
+        "id": "Mat.11.30#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "yoke/scales"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "of Mine",
+        "id": "Mat.11.30#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "me"
+      },
+      {
+        "t": "χρηστὸς",
+        "lemma": "G5543",
+        "forma": "χρηστός",
+        "morph": "A-NSM",
+        "glosa": "[is] easy",
+        "id": "Mat.11.30#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "good/kind"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.30#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "and"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "the",
+        "id": "Mat.11.30#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "φορτίον",
+        "lemma": "G5413",
+        "forma": "φορτίον",
+        "morph": "N-NSN",
+        "glosa": "burden",
+        "id": "Mat.11.30#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "burden"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "of Mine",
+        "id": "Mat.11.30#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "me"
+      },
+      {
+        "t": "ἐλαφρόν",
+        "lemma": "G1645",
+        "forma": "ἐλαφρός",
+        "morph": "A-NSN",
+        "glosa": "light",
+        "id": "Mat.11.30#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "light"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is.",
+        "id": "Mat.11.30#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to be"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "γὰρ stoi na drugim miejscu, a BG wynosi je na początek jako „Albowiem”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "uwaga": "ὁ ζυγός oddane jako „jarzmo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "μου oddane jako „moje”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "χρηστὸς, glosa „easy”, oddane jako „wdzięczne”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [],
+      "uwaga": "Pierwsze „jest” nie ma osobnego εἰμί przy χρηστός.",
+      "uzasadnienie": "Orzeczenie χρηστὸς jest imienne, bez czasownika. Polskie „jest” stawia łącznik, którego przy „wdzięczne” nie ma. ἐστιν przy ἐλαφρόν jest oddane osobno."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τὸ φορτίον oddane jako „brzemię”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "μου oddane jako „moje”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἐλαφρόν oddane jako „lekkie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἐστιν oddane jako „jest”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. Pierwsze „jest” dopowiada łącznik przy imiennym χρηστός. Drugie „jest” oddaje ἐστιν przy ἐλαφρόν.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὁ ζυγός μου χρηστὸς nie ma εἰμί. Jedno ἐστιν stoi dopiero przy ἐλαφρόν. BG daje „jest” dwa razy.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        0,
+        2,
+        3,
+        4,
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Jho mé zajisté jestiť rozkošné, a břímě mé lehké.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

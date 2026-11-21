@@ -1,0 +1,297 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.2",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 2
+  },
+  "tekst_bg": "A gdy pościł czterdzieści dni i czterdzieści nocy, potem łaknął.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "pościł"
+    },
+    {
+      "i": 3,
+      "t": "czterdzieści"
+    },
+    {
+      "i": 4,
+      "t": "dni"
+    },
+    {
+      "i": 5,
+      "t": "i"
+    },
+    {
+      "i": 6,
+      "t": "czterdzieści"
+    },
+    {
+      "i": 7,
+      "t": "nocy"
+    },
+    {
+      "i": 8,
+      "t": "potem"
+    },
+    {
+      "i": 9,
+      "t": "łaknął"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.2",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.2",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.4.2#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "νηστεύσας",
+        "lemma": "G3522",
+        "forma": "νηστεύω",
+        "morph": "V-AAP-NSM",
+        "glosa": "having fasted",
+        "id": "Mat.4.2#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to fast"
+      },
+      {
+        "t": "ἡμέρας",
+        "lemma": "G2250",
+        "forma": "ἡμέρα",
+        "morph": "N-APF",
+        "glosa": "days",
+        "id": "Mat.4.2#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "day"
+      },
+      {
+        "t": "τεσσεράκοντα",
+        "lemma": "G5062",
+        "forma": "τεσσαράκοντα",
+        "morph": "A-NUI",
+        "glosa": "forty",
+        "id": "Mat.4.2#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "forty"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.2#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "and"
+      },
+      {
+        "t": "νύκτας",
+        "lemma": "G3571",
+        "forma": "νύξ",
+        "morph": "N-APF",
+        "glosa": "nights",
+        "id": "Mat.4.2#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "night"
+      },
+      {
+        "t": "τεσσεράκοντα",
+        "lemma": "G5062",
+        "forma": "τεσσαράκοντα",
+        "morph": "A-NUI",
+        "glosa": "forty",
+        "id": "Mat.4.2#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "forty"
+      },
+      {
+        "t": "ὕστερον",
+        "lemma": "G5306",
+        "forma": "ὕστερος",
+        "morph": "A-ASN-C",
+        "glosa": "afterward",
+        "id": "Mat.4.2#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "later"
+      },
+      {
+        "t": "ἐπείνασεν",
+        "lemma": "G3983",
+        "forma": "πεινάω",
+        "morph": "V-AAI-3S",
+        "glosa": "He was hungry.",
+        "id": "Mat.4.2#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to hunger"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "νηστεύσας, imiesłów aorystu, BG rozwija w zdanie „gdy pościł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "τεσσεράκοντα oddane jako „czterdzieści”; szyk stawia liczebnik przed „dni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἡμέρας oddane jako „dni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "Drugie τεσσεράκοντα oddane jako „czterdzieści”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "νύκτας oddane jako „nocy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ὕστερον oddane jako „potem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐπείνασεν oddane jako „łaknął”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Imiesłów νηστεύσας jest rozwinięty w „gdy pościł”. Czterdzieści dni i nocy oraz „potem łaknął” nazywają to samo, co ἡμέρας τεσσεράκοντα καὶ νύκτας τεσσεράκοντα ὕστερον ἐπείνασεν.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "νηστεύσας to imiesłów aorystu „postawszy się”. BG stawia zamiast niego zdanie „gdy pościł”, a ὕστερον zostaje „potem”.",
+      "tokeny_bg": [
+        1,
+        2,
+        8
+      ],
+      "tokeny_zrodla": [
+        1,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A postiv se čtyřidceti dnů a čtyřidceti nocí, potom zlačněl.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

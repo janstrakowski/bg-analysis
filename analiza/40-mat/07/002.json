@@ -1,0 +1,411 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.2",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 2
+  },
+  "tekst_bg": "Albowiem jakim sądem sądzicie, takim sądzeni będziecie, i jaką miarą mierzycie, taką wam odmierzono będzie.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Albowiem"
+    },
+    {
+      "i": 1,
+      "t": "jakim"
+    },
+    {
+      "i": 2,
+      "t": "sądem"
+    },
+    {
+      "i": 3,
+      "t": "sądzicie"
+    },
+    {
+      "i": 4,
+      "t": "takim"
+    },
+    {
+      "i": 5,
+      "t": "sądzeni"
+    },
+    {
+      "i": 6,
+      "t": "będziecie"
+    },
+    {
+      "i": 7,
+      "t": "i"
+    },
+    {
+      "i": 8,
+      "t": "jaką"
+    },
+    {
+      "i": 9,
+      "t": "miarą"
+    },
+    {
+      "i": 10,
+      "t": "mierzycie"
+    },
+    {
+      "i": 11,
+      "t": "taką"
+    },
+    {
+      "i": 12,
+      "t": "wam"
+    },
+    {
+      "i": 13,
+      "t": "odmierzono"
+    },
+    {
+      "i": 14,
+      "t": "będzie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.2",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.2",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "With",
+        "id": "Mat.7.2#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ᾧ",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-DSN",
+        "glosa": "whatever",
+        "id": "Mat.7.2#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "which"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.7.2#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "for"
+      },
+      {
+        "t": "κρίματι",
+        "lemma": "G2917",
+        "forma": "κρίμα",
+        "morph": "N-DSN",
+        "glosa": "verdict",
+        "id": "Mat.7.2#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "judgment"
+      },
+      {
+        "t": "κρίνετε",
+        "lemma": "G2919",
+        "forma": "κρίνω",
+        "morph": "V-PAI-2P",
+        "glosa": "you judge,",
+        "id": "Mat.7.2#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to judge"
+      },
+      {
+        "t": "κριθήσεσθε",
+        "lemma": "G2919",
+        "forma": "κρίνω",
+        "morph": "V-FPI-2P",
+        "glosa": "you will be judged;",
+        "id": "Mat.7.2#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to judge"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.2#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "with",
+        "id": "Mat.7.2#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ᾧ",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-DSN",
+        "glosa": "whatever",
+        "id": "Mat.7.2#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "which"
+      },
+      {
+        "t": "μέτρῳ",
+        "lemma": "G3358",
+        "forma": "μέτρον",
+        "morph": "N-DSN",
+        "glosa": "measure",
+        "id": "Mat.7.2#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "measure"
+      },
+      {
+        "t": "μετρεῖτε",
+        "lemma": "G3354",
+        "forma": "μετρέω",
+        "morph": "V-PAI-2P",
+        "glosa": "you measure,",
+        "id": "Mat.7.2#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to measure"
+      },
+      {
+        "t": "ἀντιμετρηθήσεται",
+        "lemma": "G0488",
+        "forma": "ἀντιμετρηθήσεται",
+        "morph": "V-FPI-3S",
+        "glosa": "it will be re-measured",
+        "id": "Mat.7.2#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to return"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you.",
+        "id": "Mat.7.2#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "γὰρ stoi trzecie, a BG wynosi je na początek jako „Albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ᾧ oddane jako „jakim”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        0,
+        3
+      ],
+      "uwaga": "ἐν κρίματι, przyimek z celownikiem narzędzia, oddane narzędnikiem „sądem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "κρίνετε oddane jako „sądzicie”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        4,
+        11
+      ],
+      "zrodlo": [],
+      "uwaga": "„takim” i „taką” nie mają osobnego zaimka w grece.",
+      "uzasadnienie": "Względne ᾧ łączy człon z orzeczeniem. Polski korelatyw „jaki…taki” wypowiada ten sam sąd i tę samą miarę."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "κριθήσεσθε, futurum strony biernej, oddane jako „sądzeni będziecie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Drugie ᾧ oddane jako „jaką”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7,
+        9
+      ],
+      "uwaga": "ἐν μέτρῳ oddane narzędnikiem „miarą”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "μετρεῖτε oddane jako „mierzycie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ὑμῖν stoi na końcu, a BG daje „wam” przed czasownikiem."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        13,
+        14
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἀντιμετρηθήσεται, futurum strony biernej 3 os., oddane jako „odmierzono będzie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte, a ἐν siedzi w narzędniku. „takim” i „taką” dopowiadają korelatyw względnego ᾧ.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐν ᾧ κρίματι i ἐν ᾧ μέτρῳ nie mają w BG osobnego przyimka. Narzędnik „sądem” i „miarą” niesie ἐν z celownikiem.",
+      "tokeny_bg": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        3,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Przy obu ᾧ BG dodaje „takim” i „taką”. W TR nie ma drugiego zaimka wskazującego.",
+      "tokeny_bg": [
+        4,
+        11
+      ],
+      "tokeny_zrodla": [
+        1,
+        8
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo jakým soudem soudíte, takovýmž budete souzeni, a jakouž měrou měříte, takovouž bude vám zase odměřeno.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

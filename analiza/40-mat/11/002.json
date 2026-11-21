@@ -1,0 +1,416 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.2",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 2
+  },
+  "tekst_bg": "A Jan usłyszawszy w więzieniu o uczynkach Chrystusowych, posławszy dwóch z uczniów swoich,",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "Jan"
+    },
+    {
+      "i": 2,
+      "t": "usłyszawszy"
+    },
+    {
+      "i": 3,
+      "t": "w"
+    },
+    {
+      "i": 4,
+      "t": "więzieniu"
+    },
+    {
+      "i": 5,
+      "t": "o"
+    },
+    {
+      "i": 6,
+      "t": "uczynkach"
+    },
+    {
+      "i": 7,
+      "t": "Chrystusowych"
+    },
+    {
+      "i": 8,
+      "t": "posławszy"
+    },
+    {
+      "i": 9,
+      "t": "dwóch"
+    },
+    {
+      "i": 10,
+      "t": "z"
+    },
+    {
+      "i": 11,
+      "t": "uczniów"
+    },
+    {
+      "i": 12,
+      "t": "swoich"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.2",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.2",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.11.2#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.11.2#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "Ἰωάννης",
+        "lemma": "G2491G",
+        "forma": "Ἰωάννης",
+        "morph": "N-NSM-P",
+        "glosa": "John",
+        "id": "Mat.11.2#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "John"
+      },
+      {
+        "t": "ἀκούσας",
+        "lemma": "G0191",
+        "forma": "ἀκούω",
+        "morph": "V-AAP-NSM",
+        "glosa": "having heard",
+        "id": "Mat.11.2#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to hear"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.11.2#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSN",
+        "glosa": "the",
+        "id": "Mat.11.2#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δεσμωτηρίῳ",
+        "lemma": "G1201",
+        "forma": "δεσμωτήριον",
+        "morph": "N-DSN",
+        "glosa": "prison",
+        "id": "Mat.11.2#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "prison"
+      },
+      {
+        "t": "τὰ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APN",
+        "glosa": "the",
+        "id": "Mat.11.2#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἔργα",
+        "lemma": "G2041",
+        "forma": "ἔργον",
+        "morph": "N-APN",
+        "glosa": "works",
+        "id": "Mat.11.2#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "work"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.11.2#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Χριστοῦ",
+        "lemma": "G5547",
+        "forma": "Χριστός",
+        "morph": "N-GSM-T",
+        "glosa": "Christ,",
+        "id": "Mat.11.2#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "Christ"
+      },
+      {
+        "t": "πέμψας",
+        "lemma": "G3992",
+        "forma": "πέμπω",
+        "morph": "V-AAP-NSM",
+        "glosa": "having sent",
+        "id": "Mat.11.2#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to send"
+      },
+      {
+        "t": "δύο",
+        "lemma": "G1417",
+        "forma": "δύο",
+        "morph": "A-NUI",
+        "glosa": "two",
+        "id": "Mat.11.2#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "two"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.11.2#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μαθητῶν",
+        "lemma": "G3101",
+        "forma": "μαθητής",
+        "morph": "N-GPM",
+        "glosa": "disciples",
+        "id": "Mat.11.2#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "disciple"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him",
+        "id": "Mat.11.2#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po rodzajniku, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "uwaga": "Ὁ Ἰωάννης oddane jako „Jan”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀκούσας oddane jako „usłyszawszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τῷ δεσμωτηρίῳ oddane jako „więzieniu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τὰ ἔργα, biernik przy ἀκούσας, oddane jako „o uczynkach”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τοῦ Χριστοῦ oddane przymiotnikiem „Chrystusowych”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "πέμψας oddane jako „posławszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "δύο oddane jako „dwóch”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10,
+        11
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τῶν μαθητῶν, dopełniacz partytywny, oddane jako „z uczniów”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "αὐτοῦ oddane jako „swoich”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token ma odpowiednik. Biernik τὰ ἔργα idzie w „o uczynkach”, a dopełniacz partytywny w „z uczniów”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀκούσας τὰ ἔργα τοῦ Χριστοῦ nie ma przyimka „o”. BG oddaje biernik zwrotem „o uczynkach Chrystusowych”.",
+      "tokeny_bg": [
+        2,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        3,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Jan pak v vězení uslyšev o skutcích Kristových, poslal dva z učedlníků svých,",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

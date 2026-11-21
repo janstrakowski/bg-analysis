@@ -1,0 +1,453 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.34",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 34
+  },
+  "tekst_bg": "Nie mniemajcie, żem przyszedł dawać pokój na ziemię; nie przyszedłem dawać pokoju, ale miecz.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Nie"
+    },
+    {
+      "i": 1,
+      "t": "mniemajcie"
+    },
+    {
+      "i": 2,
+      "t": "żem"
+    },
+    {
+      "i": 3,
+      "t": "przyszedł"
+    },
+    {
+      "i": 4,
+      "t": "dawać"
+    },
+    {
+      "i": 5,
+      "t": "pokój"
+    },
+    {
+      "i": 6,
+      "t": "na"
+    },
+    {
+      "i": 7,
+      "t": "ziemię"
+    },
+    {
+      "i": 8,
+      "t": "nie"
+    },
+    {
+      "i": 9,
+      "t": "przyszedłem"
+    },
+    {
+      "i": 10,
+      "t": "dawać"
+    },
+    {
+      "i": 11,
+      "t": "pokoju"
+    },
+    {
+      "i": 12,
+      "t": "ale"
+    },
+    {
+      "i": 13,
+      "t": "miecz"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.34",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.34",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.10.34#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "not"
+      },
+      {
+        "t": "νομίσητε",
+        "lemma": "G3543",
+        "forma": "νομίζω",
+        "morph": "V-AAS-2P",
+        "glosa": "may you think",
+        "id": "Mat.10.34#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to think"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.10.34#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "ἦλθον",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAI-1S",
+        "glosa": "I came",
+        "id": "Mat.10.34#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "βαλεῖν",
+        "lemma": "G0906H",
+        "forma": "βάλλω",
+        "morph": "V-2AAN",
+        "glosa": "to bring",
+        "id": "Mat.10.34#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to throw: put"
+      },
+      {
+        "t": "εἰρήνην",
+        "lemma": "G1515",
+        "forma": "εἰρήνη",
+        "morph": "N-ASF",
+        "glosa": "peace",
+        "id": "Mat.10.34#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "peace"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.10.34#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.10.34#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γῆν",
+        "lemma": "G1093G",
+        "forma": "γῆ",
+        "morph": "N-ASF",
+        "glosa": "earth;",
+        "id": "Mat.10.34#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "earth: planet"
+      },
+      {
+        "t": "οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.10.34#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "no"
+      },
+      {
+        "t": "ἦλθον",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAI-1S",
+        "glosa": "I came",
+        "id": "Mat.10.34#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "βαλεῖν",
+        "lemma": "G0906H",
+        "forma": "βάλλω",
+        "morph": "V-2AAN",
+        "glosa": "to bring",
+        "id": "Mat.10.34#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to throw: put"
+      },
+      {
+        "t": "εἰρήνην",
+        "lemma": "G1515",
+        "forma": "εἰρήνη",
+        "morph": "N-ASF",
+        "glosa": "peace",
+        "id": "Mat.10.34#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "peace"
+      },
+      {
+        "t": "ἀλλὰ",
+        "lemma": "G0235",
+        "forma": "ἀλλά",
+        "morph": "CONJ",
+        "glosa": "but",
+        "id": "Mat.10.34#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "but"
+      },
+      {
+        "t": "μάχαιραν",
+        "lemma": "G3162",
+        "forma": "μάχαιρα",
+        "morph": "N-ASF",
+        "glosa": "a sword.",
+        "id": "Mat.10.34#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "sword"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "Μὴ oddane jako „Nie”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "νομίσητε, tryb łączący przy zakazie, oddane jako „mniemajcie”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὅτι oddane jako „żem”; w tokenie jest też partykuła osoby -m."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἦλθον oddane jako „przyszedł”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "przeklad",
+      "uwaga": "βαλεῖν, glosa „to bring”, oddane jako „dawać”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "εἰρήνην oddane jako „pokój”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐπὶ oddane jako „na”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὴν γῆν oddane jako „ziemię”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "οὐκ oddane jako „nie”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἦλθον oddane jako „przyszedłem”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "βαλεῖν, glosa „to bring”, oddane jako „dawać”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "εἰρήνην w bierniku oddane dopełniaczem „pokoju”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἀλλὰ oddane jako „ale”."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "rola": "przeklad",
+      "uwaga": "μάχαιραν oddane jako „miecz”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. βαλεῖν jest oddane jako „dawać”, a rodzajnik przy γῆν wcielony w „ziemię”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Μὴ νομίσητε ὅτι ἦλθον βαλεῖν εἰρήνην ἐπὶ τὴν γῆν BG oddaje jako „Nie mniemajcie, żem przyszedł dawać pokój na ziemię”, a οὐκ ἦλθον βαλεῖν εἰρήνην, ἀλλὰ μάχαιραν jako „nie przyszedłem dawać pokoju, ale miecz”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nedomnívejte se, že bych přišel pokoj dáti na zemi. Nepřišelť jsem, abych pokoj uvedl, ale meč.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.10",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 10
+  },
+  "tekst_bg": "Tedy mu rzekł Jezus: Pójdź precz, szatanie! albowiem napisano: Panu Bogu twemu kłaniać się będziesz, i jemu samemu służyć będziesz.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tedy"
+    },
+    {
+      "i": 1,
+      "t": "mu"
+    },
+    {
+      "i": 2,
+      "t": "rzekł"
+    },
+    {
+      "i": 3,
+      "t": "Jezus"
+    },
+    {
+      "i": 4,
+      "t": "Pójdź"
+    },
+    {
+      "i": 5,
+      "t": "precz"
+    },
+    {
+      "i": 6,
+      "t": "szatanie"
+    },
+    {
+      "i": 7,
+      "t": "albowiem"
+    },
+    {
+      "i": 8,
+      "t": "napisano"
+    },
+    {
+      "i": 9,
+      "t": "Panu"
+    },
+    {
+      "i": 10,
+      "t": "Bogu"
+    },
+    {
+      "i": 11,
+      "t": "twemu"
+    },
+    {
+      "i": 12,
+      "t": "kłaniać"
+    },
+    {
+      "i": 13,
+      "t": "się"
+    },
+    {
+      "i": 14,
+      "t": "będziesz"
+    },
+    {
+      "i": 15,
+      "t": "i"
+    },
+    {
+      "i": 16,
+      "t": "jemu"
+    },
+    {
+      "i": 17,
+      "t": "samemu"
+    },
+    {
+      "i": 18,
+      "t": "służyć"
+    },
+    {
+      "i": 19,
+      "t": "będziesz"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.10",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.10",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "Then",
+        "id": "Mat.4.10#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "then"
+      },
+      {
+        "t": "λέγει",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-3S",
+        "glosa": "says",
+        "id": "Mat.4.10#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to him",
+        "id": "Mat.4.10#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.4.10#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus;",
+        "id": "Mat.4.10#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "ὕπαγε",
+        "lemma": "G5217",
+        "forma": "ὑπάγω",
+        "morph": "V-PAM-2S",
+        "glosa": "do go away",
+        "id": "Mat.4.10#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to go"
+      },
+      {
+        "t": "σατανᾶ",
+        "lemma": "G4567",
+        "forma": "Σατανᾶς",
+        "morph": "N-VSM-T",
+        "glosa": "Satan;",
+        "id": "Mat.4.10#09",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "Satan"
+      },
+      {
+        "t": "γέγραπται",
+        "lemma": "G1125",
+        "forma": "γράφω",
+        "morph": "V-RPI-3S",
+        "glosa": "it has been written",
+        "id": "Mat.4.10#10",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to write"
+      },
+      {
+        "t": "γάρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for:",
+        "id": "Mat.4.10#11",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "for"
+      },
+      {
+        "t": "κύριον",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-ASM-T",
+        "glosa": "[The] Lord",
+        "id": "Mat.4.10#12",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.4.10#13",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θεόν",
+        "lemma": "G2316",
+        "forma": "θεός",
+        "morph": "N-ASM-T",
+        "glosa": "God",
+        "id": "Mat.4.10#14",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "God"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.4.10#15",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "you"
+      },
+      {
+        "t": "προσκυνήσεις",
+        "lemma": "G4352",
+        "forma": "προσκυνέω",
+        "morph": "V-FAI-2S",
+        "glosa": "you will worship",
+        "id": "Mat.4.10#16",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to worship"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.10#17",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "and"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "Him",
+        "id": "Mat.4.10#18",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "μόνῳ",
+        "lemma": "G3441",
+        "forma": "μόνος",
+        "morph": "A-DSM",
+        "glosa": "alone",
+        "id": "Mat.4.10#19",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "alone"
+      },
+      {
+        "t": "λατρεύσεις",
+        "lemma": "G3000",
+        "forma": "λατρεύω",
+        "morph": "V-FAI-2S",
+        "glosa": "will you serve.’",
+        "id": "Mat.4.10#20",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to minister"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Τότε oddane jako „Tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”; szyk stawia zaimek przed czasownikiem."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "λέγει, czas teraźniejszy, oddane przeszłym „rzekł”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ὕπαγε oddane jako „Pójdź precz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "σατανᾶ, wołacz, oddane jako „szatanie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "γάρ stoi po γέγραπται, a BG wynosi je przed czasownik jako „albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "γέγραπται oddane jako „napisano”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "κύριον, biernik, oddane celownikiem „Panu” przy „kłaniać się”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "τὸν θεόν oddane jako „Bogu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "σου oddane jako „twemu”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        12,
+        13,
+        14
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "προσκυνήσεις, czas przyszły, oddane jako „kłaniać się będziesz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "αὐτῷ oddane jako „jemu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "μόνῳ oddane jako „samemu”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        18,
+        19
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "λατρεύσεις, czas przyszły, oddane jako „służyć będziesz”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Odpowiedź Jezusa i cytat zostają te same: odejście szatana oraz pokłon i służba samemu Bogu. Czasy przyszłe są rozwinięte polskim „będziesz”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "προσκυνήσεις i λατρεύσεις są w czasie przyszłym. BG oddaje je przez „kłaniać się będziesz” i „służyć będziesz”.",
+      "tokeny_bg": [
+        12,
+        13,
+        14,
+        18,
+        19
+      ],
+      "tokeny_zrodla": [
+        13,
+        17
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Tedy dí mu Ježíš: Odejdiž, satane; neboť jest psáno: Pánu Bohu svému klaněti se budeš a jemu samému sloužiti budeš.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

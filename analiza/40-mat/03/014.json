@@ -1,0 +1,509 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.3.14",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 3,
+    "werset": 14
+  },
+  "tekst_bg": "Ale mu Jan bardzo zabraniał, mówiąc: Ja potrzebuję, abym był ochrzczony od ciebie, a ty idziesz do mnie?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "mu"
+    },
+    {
+      "i": 2,
+      "t": "Jan"
+    },
+    {
+      "i": 3,
+      "t": "bardzo"
+    },
+    {
+      "i": 4,
+      "t": "zabraniał"
+    },
+    {
+      "i": 5,
+      "t": "mówiąc"
+    },
+    {
+      "i": 6,
+      "t": "Ja"
+    },
+    {
+      "i": 7,
+      "t": "potrzebuję"
+    },
+    {
+      "i": 8,
+      "t": "abym"
+    },
+    {
+      "i": 9,
+      "t": "był"
+    },
+    {
+      "i": 10,
+      "t": "ochrzczony"
+    },
+    {
+      "i": 11,
+      "t": "od"
+    },
+    {
+      "i": 12,
+      "t": "ciebie"
+    },
+    {
+      "i": 13,
+      "t": "a"
+    },
+    {
+      "i": 14,
+      "t": "ty"
+    },
+    {
+      "i": 15,
+      "t": "idziesz"
+    },
+    {
+      "i": 16,
+      "t": "do"
+    },
+    {
+      "i": 17,
+      "t": "mnie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.3.14",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.3.14",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.3.14#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "But",
+        "id": "Mat.3.14#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "Ἰωάννης",
+        "lemma": "G2491G",
+        "forma": "Ἰωάννης",
+        "morph": "N-NSM-P",
+        "glosa": "John",
+        "id": "Mat.3.14#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "John"
+      },
+      {
+        "t": "διεκώλυεν",
+        "lemma": "G1254",
+        "forma": "διακωλύω",
+        "morph": "V-IAI-3S",
+        "glosa": "was hindering",
+        "id": "Mat.3.14#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to hinder"
+      },
+      {
+        "t": "αὐτὸν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "Him",
+        "id": "Mat.3.14#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "λέγων",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NSM",
+        "glosa": "saying;",
+        "id": "Mat.3.14#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ἐγὼ",
+        "lemma": "G1473",
+        "forma": "ἐγώ",
+        "morph": "P-1NS",
+        "glosa": "I myself",
+        "id": "Mat.3.14#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "χρείαν",
+        "lemma": "G5532",
+        "forma": "χρεία",
+        "morph": "N-ASF",
+        "glosa": "need",
+        "id": "Mat.3.14#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "need"
+      },
+      {
+        "t": "ἔχω",
+        "lemma": "G2192",
+        "forma": "ἔχω",
+        "morph": "V-PAI-1S",
+        "glosa": "have",
+        "id": "Mat.3.14#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to have/be"
+      },
+      {
+        "t": "ὑπὸ",
+        "lemma": "G5259G",
+        "forma": "ὑπό",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.3.14#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "by/under: by"
+      },
+      {
+        "t": "σοῦ",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "You",
+        "id": "Mat.3.14#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "you"
+      },
+      {
+        "t": "βαπτισθῆναι",
+        "lemma": "G0907",
+        "forma": "βαπτίζω",
+        "morph": "V-APN",
+        "glosa": "to be baptized,",
+        "id": "Mat.3.14#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to baptize"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.3.14#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "σὺ",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2NS",
+        "glosa": "You yourself",
+        "id": "Mat.3.14#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἔρχῃ",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-PNI-2S",
+        "glosa": "come",
+        "id": "Mat.3.14#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "πρός",
+        "lemma": "G4314",
+        "forma": "πρός",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.3.14#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to/with"
+      },
+      {
+        "t": "με;",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1AS",
+        "glosa": "me?",
+        "id": "Mat.3.14#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "me"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po rodzajniku, a BG wynosi je na początek jako „Ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτὸν, biernik, oddane celownikiem „mu”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        0,
+        2
+      ],
+      "uwaga": "ὁ Ἰωάννης oddane jako „Jan”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [],
+      "uwaga": "„bardzo” nie ma przysłówka przy διεκώλυεν."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "διεκώλυεν, imperfectum „was hindering”, oddane jako „zabraniał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "λέγων oddane jako „mówiąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐγὼ oddane jako „Ja”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "χρείαν ἔχω, „need have”, skupione w „potrzebuję”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9,
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "βαπτισθῆναι, bezokolicznik bierny, rozbity na „abym był ochrzczony”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ὑπὸ oddane jako „od”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "σοῦ oddane jako „ciebie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "σὺ oddane jako „ty”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ἔρχῃ oddane jako „idziesz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "πρός oddane jako „do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "με oddane jako „mnie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "„bardzo” nie oddaje żadnego tokenu przy διεκώλυεν. Reszta słów jest pokryta, a bezokolicznik βαπτισθῆναι jest zdaniem „abym był ochrzczony”.",
+    "tokeny_bg": [
+      3
+    ],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "διεκώλυεν αὐτὸν ma glosę „was hindering” i nie ma przysłówka stopnia. BG dodaje „bardzo”.",
+      "tokeny_bg": [
+        1,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        3,
+        4
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "χρείαν ἔχω ὑπὸ σοῦ βαπτισθῆναι BG oddaje jako „potrzebuję, abym był ochrzczony od ciebie”.",
+      "tokeny_bg": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "tokeny_zrodla": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ale Jan zbraňoval mu, řka: Mně jest potřebí, abych od tebe pokřtěn byl, a ty pak jdeš ke mně?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

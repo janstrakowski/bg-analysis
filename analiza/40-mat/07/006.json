@@ -1,0 +1,638 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.6",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 6
+  },
+  "tekst_bg": "Nie dawajcie świętego psom, ani miećcie pereł waszych przed świnie, by ich snać nie podeptały nogami swemi, i obróciwszy się, nie rozszarpały was.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Nie"
+    },
+    {
+      "i": 1,
+      "t": "dawajcie"
+    },
+    {
+      "i": 2,
+      "t": "świętego"
+    },
+    {
+      "i": 3,
+      "t": "psom"
+    },
+    {
+      "i": 4,
+      "t": "ani"
+    },
+    {
+      "i": 5,
+      "t": "miećcie"
+    },
+    {
+      "i": 6,
+      "t": "pereł"
+    },
+    {
+      "i": 7,
+      "t": "waszych"
+    },
+    {
+      "i": 8,
+      "t": "przed"
+    },
+    {
+      "i": 9,
+      "t": "świnie"
+    },
+    {
+      "i": 10,
+      "t": "by"
+    },
+    {
+      "i": 11,
+      "t": "ich"
+    },
+    {
+      "i": 12,
+      "t": "snać"
+    },
+    {
+      "i": 13,
+      "t": "nie"
+    },
+    {
+      "i": 14,
+      "t": "podeptały"
+    },
+    {
+      "i": 15,
+      "t": "nogami"
+    },
+    {
+      "i": 16,
+      "t": "swemi"
+    },
+    {
+      "i": 17,
+      "t": "i"
+    },
+    {
+      "i": 18,
+      "t": "obróciwszy"
+    },
+    {
+      "i": 19,
+      "t": "się"
+    },
+    {
+      "i": 20,
+      "t": "nie"
+    },
+    {
+      "i": 21,
+      "t": "rozszarpały"
+    },
+    {
+      "i": 22,
+      "t": "was"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.6",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.6",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.7.6#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "not"
+      },
+      {
+        "t": "δῶτε",
+        "lemma": "G1325",
+        "forma": "δίδωμι",
+        "morph": "V-2AAS-2P",
+        "glosa": "shall give",
+        "id": "Mat.7.6#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to give"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "that which [is]",
+        "id": "Mat.7.6#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἅγιον",
+        "lemma": "G0040G",
+        "forma": "ἅγιος",
+        "morph": "A-ASN",
+        "glosa": "holy",
+        "id": "Mat.7.6#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "holy"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "to the",
+        "id": "Mat.7.6#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κυσὶν",
+        "lemma": "G2965",
+        "forma": "κύων",
+        "morph": "N-DPM",
+        "glosa": "dogs",
+        "id": "Mat.7.6#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "dog"
+      },
+      {
+        "t": "μηδὲ",
+        "lemma": "G3366",
+        "forma": "μηδέ",
+        "morph": "CONJ-N",
+        "glosa": "nor",
+        "id": "Mat.7.6#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "nor"
+      },
+      {
+        "t": "βάλητε",
+        "lemma": "G0906G",
+        "forma": "βάλλω",
+        "morph": "V-2AAS-2P",
+        "glosa": "shall cast",
+        "id": "Mat.7.6#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to throw: throw"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.7.6#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μαργαρίτας",
+        "lemma": "G3135",
+        "forma": "μαργαρίτης",
+        "morph": "N-APM",
+        "glosa": "pearls",
+        "id": "Mat.7.6#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "pearl"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.7.6#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἔμπροσθεν",
+        "lemma": "G1715",
+        "forma": "ἔμπροσθεν",
+        "morph": "PREP",
+        "glosa": "before",
+        "id": "Mat.7.6#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "before"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "the",
+        "id": "Mat.7.6#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "χοίρων",
+        "lemma": "G5519",
+        "forma": "χοῖρος",
+        "morph": "N-GPM",
+        "glosa": "pigs",
+        "id": "Mat.7.6#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "pig"
+      },
+      {
+        "t": "μήποτε",
+        "lemma": "G3361",
+        "forma": "μήποτε",
+        "morph": "PRT-N + G4218=PRT",
+        "glosa": "otherwise",
+        "id": "Mat.7.6#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "not"
+      },
+      {
+        "t": "καταπατήσωσιν",
+        "lemma": "G2662",
+        "forma": "καταπατήσωσιν",
+        "morph": "V-AAS-3P",
+        "glosa": "they may trample upon",
+        "id": "Mat.7.6#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to trample"
+      },
+      {
+        "t": "αὐτοὺς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-APM",
+        "glosa": "them",
+        "id": "Mat.7.6#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "with",
+        "id": "Mat.7.6#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "the",
+        "id": "Mat.7.6#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ποσὶν",
+        "lemma": "G4228",
+        "forma": "πούς",
+        "morph": "N-DPM",
+        "glosa": "feet",
+        "id": "Mat.7.6#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "foot"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPM",
+        "glosa": "of them,",
+        "id": "Mat.7.6#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.6#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "and"
+      },
+      {
+        "t": "στραφέντες",
+        "lemma": "G4762",
+        "forma": "στρέφω",
+        "morph": "V-2APP-NPM",
+        "glosa": "having turned",
+        "id": "Mat.7.6#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "to turn"
+      },
+      {
+        "t": "ῥήξωσιν",
+        "lemma": "G4486",
+        "forma": "ῥήγνυμι",
+        "morph": "V-AAS-3P",
+        "glosa": "they may tear to pieces",
+        "id": "Mat.7.6#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "to throw violently"
+      },
+      {
+        "t": "ὑμᾶς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2AP",
+        "glosa": "you.",
+        "id": "Mat.7.6#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Μὴ oddane jako „Nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δῶτε oddane jako „dawajcie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "τὸ ἅγιον, biernik, oddane dopełniaczem „świętego” przy przeczeniu."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τοῖς κυσὶν oddane jako „psom”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "μηδὲ oddane jako „ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "βάλητε, „rzucić”, oddane dawnym „miećcie” od „miotać”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τοὺς μαργαρίτας, biernik, oddane dopełniaczem „pereł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ὑμῶν oddane jako „waszych”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἔμπροσθεν oddane jako „przed”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τῶν χοίρων, dopełniacz, oddane jako „świnie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        10,
+        12,
+        13,
+        20
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "μήποτε oddane jako „by”, „snać” i dwa razy „nie”, bo jedno zaprzeczenie obejmuje καταπατήσωσιν i ῥήξωσιν."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "αὐτοὺς oddane jako „ich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "καταπατήσωσιν oddane jako „podeptały”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        17,
+        18,
+        19
+      ],
+      "uwaga": "ἐν τοῖς ποσὶν oddane narzędnikiem „nogami”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "αὐτῶν oddane jako „swemi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        18,
+        19
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "στραφέντες, imiesłów strony biernej, oddane jako „obróciwszy się”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "ῥήξωσιν oddane jako „rozszarpały”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "ὑμᾶς oddane jako „was”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Zakaz, perły, podeptanie i rozszarpanie są pokryte. μήποτε rozbite na „by snać nie”, a ἐν wcielone w „nogami”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Jedno μήποτε stoi przy καταπατήσωσιν i obejmuje też ῥήξωσιν. BG daje „nie” przy obu czasownikach oraz „snać”.",
+      "tokeny_bg": [
+        10,
+        12,
+        13,
+        14,
+        20,
+        21
+      ],
+      "tokeny_zrodla": [
+        14,
+        15,
+        23
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nedávejte svatého psům, aniž mecte perel svých před svině, ať by snad nepotlačily jich nohama svýma, a psi obrátíce se, aby neroztrhaly vás.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

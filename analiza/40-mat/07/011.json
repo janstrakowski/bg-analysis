@@ -1,0 +1,715 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.11",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 11
+  },
+  "tekst_bg": "Jeźli wy tedy będąc złymi, umiecie dary dobre dawać dzieciom waszym, czemże więcej Ojciec wasz, który jest w niebiesiech, da rzeczy dobre tym, którzy go proszą.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Jeźli"
+    },
+    {
+      "i": 1,
+      "t": "wy"
+    },
+    {
+      "i": 2,
+      "t": "tedy"
+    },
+    {
+      "i": 3,
+      "t": "będąc"
+    },
+    {
+      "i": 4,
+      "t": "złymi"
+    },
+    {
+      "i": 5,
+      "t": "umiecie"
+    },
+    {
+      "i": 6,
+      "t": "dary"
+    },
+    {
+      "i": 7,
+      "t": "dobre"
+    },
+    {
+      "i": 8,
+      "t": "dawać"
+    },
+    {
+      "i": 9,
+      "t": "dzieciom"
+    },
+    {
+      "i": 10,
+      "t": "waszym"
+    },
+    {
+      "i": 11,
+      "t": "czemże"
+    },
+    {
+      "i": 12,
+      "t": "więcej"
+    },
+    {
+      "i": 13,
+      "t": "Ojciec"
+    },
+    {
+      "i": 14,
+      "t": "wasz"
+    },
+    {
+      "i": 15,
+      "t": "który"
+    },
+    {
+      "i": 16,
+      "t": "jest"
+    },
+    {
+      "i": 17,
+      "t": "w"
+    },
+    {
+      "i": 18,
+      "t": "niebiesiech"
+    },
+    {
+      "i": 19,
+      "t": "da"
+    },
+    {
+      "i": 20,
+      "t": "rzeczy"
+    },
+    {
+      "i": 21,
+      "t": "dobre"
+    },
+    {
+      "i": 22,
+      "t": "tym"
+    },
+    {
+      "i": 23,
+      "t": "którzy"
+    },
+    {
+      "i": 24,
+      "t": "go"
+    },
+    {
+      "i": 25,
+      "t": "proszą"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.11",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.11",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "εἰ",
+        "lemma": "G1487G",
+        "forma": "εἰ",
+        "morph": "COND",
+        "glosa": "If",
+        "id": "Mat.7.11#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "if"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "therefore",
+        "id": "Mat.7.11#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "ὑμεῖς",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2NP",
+        "glosa": "you yourselves",
+        "id": "Mat.7.11#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "you"
+      },
+      {
+        "t": "πονηροὶ",
+        "lemma": "G4190",
+        "forma": "πονηρός",
+        "morph": "A-NPM",
+        "glosa": "evil",
+        "id": "Mat.7.11#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "evil/bad"
+      },
+      {
+        "t": "ὄντες",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAP-NPM",
+        "glosa": "being",
+        "id": "Mat.7.11#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to be"
+      },
+      {
+        "t": "οἴδατε",
+        "lemma": "G6063",
+        "forma": "εἴδω",
+        "morph": "V-RAI-2P",
+        "glosa": "you know",
+        "id": "Mat.7.11#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to know"
+      },
+      {
+        "t": "δόματα",
+        "lemma": "G1390",
+        "forma": "δόμα",
+        "morph": "N-APN",
+        "glosa": "gifts",
+        "id": "Mat.7.11#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "gift"
+      },
+      {
+        "t": "ἀγαθὰ",
+        "lemma": "G0018",
+        "forma": "ἀγαθός",
+        "morph": "A-APN",
+        "glosa": "good",
+        "id": "Mat.7.11#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "good"
+      },
+      {
+        "t": "διδόναι",
+        "lemma": "G1325",
+        "forma": "δίδωμι",
+        "morph": "V-PAN",
+        "glosa": "to give",
+        "id": "Mat.7.11#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to give"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPN",
+        "glosa": "to the",
+        "id": "Mat.7.11#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "τέκνοις",
+        "lemma": "G5043",
+        "forma": "τέκνον",
+        "morph": "N-DPN",
+        "glosa": "children",
+        "id": "Mat.7.11#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "child"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you,",
+        "id": "Mat.7.11#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "you"
+      },
+      {
+        "t": "πόσῳ",
+        "lemma": "G4214",
+        "forma": "πόσος",
+        "morph": "Q-DSN",
+        "glosa": "how much",
+        "id": "Mat.7.11#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "how much/many?"
+      },
+      {
+        "t": "μᾶλλον",
+        "lemma": "G3123G",
+        "forma": "μᾶλλον",
+        "morph": "ADV",
+        "glosa": "more",
+        "id": "Mat.7.11#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "more"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.7.11#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατὴρ",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-NSM-T",
+        "glosa": "Father",
+        "id": "Mat.7.11#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "father"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you",
+        "id": "Mat.7.11#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "who [is]",
+        "id": "Mat.7.11#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.7.11#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "the",
+        "id": "Mat.7.11#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανοῖς",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-DPM",
+        "glosa": "heavens",
+        "id": "Mat.7.11#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "heaven"
+      },
+      {
+        "t": "δώσει",
+        "lemma": "G1325",
+        "forma": "δίδωμι",
+        "morph": "V-FAI-3S",
+        "glosa": "will give",
+        "id": "Mat.7.11#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "to give"
+      },
+      {
+        "t": "ἀγαθὰ",
+        "lemma": "G0018",
+        "forma": "ἀγαθός",
+        "morph": "A-APN",
+        "glosa": "good things",
+        "id": "Mat.7.11#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "good"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "to those",
+        "id": "Mat.7.11#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "αἰτοῦσιν",
+        "lemma": "G0154",
+        "forma": "αἰτέω",
+        "morph": "V-PAP-DPM",
+        "glosa": "asking",
+        "id": "Mat.7.11#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "to ask"
+      },
+      {
+        "t": "αὐτόν;",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "Him?",
+        "id": "Mat.7.11#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "εἰ oddane jako „Jeźli”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὑμεῖς oddane jako „wy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "οὖν stoi po εἰ, a BG daje „tedy” po „wy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ὄντες oddane jako „będąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "πονηροὶ, mianownik, oddane narzędnikiem „złymi” przy „będąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "οἴδατε z bezokolicznikiem διδόναι oddane jako „umiecie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "δόματα oddane jako „dary”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἀγαθὰ oddane jako „dobre”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "διδόναι oddane jako „dawać”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τοῖς τέκνοις oddane jako „dzieciom”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ὑμῶν oddane jako „waszym”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "πόσῳ oddane jako „czemże”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "μᾶλλον oddane jako „więcej”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "ὁ πατὴρ oddane jako „Ojciec”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ὑμῶν oddane jako „wasz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ὁ przed ἐν, glosa „who [is]”, oddane jako „który”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [],
+      "uwaga": "„jest” nie ma εἰμί przy ὁ ἐν τοῖς οὐρανοῖς.",
+      "uzasadnienie": "Rodzajnik ὁ z ἐν τοῖς οὐρανοῖς nie jest czasownikiem. „jest” stawia orzeczenie tego samego miejsca."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        19,
+        20
+      ],
+      "uwaga": "τοῖς οὐρανοῖς oddane jako „niebiesiech”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "δώσει oddane jako „da”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        20,
+        21
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "ἀγαθὰ, przymiotnik użyty rzeczownikowo, oddane jako „rzeczy dobre”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "τοῖς, celownik, oddane jako „tym”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        23,
+        25
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "αἰτοῦσιν, imiesłów, rozbite na zdanie „którzy proszą”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "αὐτόν oddane jako „go”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Porównanie ojca z dającymi jest pokryte. „jest” dopowiada orzeczenie przy ὁ ἐν τοῖς οὐρανοῖς, a „rzeczy” rozbija rzeczowe ἀγαθὰ.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὁ ἐν τοῖς οὐρανοῖς nie zawiera εἰμί. BG dodaje „jest”, a rodzajnik oddaje jako „który”.",
+      "tokeny_bg": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "tokeny_zrodla": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Drugie ἀγαθὰ nie ma rzeczownika. BG rozbija je na „rzeczy dobre”.",
+      "tokeny_bg": [
+        20,
+        21
+      ],
+      "tokeny_zrodla": [
+        22
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Poněvadž tedy vy, jsouce zlí, umíte dobré dary dávati synům vašim, čím více Otec váš, jenž jest v nebesích, dá dobré věci těm, kteříž ho prosí?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

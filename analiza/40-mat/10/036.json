@@ -1,0 +1,236 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.36",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 36
+  },
+  "tekst_bg": "I nieprzyjaciołmi będą człowiekowi domownicy jego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "nieprzyjaciołmi"
+    },
+    {
+      "i": 2,
+      "t": "będą"
+    },
+    {
+      "i": 3,
+      "t": "człowiekowi"
+    },
+    {
+      "i": 4,
+      "t": "domownicy"
+    },
+    {
+      "i": 5,
+      "t": "jego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.36",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.36",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.10.36#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐχθροὶ",
+        "lemma": "G2190",
+        "forma": "ἐχθρός",
+        "morph": "N-NPM",
+        "glosa": "enemies",
+        "id": "Mat.10.36#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "enemy"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.10.36#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀνθρώπου",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-GSM",
+        "glosa": "man",
+        "id": "Mat.10.36#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "a human"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "the",
+        "id": "Mat.10.36#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἰκιακοὶ",
+        "lemma": "G3615",
+        "forma": "οἰκιακός",
+        "morph": "N-NPM",
+        "glosa": "household",
+        "id": "Mat.10.36#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "member of a house"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of him.",
+        "id": "Mat.10.36#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐχθροὶ w mianowniku oddane narzędnikiem „nieprzyjaciołmi” przy dodanym „będą”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [],
+      "rola": "dopelnienie",
+      "uwaga": "„będą” jest kursywą 1632. ἐχθροὶ τοῦ ἀνθρώπου οἱ οἰκιακοὶ αὐτοῦ nie ma εἰμί."
+    },
+    {
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "rola": "zlanie",
+      "uwaga": "τοῦ ἀνθρώπου, dopełniacz, oddane celownikiem „człowiekowi”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "rola": "zlanie",
+      "uwaga": "οἱ οἰκιακοὶ oddane jako „domownicy”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „będą” jest kursywą 1632, bo TR ma tu zdanie bez εἰμί.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "καὶ ἐχθροὶ τοῦ ἀνθρώπου οἱ οἰκιακοὶ αὐτοῦ nie ma czasownika. BG dodaje kursywą „będą” i kładzie „nieprzyjaciołmi” w narzędniku, a „człowiekowi” w celowniku.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A nepřátelé člověka budou domácí jeho.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

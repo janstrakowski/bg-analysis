@@ -1,0 +1,820 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.9",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 9
+  },
+  "tekst_bg": "Bomci i ja człowiek pod mocą innego, mający pod sobą żołnierze; i mówię temu: Idź, a idzie; a drugiemu: Przyjdź, a przychodzi; a słudze memu: Czyń to, a czyni.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Bomci"
+    },
+    {
+      "i": 1,
+      "t": "i"
+    },
+    {
+      "i": 2,
+      "t": "ja"
+    },
+    {
+      "i": 3,
+      "t": "człowiek"
+    },
+    {
+      "i": 4,
+      "t": "pod"
+    },
+    {
+      "i": 5,
+      "t": "mocą"
+    },
+    {
+      "i": 6,
+      "t": "innego"
+    },
+    {
+      "i": 7,
+      "t": "mający"
+    },
+    {
+      "i": 8,
+      "t": "pod"
+    },
+    {
+      "i": 9,
+      "t": "sobą"
+    },
+    {
+      "i": 10,
+      "t": "żołnierze"
+    },
+    {
+      "i": 11,
+      "t": "i"
+    },
+    {
+      "i": 12,
+      "t": "mówię"
+    },
+    {
+      "i": 13,
+      "t": "temu"
+    },
+    {
+      "i": 14,
+      "t": "Idź"
+    },
+    {
+      "i": 15,
+      "t": "a"
+    },
+    {
+      "i": 16,
+      "t": "idzie"
+    },
+    {
+      "i": 17,
+      "t": "a"
+    },
+    {
+      "i": 18,
+      "t": "drugiemu"
+    },
+    {
+      "i": 19,
+      "t": "Przyjdź"
+    },
+    {
+      "i": 20,
+      "t": "a"
+    },
+    {
+      "i": 21,
+      "t": "przychodzi"
+    },
+    {
+      "i": 22,
+      "t": "a"
+    },
+    {
+      "i": 23,
+      "t": "słudze"
+    },
+    {
+      "i": 24,
+      "t": "memu"
+    },
+    {
+      "i": 25,
+      "t": "Czyń"
+    },
+    {
+      "i": 26,
+      "t": "to"
+    },
+    {
+      "i": 27,
+      "t": "a"
+    },
+    {
+      "i": 28,
+      "t": "czyni"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.9",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.9",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "Also",
+        "id": "Mat.8.9#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.8.9#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "ἐγὼ",
+        "lemma": "G1473",
+        "forma": "ἐγώ",
+        "morph": "P-1NS",
+        "glosa": "I myself",
+        "id": "Mat.8.9#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "ἄνθρωπός",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-NSM",
+        "glosa": "a man",
+        "id": "Mat.8.9#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "a human"
+      },
+      {
+        "t": "εἰμι",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-1S",
+        "glosa": "am",
+        "id": "Mat.8.9#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ὑπὸ",
+        "lemma": "G5259H",
+        "forma": "ὑπό",
+        "morph": "PREP",
+        "glosa": "under",
+        "id": "Mat.8.9#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "by/under: under"
+      },
+      {
+        "t": "ἐξουσίαν",
+        "lemma": "G1849",
+        "forma": "ἐξουσία",
+        "morph": "N-ASF",
+        "glosa": "authority",
+        "id": "Mat.8.9#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "authority"
+      },
+      {
+        "t": "ἔχων",
+        "lemma": "G2192",
+        "forma": "ἔχω",
+        "morph": "V-PAP-NSM",
+        "glosa": "having",
+        "id": "Mat.8.9#09",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to have/be"
+      },
+      {
+        "t": "ὑπ᾽",
+        "lemma": "G5259H",
+        "forma": "ὑπό",
+        "morph": "PREP",
+        "glosa": "under",
+        "id": "Mat.8.9#10",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "by/under: under"
+      },
+      {
+        "t": "ἐμαυτὸν",
+        "lemma": "G1473",
+        "forma": "ἐμαυτοῦ",
+        "morph": "F-1ASM",
+        "glosa": "myself",
+        "id": "Mat.8.9#11",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "στρατιώτας",
+        "lemma": "G4757",
+        "forma": "στρατιώτης",
+        "morph": "N-APM",
+        "glosa": "soldiers",
+        "id": "Mat.8.9#12",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "soldier"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.9#13",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "and"
+      },
+      {
+        "t": "λέγω",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-1S",
+        "glosa": "I say",
+        "id": "Mat.8.9#14",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to say"
+      },
+      {
+        "t": "τούτῳ",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-DSM",
+        "glosa": "to this [one];",
+        "id": "Mat.8.9#15",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "πορεύθητι",
+        "lemma": "G4198",
+        "forma": "πορεύω",
+        "morph": "V-AOM-2S",
+        "glosa": "do go,",
+        "id": "Mat.8.9#16",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to travel"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.9#17",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "and"
+      },
+      {
+        "t": "πορεύεται",
+        "lemma": "G4198",
+        "forma": "πορεύω",
+        "morph": "V-PNI-3S",
+        "glosa": "he goes,",
+        "id": "Mat.8.9#18",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to travel"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.9#19",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἄλλῳ",
+        "lemma": "G0243",
+        "forma": "ἄλλος",
+        "morph": "A-DSM",
+        "glosa": "to another;",
+        "id": "Mat.8.9#20",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "another"
+      },
+      {
+        "t": "ἔρχου",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-PNM-2S",
+        "glosa": "do come,",
+        "id": "Mat.8.9#21",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.9#22",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἔρχεται",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-PNI-3S",
+        "glosa": "he comes,",
+        "id": "Mat.8.9#23",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.9#24",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "and"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "to the",
+        "id": "Mat.8.9#25",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δούλῳ",
+        "lemma": "G1401",
+        "forma": "δοῦλος",
+        "morph": "N-DSM",
+        "glosa": "servant",
+        "id": "Mat.8.9#26",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "slave"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "of mine;",
+        "id": "Mat.8.9#27",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "me"
+      },
+      {
+        "t": "ποίησον",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-AAM-2S",
+        "glosa": "do enact",
+        "id": "Mat.8.9#28",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "τοῦτο",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-ASN",
+        "glosa": "this,",
+        "id": "Mat.8.9#29",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.9#30",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "and"
+      },
+      {
+        "t": "ποιεῖ",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAI-3S",
+        "glosa": "he enacts [it].",
+        "id": "Mat.8.9#31",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "to do/make: do"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "zlanie",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1,
+        4
+      ],
+      "uwaga": "„Bomci” zbija γὰρ i εἰμί: „bo” to γὰρ, a końcówka -m to „jestem”; -ci jest partykułą w tym samym słowie."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ, glosa „Also”, oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐγὼ oddane jako „ja”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἄνθρωπός oddane jako „człowiek”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ὑπὸ oddane jako „pod”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐξουσίαν, glosa „authority”, oddane jako „mocą”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [],
+      "uwaga": "„innego” jest kursywą w 1632. ὑπὸ ἐξουσίαν nie ma słowa „inny”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἔχων oddane jako „mający”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ὑπ᾽ oddane jako „pod”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἐμαυτὸν oddane jako „sobą”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "στρατιώτας, biernik, oddane jako „żołnierze”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "λέγω oddane jako „mówię”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "τούτῳ oddane jako „temu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "πορεύθητι oddane jako „Idź”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "πορεύεται oddane jako „idzie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ἄλλῳ oddane jako „drugiemu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "ἔρχου oddane jako „Przyjdź”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "ἔρχεται oddane jako „przychodzi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        23,
+        24
+      ],
+      "uwaga": "τῷ δούλῳ oddane jako „słudze”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "μου oddane jako „memu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        26
+      ],
+      "uwaga": "ποίησον oddane jako „Czyń”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        26
+      ],
+      "zrodlo": [
+        27
+      ],
+      "uwaga": "τοῦτο oddane jako „to”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        27
+      ],
+      "zrodlo": [
+        28
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        28
+      ],
+      "zrodlo": [
+        29
+      ],
+      "uwaga": "ποιεῖ oddane jako „czyni”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „Bomci” niesie γὰρ i εἰμί, a „innego” jest kursywą przy ὑπὸ ἐξουσίαν, które samo znaczy „pod mocą”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὑπὸ ἐξουσίαν nie ma przymiotnika „inny”. „innego” jest kursywą w 1632.",
+      "tokeny_bg": [
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        5,
+        6
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "καὶ γὰρ ἐγὼ ἄνθρωπός εἰμι oddane jako „Bomci i ja człowiek”: „bo” i końcówka -m niosą γὰρ oraz εἰμί.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo i já jsem člověk moci poddaný, maje pod sebou žoldnéře, avšak dím-li tomuto: Jdi, tedy jde, a jinému: Přijď, a přijde, a služebníku svému: Učiň toto, a učiní.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

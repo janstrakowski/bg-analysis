@@ -1,0 +1,512 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.19",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 19
+  },
+  "tekst_bg": "Nie skarbcie sobie skarbów na ziemi, gdzie mól i rdza psuje, i gdzie złodzieje podkopywują i kradną;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Nie"
+    },
+    {
+      "i": 1,
+      "t": "skarbcie"
+    },
+    {
+      "i": 2,
+      "t": "sobie"
+    },
+    {
+      "i": 3,
+      "t": "skarbów"
+    },
+    {
+      "i": 4,
+      "t": "na"
+    },
+    {
+      "i": 5,
+      "t": "ziemi"
+    },
+    {
+      "i": 6,
+      "t": "gdzie"
+    },
+    {
+      "i": 7,
+      "t": "mól"
+    },
+    {
+      "i": 8,
+      "t": "i"
+    },
+    {
+      "i": 9,
+      "t": "rdza"
+    },
+    {
+      "i": 10,
+      "t": "psuje"
+    },
+    {
+      "i": 11,
+      "t": "i"
+    },
+    {
+      "i": 12,
+      "t": "gdzie"
+    },
+    {
+      "i": 13,
+      "t": "złodzieje"
+    },
+    {
+      "i": 14,
+      "t": "podkopywują"
+    },
+    {
+      "i": 15,
+      "t": "i"
+    },
+    {
+      "i": 16,
+      "t": "kradną"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.19",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.19",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.6.19#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "not"
+      },
+      {
+        "t": "θησαυρίζετε",
+        "lemma": "G2343",
+        "forma": "θησαυρίζω",
+        "morph": "V-PAM-2P",
+        "glosa": "do store up",
+        "id": "Mat.6.19#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to store up"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "for yourselves",
+        "id": "Mat.6.19#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "you"
+      },
+      {
+        "t": "θησαυροὺς",
+        "lemma": "G2344",
+        "forma": "θησαυρός",
+        "morph": "N-APM",
+        "glosa": "treasures",
+        "id": "Mat.6.19#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "treasure"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "upon",
+        "id": "Mat.6.19#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "the",
+        "id": "Mat.6.19#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γῆς",
+        "lemma": "G1093G",
+        "forma": "γῆ",
+        "morph": "N-GSF",
+        "glosa": "earth,",
+        "id": "Mat.6.19#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "earth: planet"
+      },
+      {
+        "t": "ὅπου",
+        "lemma": "G3699",
+        "forma": "ὅπου",
+        "morph": "PREP",
+        "glosa": "where",
+        "id": "Mat.6.19#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "where(-ever)"
+      },
+      {
+        "t": "σὴς",
+        "lemma": "G4597",
+        "forma": "σής",
+        "morph": "N-NSM",
+        "glosa": "moth",
+        "id": "Mat.6.19#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "moth"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.6.19#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "βρῶσις",
+        "lemma": "G1035",
+        "forma": "βρῶσις",
+        "morph": "N-NSF",
+        "glosa": "rust",
+        "id": "Mat.6.19#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "eating"
+      },
+      {
+        "t": "ἀφανίζει",
+        "lemma": "G0853",
+        "forma": "ἀφανίζω",
+        "morph": "V-PAI-3S",
+        "glosa": "destroy",
+        "id": "Mat.6.19#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to destroy"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.6.19#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὅπου",
+        "lemma": "G3699",
+        "forma": "ὅπου",
+        "morph": "PREP",
+        "glosa": "where",
+        "id": "Mat.6.19#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "where(-ever)"
+      },
+      {
+        "t": "κλέπται",
+        "lemma": "G2812",
+        "forma": "κλέπτης",
+        "morph": "N-NPM",
+        "glosa": "thieves",
+        "id": "Mat.6.19#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "thief"
+      },
+      {
+        "t": "διορύσσουσιν",
+        "lemma": "G1358",
+        "forma": "διορύσσω",
+        "morph": "V-PAI-3P",
+        "glosa": "break in",
+        "id": "Mat.6.19#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to break in"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.6.19#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "and"
+      },
+      {
+        "t": "κλέπτουσιν",
+        "lemma": "G2813",
+        "forma": "κλέπτω",
+        "morph": "V-PAI-3P",
+        "glosa": "steal;",
+        "id": "Mat.6.19#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to steal"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Μὴ oddane jako „Nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "θησαυρίζετε, rozkazujący „do store up”, oddane jako „skarbcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὑμῖν, celownik „for yourselves”, oddane jako „sobie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "θησαυρούς, biernik „treasures”, oddane dopełniaczem „skarbów”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐπί oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τῆς γῆς oddane jako „ziemi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ὅπου oddane jako „gdzie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "σής oddane jako „mól”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "καί oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "βρῶσις, glosa „rust”, oddane jako „rdza”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἀφανίζει, „destroy”, oddane jako „psuje”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καί oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ὅπου oddane jako „gdzie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "κλέπται oddane jako „złodzieje”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "διορύσσουσιν, „break in”, oddane jako „podkopywują”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "καί oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "κλέπτουσιν oddane jako „kradną”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. Rodzajnik τῆς ginie w „ziemi”, a biernik θησαυρούς schodzi do dopełniacza „skarbów” przy „skarbcie”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Μὴ θησαυρίζετε ὑμῖν θησαυρούς ἐπὶ τῆς γῆς BG oddaje jako „Nie skarbcie sobie skarbów na ziemi”, bez dopowiedzenia i bez luki.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Neskládejte sobě pokladů na zemi, kdežto mol a rez kazí, a kdež zloději vykopávají a kradou.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

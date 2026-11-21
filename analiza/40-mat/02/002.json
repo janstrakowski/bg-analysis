@@ -1,0 +1,566 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.2.2",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 2,
+    "werset": 2
+  },
+  "tekst_bg": "Gdzież jest ten, który się narodził, król Żydowski? Bośmy widzieli gwiazdę jego na wschód słońca, i przyjechaliśmy, abyśmy mu się pokłonili.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Gdzież"
+    },
+    {
+      "i": 1,
+      "t": "jest"
+    },
+    {
+      "i": 2,
+      "t": "ten"
+    },
+    {
+      "i": 3,
+      "t": "który"
+    },
+    {
+      "i": 4,
+      "t": "się"
+    },
+    {
+      "i": 5,
+      "t": "narodził"
+    },
+    {
+      "i": 6,
+      "t": "król"
+    },
+    {
+      "i": 7,
+      "t": "Żydowski"
+    },
+    {
+      "i": 8,
+      "t": "Bośmy"
+    },
+    {
+      "i": 9,
+      "t": "widzieli"
+    },
+    {
+      "i": 10,
+      "t": "gwiazdę"
+    },
+    {
+      "i": 11,
+      "t": "jego"
+    },
+    {
+      "i": 12,
+      "t": "na"
+    },
+    {
+      "i": 13,
+      "t": "wschód"
+    },
+    {
+      "i": 14,
+      "t": "słońca"
+    },
+    {
+      "i": 15,
+      "t": "i"
+    },
+    {
+      "i": 16,
+      "t": "przyjechaliśmy"
+    },
+    {
+      "i": 17,
+      "t": "abyśmy"
+    },
+    {
+      "i": 18,
+      "t": "mu"
+    },
+    {
+      "i": 19,
+      "t": "się"
+    },
+    {
+      "i": 20,
+      "t": "pokłonili"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.2.2",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.2.2",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "λέγοντες",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NPM",
+        "glosa": "saying;",
+        "id": "Mat.2.2#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ποῦ",
+        "lemma": "G4226",
+        "forma": "ποῦ",
+        "morph": "ADV-I",
+        "glosa": "Where",
+        "id": "Mat.2.2#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "where?"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is",
+        "id": "Mat.2.2#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the [One]",
+        "id": "Mat.2.2#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "τεχθεὶς",
+        "lemma": "G5088",
+        "forma": "τίκτω",
+        "morph": "V-APP-NSM",
+        "glosa": "having been born",
+        "id": "Mat.2.2#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to give birth to"
+      },
+      {
+        "t": "βασιλεὺς",
+        "lemma": "G0935",
+        "forma": "βασιλεύς",
+        "morph": "N-NSM-T",
+        "glosa": "King",
+        "id": "Mat.2.2#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "king"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.2.2#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰουδαίων;",
+        "lemma": "G2453",
+        "forma": "Ἰουδαῖος",
+        "morph": "N-GPM-PG",
+        "glosa": "Jews?",
+        "id": "Mat.2.2#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "Jew"
+      },
+      {
+        "t": "εἴδομεν",
+        "lemma": "G1492H",
+        "forma": "εἴδω",
+        "morph": "V-2AAI-1P",
+        "glosa": "We saw",
+        "id": "Mat.2.2#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to perceive: see"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.2.2#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "for"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "His",
+        "id": "Mat.2.2#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.2.2#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀστέρα",
+        "lemma": "G0792",
+        "forma": "ἀστήρ",
+        "morph": "N-ASM",
+        "glosa": "star",
+        "id": "Mat.2.2#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "star"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.2.2#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.2.2#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀνατολῇ",
+        "lemma": "G0395",
+        "forma": "ἀνατολή",
+        "morph": "N-DSF",
+        "glosa": "east",
+        "id": "Mat.2.2#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "east"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.2.2#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἤλθομεν",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAI-1P",
+        "glosa": "are come",
+        "id": "Mat.2.2#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "προσκυνῆσαι",
+        "lemma": "G4352",
+        "forma": "προσκυνέω",
+        "morph": "V-AAN",
+        "glosa": "to worship",
+        "id": "Mat.2.2#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to worship"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "Him.",
+        "id": "Mat.2.2#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "λέγοντες, imiesłów „saying”, nie ma słowa w polskim tekście tego wersetu."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ποῦ oddane jako „Gdzież”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐστιν oddane jako „jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὁ, rodzajnik użyty rzeczownikowo, oddane jako „ten”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [],
+      "uwaga": "„który” otwiera zdanie względne. W grece nie ma zaimka ὅς.",
+      "uzasadnienie": "Rodzajnik ὁ nie jest zaimkiem względnym. „który” dopowiada polskie zdanie przy imiesłowie τεχθείς."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "τεχθείς, imiesłów bierny, oddane jako „się narodził”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "βασιλεὺς oddane jako „król”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τῶν Ἰουδαίων oddane przymiotnikiem „Żydowski”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "εἴδομεν γάρ oddane jako „Bośmy widzieli”; końcówka 1. os. l.mn. stoi na „Bo”, a γάρ jest wysunięte przed czasownik."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "αὐτοῦ stoi przed gwiazdą, a BG daje „jego” po „gwiazdę”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τὸν ἀστέρα oddane jako „gwiazdę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἐν oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "τῇ ἀνατολῇ oddane jako „wschód”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [],
+      "uwaga": "„słońca” nie ma w grece; ἀνατολῇ znaczy „east”.",
+      "uzasadnienie": "Dopowiedzenie słońca przy „wschód”, tak samo jak w 2,1. W 2,9 to słowo jest kursywą."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "καί oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἤλθομεν oddane jako „przyjechaliśmy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        17,
+        19,
+        20
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "προσκυνῆσαι, bezokolicznik celu, rozbite na „abyśmy się pokłonili”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "αὐτῷ oddane jako „mu”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Imiesłów λέγοντες nie ma polskiego słowa w tym wersecie. Reszta mowy mędrców jest oddana, z dopowiedzeniem „który” i „słońca”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      0
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "λέγοντες otwiera w TR ten werset, a w polskim tekście 2,2 nie ma imiesłowu „mówiąc”.",
+      "tokeny_bg": [],
+      "tokeny_zrodla": [
+        0
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὁ τεχθεὶς nie zawiera zaimka ὅς. BG dodaje „który” i rozbija imiesłów bierny na „się narodził”.",
+      "tokeny_bg": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        3,
+        4
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Řkouce: Kde jest ten, kterýž se narodil Král Židovský? Nebo viděli jsme hvězdu jeho na východu slunce, a přijeli jsme klaněti se jemu.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

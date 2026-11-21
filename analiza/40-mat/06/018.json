@@ -1,0 +1,723 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.6.18",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 6,
+    "werset": 18
+  },
+  "tekst_bg": "Abyś nie był widziany od ludzi, że pościsz, ale od Ojca twojego, który jest w skrytości; a Ojciec twój, który widzi w skrytości, oddać jawnie.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Abyś"
+    },
+    {
+      "i": 1,
+      "t": "nie"
+    },
+    {
+      "i": 2,
+      "t": "był"
+    },
+    {
+      "i": 3,
+      "t": "widziany"
+    },
+    {
+      "i": 4,
+      "t": "od"
+    },
+    {
+      "i": 5,
+      "t": "ludzi"
+    },
+    {
+      "i": 6,
+      "t": "że"
+    },
+    {
+      "i": 7,
+      "t": "pościsz"
+    },
+    {
+      "i": 8,
+      "t": "ale"
+    },
+    {
+      "i": 9,
+      "t": "od"
+    },
+    {
+      "i": 10,
+      "t": "Ojca"
+    },
+    {
+      "i": 11,
+      "t": "twojego"
+    },
+    {
+      "i": 12,
+      "t": "który"
+    },
+    {
+      "i": 13,
+      "t": "jest"
+    },
+    {
+      "i": 14,
+      "t": "w"
+    },
+    {
+      "i": 15,
+      "t": "skrytości"
+    },
+    {
+      "i": 16,
+      "t": "a"
+    },
+    {
+      "i": 17,
+      "t": "Ojciec"
+    },
+    {
+      "i": 18,
+      "t": "twój"
+    },
+    {
+      "i": 19,
+      "t": "który"
+    },
+    {
+      "i": 20,
+      "t": "widzi"
+    },
+    {
+      "i": 21,
+      "t": "w"
+    },
+    {
+      "i": 22,
+      "t": "skrytości"
+    },
+    {
+      "i": 23,
+      "t": "oddać"
+    },
+    {
+      "i": 24,
+      "t": "jawnie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.6.18",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.6.18",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ὅπως",
+        "lemma": "G3704",
+        "forma": "ὅπως",
+        "morph": "CONJ",
+        "glosa": "so that",
+        "id": "Mat.6.18#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "that"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.6.18#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "not"
+      },
+      {
+        "t": "φανῇς",
+        "lemma": "G5316",
+        "forma": "φαίνω",
+        "morph": "V-2APS-2S",
+        "glosa": "may you appear",
+        "id": "Mat.6.18#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to shine/appear"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "<the>",
+        "id": "Mat.6.18#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀνθρώποις",
+        "lemma": "G0444",
+        "forma": "ἄνθρωπος",
+        "morph": "N-DPM",
+        "glosa": "to men",
+        "id": "Mat.6.18#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "a human"
+      },
+      {
+        "t": "νηστεύων",
+        "lemma": "G3522",
+        "forma": "νηστεύω",
+        "morph": "V-PAP-NSM",
+        "glosa": "[as] fasting",
+        "id": "Mat.6.18#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to fast"
+      },
+      {
+        "t": "ἀλλὰ",
+        "lemma": "G0235",
+        "forma": "ἀλλά",
+        "morph": "CONJ",
+        "glosa": "but",
+        "id": "Mat.6.18#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "but"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "<the>",
+        "id": "Mat.6.18#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατρί",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-DSM-T",
+        "glosa": "to Father",
+        "id": "Mat.6.18#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "father"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.6.18#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "you"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "the [One]",
+        "id": "Mat.6.18#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.6.18#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSN",
+        "glosa": "<the>",
+        "id": "Mat.6.18#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κρυπτῷ",
+        "lemma": "G2927",
+        "forma": "κρυπτῷ",
+        "morph": "A-DSN",
+        "glosa": "secret",
+        "id": "Mat.6.18#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "hidden"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.6.18#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.6.18#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατήρ",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-NSM-T",
+        "glosa": "Father",
+        "id": "Mat.6.18#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "father"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.6.18#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the [One]",
+        "id": "Mat.6.18#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βλέπων",
+        "lemma": "G0991",
+        "forma": "βλέπω",
+        "morph": "V-PAP-NSM",
+        "glosa": "seeing",
+        "id": "Mat.6.18#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "to see"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.6.18#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSN",
+        "glosa": "<the>",
+        "id": "Mat.6.18#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κρυπτῷ",
+        "lemma": "G2927",
+        "forma": "κρυπτῷ",
+        "morph": "A-DSN",
+        "glosa": "secret",
+        "id": "Mat.6.18#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "hidden"
+      },
+      {
+        "t": "ἀποδώσει",
+        "lemma": "G0591",
+        "forma": "ἀποδίδωμι",
+        "morph": "V-FAI-3S",
+        "glosa": "will reward",
+        "id": "Mat.6.18#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "to pay"
+      },
+      {
+        "t": "σοι",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DS",
+        "glosa": "you",
+        "id": "Mat.6.18#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.6.18#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSN",
+        "glosa": "<the>",
+        "id": "Mat.6.18#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "φανερῷ",
+        "lemma": "G5318",
+        "forma": "φανερός",
+        "morph": "A-DSN",
+        "glosa": "public.",
+        "id": "Mat.6.18#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "clear"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ὅπως oddane jako „Abyś”; partykuła -ś niesie drugą osobę z φανῇς."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "φανῇς, aoryst strony biernej „may you appear”, oddane jako „był widziany”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "τοῖς ἀνθρώποις, celownik „to men”, oddane jako „od ludzi”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Imiesłów νηστεύων, „fasting”, BG rozbija na zdanie „że pościsz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἀλλὰ oddane jako „ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τῷ πατρί, celownik „to Father”, oddane jako „od Ojca”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "σου oddane jako „twojego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "τῷ przy ἐν τῷ κρυπτῷ, rodzajnik użyty jak „who”, oddane jako „który”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [],
+      "uwaga": "„jest” stawia łącznik. Przy τῷ ἐν τῷ κρυπτῷ nie ma εἰμί.",
+      "uzasadnienie": "Rodzajnik τῷ z ἐν nie zawiera εἰμί. Polskie „który jest” potrzebuje łącznika, którego w TR nie ma."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τῷ κρυπτῷ oddane jako „skrytości”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "ὁ πατήρ oddane jako „Ojciec”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "σου oddane jako „twój”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ὁ przy imiesłowie βλέπων oddane jako „który”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "βλέπων, imiesłów „seeing”, oddane osobowo jako „widzi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        21,
+        22
+      ],
+      "uwaga": "τῷ κρυπτῷ oddane jako „skrytości”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "ἀποδώσει, czas przyszły „will reward”, oddane bezokolicznikiem „oddać”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "σοι, „you”, nie ma polskiego słowa. Przy „oddać” nie ma „tobie” ani „ci”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        25,
+        26,
+        27
+      ],
+      "uwaga": "ἐν τῷ φανερῷ, „in the public”, skupione w przysłówku „jawnie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "σοι przy ἀποδώσει nie ma odpowiednika. BG kończy bezokolicznikiem „oddać jawnie”, bez „tobie”. „jest” przy pierwszym „który” jest dopowiedzeniem łącznika.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      24
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀποδώσει σοι ἐν τῷ φανερῷ to „will reward you in the public”. BG ma tylko „oddać jawnie”: σοι ginie, a czas przyszły schodzi do bezokolicznika.",
+      "tokeny_bg": [
+        23,
+        24
+      ],
+      "tokeny_zrodla": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τῷ ἐν τῷ κρυπτῷ nie ma εἰμί. BG dopowiada „jest” przy „który”.",
+      "tokeny_bg": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "tokeny_zrodla": [
+        10,
+        11,
+        12,
+        13
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Aby nebylo zjevné lidem, že se postíš, ale Otci tvému, kterýž jest v skrytě. A Otec tvůj, kterýž vidí v skrytosti, odplatí tobě zjevně.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

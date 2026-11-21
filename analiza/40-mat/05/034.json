@@ -1,0 +1,448 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.34",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 34
+  },
+  "tekst_bg": "Ale Ja wam powiadam, abyście zgoła nie przysięgali, ani na niebo, gdyż jest stolicą Bożą;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ale"
+    },
+    {
+      "i": 1,
+      "t": "Ja"
+    },
+    {
+      "i": 2,
+      "t": "wam"
+    },
+    {
+      "i": 3,
+      "t": "powiadam"
+    },
+    {
+      "i": 4,
+      "t": "abyście"
+    },
+    {
+      "i": 5,
+      "t": "zgoła"
+    },
+    {
+      "i": 6,
+      "t": "nie"
+    },
+    {
+      "i": 7,
+      "t": "przysięgali"
+    },
+    {
+      "i": 8,
+      "t": "ani"
+    },
+    {
+      "i": 9,
+      "t": "na"
+    },
+    {
+      "i": 10,
+      "t": "niebo"
+    },
+    {
+      "i": 11,
+      "t": "gdyż"
+    },
+    {
+      "i": 12,
+      "t": "jest"
+    },
+    {
+      "i": 13,
+      "t": "stolicą"
+    },
+    {
+      "i": 14,
+      "t": "Bożą"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.34",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.34",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἐγὼ",
+        "lemma": "G1473",
+        "forma": "ἐγώ",
+        "morph": "P-1NS",
+        "glosa": "I myself",
+        "id": "Mat.5.34#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.5.34#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "λέγω",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-1S",
+        "glosa": "say",
+        "id": "Mat.5.34#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you",
+        "id": "Mat.5.34#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "you"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.5.34#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "not"
+      },
+      {
+        "t": "ὀμόσαι",
+        "lemma": "G3660",
+        "forma": "ὄμνυμι",
+        "morph": "V-AAN",
+        "glosa": "to swear",
+        "id": "Mat.5.34#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to swear"
+      },
+      {
+        "t": "ὅλως",
+        "lemma": "G3654",
+        "forma": "ὅλως",
+        "morph": "ADV",
+        "glosa": "at all,",
+        "id": "Mat.5.34#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "at all"
+      },
+      {
+        "t": "μήτε",
+        "lemma": "G3383",
+        "forma": "μήτε",
+        "morph": "CONJ-N",
+        "glosa": "neither [swear]",
+        "id": "Mat.5.34#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "neither"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.5.34#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "<the>",
+        "id": "Mat.5.34#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανῷ",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-DSM",
+        "glosa": "heaven",
+        "id": "Mat.5.34#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "heaven"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "because",
+        "id": "Mat.5.34#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "θρόνος",
+        "lemma": "G2362",
+        "forma": "θρόνος",
+        "morph": "N-NSM",
+        "glosa": "[the] throne",
+        "id": "Mat.5.34#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "throne"
+      },
+      {
+        "t": "ἐστὶν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "it is",
+        "id": "Mat.5.34#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to be"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "<the>",
+        "id": "Mat.5.34#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θεοῦ",
+        "lemma": "G2316",
+        "forma": "θεός",
+        "morph": "N-GSM-T",
+        "glosa": "of God,",
+        "id": "Mat.5.34#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "God"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po ἐγὼ, a BG wynosi je na początek jako „Ale”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἐγὼ oddane jako „Ja”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "λέγω oddane jako „powiadam”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Bezokolicznik ὀμόσαι oddany zdaniem „abyście … przysięgali”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὅλως oddane jako „zgoła”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "μήτε oddane jako „ani”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐν w przysiędze oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τῷ οὐρανῷ oddane jako „niebo”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ὅτι, glosa „because”, oddane jako „gdyż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἐστὶν oddane jako „jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "θρόνος, mianownik orzeczenia, oddany narzędnikiem „stolicą”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14,
+        15
+      ],
+      "uwaga": "τοῦ θεοῦ oddane przymiotnikiem „Bożą”; rodzajnik nie ma osobnego słowa."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Tokeny są pokryte, bez dopowiedzenia i opuszczenia. Bezokolicznik μὴ ὀμόσαι staje się zdaniem „abyście zgoła nie przysięgali”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "μὴ ὀμόσαι ὅλως, bezokolicznik zakazu, oddane jest jako „abyście zgoła nie przysięgali”.",
+      "tokeny_bg": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Ale jáť pravím vám: Abyste nepřisahali všelijak, ani skrze nebe, nebo stolice Boží jest,",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,633 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.3.3",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 3,
+    "werset": 3
+  },
+  "tekst_bg": "Tenci bowiem jest on, o którym powiedziano przez Izajasza proroka, mówiącego: Głos wołającego na puszczy: Gotujcie drogę Pańską, proste czyńcie ścieszki jego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tenci"
+    },
+    {
+      "i": 1,
+      "t": "bowiem"
+    },
+    {
+      "i": 2,
+      "t": "jest"
+    },
+    {
+      "i": 3,
+      "t": "on"
+    },
+    {
+      "i": 4,
+      "t": "o"
+    },
+    {
+      "i": 5,
+      "t": "którym"
+    },
+    {
+      "i": 6,
+      "t": "powiedziano"
+    },
+    {
+      "i": 7,
+      "t": "przez"
+    },
+    {
+      "i": 8,
+      "t": "Izajasza"
+    },
+    {
+      "i": 9,
+      "t": "proroka"
+    },
+    {
+      "i": 10,
+      "t": "mówiącego"
+    },
+    {
+      "i": 11,
+      "t": "Głos"
+    },
+    {
+      "i": 12,
+      "t": "wołającego"
+    },
+    {
+      "i": 13,
+      "t": "na"
+    },
+    {
+      "i": 14,
+      "t": "puszczy"
+    },
+    {
+      "i": 15,
+      "t": "Gotujcie"
+    },
+    {
+      "i": 16,
+      "t": "drogę"
+    },
+    {
+      "i": 17,
+      "t": "Pańską"
+    },
+    {
+      "i": 18,
+      "t": "proste"
+    },
+    {
+      "i": 19,
+      "t": "czyńcie"
+    },
+    {
+      "i": 20,
+      "t": "ścieszki"
+    },
+    {
+      "i": 21,
+      "t": "jego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.3.3",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.3.3",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "οὗτος",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-NSM",
+        "glosa": "This",
+        "id": "Mat.3.3#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "γάρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.3.3#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is",
+        "id": "Mat.3.3#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the [One]",
+        "id": "Mat.3.3#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ῥηθεὶς",
+        "lemma": "G2046",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-APP-NSM",
+        "glosa": "having been spoken of",
+        "id": "Mat.3.3#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὑπὸ",
+        "lemma": "G5259",
+        "forma": "ὑπὸ",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.3.3#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "by/under: by"
+      },
+      {
+        "t": "Ἠσαΐου",
+        "lemma": "G2268",
+        "forma": "Ἡσαΐας",
+        "morph": "N-GSM-P",
+        "glosa": "Isaiah",
+        "id": "Mat.3.3#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "Isaiah"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.3.3#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "προφήτου",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-GSM",
+        "glosa": "prophet",
+        "id": "Mat.3.3#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "prophet"
+      },
+      {
+        "t": "λέγοντος",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-GSM",
+        "glosa": "saying;",
+        "id": "Mat.3.3#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to say"
+      },
+      {
+        "t": "φωνὴ",
+        "lemma": "G5456G",
+        "forma": "φωνή",
+        "morph": "N-NSF",
+        "glosa": "[The] voice",
+        "id": "Mat.3.3#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "voice/sound: voice"
+      },
+      {
+        "t": "βοῶντος",
+        "lemma": "G0994",
+        "forma": "βοάω",
+        "morph": "V-PAP-GSM",
+        "glosa": "of one crying",
+        "id": "Mat.3.3#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to cry out"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.3.3#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.3.3#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐρήμῳ",
+        "lemma": "G2048",
+        "forma": "ἔρημος",
+        "morph": "A-DSF",
+        "glosa": "wilderness",
+        "id": "Mat.3.3#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "deserted"
+      },
+      {
+        "t": "ἑτοιμάσατε",
+        "lemma": "G2090",
+        "forma": "ἑτοιμάζω",
+        "morph": "V-AAM-2P",
+        "glosa": "do prepare",
+        "id": "Mat.3.3#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to make ready"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.3.3#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὁδὸν",
+        "lemma": "G3598",
+        "forma": "ὁδός",
+        "morph": "N-ASF",
+        "glosa": "way",
+        "id": "Mat.3.3#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "road"
+      },
+      {
+        "t": "κυρίου",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-GSM-T",
+        "glosa": "of [the] Lord,",
+        "id": "Mat.3.3#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "εὐθείας",
+        "lemma": "G2117",
+        "forma": "εὐθύς",
+        "morph": "A-APF",
+        "glosa": "straight",
+        "id": "Mat.3.3#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "Straight"
+      },
+      {
+        "t": "ποιεῖτε",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAM-2P",
+        "glosa": "do make",
+        "id": "Mat.3.3#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "τὰς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APF",
+        "glosa": "the",
+        "id": "Mat.3.3#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "τρίβους",
+        "lemma": "G5147",
+        "forma": "τρίβος",
+        "morph": "N-APF",
+        "glosa": "paths",
+        "id": "Mat.3.3#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "path"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "of Him.",
+        "id": "Mat.3.3#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "οὗτος oddane jako „Tenci”; partykuła -ci tkwi w tym samym wyrazie."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "γάρ oddane jako „bowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐστιν oddane jako „jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ὁ, rodzajnik użyty rzeczownikowo, oddane jako „on”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5,
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ῥηθεὶς, imiesłów bierny, rozbity na zdanie „o którym powiedziano”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ὑπὸ oddane jako „przez”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "Ἠσαΐου oddane jako „Izajasza”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τοῦ προφήτου oddane jako „proroka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "λέγοντος oddane jako „mówiącego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "φωνὴ oddane jako „Głos”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "βοῶντος oddane jako „wołającego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἐν oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τῇ ἐρήμῳ oddane jako „puszczy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ἑτοιμάσατε oddane jako „Gotujcie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        16,
+        17
+      ],
+      "uwaga": "τὴν ὁδὸν oddane jako „drogę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "κυρίου, dopełniacz, oddane przymiotnikiem „Pańską”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "εὐθείας oddane jako „proste”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ποιεῖτε oddane jako „czyńcie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        21,
+        22
+      ],
+      "uwaga": "τὰς τρίβους oddane jako „ścieszki”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "αὐτοῦ oddane jako „jego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Nic nie dodano i nic nie opuszczono. Imiesłów ῥηθεὶς BG rozbija na zdanie „o którym powiedziano”, a reszta cytatu idzie słowo w słowo.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὁ ῥηθεὶς ὑπὸ Ἠσαΐου τοῦ προφήτου to imiesłów „the [One] having been spoken of”. BG ma zdanie „on, o którym powiedziano przez Izajasza proroka”.",
+      "tokeny_bg": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tokeny_zrodla": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Totoť jest zajisté ten Předchůdce předpověděný od Izaiáše proroka, řkoucího: Hlas volajícího na poušti: Připravujte cestu Páně, přímé čiňte stezky jeho.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

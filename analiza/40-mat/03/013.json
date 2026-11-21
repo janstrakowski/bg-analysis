@@ -1,0 +1,446 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.3.13",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 3,
+    "werset": 13
+  },
+  "tekst_bg": "Tedy Jezus przyszedł od Galilei nad Jordan do Jana, aby był ochrzczony od niego;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tedy"
+    },
+    {
+      "i": 1,
+      "t": "Jezus"
+    },
+    {
+      "i": 2,
+      "t": "przyszedł"
+    },
+    {
+      "i": 3,
+      "t": "od"
+    },
+    {
+      "i": 4,
+      "t": "Galilei"
+    },
+    {
+      "i": 5,
+      "t": "nad"
+    },
+    {
+      "i": 6,
+      "t": "Jordan"
+    },
+    {
+      "i": 7,
+      "t": "do"
+    },
+    {
+      "i": 8,
+      "t": "Jana"
+    },
+    {
+      "i": 9,
+      "t": "aby"
+    },
+    {
+      "i": 10,
+      "t": "był"
+    },
+    {
+      "i": 11,
+      "t": "ochrzczony"
+    },
+    {
+      "i": 12,
+      "t": "od"
+    },
+    {
+      "i": 13,
+      "t": "niego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.3.13",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.3.13",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "Then",
+        "id": "Mat.3.13#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "then"
+      },
+      {
+        "t": "παραγίνεται",
+        "lemma": "G3854",
+        "forma": "παραγίνομαι",
+        "morph": "V-PNI-3S",
+        "glosa": "comes",
+        "id": "Mat.3.13#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to come"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.3.13#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.3.13#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.3.13#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "away from"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "<the>",
+        "id": "Mat.3.13#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Γαλιλαίας",
+        "lemma": "G1056G",
+        "forma": "Γαλιλαία",
+        "morph": "N-GSF-L",
+        "glosa": "Galilee",
+        "id": "Mat.3.13#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "Galilee"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.3.13#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.3.13#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰορδάνην",
+        "lemma": "G2446",
+        "forma": "Ἰορδάνης",
+        "morph": "N-ASM-L",
+        "glosa": "Jordan",
+        "id": "Mat.3.13#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "Jordan"
+      },
+      {
+        "t": "πρὸς",
+        "lemma": "G4314",
+        "forma": "πρός",
+        "morph": "PREP",
+        "glosa": "unto",
+        "id": "Mat.3.13#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to/with"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.3.13#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰωάννην",
+        "lemma": "G2491G",
+        "forma": "Ἰωάννης",
+        "morph": "N-ASM-P",
+        "glosa": "John",
+        "id": "Mat.3.13#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "John"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSN",
+        "glosa": "<the>",
+        "id": "Mat.3.13#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βαπτισθῆναι",
+        "lemma": "G0907",
+        "forma": "βαπτίζω",
+        "morph": "V-APN",
+        "glosa": "to be baptized",
+        "id": "Mat.3.13#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to baptize"
+      },
+      {
+        "t": "ὑπ᾽",
+        "lemma": "G5259G",
+        "forma": "ὑπό",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.3.13#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "by/under: by"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "him.",
+        "id": "Mat.3.13#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Τότε oddane jako „Tedy”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "παραγίνεται, praesens „comes”, oddane czasem przeszłym „przyszedł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἀπὸ oddane jako „od”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τῆς Γαλιλαίας oddane jako „Galilei”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐπὶ oddane jako „nad”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τὸν Ἰορδάνην oddane jako „Jordan”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "πρὸς oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τὸν Ἰωάννην oddane jako „Jana”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10,
+        11
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τοῦ βαπτισθῆναι, bezokolicznik celu, rozbity na „aby był ochrzczony”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ὑπ᾽ oddane jako „od”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "αὐτοῦ oddane jako „niego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Nic nie dodano i nic nie opuszczono. Bezokolicznik celu τοῦ βαπτισθῆναι BG rozbija na „aby był ochrzczony”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πρὸς τὸν Ἰωάννην τοῦ βαπτισθῆναι ὑπ᾽ αὐτοῦ ma bezokolicznik bierny. BG mówi „do Jana, aby był ochrzczony od niego”.",
+      "tokeny_bg": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tokeny_zrodla": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Tehdy přišel Ježíš od Galilee k Jordánu k Janovi, aby také pokřtěn byl od něho.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

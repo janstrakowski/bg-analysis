@@ -1,0 +1,433 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.15",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 15
+  },
+  "tekst_bg": "I dotknął się ręki jej, i opuściła ją gorączka; i wstała a posługowała im.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "dotknął"
+    },
+    {
+      "i": 2,
+      "t": "się"
+    },
+    {
+      "i": 3,
+      "t": "ręki"
+    },
+    {
+      "i": 4,
+      "t": "jej"
+    },
+    {
+      "i": 5,
+      "t": "i"
+    },
+    {
+      "i": 6,
+      "t": "opuściła"
+    },
+    {
+      "i": 7,
+      "t": "ją"
+    },
+    {
+      "i": 8,
+      "t": "gorączka"
+    },
+    {
+      "i": 9,
+      "t": "i"
+    },
+    {
+      "i": 10,
+      "t": "wstała"
+    },
+    {
+      "i": 11,
+      "t": "a"
+    },
+    {
+      "i": 12,
+      "t": "posługowała"
+    },
+    {
+      "i": 13,
+      "t": "im"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.15",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.15",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.8.15#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἥψατο",
+        "lemma": "G0681",
+        "forma": "ἅπτω",
+        "morph": "V-ADI-3S",
+        "glosa": "He touched",
+        "id": "Mat.8.15#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to touch"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "the",
+        "id": "Mat.8.15#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "χειρὸς",
+        "lemma": "G5495",
+        "forma": "χείρ",
+        "morph": "N-GSF",
+        "glosa": "hand",
+        "id": "Mat.8.15#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "hand"
+      },
+      {
+        "t": "αὐτῆς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSF",
+        "glosa": "of her,",
+        "id": "Mat.8.15#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.15#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀφῆκεν",
+        "lemma": "G0863G",
+        "forma": "ἀφίημι",
+        "morph": "V-AAI-3S",
+        "glosa": "left",
+        "id": "Mat.8.15#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to release: leave"
+      },
+      {
+        "t": "αὐτὴν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASF",
+        "glosa": "her",
+        "id": "Mat.8.15#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.8.15#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πυρετός",
+        "lemma": "G4446",
+        "forma": "πυρετός",
+        "morph": "N-NSM",
+        "glosa": "fever.",
+        "id": "Mat.8.15#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "fever"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.15#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἠγέρθη",
+        "lemma": "G1453",
+        "forma": "ἐγείρω",
+        "morph": "V-API-3S",
+        "glosa": "she arose",
+        "id": "Mat.8.15#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to arise"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.8.15#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "διηκόνει",
+        "lemma": "G1247",
+        "forma": "διακονέω",
+        "morph": "V-IAI-3S",
+        "glosa": "was ministering",
+        "id": "Mat.8.15#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "to serve"
+      },
+      {
+        "t": "αὐτοῖς",
+        "lemma": "G0846",
+        "forma": "αὐτοῖς",
+        "morph": "P-DPM",
+        "glosa": "to them",
+        "id": "Mat.8.15#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἥψατο, aoryst strony medialnej deponens, oddane jako „dotknął się”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "τῆς χειρὸς oddane jako „ręki”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "αὐτῆς oddane jako „jej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἀφῆκεν oddane jako „opuściła”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "αὐτὴν oddane jako „ją”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "ὁ πυρετὸς oddane jako „gorączka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ἠγέρθη, glosa „she arose”, oddane jako „wstała”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "διηκόνει oddane jako „posługowała”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "αὐτοῖς oddane jako „im”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. „się” należy do strony medialnej ἥψατο, a szyk „opuściła ją gorączka” zachowuje podmiot ὁ πυρετός.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἥψατο τῆς χειρὸς αὐτῆς, καὶ ἀφῆκεν αὐτὴν ὁ πυρετός oddane jako „dotknął się ręki jej, i opuściła ją gorączka”.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I dotekl se ruky její, a hned přestala jí zimnice. I vstala a posluhovala jim.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

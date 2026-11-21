@@ -1,0 +1,277 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.3.2",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 3,
+    "werset": 2
+  },
+  "tekst_bg": "A mówiąc: Pokutujcie; albowiem się przybliżyło królestwo niebieskie.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "mówiąc"
+    },
+    {
+      "i": 2,
+      "t": "Pokutujcie"
+    },
+    {
+      "i": 3,
+      "t": "albowiem"
+    },
+    {
+      "i": 4,
+      "t": "się"
+    },
+    {
+      "i": 5,
+      "t": "przybliżyło"
+    },
+    {
+      "i": 6,
+      "t": "królestwo"
+    },
+    {
+      "i": 7,
+      "t": "niebieskie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.3.2",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.3.2",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.3.2#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "λέγων",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-NSM",
+        "glosa": "saying;",
+        "id": "Mat.3.2#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to say"
+      },
+      {
+        "t": "μετανοεῖτε",
+        "lemma": "G3340",
+        "forma": "μετανοέω",
+        "morph": "V-PAM-2P",
+        "glosa": "do repent;",
+        "id": "Mat.3.2#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to repent"
+      },
+      {
+        "t": "ἤγγικεν",
+        "lemma": "G1448",
+        "forma": "ἐγγίζω",
+        "morph": "V-RAI-3S",
+        "glosa": "has drawn near",
+        "id": "Mat.3.2#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to come near"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.3.2#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "for"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.3.2#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βασιλεία",
+        "lemma": "G0932",
+        "forma": "βασιλεία",
+        "morph": "N-NSF",
+        "glosa": "kingdom",
+        "id": "Mat.3.2#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "kingdom"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "of the",
+        "id": "Mat.3.2#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανῶν",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-GPM",
+        "glosa": "heavens.",
+        "id": "Mat.3.2#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "heaven"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "λέγων oddane jako „mówiąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "μετανοεῖτε oddane jako „Pokutujcie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "γὰρ stoi po czasowniku, a BG stawia „albowiem” przed nim."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἤγγικεν, perfectum strony czynnej, oddane zwrotem „się przybliżyło”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "ἡ βασιλεία oddane jako „królestwo”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τῶν οὐρανῶν oddane przymiotnikiem „niebieskie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. „się” należy do zwrotnego „przybliżyć się”, a rodzajniki weszły w „królestwo” i „niebieskie”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἤγγικεν γὰρ ἡ βασιλεία τῶν οὐρανῶν BG oddaje jako „albowiem się przybliżyło królestwo niebieskie”; γὰρ stoi po czasowniku.",
+      "tokeny_bg": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A řka: Pokání čiňte, nebo přiblížilo se království nebeské.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

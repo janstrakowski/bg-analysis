@@ -1,0 +1,354 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.41",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 41
+  },
+  "tekst_bg": "A ktoby cię przymuszał iść milę jednę, idź z nim i dwie;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "ktoby"
+    },
+    {
+      "i": 2,
+      "t": "cię"
+    },
+    {
+      "i": 3,
+      "t": "przymuszał"
+    },
+    {
+      "i": 4,
+      "t": "iść"
+    },
+    {
+      "i": 5,
+      "t": "milę"
+    },
+    {
+      "i": 6,
+      "t": "jednę"
+    },
+    {
+      "i": 7,
+      "t": "idź"
+    },
+    {
+      "i": 8,
+      "t": "z"
+    },
+    {
+      "i": 9,
+      "t": "nim"
+    },
+    {
+      "i": 10,
+      "t": "i"
+    },
+    {
+      "i": 11,
+      "t": "dwie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.41",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.41",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.41#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὅστις",
+        "lemma": "G3748",
+        "forma": "ὅστις",
+        "morph": "R-NSM",
+        "glosa": "whoever",
+        "id": "Mat.5.41#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "who/which"
+      },
+      {
+        "t": "σε",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2AS",
+        "glosa": "you",
+        "id": "Mat.5.41#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἀγγαρεύσει",
+        "lemma": "G0029",
+        "forma": "ἀγγαρεύω",
+        "morph": "V-FAI-3S",
+        "glosa": "will compel to go",
+        "id": "Mat.5.41#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to force"
+      },
+      {
+        "t": "μίλιον",
+        "lemma": "G3400",
+        "forma": "μίλιον",
+        "morph": "N-ASN",
+        "glosa": "mile",
+        "id": "Mat.5.41#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "mile"
+      },
+      {
+        "t": "ἕν",
+        "lemma": "G1520",
+        "forma": "εἷς",
+        "morph": "A-ASN",
+        "glosa": "one,",
+        "id": "Mat.5.41#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "one"
+      },
+      {
+        "t": "ὕπαγε",
+        "lemma": "G5217",
+        "forma": "ὑπάγω",
+        "morph": "V-PAM-2S",
+        "glosa": "do go",
+        "id": "Mat.5.41#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to go"
+      },
+      {
+        "t": "μετ᾽",
+        "lemma": "G3326",
+        "forma": "μετά",
+        "morph": "PREP",
+        "glosa": "with",
+        "id": "Mat.5.41#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "with/after"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "him",
+        "id": "Mat.5.41#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "δύο",
+        "lemma": "G1417",
+        "forma": "δύο",
+        "morph": "A-NUI",
+        "glosa": "two.",
+        "id": "Mat.5.41#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "two"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ὅστις oddane jako „ktoby”; -by jest partykułą w wyrazie."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "σε oddane jako „cię”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀγγαρεύσει, czas przyszły, oddane jako „przymuszał”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [],
+      "uwaga": "„iść” jest kursywą w 1632. ἀγγαρεύσει, glosa „will compel to go”, nie ma osobnego czasownika „iść”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "μίλιον oddane jako „milę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ἕν oddane jako „jednę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ὕπαγε oddane jako „idź”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "μετ’ oddane jako „z”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "αὐτοῦ oddane jako „nim”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [],
+      "uwaga": "„i” jest kursywą w 1632. Przed δύο nie ma καὶ."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "δύο oddane jako „dwie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. Kursywa „iść” dopowiada ruch przy ἀγγαρεύσει, a kursywa „i” stoi przed „dwie”, gdzie greka ma samo δύο.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀγγαρεύσει μίλιον ἕν nie ma osobnego czasownika „iść”. Słowo „iść” jest kursywą w 1632.",
+      "tokeny_bg": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "δύο nie ma przed sobą καὶ. BG daje „i dwie”, a „i” jest kursywą w 1632.",
+      "tokeny_bg": [
+        10,
+        11
+      ],
+      "tokeny_zrodla": [
+        9
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A nutil-li by tě kdo jíti s sebou míli jednu, jdi s ním dvě.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

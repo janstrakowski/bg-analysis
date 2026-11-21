@@ -1,0 +1,700 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.3.9",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 3,
+    "werset": 9
+  },
+  "tekst_bg": "A nie mniemajcie, że możecie mówić sami w sobie: Ojca mamy Abrahama; albowiemci powiadam wam, iż Bóg i z tych kamieni wzbudzić może dzieci Abrahamowi.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "nie"
+    },
+    {
+      "i": 2,
+      "t": "mniemajcie"
+    },
+    {
+      "i": 3,
+      "t": "że"
+    },
+    {
+      "i": 4,
+      "t": "możecie"
+    },
+    {
+      "i": 5,
+      "t": "mówić"
+    },
+    {
+      "i": 6,
+      "t": "sami"
+    },
+    {
+      "i": 7,
+      "t": "w"
+    },
+    {
+      "i": 8,
+      "t": "sobie"
+    },
+    {
+      "i": 9,
+      "t": "Ojca"
+    },
+    {
+      "i": 10,
+      "t": "mamy"
+    },
+    {
+      "i": 11,
+      "t": "Abrahama"
+    },
+    {
+      "i": 12,
+      "t": "albowiemci"
+    },
+    {
+      "i": 13,
+      "t": "powiadam"
+    },
+    {
+      "i": 14,
+      "t": "wam"
+    },
+    {
+      "i": 15,
+      "t": "iż"
+    },
+    {
+      "i": 16,
+      "t": "Bóg"
+    },
+    {
+      "i": 17,
+      "t": "i"
+    },
+    {
+      "i": 18,
+      "t": "z"
+    },
+    {
+      "i": 19,
+      "t": "tych"
+    },
+    {
+      "i": 20,
+      "t": "kamieni"
+    },
+    {
+      "i": 21,
+      "t": "wzbudzić"
+    },
+    {
+      "i": 22,
+      "t": "może"
+    },
+    {
+      "i": 23,
+      "t": "dzieci"
+    },
+    {
+      "i": 24,
+      "t": "Abrahamowi"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.3.9",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.3.9",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.3.9#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.3.9#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "not"
+      },
+      {
+        "t": "δόξητε",
+        "lemma": "G1380",
+        "forma": "δοκέω",
+        "morph": "V-AAS-2P",
+        "glosa": "may you presume",
+        "id": "Mat.3.9#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to think"
+      },
+      {
+        "t": "λέγειν",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAN",
+        "glosa": "to say",
+        "id": "Mat.3.9#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "within",
+        "id": "Mat.3.9#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ἑαυτοῖς",
+        "lemma": "G1438",
+        "forma": "ἑαυτοῦ",
+        "morph": "F-2DPM",
+        "glosa": "yourselves;",
+        "id": "Mat.3.9#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "themself"
+      },
+      {
+        "t": "πατέρα",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-ASM",
+        "glosa": "[As] father",
+        "id": "Mat.3.9#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "father"
+      },
+      {
+        "t": "ἔχομεν",
+        "lemma": "G2192",
+        "forma": "ἔχω",
+        "morph": "V-PAI-1P",
+        "glosa": "we have",
+        "id": "Mat.3.9#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to have/be"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Mat.3.9#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἀβραάμ",
+        "lemma": "G0011",
+        "forma": "Ἀβραάμ",
+        "morph": "N-ASM-P",
+        "glosa": "Abraham;",
+        "id": "Mat.3.9#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "Abraham"
+      },
+      {
+        "t": "λέγω",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAI-1S",
+        "glosa": "I say",
+        "id": "Mat.3.9#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to say"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.3.9#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "for"
+      },
+      {
+        "t": "ὑμῖν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DP",
+        "glosa": "to you",
+        "id": "Mat.3.9#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.3.9#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "δύναται",
+        "lemma": "G1410",
+        "forma": "δύναμαι",
+        "morph": "V-PNI-3S",
+        "glosa": "able is",
+        "id": "Mat.3.9#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "be able"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.3.9#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θεὸς",
+        "lemma": "G2316",
+        "forma": "θεός",
+        "morph": "N-NSM-T",
+        "glosa": "God",
+        "id": "Mat.3.9#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "God"
+      },
+      {
+        "t": "ἐκ",
+        "lemma": "G1537",
+        "forma": "ἐκ",
+        "morph": "PREP",
+        "glosa": "out of",
+        "id": "Mat.3.9#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "out from"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "<the>",
+        "id": "Mat.3.9#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λίθων",
+        "lemma": "G3037",
+        "forma": "λίθος",
+        "morph": "N-GPM",
+        "glosa": "stones",
+        "id": "Mat.3.9#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "stone"
+      },
+      {
+        "t": "τούτων",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-GPM",
+        "glosa": "these",
+        "id": "Mat.3.9#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "ἐγεῖραι",
+        "lemma": "G1453",
+        "forma": "ἐγείρω",
+        "morph": "V-AAN",
+        "glosa": "to raise up",
+        "id": "Mat.3.9#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "to arise"
+      },
+      {
+        "t": "τέκνα",
+        "lemma": "G5043",
+        "forma": "τέκνον",
+        "morph": "N-APN",
+        "glosa": "children",
+        "id": "Mat.3.9#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "child"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "<the>",
+        "id": "Mat.3.9#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἀβραάμ",
+        "lemma": "G0011",
+        "forma": "Ἀβραάμ",
+        "morph": "N-DSM-P",
+        "glosa": "to Abraham.",
+        "id": "Mat.3.9#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "Abraham"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "δόξητε, tryb łączący „may you presume”, oddane jako „mniemajcie”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [],
+      "uwaga": "„że” otwiera zdanie przy bezokoliczniku λέγειν.",
+      "uzasadnienie": "λέγειν jest bezokolicznikiem przy δόξητε. „że” wprowadza zdanie dopełnieniowe, którego spójnika w TR nie ma."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [],
+      "uwaga": "„możecie” daje orzeczenie osobowe przed bezokolicznikiem λέγειν.",
+      "uzasadnienie": "Osobnego δύναμαι nie ma. „możecie” jest składnią zdania „że możecie mówić”, którym BG rozwija δόξητε λέγειν."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "λέγειν oddane jako „mówić”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        7,
+        8
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "ἐν ἑαυτοῖς oddane jako „sami w sobie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "πατέρα oddane jako „Ojca”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἔχομεν oddane jako „mamy”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τὸν Ἀβραάμ oddane jako „Abrahama”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "γὰρ oddane jako „albowiemci”; partykuła -ci tkwi w tym samym wyrazie."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "λέγω oddane jako „powiadam” i przesunięte za γὰρ."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ὑμῖν oddane jako „wam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ὅτι oddane jako „iż”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "ὁ θεὸς oddane jako „Bóg”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        17
+      ],
+      "zrodlo": [],
+      "uwaga": "„i” w „i z tych kamieni” znaczy „nawet”.",
+      "uzasadnienie": "Przed ἐκ τῶν λίθων τούτων nie ma καί. „i” dopowiada emfazę przy τούτων, a twierdzenie o wzbudzeniu dzieci z tych kamieni zostaje."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἐκ oddane jako „z”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "τούτων oddane jako „tych” i przesunięte przed rzeczownik."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "τῶν λίθων oddane jako „kamieni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "ἐγεῖραι oddane jako „wzbudzić”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "δύναται oddane jako „może” i przesunięte za bezokolicznik."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "τέκνα oddane jako „dzieci”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        23,
+        24
+      ],
+      "uwaga": "τῷ Ἀβραάμ, celownik, oddane jako „Abrahamowi”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „że” i „możecie” rozwijają bezokolicznik λέγειν, a „i” przed ἐκ dopowiada „nawet”. Sens zakazu i zapowiedzi zostaje.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "μὴ δόξητε λέγειν ἐν ἑαυτοῖς nie ma δύναμαι ani ὅτι. BG mówi „nie mniemajcie, że możecie mówić sami w sobie”.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐκ τῶν λίθων τούτων nie ma καί. BG wstawia „i” w „i z tych kamieni”.",
+      "tokeny_bg": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "tokeny_zrodla": [
+        17,
+        18,
+        19,
+        20
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A nedomnívejte se, že můžete říkati sami u sebe: Otce máme Abrahama. Neboť pravím vám, že by mohl Bůh z kamení tohoto vzbuditi syny Abrahamovi.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

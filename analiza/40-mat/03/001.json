@@ -1,0 +1,406 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.3.1",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 3,
+    "werset": 1
+  },
+  "tekst_bg": "A w one dni przyszedł Jan Chrzciciel, każąc na puszczy w ziemi Judzkiej,",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "w"
+    },
+    {
+      "i": 2,
+      "t": "one"
+    },
+    {
+      "i": 3,
+      "t": "dni"
+    },
+    {
+      "i": 4,
+      "t": "przyszedł"
+    },
+    {
+      "i": 5,
+      "t": "Jan"
+    },
+    {
+      "i": 6,
+      "t": "Chrzciciel"
+    },
+    {
+      "i": 7,
+      "t": "każąc"
+    },
+    {
+      "i": 8,
+      "t": "na"
+    },
+    {
+      "i": 9,
+      "t": "puszczy"
+    },
+    {
+      "i": 10,
+      "t": "w"
+    },
+    {
+      "i": 11,
+      "t": "ziemi"
+    },
+    {
+      "i": 12,
+      "t": "Judzkiej"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.3.1",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.3.1",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "In",
+        "id": "Mat.3.1#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "then",
+        "id": "Mat.3.1#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ταῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPF",
+        "glosa": "the",
+        "id": "Mat.3.1#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἡμέραις",
+        "lemma": "G2250",
+        "forma": "ἡμέρα",
+        "morph": "N-DPF",
+        "glosa": "days",
+        "id": "Mat.3.1#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "day"
+      },
+      {
+        "t": "ἐκείναις",
+        "lemma": "G1565",
+        "forma": "ἐκεῖνος",
+        "morph": "D-DPF",
+        "glosa": "those",
+        "id": "Mat.3.1#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "that"
+      },
+      {
+        "t": "παραγίνεται",
+        "lemma": "G3854",
+        "forma": "παραγίνομαι",
+        "morph": "V-PNI-3S",
+        "glosa": "comes",
+        "id": "Mat.3.1#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to come"
+      },
+      {
+        "t": "Ἰωάννης",
+        "lemma": "G2491G",
+        "forma": "Ἰωάννης",
+        "morph": "N-NSM-P",
+        "glosa": "John",
+        "id": "Mat.3.1#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "John"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Mat.3.1#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "βαπτιστὴς",
+        "lemma": "G0910",
+        "forma": "Βαπτιστής",
+        "morph": "N-NSM",
+        "glosa": "Baptist",
+        "id": "Mat.3.1#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "one who baptizes"
+      },
+      {
+        "t": "κηρύσσων",
+        "lemma": "G2784",
+        "forma": "κηρύσσω",
+        "morph": "V-PAP-NSM",
+        "glosa": "preaching",
+        "id": "Mat.3.1#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to preach"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.3.1#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῇ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSF",
+        "glosa": "the",
+        "id": "Mat.3.1#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐρήμῳ",
+        "lemma": "G2048",
+        "forma": "ἔρημος",
+        "morph": "A-DSF",
+        "glosa": "wilderness",
+        "id": "Mat.3.1#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "deserted"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "<the>",
+        "id": "Mat.3.1#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰουδαίας",
+        "lemma": "G2449",
+        "forma": "Ἰουδαία",
+        "morph": "N-GSF-L",
+        "glosa": "of Judea",
+        "id": "Mat.3.1#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "Judea"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po Ἐν, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ἐν oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἐκείναις oddane jako „one”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ταῖς ἡμέραις oddane jako „dni”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "παραγίνεται, praesens „comes”, oddane czasem przeszłym „przyszedł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "Ἰωάννης oddane jako „Jan”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "ὁ βαπτιστὴς oddane jako „Chrzciciel”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "κηρύσσων oddane jako „każąc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ἐν przy ἐρήμῳ oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τῇ ἐρήμῳ oddane jako „puszczy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        10,
+        11,
+        12
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τῆς Ἰουδαίας, dopełniacz miejsca, oddane jako „w ziemi Judzkiej”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. δὲ jest wyniesione na początek, a dopełniacz τῆς Ἰουδαίας rozbity na „w ziemi Judzkiej”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Ἐν δὲ ταῖς ἡμέραις ἐκείναις παραγίνεται BG oddaje jako „A w one dni przyszedł”; παραγίνεται jest czasem teraźniejszym.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "V těch pak dnech přišel Jan Křtitel, káže na poušti Judské,",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

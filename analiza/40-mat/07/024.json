@@ -1,0 +1,603 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.24",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 24
+  },
+  "tekst_bg": "Wszelkiego tedy, który słucha tych słów moich i czyni je, przypodobam mężowi mądremu, który zbudował dom swój na opoce;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Wszelkiego"
+    },
+    {
+      "i": 1,
+      "t": "tedy"
+    },
+    {
+      "i": 2,
+      "t": "który"
+    },
+    {
+      "i": 3,
+      "t": "słucha"
+    },
+    {
+      "i": 4,
+      "t": "tych"
+    },
+    {
+      "i": 5,
+      "t": "słów"
+    },
+    {
+      "i": 6,
+      "t": "moich"
+    },
+    {
+      "i": 7,
+      "t": "i"
+    },
+    {
+      "i": 8,
+      "t": "czyni"
+    },
+    {
+      "i": 9,
+      "t": "je"
+    },
+    {
+      "i": 10,
+      "t": "przypodobam"
+    },
+    {
+      "i": 11,
+      "t": "mężowi"
+    },
+    {
+      "i": 12,
+      "t": "mądremu"
+    },
+    {
+      "i": 13,
+      "t": "który"
+    },
+    {
+      "i": 14,
+      "t": "zbudował"
+    },
+    {
+      "i": 15,
+      "t": "dom"
+    },
+    {
+      "i": 16,
+      "t": "swój"
+    },
+    {
+      "i": 17,
+      "t": "na"
+    },
+    {
+      "i": 18,
+      "t": "opoce"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.24",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.24",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Πᾶς",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NSM",
+        "glosa": "Everyone",
+        "id": "Mat.7.24#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "all"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "therefore",
+        "id": "Mat.7.24#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "ὅστις",
+        "lemma": "G3748",
+        "forma": "ὅστις",
+        "morph": "R-NSM",
+        "glosa": "whoever",
+        "id": "Mat.7.24#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "who/which"
+      },
+      {
+        "t": "ἀκούει",
+        "lemma": "G0191",
+        "forma": "ἀκούω",
+        "morph": "V-PAI-3S",
+        "glosa": "hears",
+        "id": "Mat.7.24#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to hear"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "My",
+        "id": "Mat.7.24#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "me"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "<the>",
+        "id": "Mat.7.24#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λόγους",
+        "lemma": "G3056",
+        "forma": "λόγος",
+        "morph": "N-APM",
+        "glosa": "words",
+        "id": "Mat.7.24#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "word"
+      },
+      {
+        "t": "τούτους",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-APM",
+        "glosa": "these",
+        "id": "Mat.7.24#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.24#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "and"
+      },
+      {
+        "t": "ποιεῖ",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAI-3S",
+        "glosa": "does",
+        "id": "Mat.7.24#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "αὐτούς",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-APM",
+        "glosa": "them,",
+        "id": "Mat.7.24#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ὁμοιώσω",
+        "lemma": "G3666",
+        "forma": "ὁμοιώσω",
+        "morph": "V-FAI-1S",
+        "glosa": "I will liken him",
+        "id": "Mat.7.24#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to liken"
+      },
+      {
+        "t": "αὐτὸν",
+        "lemma": "G0846",
+        "forma": "αὐτὸν",
+        "morph": "P-ASM",
+        "glosa": "I will liken him",
+        "id": "Mat.7.24#12b",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἀνδρὶ",
+        "lemma": "G0435G",
+        "forma": "ἀνήρ",
+        "morph": "N-DSM",
+        "glosa": "a man",
+        "id": "Mat.7.24#13",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "man"
+      },
+      {
+        "t": "φρονίμῳ",
+        "lemma": "G5429",
+        "forma": "φρόνιμος",
+        "morph": "A-DSM",
+        "glosa": "wise",
+        "id": "Mat.7.24#14",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "thoughtful"
+      },
+      {
+        "t": "ὅστις",
+        "lemma": "G3748",
+        "forma": "ὅστις",
+        "morph": "R-NSM",
+        "glosa": "who",
+        "id": "Mat.7.24#15",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "who/which"
+      },
+      {
+        "t": "ᾠκοδόμησεν",
+        "lemma": "G3618",
+        "forma": "οἰκοδομέω",
+        "morph": "V-AAI-3S",
+        "glosa": "built",
+        "id": "Mat.7.24#16",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to build"
+      },
+      {
+        "t": "αὐτοῦ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GSM",
+        "glosa": "his",
+        "id": "Mat.7.24#17",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "<the>",
+        "id": "Mat.7.24#18",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οἰκίαν",
+        "lemma": "G3614G",
+        "forma": "οἰκία",
+        "morph": "N-ASF",
+        "glosa": "house",
+        "id": "Mat.7.24#19",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "home"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "upon",
+        "id": "Mat.7.24#20",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.7.24#21",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πέτραν",
+        "lemma": "G4073",
+        "forma": "πέτρα",
+        "morph": "N-ASF",
+        "glosa": "rock.",
+        "id": "Mat.7.24#22",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "rock"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "zlanie",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0,
+        12
+      ],
+      "uwaga": "Πᾶς i wznawiające αὐτὸν oddane jednym dopełnieniem „Wszelkiego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "οὖν oddane jako „tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὅστις oddane jako „który”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἀκούει oddane jako „słucha”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "τούτους oddane jako „tych”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "τοὺς λόγους oddane jako „słów”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "μου oddane jako „moich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ποιεῖ oddane jako „czyni”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "αὐτούς oddane jako „je”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ὁμοιώσω oddane jako „przypodobam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἀνδρὶ oddane jako „mężowi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "φρονίμῳ oddane jako „mądremu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ὅστις oddane jako „który”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "ᾠκοδόμησεν oddane jako „zbudował”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "αὐτοῦ oddane jako „swój”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "τὴν οἰκίαν oddane jako „dom”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ἐπὶ oddane jako „na”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        21,
+        22
+      ],
+      "uwaga": "τὴν πέτραν oddane jako „opoce”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Słuchacz, słowa, dom i opoka są pokryte. Wznawiające αὐτὸν siedzi w „Wszelkiego”, a αὐτοῦ jest „swój”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὁμοιώσω αὐτὸν nie ma osobnego „go”. „Wszelkiego” jest odpowiednikiem Πᾶς i dopełnieniem czasownika.",
+      "tokeny_bg": [
+        0,
+        10
+      ],
+      "tokeny_zrodla": [
+        0,
+        11,
+        12
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "αὐτοῦ τὴν οἰκίαν BG oddaje jako „dom swój”.",
+      "tokeny_bg": [
+        15,
+        16
+      ],
+      "tokeny_zrodla": [
+        17,
+        18,
+        19
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A protož každého, kdož slyší slova má tato a zachovává je, připodobním muži moudrému, kterýž ustavěl dům svůj na skále.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

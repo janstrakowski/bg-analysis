@@ -1,0 +1,738 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.25",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 25
+  },
+  "tekst_bg": "W on czas odpowiadając Jezus, rzekł: Wysławiam cię, Ojcze, Panie nieba i ziemi! żeś te rzeczy zakrył przed mądrymi i roztropnymi, a objawiłeś je niemowlątkom.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "W"
+    },
+    {
+      "i": 1,
+      "t": "on"
+    },
+    {
+      "i": 2,
+      "t": "czas"
+    },
+    {
+      "i": 3,
+      "t": "odpowiadając"
+    },
+    {
+      "i": 4,
+      "t": "Jezus"
+    },
+    {
+      "i": 5,
+      "t": "rzekł"
+    },
+    {
+      "i": 6,
+      "t": "Wysławiam"
+    },
+    {
+      "i": 7,
+      "t": "cię"
+    },
+    {
+      "i": 8,
+      "t": "Ojcze"
+    },
+    {
+      "i": 9,
+      "t": "Panie"
+    },
+    {
+      "i": 10,
+      "t": "nieba"
+    },
+    {
+      "i": 11,
+      "t": "i"
+    },
+    {
+      "i": 12,
+      "t": "ziemi"
+    },
+    {
+      "i": 13,
+      "t": "żeś"
+    },
+    {
+      "i": 14,
+      "t": "te"
+    },
+    {
+      "i": 15,
+      "t": "rzeczy"
+    },
+    {
+      "i": 16,
+      "t": "zakrył"
+    },
+    {
+      "i": 17,
+      "t": "przed"
+    },
+    {
+      "i": 18,
+      "t": "mądrymi"
+    },
+    {
+      "i": 19,
+      "t": "i"
+    },
+    {
+      "i": 20,
+      "t": "roztropnymi"
+    },
+    {
+      "i": 21,
+      "t": "a"
+    },
+    {
+      "i": 22,
+      "t": "objawiłeś"
+    },
+    {
+      "i": 23,
+      "t": "je"
+    },
+    {
+      "i": 24,
+      "t": "niemowlątkom"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.25",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.25",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "At",
+        "id": "Mat.11.25#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ἐκείνῳ",
+        "lemma": "G1565",
+        "forma": "ἐκεῖνος",
+        "morph": "D-DSM",
+        "glosa": "that [very]",
+        "id": "Mat.11.25#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "that"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "<the>",
+        "id": "Mat.11.25#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "καιρῷ",
+        "lemma": "G2540",
+        "forma": "καιρός",
+        "morph": "N-DSM",
+        "glosa": "time",
+        "id": "Mat.11.25#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "time/right time"
+      },
+      {
+        "t": "ἀποκριθεὶς",
+        "lemma": "G0611",
+        "forma": "ἀποκρίνω",
+        "morph": "V-AOP-NSM",
+        "glosa": "answering",
+        "id": "Mat.11.25#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to answer"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.11.25#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.11.25#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "εἶπεν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAI-3S",
+        "glosa": "said;",
+        "id": "Mat.11.25#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ἐξομολογοῦμαί",
+        "lemma": "G1843",
+        "forma": "ἐξομολογέομαι",
+        "morph": "V-PMI-1S",
+        "glosa": "I fully consent",
+        "id": "Mat.11.25#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to agree"
+      },
+      {
+        "t": "σοι",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DS",
+        "glosa": "to You,",
+        "id": "Mat.11.25#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "you"
+      },
+      {
+        "t": "πάτερ",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-VSM-T",
+        "glosa": "Father",
+        "id": "Mat.11.25#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "father"
+      },
+      {
+        "t": "κύριε",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-VSM-T",
+        "glosa": "Lord",
+        "id": "Mat.11.25#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.11.25#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανοῦ",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-GSM",
+        "glosa": "heaven",
+        "id": "Mat.11.25#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "heaven"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.25#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "and"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "the",
+        "id": "Mat.11.25#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γῆς",
+        "lemma": "G1093G",
+        "forma": "γῆ",
+        "morph": "N-GSF",
+        "glosa": "earth,",
+        "id": "Mat.11.25#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "earth: planet"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.11.25#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "ἀπέκρυψας",
+        "lemma": "G0613",
+        "forma": "ἀπέκρυψας",
+        "morph": "V-AAI-2S",
+        "glosa": "you have hidden",
+        "id": "Mat.11.25#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to conceal"
+      },
+      {
+        "t": "ταῦτα",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-APN",
+        "glosa": "these things",
+        "id": "Mat.11.25#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.11.25#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "away from"
+      },
+      {
+        "t": "σοφῶν",
+        "lemma": "G4680",
+        "forma": "σοφός",
+        "morph": "A-GPM",
+        "glosa": "wise",
+        "id": "Mat.11.25#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "wise"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.25#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "and"
+      },
+      {
+        "t": "συνετῶν",
+        "lemma": "G4908",
+        "forma": "συνετός",
+        "morph": "A-GPM",
+        "glosa": "learned",
+        "id": "Mat.11.25#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "intelligent"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.11.25#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἀπεκάλυψας",
+        "lemma": "G0601",
+        "forma": "ἀποκαλύπτω",
+        "morph": "V-AAI-2S",
+        "glosa": "did reveal",
+        "id": "Mat.11.25#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "to reveal"
+      },
+      {
+        "t": "αὐτὰ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-APN",
+        "glosa": "them",
+        "id": "Mat.11.25#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "νηπίοις",
+        "lemma": "G3516",
+        "forma": "νήπιος",
+        "morph": "A-DPM",
+        "glosa": "to little children.",
+        "id": "Mat.11.25#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "child"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ἐν oddane jako „W”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐκείνῳ oddane jako „on”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "τῷ καιρῷ oddane jako „czas”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ἀποκριθεὶς oddane jako „odpowiadając”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "εἶπεν oddane jako „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἐξομολογοῦμαί oddane jako „Wysławiam”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "σοι, celownik, oddane biernikiem „cię”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "πάτερ oddane jako „Ojcze”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "κύριε oddane jako „Panie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τοῦ οὐρανοῦ oddane jako „nieba”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "τῆς γῆς oddane jako „ziemi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ὅτι oddane jako „żeś”; końcówka „-ś” niesie osobę drugą."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        14,
+        15
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "ταῦτα oddane jako „te rzeczy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ἀπέκρυψας oddane jako „zakrył”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ἀπὸ oddane jako „przed”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "σοφῶν oddane jako „mądrymi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "συνετῶν oddane jako „roztropnymi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "ἀπεκάλυψας oddane jako „objawiłeś”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        26
+      ],
+      "uwaga": "αὐτὰ oddane jako „je”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        27
+      ],
+      "uwaga": "νηπίοις, glosa „little children”, oddane jako „niemowlątkom”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token ma odpowiednik. ταῦτα rozbito na „te rzeczy”, a rodzajniki weszły w rzeczowniki.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἀπέκρυψας ταῦτα ἀπὸ σοφῶν καὶ συνετῶν καὶ ἀπεκάλυψας αὐτὰ νηπίοις BG oddaje jako „żeś te rzeczy zakrył przed mądrymi i roztropnymi, a objawiłeś je niemowlątkom”.",
+      "tokeny_bg": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "tokeny_zrodla": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "V ten čas odpověděv Ježíš, řekl: Chválím tě, Otče, Pane nebe i země, že jsi skryl tyto věci před moudrými a opatrnými, a zjevil jsi je maličkým.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

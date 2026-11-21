@@ -1,0 +1,378 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.4.15",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 4,
+    "werset": 15
+  },
+  "tekst_bg": "Ziemia Zabulonowa i ziemia Neftalimowa przy drodze morskiej za Jordanem, Galilea poganów;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Ziemia"
+    },
+    {
+      "i": 1,
+      "t": "Zabulonowa"
+    },
+    {
+      "i": 2,
+      "t": "i"
+    },
+    {
+      "i": 3,
+      "t": "ziemia"
+    },
+    {
+      "i": 4,
+      "t": "Neftalimowa"
+    },
+    {
+      "i": 5,
+      "t": "przy"
+    },
+    {
+      "i": 6,
+      "t": "drodze"
+    },
+    {
+      "i": 7,
+      "t": "morskiej"
+    },
+    {
+      "i": 8,
+      "t": "za"
+    },
+    {
+      "i": 9,
+      "t": "Jordanem"
+    },
+    {
+      "i": 10,
+      "t": "Galilea"
+    },
+    {
+      "i": 11,
+      "t": "poganów"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.4.15",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.4.15",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "γῆ",
+        "lemma": "G1093H",
+        "forma": "γῆ",
+        "morph": "N-NSF",
+        "glosa": "Land",
+        "id": "Mat.4.15#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "earth: country"
+      },
+      {
+        "t": "Ζαβουλὼν",
+        "lemma": "G2194",
+        "forma": "Ζαβουλών",
+        "morph": "N-GSM-L",
+        "glosa": "of Zebulun",
+        "id": "Mat.4.15#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "Zebulun"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.4.15#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "and"
+      },
+      {
+        "t": "γῆ",
+        "lemma": "G1093H",
+        "forma": "γῆ",
+        "morph": "N-NSF",
+        "glosa": "land",
+        "id": "Mat.4.15#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "earth: country"
+      },
+      {
+        "t": "Νεφθαλίμ",
+        "lemma": "G3508",
+        "forma": "Νεφθαλείμ",
+        "morph": "N-GSM-L",
+        "glosa": "of Naphtali,",
+        "id": "Mat.4.15#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "Naphtali"
+      },
+      {
+        "t": "ὁδὸν",
+        "lemma": "G3598",
+        "forma": "ὁδός",
+        "morph": "N-ASF",
+        "glosa": "way",
+        "id": "Mat.4.15#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "road"
+      },
+      {
+        "t": "θαλάσσης",
+        "lemma": "G2281",
+        "forma": "θάλασσα",
+        "morph": "N-GSF",
+        "glosa": "of [the] sea",
+        "id": "Mat.4.15#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "sea"
+      },
+      {
+        "t": "πέραν",
+        "lemma": "G4008",
+        "forma": "πέραν",
+        "morph": "PREP",
+        "glosa": "beyond",
+        "id": "Mat.4.15#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "other side"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.4.15#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰορδάνου",
+        "lemma": "G2446",
+        "forma": "Ἰορδάνης",
+        "morph": "N-GSM-L",
+        "glosa": "Jordan,",
+        "id": "Mat.4.15#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "Jordan"
+      },
+      {
+        "t": "Γαλιλαία",
+        "lemma": "G1056G",
+        "forma": "Γαλιλαία",
+        "morph": "N-NSF-L",
+        "glosa": "Galilee",
+        "id": "Mat.4.15#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "Galilee"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPN",
+        "glosa": "of the",
+        "id": "Mat.4.15#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐθνῶν",
+        "lemma": "G1484",
+        "forma": "ἔθνος",
+        "morph": "N-GPN",
+        "glosa": "Gentiles —",
+        "id": "Mat.4.15#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "Gentiles"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "γῆ oddane jako „Ziemia”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "Ζαβουλὼν w dopełniaczu oddane przymiotnikiem „Zabulonowa”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "Drugie γῆ oddane jako „ziemia”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "Νεφθαλίμ oddane przymiotnikiem „Neftalimowa”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [],
+      "uwaga": "„przy” jest kursywą w 1632. ὁδὸν θαλάσσης nie ma przyimka."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "ὁδὸν oddane jako „drodze”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "θαλάσσης w dopełniaczu oddane przymiotnikiem „morskiej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "πέραν oddane jako „za”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τοῦ Ἰορδάνου oddane jako „Jordanem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "Γαλιλαία oddane jako „Galilea”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τῶν ἐθνῶν oddane jako „poganów”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Ziemie, droga morska, Jordan i Galilea pogan zostają te same. „przy” jest kursywą 1632 przy bierniku ὁδὸν, który nie ma przyimka.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὁδὸν θαλάσσης nie ma przyimka. „przy” jest kursywą w 1632, a θαλάσσης BG oddaje przymiotnikiem „morskiej”.",
+      "tokeny_bg": [
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Země Zabulon a Neftalím při moři za Jordánem, Galilea pohanská,",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

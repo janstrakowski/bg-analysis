@@ -1,0 +1,549 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.14",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 14
+  },
+  "tekst_bg": "A ciasna jest brama i wąska droga, która prowadzi do żywota; a mało ich jest, którzy ją znajdują.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "ciasna"
+    },
+    {
+      "i": 2,
+      "t": "jest"
+    },
+    {
+      "i": 3,
+      "t": "brama"
+    },
+    {
+      "i": 4,
+      "t": "i"
+    },
+    {
+      "i": 5,
+      "t": "wąska"
+    },
+    {
+      "i": 6,
+      "t": "droga"
+    },
+    {
+      "i": 7,
+      "t": "która"
+    },
+    {
+      "i": 8,
+      "t": "prowadzi"
+    },
+    {
+      "i": 9,
+      "t": "do"
+    },
+    {
+      "i": 10,
+      "t": "żywota"
+    },
+    {
+      "i": 11,
+      "t": "a"
+    },
+    {
+      "i": 12,
+      "t": "mało"
+    },
+    {
+      "i": 13,
+      "t": "ich"
+    },
+    {
+      "i": 14,
+      "t": "jest"
+    },
+    {
+      "i": 15,
+      "t": "którzy"
+    },
+    {
+      "i": 16,
+      "t": "ją"
+    },
+    {
+      "i": 17,
+      "t": "znajdują"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.14",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.14",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ὅτι",
+        "lemma": "G3754",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "Since",
+        "id": "Mat.7.14#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "στενὴ",
+        "lemma": "G4728",
+        "forma": "στενός",
+        "morph": "A-NSF",
+        "glosa": "small [is]",
+        "id": "Mat.7.14#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "narrow"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.7.14#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πύλη",
+        "lemma": "G4439",
+        "forma": "πύλη",
+        "morph": "N-NSF",
+        "glosa": "gate",
+        "id": "Mat.7.14#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "gate"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.14#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "and"
+      },
+      {
+        "t": "τεθλιμμένη",
+        "lemma": "G2346",
+        "forma": "θλίβω",
+        "morph": "V-RPP-NSF",
+        "glosa": "compressed",
+        "id": "Mat.7.14#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to press on"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.7.14#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὁδὸς",
+        "lemma": "G3598",
+        "forma": "ὁδός",
+        "morph": "N-NSF",
+        "glosa": "way",
+        "id": "Mat.7.14#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "road"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "which",
+        "id": "Mat.7.14#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀπάγουσα",
+        "lemma": "G0520",
+        "forma": "ἀπάγω",
+        "morph": "V-PAP-NSF",
+        "glosa": "is leading",
+        "id": "Mat.7.14#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to lead away"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.7.14#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "<the>",
+        "id": "Mat.7.14#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ζωήν",
+        "lemma": "G2222",
+        "forma": "ζωή",
+        "morph": "N-ASF",
+        "glosa": "life,",
+        "id": "Mat.7.14#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "life"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.14#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὀλίγοι",
+        "lemma": "G3641",
+        "forma": "ὀλίγος",
+        "morph": "A-NPM",
+        "glosa": "few",
+        "id": "Mat.7.14#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "little/few"
+      },
+      {
+        "t": "εἰσὶν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3P",
+        "glosa": "are",
+        "id": "Mat.7.14#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to be"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "those",
+        "id": "Mat.7.14#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "εὑρίσκοντες",
+        "lemma": "G2147",
+        "forma": "εὑρίσκω",
+        "morph": "V-PAP-NPM",
+        "glosa": "finding",
+        "id": "Mat.7.14#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to find/meet"
+      },
+      {
+        "t": "αὐτήν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASF",
+        "glosa": "it.",
+        "id": "Mat.7.14#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ὅτι, glosa „Since”, oddane jako „A”, nie jako „albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "στενὴ oddane jako „ciasna”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [],
+      "uwaga": "„jest” nie ma εἰμί przy στενὴ ἡ πύλη ani przy τεθλιμμένη ἡ ὁδός.",
+      "uzasadnienie": "Oba człony są zdaniami imiennymi. Jedno „jest” stawia orzeczenie tej samej bramy i tej samej drogi."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ἡ πύλη oddane jako „brama”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "τεθλιμμένη, imiesłów „ściśnięta”, oddane jako „wąska”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "ἡ ὁδὸς oddane jako „droga”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἡ przed imiesłowem oddane jako „która”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "ἀπάγουσα oddane jako „prowadzi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "τὴν ζωήν oddane jako „żywota”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ὀλίγοι oddane jako „mało”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [],
+      "uwaga": "„ich” nie ma osobnego zaimka przy ὀλίγοι.",
+      "uzasadnienie": "„mało ich jest” jest polskim zwrotem na ὀλίγοι εἰσίν. „ich” wyprzedza οἱ εὑρίσκοντες i nie nazywa innej grupy."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "εἰσὶν oddane jako „jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "οἱ oddane jako „którzy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "αὐτήν oddane jako „ją”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "εὑρίσκοντες, imiesłów, oddane jako „znajdują”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_przesuniety",
+    "uzasadnienie": "Brama, droga, żywot i „mało” są pokryte, ale ὅτι „since” BG oddaje jako „A”, więc zdanie nie podaje już przyczyny, tylko dopowiedzenie. „jest” i „ich” są dopowiedziane.",
+    "tokeny_bg": [
+      0
+    ],
+    "tokeny_zrodla": [
+      0
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ὅτι, glosa „Since”, BG oddaje jako „A”. W wersecie 13 to samo ὅτι jest „albowiem”.",
+      "tokeny_bg": [
+        0
+      ],
+      "tokeny_zrodla": [
+        0
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "στενὴ ἡ πύλη καὶ τεθλιμμένη ἡ ὁδὸς nie ma εἰμί. BG dodaje „jest”, a przy ὀλίγοι dodaje „ich”.",
+      "tokeny_bg": [
+        1,
+        2,
+        5,
+        6,
+        12,
+        13
+      ],
+      "tokeny_zrodla": [
+        1,
+        5,
+        6,
+        7,
+        14
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo těsná jest brána a úzká cesta, kteráž vede k životu, a málo jest nalézajících ji.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

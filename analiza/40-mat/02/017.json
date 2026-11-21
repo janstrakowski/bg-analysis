@@ -1,0 +1,295 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.2.17",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 2,
+    "werset": 17
+  },
+  "tekst_bg": "Tedy się wypełniło, co powiedziano przez Jeremijasza proroka, mówiącego:",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Tedy"
+    },
+    {
+      "i": 1,
+      "t": "się"
+    },
+    {
+      "i": 2,
+      "t": "wypełniło"
+    },
+    {
+      "i": 3,
+      "t": "co"
+    },
+    {
+      "i": 4,
+      "t": "powiedziano"
+    },
+    {
+      "i": 5,
+      "t": "przez"
+    },
+    {
+      "i": 6,
+      "t": "Jeremijasza"
+    },
+    {
+      "i": 7,
+      "t": "proroka"
+    },
+    {
+      "i": 8,
+      "t": "mówiącego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.2.17",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.2.17",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "Then",
+        "id": "Mat.2.17#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐπληρώθη",
+        "lemma": "G4137",
+        "forma": "πληρόω",
+        "morph": "V-API-3S",
+        "glosa": "was fulfilled",
+        "id": "Mat.2.17#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to fulfill"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "that",
+        "id": "Mat.2.17#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ῥηθὲν",
+        "lemma": "G2046",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-APP-NSN",
+        "glosa": "having been spoken",
+        "id": "Mat.2.17#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὑπὸ",
+        "lemma": "G5259",
+        "forma": "ὑπὸ",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.2.17#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "by/under: by"
+      },
+      {
+        "t": "Ἰερεμίου",
+        "lemma": "G2408",
+        "forma": "Ἱερεμίας",
+        "morph": "N-GSM-P",
+        "glosa": "Jeremiah",
+        "id": "Mat.2.17#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Jeremiah"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.2.17#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "προφήτου",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-GSM",
+        "glosa": "prophet",
+        "id": "Mat.2.17#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "prophet"
+      },
+      {
+        "t": "λέγοντος",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-GSM",
+        "glosa": "saying;",
+        "id": "Mat.2.17#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to say"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Τότε oddane jako „Tedy”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐπληρώθη, aoryst bierny, oddane jako „się wypełniło”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "τὸ, rodzajnik przy ῥηθέν, oddane jako „co”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ῥηθὲν oddane jako „powiedziano”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "ὑπὸ, glosa „by”, oddane jako „przez”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Ἰερεμίου oddane jako „Jeremijasza”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τοῦ προφήτου oddane jako „proroka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "λέγοντος oddane jako „mówiącego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. „się” należy do biernego ἐπληρώθη, a rodzajnik wszedł w „proroka”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐπληρώθη τὸ ῥηθὲν ὑπὸ Ἰερεμίου τοῦ προφήτου oddane jako „się wypełniło, co powiedziano przez Jeremijasza proroka”.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Tehdy naplněno jest to povědění Jeremiáše proroka, řkoucího:",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

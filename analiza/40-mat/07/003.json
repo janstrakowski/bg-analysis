@@ -1,0 +1,539 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.3",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 3
+  },
+  "tekst_bg": "A czemuż widzisz źdźbło w oku brata twego, a balki, która jest w oku twojem, nie baczysz?",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "czemuż"
+    },
+    {
+      "i": 2,
+      "t": "widzisz"
+    },
+    {
+      "i": 3,
+      "t": "źdźbło"
+    },
+    {
+      "i": 4,
+      "t": "w"
+    },
+    {
+      "i": 5,
+      "t": "oku"
+    },
+    {
+      "i": 6,
+      "t": "brata"
+    },
+    {
+      "i": 7,
+      "t": "twego"
+    },
+    {
+      "i": 8,
+      "t": "a"
+    },
+    {
+      "i": 9,
+      "t": "balki"
+    },
+    {
+      "i": 10,
+      "t": "która"
+    },
+    {
+      "i": 11,
+      "t": "jest"
+    },
+    {
+      "i": 12,
+      "t": "w"
+    },
+    {
+      "i": 13,
+      "t": "oku"
+    },
+    {
+      "i": 14,
+      "t": "twojem"
+    },
+    {
+      "i": 15,
+      "t": "nie"
+    },
+    {
+      "i": 16,
+      "t": "baczysz"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.3",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.3",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "τί",
+        "lemma": "G5101",
+        "forma": "τίς",
+        "morph": "I-ASN",
+        "glosa": "Why",
+        "id": "Mat.7.3#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "which?"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.7.3#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "βλέπεις",
+        "lemma": "G0991",
+        "forma": "βλέπω",
+        "morph": "V-PAI-2S",
+        "glosa": "do you look at",
+        "id": "Mat.7.3#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to see"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.7.3#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κάρφος",
+        "lemma": "G2595",
+        "forma": "κάρφος",
+        "morph": "N-ASN",
+        "glosa": "splinter",
+        "id": "Mat.7.3#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "speck"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "that [is]",
+        "id": "Mat.7.3#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.7.3#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "the",
+        "id": "Mat.7.3#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὀφθαλμῷ",
+        "lemma": "G3788",
+        "forma": "ὀφθαλμός",
+        "morph": "N-DSM",
+        "glosa": "eye",
+        "id": "Mat.7.3#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "eye"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.7.3#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀδελφοῦ",
+        "lemma": "G0080",
+        "forma": "ἀδελφός",
+        "morph": "N-GSM",
+        "glosa": "brother",
+        "id": "Mat.7.3#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "brother"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you,",
+        "id": "Mat.7.3#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "you"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "<the>",
+        "id": "Mat.7.3#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.3#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.7.3#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "<the>",
+        "id": "Mat.7.3#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "σῷ",
+        "lemma": "G4771",
+        "forma": "σός",
+        "morph": "S-2SDSM",
+        "glosa": "your [own]",
+        "id": "Mat.7.3#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὀφθαλμῷ",
+        "lemma": "G3788",
+        "forma": "ὀφθαλμός",
+        "morph": "N-DSM",
+        "glosa": "eye",
+        "id": "Mat.7.3#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "eye"
+      },
+      {
+        "t": "δοκὸν",
+        "lemma": "G1385",
+        "forma": "δοκός",
+        "morph": "N-ASF",
+        "glosa": "a beam",
+        "id": "Mat.7.3#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "plank"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.7.3#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "no"
+      },
+      {
+        "t": "κατανοεῖς;",
+        "lemma": "G2657",
+        "forma": "κατανοέω",
+        "morph": "V-PAI-2S",
+        "glosa": "notice?",
+        "id": "Mat.7.3#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "to observe"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi drugie, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "τί oddane jako „czemuż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "βλέπεις oddane jako „widzisz”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4,
+        5
+      ],
+      "uwaga": "τὸ κάρφος τὸ oddane jako „źdźbło”; drugi rodzajnik przed ἐν nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τῷ ὀφθαλμῷ oddane jako „oku”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τοῦ ἀδελφοῦ oddane jako „brata”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "σου oddane jako „twego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "Drugie δὲ oddane jako „a”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        12,
+        18
+      ],
+      "uwaga": "τὴν δοκὸν, biernik rozdzielony przez ἐν, oddane dopełniaczem „balki” przy przeczeniu."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        10,
+        11
+      ],
+      "zrodlo": [],
+      "uwaga": "„która jest” nie ma w grece ani ὅς, ani εἰμί.",
+      "uzasadnienie": "Zwrot τὴν ἐν τῷ σῷ ὀφθαλμῷ δοκὸν stawia wyrażenie przyimkowe między rodzajnikiem a rzeczownikiem. BG otwiera je jako zdanie „która jest”, bez zmiany belki i oka."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "Drugie ἐν oddane jako „w”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15,
+        17
+      ],
+      "uwaga": "τῷ ὀφθαλμῷ oddane jako „oku”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "σῷ oddane jako „twojem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "οὐ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "κατανοεῖς oddane jako „baczysz”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Rodzajniki są wcielone w rzeczowniki. „która jest” rozwija przyporządkowanie τὴν … δοκὸν, a belka i przeczenie zostają.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τὴν δὲ ἐν τῷ σῷ ὀφθαλμῷ δοκὸν nie zawiera ὅς ani εἰμί. BG dodaje „która jest”.",
+      "tokeny_bg": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "tokeny_zrodla": [
+        12,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Kterakž pak vidíš mrvu v oku bratra svého, a v oku svém břevna necítíš?",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

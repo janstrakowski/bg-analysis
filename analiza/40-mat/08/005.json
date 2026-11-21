@@ -1,0 +1,346 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.8.5",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 8,
+    "werset": 5
+  },
+  "tekst_bg": "A gdy Jezus wszedł do Kapernaum, przyszedł do niego setnik, prosząc go,",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "gdy"
+    },
+    {
+      "i": 2,
+      "t": "Jezus"
+    },
+    {
+      "i": 3,
+      "t": "wszedł"
+    },
+    {
+      "i": 4,
+      "t": "do"
+    },
+    {
+      "i": 5,
+      "t": "Kapernaum"
+    },
+    {
+      "i": 6,
+      "t": "przyszedł"
+    },
+    {
+      "i": 7,
+      "t": "do"
+    },
+    {
+      "i": 8,
+      "t": "niego"
+    },
+    {
+      "i": 9,
+      "t": "setnik"
+    },
+    {
+      "i": 10,
+      "t": "prosząc"
+    },
+    {
+      "i": 11,
+      "t": "go"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.8.5",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.8.5",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Εἰσελθόντι",
+        "lemma": "G1525",
+        "forma": "Εἰσελθόντι",
+        "morph": "V-2AAP-DSM",
+        "glosa": "having come in",
+        "id": "Mat.8.5#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to enter"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.8.5#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "<the>",
+        "id": "Mat.8.5#04",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦ",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-DSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.8.5#05",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.8.5#06",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "toward"
+      },
+      {
+        "t": "Καφαρναοὺμ",
+        "lemma": "G2584",
+        "forma": "Καπερναούμ",
+        "morph": "N-ASF-L",
+        "glosa": "Capernaum",
+        "id": "Mat.8.5#07",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "Capernaum"
+      },
+      {
+        "t": "προσῆλθεν",
+        "lemma": "G4334",
+        "forma": "προσέρχομαι",
+        "morph": "V-2AAI-3S",
+        "glosa": "came",
+        "id": "Mat.8.5#08",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to come near/agree"
+      },
+      {
+        "t": "αὐτῷ",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-DSM",
+        "glosa": "to Him",
+        "id": "Mat.8.5#09",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἑκατόνταρχος",
+        "lemma": "G1543",
+        "forma": "ἑκατόνταρχος",
+        "morph": "N-NSM",
+        "glosa": "a centurion",
+        "id": "Mat.8.5#10",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "centurion"
+      },
+      {
+        "t": "παρακαλῶν",
+        "lemma": "G3870",
+        "forma": "παρακαλέω",
+        "morph": "V-PAP-NSM",
+        "glosa": "imploring",
+        "id": "Mat.8.5#11",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to plead/comfort"
+      },
+      {
+        "t": "αὐτὸν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "Him",
+        "id": "Mat.8.5#12",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po imiesłowie, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        1,
+        3
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Εἰσελθόντι, imiesłów w celowniku, rozbite na zdanie „gdy wszedł”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "τῷ Ἰησοῦ, celownik, oddane mianownikiem „Jezus” jako podmiotem zdania „gdy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Καφαρναοὺμ oddane jako „Kapernaum”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "προσῆλθεν oddane jako „przyszedł”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        7,
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "αὐτῷ, celownik przy προσέρχομαι, oddane jako „do niego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἑκατόνταρχος oddane jako „setnik”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "παρακαλῶν oddane jako „prosząc”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "αὐτὸν oddane jako „go”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Nic nie dodano i nic nie opuszczono. Imiesłów Εἰσελθόντι BG oddaje osobowym „gdy wszedł”, a celownik αὐτῷ jako „do niego”. Sens wejścia i prośby setnika zostaje ten sam.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Εἰσελθόντι δὲ τῷ Ἰησοῦ εἰς Καφαρναοὺμ oddane jako „A gdy Jezus wszedł do Kapernaum”. Imiesłów stał się zdaniem, a imię zostało podmiotem.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A když vcházel Ježíš do Kafarnaum, přistoupil k němu setník, prose ho,",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

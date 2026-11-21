@@ -1,0 +1,559 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.3.15",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 3,
+    "werset": 15
+  },
+  "tekst_bg": "A odpowiadając Jezus, rzekł do niego: Zaniechaj teraz; albowiem tak przystoi na nas, abyśmy wypełnili wszelką sprawiedliwość; tedy go zaniechał.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "odpowiadając"
+    },
+    {
+      "i": 2,
+      "t": "Jezus"
+    },
+    {
+      "i": 3,
+      "t": "rzekł"
+    },
+    {
+      "i": 4,
+      "t": "do"
+    },
+    {
+      "i": 5,
+      "t": "niego"
+    },
+    {
+      "i": 6,
+      "t": "Zaniechaj"
+    },
+    {
+      "i": 7,
+      "t": "teraz"
+    },
+    {
+      "i": 8,
+      "t": "albowiem"
+    },
+    {
+      "i": 9,
+      "t": "tak"
+    },
+    {
+      "i": 10,
+      "t": "przystoi"
+    },
+    {
+      "i": 11,
+      "t": "na"
+    },
+    {
+      "i": 12,
+      "t": "nas"
+    },
+    {
+      "i": 13,
+      "t": "abyśmy"
+    },
+    {
+      "i": 14,
+      "t": "wypełnili"
+    },
+    {
+      "i": 15,
+      "t": "wszelką"
+    },
+    {
+      "i": 16,
+      "t": "sprawiedliwość"
+    },
+    {
+      "i": 17,
+      "t": "tedy"
+    },
+    {
+      "i": 18,
+      "t": "go"
+    },
+    {
+      "i": 19,
+      "t": "zaniechał"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.3.15",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.3.15",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ἀποκριθεὶς",
+        "lemma": "G0611",
+        "forma": "ἀποκρίνω",
+        "morph": "V-AOP-NSM",
+        "glosa": "Answering",
+        "id": "Mat.3.15#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "to answer"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.3.15#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "<the>",
+        "id": "Mat.3.15#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "Ἰησοῦς",
+        "lemma": "G2424G",
+        "forma": "Ἰησοῦς",
+        "morph": "N-NSM-P",
+        "glosa": "Jesus",
+        "id": "Mat.3.15#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "Jesus"
+      },
+      {
+        "t": "εἶπεν",
+        "lemma": "G2036",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-2AAI-3S",
+        "glosa": "said",
+        "id": "Mat.3.15#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to say"
+      },
+      {
+        "t": "πρὸς",
+        "lemma": "G4314",
+        "forma": "πρός",
+        "morph": "PREP",
+        "glosa": "unto",
+        "id": "Mat.3.15#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to/with"
+      },
+      {
+        "t": "αὐτόν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "him;",
+        "id": "Mat.3.15#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "ἄφες",
+        "lemma": "G0863I",
+        "forma": "ἀφίημι",
+        "morph": "V-2AAM-2S",
+        "glosa": "do permit [it]",
+        "id": "Mat.3.15#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to release: permit"
+      },
+      {
+        "t": "ἄρτι",
+        "lemma": "G0737",
+        "forma": "ἄρτι",
+        "morph": "ADV",
+        "glosa": "now;",
+        "id": "Mat.3.15#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "now"
+      },
+      {
+        "t": "οὕτως",
+        "lemma": "G3779",
+        "forma": "οὕτω, οὕτως",
+        "morph": "ADV",
+        "glosa": "thus",
+        "id": "Mat.3.15#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "thus(-ly)"
+      },
+      {
+        "t": "γὰρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.3.15#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "for"
+      },
+      {
+        "t": "πρέπον",
+        "lemma": "G4241",
+        "forma": "πρέπω",
+        "morph": "V-PAP-NSN",
+        "glosa": "fitting",
+        "id": "Mat.3.15#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "be proper"
+      },
+      {
+        "t": "ἐστὶν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "it is",
+        "id": "Mat.3.15#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἡμῖν",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1DP",
+        "glosa": "to us",
+        "id": "Mat.3.15#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "me"
+      },
+      {
+        "t": "πληρῶσαι",
+        "lemma": "G4137",
+        "forma": "πληρόω",
+        "morph": "V-AAN",
+        "glosa": "to fulfill",
+        "id": "Mat.3.15#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to fulfill"
+      },
+      {
+        "t": "πᾶσαν",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-ASF",
+        "glosa": "all",
+        "id": "Mat.3.15#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "all"
+      },
+      {
+        "t": "δικαιοσύνην",
+        "lemma": "G1343",
+        "forma": "δικαιοσύνη",
+        "morph": "N-ASF",
+        "glosa": "righteousness.",
+        "id": "Mat.3.15#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "righteousness"
+      },
+      {
+        "t": "τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "Then",
+        "id": "Mat.3.15#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "then"
+      },
+      {
+        "t": "ἀφίησιν",
+        "lemma": "G0863I",
+        "forma": "ἀφίημι",
+        "morph": "V-PAI-3S",
+        "glosa": "he permits",
+        "id": "Mat.3.15#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to release: permit"
+      },
+      {
+        "t": "αὐτόν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASM",
+        "glosa": "Him.",
+        "id": "Mat.3.15#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "it/s/he"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po ἀποκριθεὶς, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ἀποκριθεὶς, imiesłów, oddane jako „odpowiadając”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "ὁ Ἰησοῦς oddane jako „Jezus”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "εἶπεν oddane jako „rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "πρὸς oddane jako „do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "αὐτόν oddane jako „niego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἄφες, glosa „do permit”, oddane jako „Zaniechaj”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἄρτι oddane jako „teraz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "γὰρ stoi po οὕτως, a BG stawia „albowiem” przed „tak”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "οὕτως oddane jako „tak”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "πρέπον ἐστὶν, „fitting it is”, skupione w „przystoi”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        11,
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "ἡμῖν, celownik, oddane jako „na nas”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        13,
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "πληρῶσαι, bezokolicznik, rozbity na „abyśmy wypełnili”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "πᾶσαν oddane jako „wszelką”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "δικαιοσύνην oddane jako „sprawiedliwość”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "τότε oddane jako „tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "αὐτόν oddane jako „go”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ἀφίησιν, praesens „he permits”, oddane czasem przeszłym „zaniechał”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Nic nie dodano i nic nie opuszczono. Bezokolicznik πληρῶσαι BG rozbija na „abyśmy wypełnili”, a sens pozwolenia i sprawiedliwości zostaje.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πρέπον ἐστὶν ἡμῖν πληρῶσαι πᾶσαν δικαιοσύνην ma bezokolicznik πληρῶσαι. BG mówi „przystoi na nas, abyśmy wypełnili wszelką sprawiedliwość”.",
+      "tokeny_bg": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "tokeny_zrodla": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A odpovídaje Ježíš, dí jemu: Dopusť tak; neboť tak sluší na nás, abychom plnili všelikou spravedlnost. Tedy dopustil jemu.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

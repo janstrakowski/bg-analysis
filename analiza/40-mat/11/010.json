@@ -1,0 +1,591 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.11.10",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 11,
+    "werset": 10
+  },
+  "tekst_bg": "Boć ten jest, o którym napisano: Oto Ja posyłam Anioła mego przed obliczem twojem, który zgotuje drogę twoję przed tobą.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Boć"
+    },
+    {
+      "i": 1,
+      "t": "ten"
+    },
+    {
+      "i": 2,
+      "t": "jest"
+    },
+    {
+      "i": 3,
+      "t": "o"
+    },
+    {
+      "i": 4,
+      "t": "którym"
+    },
+    {
+      "i": 5,
+      "t": "napisano"
+    },
+    {
+      "i": 6,
+      "t": "Oto"
+    },
+    {
+      "i": 7,
+      "t": "Ja"
+    },
+    {
+      "i": 8,
+      "t": "posyłam"
+    },
+    {
+      "i": 9,
+      "t": "Anioła"
+    },
+    {
+      "i": 10,
+      "t": "mego"
+    },
+    {
+      "i": 11,
+      "t": "przed"
+    },
+    {
+      "i": 12,
+      "t": "obliczem"
+    },
+    {
+      "i": 13,
+      "t": "twojem"
+    },
+    {
+      "i": 14,
+      "t": "który"
+    },
+    {
+      "i": 15,
+      "t": "zgotuje"
+    },
+    {
+      "i": 16,
+      "t": "drogę"
+    },
+    {
+      "i": 17,
+      "t": "twoję"
+    },
+    {
+      "i": 18,
+      "t": "przed"
+    },
+    {
+      "i": 19,
+      "t": "tobą"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.11.10",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.11.10",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "οὗτός",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-NSM",
+        "glosa": "For this",
+        "id": "Mat.11.10#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "γάρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "for",
+        "id": "Mat.11.10#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "for"
+      },
+      {
+        "t": "ἐστιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3S",
+        "glosa": "is [he]",
+        "id": "Mat.11.10#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to be"
+      },
+      {
+        "t": "περὶ",
+        "lemma": "G4012",
+        "forma": "περί",
+        "morph": "PREP",
+        "glosa": "concerning",
+        "id": "Mat.11.10#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "about"
+      },
+      {
+        "t": "οὗ",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-GSM",
+        "glosa": "whom",
+        "id": "Mat.11.10#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "which"
+      },
+      {
+        "t": "γέγραπται",
+        "lemma": "G1125",
+        "forma": "γράφω",
+        "morph": "V-RPI-3S",
+        "glosa": "it has been written:",
+        "id": "Mat.11.10#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to write"
+      },
+      {
+        "t": "ἰδοὺ",
+        "lemma": "G2400",
+        "forma": "ἰδού",
+        "morph": "INJ",
+        "glosa": "Behold",
+        "id": "Mat.11.10#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "look!"
+      },
+      {
+        "t": "ἐγὼ",
+        "lemma": "G1473",
+        "forma": "ἐγώ",
+        "morph": "P-1NS",
+        "glosa": "I myself",
+        "id": "Mat.11.10#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "I/we"
+      },
+      {
+        "t": "ἀποστέλλω",
+        "lemma": "G0649",
+        "forma": "ἀποστέλλω",
+        "morph": "V-PAI-1S",
+        "glosa": "send",
+        "id": "Mat.11.10#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to send"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.11.10#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἄγγελόν",
+        "lemma": "G0032H",
+        "forma": "ἄγγελος",
+        "morph": "N-ASM",
+        "glosa": "messenger",
+        "id": "Mat.11.10#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "angel: messenger"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "of Mine",
+        "id": "Mat.11.10#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "me"
+      },
+      {
+        "t": "πρὸ",
+        "lemma": "G4253",
+        "forma": "πρό",
+        "morph": "PREP",
+        "glosa": "before",
+        "id": "Mat.11.10#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "before"
+      },
+      {
+        "t": "προσώπου",
+        "lemma": "G4383",
+        "forma": "πρόσωπον",
+        "morph": "N-GSN",
+        "glosa": "[the] face",
+        "id": "Mat.11.10#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "face"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of You",
+        "id": "Mat.11.10#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "you"
+      },
+      {
+        "t": "ὃς",
+        "lemma": "G3739",
+        "forma": "ὅς, ἥ",
+        "morph": "R-NSM",
+        "glosa": "who",
+        "id": "Mat.11.10#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "which"
+      },
+      {
+        "t": "κατασκευάσει",
+        "lemma": "G2680",
+        "forma": "κατασκευάζω",
+        "morph": "V-FAI-3S",
+        "glosa": "will prepare",
+        "id": "Mat.11.10#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to prepare"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.11.10#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὁδόν",
+        "lemma": "G3598",
+        "forma": "ὁδός",
+        "morph": "N-ASF",
+        "glosa": "way",
+        "id": "Mat.11.10#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "road"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of You",
+        "id": "Mat.11.10#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἔμπροσθέν",
+        "lemma": "G1715",
+        "forma": "ἔμπροσθεν",
+        "morph": "PREP",
+        "glosa": "before",
+        "id": "Mat.11.10#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "before"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "You.’",
+        "id": "Mat.11.10#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "γάρ stoi na drugim miejscu, a BG wynosi je na początek jako „Boć”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "οὗτός oddane jako „ten”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐστιν oddane jako „jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "περὶ oddane jako „o”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "οὗ oddane jako „którym”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "γέγραπται oddane bezosobowo jako „napisano”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "ἰδοὺ oddane jako „Oto”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐγὼ oddane jako „Ja”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἀποστέλλω oddane jako „posyłam”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9,
+        10
+      ],
+      "uwaga": "τὸν ἄγγελόν oddane jako „Anioła”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "μου oddane jako „mego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "πρὸ oddane jako „przed”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "προσώπου oddane jako „obliczem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "σου oddane jako „twojem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ὃς oddane jako „który”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "κατασκευάσει oddane jako „zgotuje”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17,
+        18
+      ],
+      "uwaga": "τὴν ὁδόν oddane jako „drogę”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "σου oddane jako „twoję”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ἔμπροσθέν oddane jako „przed”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "σου oddane jako „tobą”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każdy token grecki ma odpowiednik. Rodzajniki przy ἄγγελόν i ὁδόν wchodzą w rzeczownik, a γάρ stoi po polsku na początku.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τὸν ἄγγελόν μου BG oddaje jako „Anioła mego”. Glosa tokenu ἄγγελόν brzmi „messenger”, a leksykon „angel: messenger”.",
+      "tokeny_bg": [
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Tentoť jest zajisté, o němž psáno: Aj, já posílám anděla svého před tváří tvou, kterýžto připraví cestu tvou před tebou.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.33",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 33
+  },
+  "tekst_bg": "Słyszeliście zasię, iż rzeczono starym: Nie będziesz krzywo przysięgał, ale oddasz Panu przysięgi twoje;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Słyszeliście"
+    },
+    {
+      "i": 1,
+      "t": "zasię"
+    },
+    {
+      "i": 2,
+      "t": "iż"
+    },
+    {
+      "i": 3,
+      "t": "rzeczono"
+    },
+    {
+      "i": 4,
+      "t": "starym"
+    },
+    {
+      "i": 5,
+      "t": "Nie"
+    },
+    {
+      "i": 6,
+      "t": "będziesz"
+    },
+    {
+      "i": 7,
+      "t": "krzywo"
+    },
+    {
+      "i": 8,
+      "t": "przysięgał"
+    },
+    {
+      "i": 9,
+      "t": "ale"
+    },
+    {
+      "i": 10,
+      "t": "oddasz"
+    },
+    {
+      "i": 11,
+      "t": "Panu"
+    },
+    {
+      "i": 12,
+      "t": "przysięgi"
+    },
+    {
+      "i": 13,
+      "t": "twoje"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.33",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.33",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Πάλιν",
+        "lemma": "G3825",
+        "forma": "πάλιν",
+        "morph": "ADV",
+        "glosa": "Again",
+        "id": "Mat.5.33#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "again"
+      },
+      {
+        "t": "ἠκούσατε",
+        "lemma": "G0191",
+        "forma": "ἀκούω",
+        "morph": "V-AAI-2P",
+        "glosa": "you have heard",
+        "id": "Mat.5.33#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to hear"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.5.33#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "ἐρρέθη",
+        "lemma": "G2046",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-API-3S",
+        "glosa": "it was said",
+        "id": "Mat.5.33#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "to say"
+      },
+      {
+        "t": "τοῖς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DPM",
+        "glosa": "to the",
+        "id": "Mat.5.33#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀρχαίοις",
+        "lemma": "G0744",
+        "forma": "ἀρχαῖος",
+        "morph": "A-DPM",
+        "glosa": "ancients;",
+        "id": "Mat.5.33#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "ancient"
+      },
+      {
+        "t": "οὐκ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "Not",
+        "id": "Mat.5.33#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "no"
+      },
+      {
+        "t": "ἐπιορκήσεις",
+        "lemma": "G1964",
+        "forma": "ἐπιορκέω",
+        "morph": "V-FAI-2S",
+        "glosa": "will you swear falsely,",
+        "id": "Mat.5.33#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "to break an oath"
+      },
+      {
+        "t": "ἀποδώσεις",
+        "lemma": "G0591",
+        "forma": "ἀποδίδωμι",
+        "morph": "V-FAI-2S",
+        "glosa": "you will keep",
+        "id": "Mat.5.33#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to pay"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.5.33#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "then"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "to the",
+        "id": "Mat.5.33#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κυρίῳ",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-DSM-T",
+        "glosa": "Lord",
+        "id": "Mat.5.33#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "τοὺς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-APM",
+        "glosa": "the",
+        "id": "Mat.5.33#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὅρκους",
+        "lemma": "G3727",
+        "forma": "ὅρκος",
+        "morph": "N-APM",
+        "glosa": "oaths",
+        "id": "Mat.5.33#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "oath"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you.",
+        "id": "Mat.5.33#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἠκούσατε oddane jako „Słyszeliście”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Πάλιν stoi przed ἠκούσατε, a BG oddaje je jako „zasię” po „Słyszeliście”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ὅτι oddane jako „iż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἐρρέθη, strona bierna, oddane bezosobowo jako „rzeczono”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τοῖς ἀρχαίοις oddane jako „starym”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "οὐκ oddane jako „Nie”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        7,
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἐπιορκήσεις, glosa „will you swear falsely”, oddane jako „będziesz krzywo przysięgał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "δὲ stoi po ἀποδώσεις, a BG stawia „ale” przed „oddasz”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἀποδώσεις oddane jako „oddasz”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "τῷ κυρίῳ oddane jako „Panu”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τοὺς ὅρκους oddane jako „przysięgi”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "σου oddane przymiotnikiem „twoje”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. ἐπιορκήσεις rozpada się na „będziesz krzywo przysięgał”, a rodzajniki wchodzą w rzeczowniki.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὐκ ἐπιορκήσεις, jeden czas przyszły o glosie „will you swear falsely”, oddane jest jako „Nie będziesz krzywo przysięgał”.",
+      "tokeny_bg": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "tokeny_zrodla": [
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Opět slyšeli jste, že řečeno jest od starých: Nebudeš křivě přisahati, ale splníš Pánu přísahy své.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

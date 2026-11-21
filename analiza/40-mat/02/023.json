@@ -1,0 +1,509 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.2.23",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 2,
+    "werset": 23
+  },
+  "tekst_bg": "A przyszedłszy mieszkał w mieście, które zowią Nazaret, aby się wypełniło, co powiedziano przez proroki: Iż Nazarejczykiem nazwany będzie.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "przyszedłszy"
+    },
+    {
+      "i": 2,
+      "t": "mieszkał"
+    },
+    {
+      "i": 3,
+      "t": "w"
+    },
+    {
+      "i": 4,
+      "t": "mieście"
+    },
+    {
+      "i": 5,
+      "t": "które"
+    },
+    {
+      "i": 6,
+      "t": "zowią"
+    },
+    {
+      "i": 7,
+      "t": "Nazaret"
+    },
+    {
+      "i": 8,
+      "t": "aby"
+    },
+    {
+      "i": 9,
+      "t": "się"
+    },
+    {
+      "i": 10,
+      "t": "wypełniło"
+    },
+    {
+      "i": 11,
+      "t": "co"
+    },
+    {
+      "i": 12,
+      "t": "powiedziano"
+    },
+    {
+      "i": 13,
+      "t": "przez"
+    },
+    {
+      "i": 14,
+      "t": "proroki"
+    },
+    {
+      "i": 15,
+      "t": "Iż"
+    },
+    {
+      "i": 16,
+      "t": "Nazarejczykiem"
+    },
+    {
+      "i": 17,
+      "t": "nazwany"
+    },
+    {
+      "i": 18,
+      "t": "będzie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.2.23",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.2.23",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.2.23#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἐλθὼν",
+        "lemma": "G2064",
+        "forma": "ἔρχομαι",
+        "morph": "V-2AAP-NSM",
+        "glosa": "having come",
+        "id": "Mat.2.23#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to come/go"
+      },
+      {
+        "t": "κατῴκησεν",
+        "lemma": "G2730",
+        "forma": "κατοικέω",
+        "morph": "V-AAI-3S",
+        "glosa": "he dwelt",
+        "id": "Mat.2.23#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to dwell"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "Mat.2.23#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "toward"
+      },
+      {
+        "t": "πόλιν",
+        "lemma": "G4172",
+        "forma": "πόλις",
+        "morph": "N-ASF",
+        "glosa": "a city",
+        "id": "Mat.2.23#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "city"
+      },
+      {
+        "t": "λεγομένην",
+        "lemma": "G3004H",
+        "forma": "λέγω",
+        "morph": "V-PPP-ASF",
+        "glosa": "being named",
+        "id": "Mat.2.23#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to say: call"
+      },
+      {
+        "t": "Ναζαρέτ",
+        "lemma": "G3478",
+        "forma": "Ναζαρέθ, Ναζαρά",
+        "morph": "N-ASF-L",
+        "glosa": "Nazareth,",
+        "id": "Mat.2.23#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "Nazareth"
+      },
+      {
+        "t": "ὅπως",
+        "lemma": "G3704",
+        "forma": "ὅπως",
+        "morph": "CONJ",
+        "glosa": "so that",
+        "id": "Mat.2.23#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "that"
+      },
+      {
+        "t": "πληρωθῇ",
+        "lemma": "G4137",
+        "forma": "πληρόω",
+        "morph": "V-APS-3S",
+        "glosa": "it may be fulfilled",
+        "id": "Mat.2.23#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to fulfill"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "that",
+        "id": "Mat.2.23#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ῥηθὲν",
+        "lemma": "G2046",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-APP-NSN",
+        "glosa": "having been spoken",
+        "id": "Mat.2.23#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to say"
+      },
+      {
+        "t": "διὰ",
+        "lemma": "G1223",
+        "forma": "διά",
+        "morph": "PREP",
+        "glosa": "through",
+        "id": "Mat.2.23#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "through/because of"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPM",
+        "glosa": "the",
+        "id": "Mat.2.23#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "προφητῶν",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-GPM",
+        "glosa": "prophets",
+        "id": "Mat.2.23#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "prophet"
+      },
+      {
+        "t": "ὅτι",
+        "lemma": "G3754G",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.2.23#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "that/since: that"
+      },
+      {
+        "t": "Ναζωραῖος",
+        "lemma": "G3480",
+        "forma": "Ναζωραῖος",
+        "morph": "N-NSM-LG",
+        "glosa": "A Nazarene",
+        "id": "Mat.2.23#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "Nazareth"
+      },
+      {
+        "t": "κληθήσεται",
+        "lemma": "G2564G",
+        "forma": "καλέω",
+        "morph": "V-FPI-3S",
+        "glosa": "He will be called.",
+        "id": "Mat.2.23#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "to call: call"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καί oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἐλθὼν oddane jako „przyszedłszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "κατῴκησεν oddane jako „mieszkał”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "εἰς, glosa „in”, oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "πόλιν oddane jako „mieście”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "λεγομένην, imiesłów bierny „being named”, rozbite na „które zowią”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "Ναζαρέτ oddane jako „Nazaret”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ὅπως oddane jako „aby”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "πληρωθῇ, coniunctivus bierny, oddane jako „się wypełniło”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "τὸ, rodzajnik przy ῥηθέν, oddane jako „co”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ῥηθὲν oddane jako „powiedziano”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "διά oddane jako „przez”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τῶν προφητῶν oddane jako „proroki”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ὅτι oddane jako „Iż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "Ναζωραῖος oddane jako „Nazarejczykiem”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        17,
+        18
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "κληθήσεται, futurum bierne, oddane jako „nazwany będzie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Nic nie dopowiedziano i nic nie opuszczono. Imiesłów λεγομένην jest zdaniem „które zowią”, a reszta proroctwa jest słowna.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πόλιν λεγομένην Ναζαρέτ BG rozbija na „mieście, które zowią Nazaret”.",
+      "tokeny_bg": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Ναζωραῖος κληθήσεται oddane jako „Nazarejczykiem nazwany będzie”.",
+      "tokeny_bg": [
+        16,
+        17,
+        18
+      ],
+      "tokeny_zrodla": [
+        15,
+        16
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A přišed, bydlil v městě, jenž slove Nazarét, aby se naplnilo, což povědíno bylo skrze proroky, že Nazaretský slouti bude.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

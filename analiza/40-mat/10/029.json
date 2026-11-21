@@ -1,0 +1,551 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.29",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 29
+  },
+  "tekst_bg": "Izali dwóch wróbelków za pieniążek nie sprzedają, a wżdy jeden z nich nie upadnie na ziemię oprócz woli Ojca waszego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Izali"
+    },
+    {
+      "i": 1,
+      "t": "dwóch"
+    },
+    {
+      "i": 2,
+      "t": "wróbelków"
+    },
+    {
+      "i": 3,
+      "t": "za"
+    },
+    {
+      "i": 4,
+      "t": "pieniążek"
+    },
+    {
+      "i": 5,
+      "t": "nie"
+    },
+    {
+      "i": 6,
+      "t": "sprzedają"
+    },
+    {
+      "i": 7,
+      "t": "a"
+    },
+    {
+      "i": 8,
+      "t": "wżdy"
+    },
+    {
+      "i": 9,
+      "t": "jeden"
+    },
+    {
+      "i": 10,
+      "t": "z"
+    },
+    {
+      "i": 11,
+      "t": "nich"
+    },
+    {
+      "i": 12,
+      "t": "nie"
+    },
+    {
+      "i": 13,
+      "t": "upadnie"
+    },
+    {
+      "i": 14,
+      "t": "na"
+    },
+    {
+      "i": 15,
+      "t": "ziemię"
+    },
+    {
+      "i": 16,
+      "t": "oprócz"
+    },
+    {
+      "i": 17,
+      "t": "woli"
+    },
+    {
+      "i": 18,
+      "t": "Ojca"
+    },
+    {
+      "i": 19,
+      "t": "waszego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.29",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.29",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "οὐχὶ",
+        "lemma": "G3780",
+        "forma": "οὐχί",
+        "morph": "PRT-N",
+        "glosa": "Surely",
+        "id": "Mat.10.29#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "not!"
+      },
+      {
+        "t": "δύο",
+        "lemma": "G1417",
+        "forma": "δύο",
+        "morph": "A-NUI",
+        "glosa": "two",
+        "id": "Mat.10.29#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "two"
+      },
+      {
+        "t": "στρουθία",
+        "lemma": "G4765",
+        "forma": "στρουθίον",
+        "morph": "N-NPN",
+        "glosa": "sparrows",
+        "id": "Mat.10.29#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "sparrow"
+      },
+      {
+        "t": "ἀσσαρίου",
+        "lemma": "G0787",
+        "forma": "ἀσσάριον",
+        "morph": "N-GSN",
+        "glosa": "for an assarion",
+        "id": "Mat.10.29#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "assarion"
+      },
+      {
+        "t": "πωλεῖται;",
+        "lemma": "G4453",
+        "forma": "πωλέω",
+        "morph": "V-PPI-3S",
+        "glosa": "are sold?",
+        "id": "Mat.10.29#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to sell"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.10.29#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἓν",
+        "lemma": "G1520",
+        "forma": "εἷς",
+        "morph": "A-NSN",
+        "glosa": "one",
+        "id": "Mat.10.29#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "one"
+      },
+      {
+        "t": "ἐξ",
+        "lemma": "G1537",
+        "forma": "ἐκ",
+        "morph": "PREP",
+        "glosa": "of",
+        "id": "Mat.10.29#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "out from"
+      },
+      {
+        "t": "αὐτῶν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-GPN",
+        "glosa": "them",
+        "id": "Mat.10.29#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "οὐ",
+        "lemma": "G3756",
+        "forma": "οὐ",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.10.29#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "no"
+      },
+      {
+        "t": "πεσεῖται",
+        "lemma": "G4098",
+        "forma": "πίπτω",
+        "morph": "V-FDI-3S",
+        "glosa": "will fall",
+        "id": "Mat.10.29#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to collapse"
+      },
+      {
+        "t": "ἐπὶ",
+        "lemma": "G1909",
+        "forma": "ἐπί",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.10.29#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "upon/to/against"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.10.29#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "γῆν",
+        "lemma": "G1093I",
+        "forma": "γῆ",
+        "morph": "N-ASF",
+        "glosa": "ground",
+        "id": "Mat.10.29#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "earth: soil"
+      },
+      {
+        "t": "ἄνευ",
+        "lemma": "G0427",
+        "forma": "ἄνευ",
+        "morph": "PREP",
+        "glosa": "apart from",
+        "id": "Mat.10.29#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "without"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.10.29#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατρὸς",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-GSM-T",
+        "glosa": "Father",
+        "id": "Mat.10.29#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "father"
+      },
+      {
+        "t": "ὑμῶν",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GP",
+        "glosa": "of you!",
+        "id": "Mat.10.29#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0,
+        5
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "rozbicie",
+      "uwaga": "οὐχὶ, pytanie przeczące, oddane przez „Izali” i „nie”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "δύο oddane jako „dwóch”."
+    },
+    {
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "przeklad",
+      "uwaga": "στρουθία w mianowniku oddane dopełniaczem „wróbelków”."
+    },
+    {
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "rozbicie",
+      "uwaga": "ἀσσαρίου, dopełniacz ceny, oddane jako „za pieniążek”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "przeklad",
+      "uwaga": "πωλεῖται;, strona bierna, oddane czynnym „sprzedają”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [],
+      "rola": "dopelnienie",
+      "uwaga": "„wżdy” jest kursywą 1632. καὶ nie ma przy sobie partykuły „jednak”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        6
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἓν oddane jako „jeden”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        7
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐξ oddane jako „z”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "αὐτῶν oddane jako „nich”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "οὐ oddane jako „nie”."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "πεσεῖται oddane jako „upadnie”."
+    },
+    {
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἐπὶ oddane jako „na”."
+    },
+    {
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὴν γῆν oddane jako „ziemię”."
+    },
+    {
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        14
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἄνευ oddane jako „oprócz”."
+    },
+    {
+      "bg": [
+        17
+      ],
+      "zrodlo": [],
+      "rola": "dopelnienie",
+      "uwaga": "„woli” jest kursywą 1632. ἄνευ τοῦ πατρὸς ὑμῶν nie ma rzeczownika „wola”."
+    },
+    {
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "rola": "zlanie",
+      "uwaga": "τοῦ πατρὸς oddane jako „Ojca”."
+    },
+    {
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        17
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὑμῶν oddane jako „waszego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Słowa greckie są pokryte. „wżdy” i „woli” są kursywą 1632: pierwsze przy samym καὶ, drugie przy ἄνευ τοῦ πατρὸς, gdzie nie ma rzeczownika „wola”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "οὐχὶ δύο στρουθία ἀσσαρίου πωλεῖται; BG oddaje jako „Izali dwóch wróbelków za pieniążek nie sprzedają”. Czasownik jest w TR bierny, po polsku czynny.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "„wżdy” i „woli” są kursywą 1632. καὶ nie ma partykuły „jednak”, a ἄνευ τοῦ πατρὸς ὑμῶν nie ma rzeczownika „wola”.",
+      "tokeny_bg": [
+        7,
+        8,
+        16,
+        17,
+        18,
+        19
+      ],
+      "tokeny_zrodla": [
+        5,
+        14,
+        15,
+        16,
+        17
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Zdaliž neprodávají dvou vrabců za malý peníz? a jeden z nich nepadá na zem bez vůle Otce vašeho.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.7.5",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 7,
+    "werset": 5
+  },
+  "tekst_bg": "Obłudniku! wyjmij pierwej balkę z oka twego, tedy przejrzysz, abyś wyjął źdźbło z oka brata twego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Obłudniku"
+    },
+    {
+      "i": 1,
+      "t": "wyjmij"
+    },
+    {
+      "i": 2,
+      "t": "pierwej"
+    },
+    {
+      "i": 3,
+      "t": "balkę"
+    },
+    {
+      "i": 4,
+      "t": "z"
+    },
+    {
+      "i": 5,
+      "t": "oka"
+    },
+    {
+      "i": 6,
+      "t": "twego"
+    },
+    {
+      "i": 7,
+      "t": "tedy"
+    },
+    {
+      "i": 8,
+      "t": "przejrzysz"
+    },
+    {
+      "i": 9,
+      "t": "abyś"
+    },
+    {
+      "i": 10,
+      "t": "wyjął"
+    },
+    {
+      "i": 11,
+      "t": "źdźbło"
+    },
+    {
+      "i": 12,
+      "t": "z"
+    },
+    {
+      "i": 13,
+      "t": "oka"
+    },
+    {
+      "i": 14,
+      "t": "brata"
+    },
+    {
+      "i": 15,
+      "t": "twego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.7.5",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.7.5",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "ὑποκριτά",
+        "lemma": "G5273",
+        "forma": "ὑποκριτής",
+        "morph": "N-VSM",
+        "glosa": "Hypocrite!",
+        "id": "Mat.7.5#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "hypocrite"
+      },
+      {
+        "t": "ἔκβαλε",
+        "lemma": "G1544",
+        "forma": "ἐκβάλλω",
+        "morph": "V-2AAM-2S",
+        "glosa": "do cast out",
+        "id": "Mat.7.5#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to expel"
+      },
+      {
+        "t": "πρῶτον",
+        "lemma": "G4413G",
+        "forma": "πρῶτος",
+        "morph": "A-ASN",
+        "glosa": "first",
+        "id": "Mat.7.5#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "first"
+      },
+      {
+        "t": "ἐκ",
+        "lemma": "G1537",
+        "forma": "ἐκ",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.7.5#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "out from"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.7.5#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὀφθαλμοῦ",
+        "lemma": "G3788",
+        "forma": "ὀφθαλμός",
+        "morph": "N-GSM",
+        "glosa": "eye",
+        "id": "Mat.7.5#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "eye"
+      },
+      {
+        "t": "σοῦ",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.7.5#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "you"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.7.5#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δοκόν",
+        "lemma": "G1385",
+        "forma": "δοκός",
+        "morph": "N-ASF",
+        "glosa": "beam,",
+        "id": "Mat.7.5#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "plank"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.7.5#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "and"
+      },
+      {
+        "t": "τότε",
+        "lemma": "G5119",
+        "forma": "τότε",
+        "morph": "ADV",
+        "glosa": "then",
+        "id": "Mat.7.5#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "then"
+      },
+      {
+        "t": "διαβλέψεις",
+        "lemma": "G1227",
+        "forma": "διαβλέπω",
+        "morph": "V-FAI-2S",
+        "glosa": "you will see clearly",
+        "id": "Mat.7.5#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to see clearly"
+      },
+      {
+        "t": "ἐκβαλεῖν",
+        "lemma": "G1544",
+        "forma": "ἐκβάλλω",
+        "morph": "V-2AAN",
+        "glosa": "to cast out",
+        "id": "Mat.7.5#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "to expel"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.7.5#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κάρφος",
+        "lemma": "G2595",
+        "forma": "κάρφος",
+        "morph": "N-ASN",
+        "glosa": "splinter",
+        "id": "Mat.7.5#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "speck"
+      },
+      {
+        "t": "ἐκ",
+        "lemma": "G1537",
+        "forma": "ἐκ",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.7.5#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "out from"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.7.5#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὀφθαλμοῦ",
+        "lemma": "G3788",
+        "forma": "ὀφθαλμός",
+        "morph": "N-GSM",
+        "glosa": "eye",
+        "id": "Mat.7.5#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "eye"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "of the",
+        "id": "Mat.7.5#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀδελφοῦ",
+        "lemma": "G0080",
+        "forma": "ἀδελφός",
+        "morph": "N-GSM",
+        "glosa": "brother",
+        "id": "Mat.7.5#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "brother"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you.",
+        "id": "Mat.7.5#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "you"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ὑποκριτά oddane jako „Obłudniku”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἔκβαλε oddane jako „wyjmij”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "πρῶτον oddane jako „pierwej”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        7,
+        8
+      ],
+      "uwaga": "τὴν δοκόν stoi po ὀφθαλμοῦ, a BG daje „balkę” przed „z oka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἐκ oddane jako „z”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τοῦ ὀφθαλμοῦ oddane jako „oka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "σοῦ oddane jako „twego”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "καὶ przed τότε nie ma polskiego spójnika. „tedy” oddaje tylko τότε."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "τότε oddane jako „tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "διαβλέψεις oddane jako „przejrzysz”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἐκβαλεῖν, bezokolicznik, oddane jako „abyś wyjął”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13,
+        14
+      ],
+      "uwaga": "τὸ κάρφος oddane jako „źdźbło”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "Drugie ἐκ oddane jako „z”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        16,
+        17
+      ],
+      "uwaga": "τοῦ ὀφθαλμοῦ oddane jako „oka”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "τοῦ ἀδελφοῦ oddane jako „brata”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "σου oddane jako „twego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "καὶ przed τότε zostało opuszczone. Belka τὴν δοκόν jest oddana jako „balkę”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": [
+      9
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Między δοκόν a τότε stoi καὶ, którego BG nie oddaje osobnym spójnikiem.",
+      "tokeny_bg": [
+        3,
+        7
+      ],
+      "tokeny_zrodla": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "τὴν δοκόν BG oddaje jako „balkę”, a ἐκβαλεῖν jako „abyś wyjął”.",
+      "tokeny_bg": [
+        1,
+        3,
+        9,
+        10
+      ],
+      "tokeny_zrodla": [
+        1,
+        7,
+        8,
+        12
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Pokrytče, vyvrz nejprv břevno z oka svého, a tehdy prohlédneš, abys vyňal mrvu z oka bratra tvého.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

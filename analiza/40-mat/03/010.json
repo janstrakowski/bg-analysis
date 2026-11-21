@@ -1,0 +1,628 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.3.10",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 3,
+    "werset": 10
+  },
+  "tekst_bg": "A już i siekiera do korzenia drzew przyłożona jest; wszelkie tedy drzewo, które nie przynosi owocu dobrego, bywa wycięte, i w ogień wrzucone.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "już"
+    },
+    {
+      "i": 2,
+      "t": "i"
+    },
+    {
+      "i": 3,
+      "t": "siekiera"
+    },
+    {
+      "i": 4,
+      "t": "do"
+    },
+    {
+      "i": 5,
+      "t": "korzenia"
+    },
+    {
+      "i": 6,
+      "t": "drzew"
+    },
+    {
+      "i": 7,
+      "t": "przyłożona"
+    },
+    {
+      "i": 8,
+      "t": "jest"
+    },
+    {
+      "i": 9,
+      "t": "wszelkie"
+    },
+    {
+      "i": 10,
+      "t": "tedy"
+    },
+    {
+      "i": 11,
+      "t": "drzewo"
+    },
+    {
+      "i": 12,
+      "t": "które"
+    },
+    {
+      "i": 13,
+      "t": "nie"
+    },
+    {
+      "i": 14,
+      "t": "przynosi"
+    },
+    {
+      "i": 15,
+      "t": "owocu"
+    },
+    {
+      "i": 16,
+      "t": "dobrego"
+    },
+    {
+      "i": 17,
+      "t": "bywa"
+    },
+    {
+      "i": 18,
+      "t": "wycięte"
+    },
+    {
+      "i": 19,
+      "t": "i"
+    },
+    {
+      "i": 20,
+      "t": "w"
+    },
+    {
+      "i": 21,
+      "t": "ogień"
+    },
+    {
+      "i": 22,
+      "t": "wrzucone"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.3.10",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.3.10",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Ἤδη",
+        "lemma": "G2235",
+        "forma": "ἤδη",
+        "morph": "ADV",
+        "glosa": "Already",
+        "id": "Mat.3.10#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "already"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "now",
+        "id": "Mat.3.10#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "then"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.3.10#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.3.10#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἀξίνη",
+        "lemma": "G0513",
+        "forma": "ἀξίνη",
+        "morph": "N-NSF",
+        "glosa": "ax",
+        "id": "Mat.3.10#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "axe"
+      },
+      {
+        "t": "πρὸς",
+        "lemma": "G4314",
+        "forma": "πρός",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.3.10#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "to/with"
+      },
+      {
+        "t": "τὴν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASF",
+        "glosa": "the",
+        "id": "Mat.3.10#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ῥίζαν",
+        "lemma": "G4491",
+        "forma": "ῥίζα",
+        "morph": "N-ASF",
+        "glosa": "root",
+        "id": "Mat.3.10#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "root"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPN",
+        "glosa": "of the",
+        "id": "Mat.3.10#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δένδρων",
+        "lemma": "G1186",
+        "forma": "δένδρον",
+        "morph": "N-GPN",
+        "glosa": "trees",
+        "id": "Mat.3.10#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "tree"
+      },
+      {
+        "t": "κεῖται",
+        "lemma": "G2749",
+        "forma": "κεῖμαι",
+        "morph": "V-PNI-3S",
+        "glosa": "is applied.",
+        "id": "Mat.3.10#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to lay/be appointed"
+      },
+      {
+        "t": "πᾶν",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-NSN",
+        "glosa": "every",
+        "id": "Mat.3.10#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "all"
+      },
+      {
+        "t": "οὖν",
+        "lemma": "G3767",
+        "forma": "οὖν",
+        "morph": "CONJ",
+        "glosa": "therefore",
+        "id": "Mat.3.10#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "therefore/then"
+      },
+      {
+        "t": "δένδρον",
+        "lemma": "G1186",
+        "forma": "δένδρον",
+        "morph": "N-NSN",
+        "glosa": "tree",
+        "id": "Mat.3.10#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "tree"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.3.10#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "not"
+      },
+      {
+        "t": "ποιοῦν",
+        "lemma": "G4160G",
+        "forma": "ποιέω",
+        "morph": "V-PAP-NSN",
+        "glosa": "producing",
+        "id": "Mat.3.10#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to do/make: do"
+      },
+      {
+        "t": "καρπὸν",
+        "lemma": "G2590",
+        "forma": "καρπός",
+        "morph": "N-ASM",
+        "glosa": "fruit",
+        "id": "Mat.3.10#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "fruit"
+      },
+      {
+        "t": "καλὸν",
+        "lemma": "G2570G",
+        "forma": "καλός",
+        "morph": "A-ASM",
+        "glosa": "good",
+        "id": "Mat.3.10#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "good"
+      },
+      {
+        "t": "ἐκκόπτεται",
+        "lemma": "G1581",
+        "forma": "ἐκκόπτω",
+        "morph": "V-PPI-3S",
+        "glosa": "is cut down",
+        "id": "Mat.3.10#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to prevent"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.3.10#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "and"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.3.10#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "toward"
+      },
+      {
+        "t": "πῦρ",
+        "lemma": "G4442",
+        "forma": "πῦρ",
+        "morph": "N-ASN",
+        "glosa": "[the] fire",
+        "id": "Mat.3.10#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "fire"
+      },
+      {
+        "t": "βάλλεται",
+        "lemma": "G0906G",
+        "forma": "βάλλω",
+        "morph": "V-PPI-3S",
+        "glosa": "is thrown.",
+        "id": "Mat.3.10#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "to throw: throw"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "δὲ stoi po Ἤδη, a BG wynosi je na początek jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Ἤδη oddane jako „już”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "ἡ ἀξίνη oddane jako „siekiera”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "πρὸς oddane jako „do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τὴν ῥίζαν oddane jako „korzenia”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "τῶν δένδρων oddane jako „drzew”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        7,
+        8
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "κεῖται, praesens „is applied”, oddane jako „przyłożona jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "πᾶν oddane jako „wszelkie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "οὖν oddane jako „tedy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "δένδρον oddane jako „drzewo”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        12,
+        14
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "ποιοῦν, imiesłów, rozbity na „które ... przynosi”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "μὴ oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "καρπὸν oddane dopełniaczem „owocu”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "καλὸν oddane jako „dobrego”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        17,
+        18
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ἐκκόπτεται, praesens bierne, oddane jako „bywa wycięte”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "εἰς oddane jako „w”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "πῦρ oddane jako „ogień”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "βάλλεται, praesens bierne, oddane imiesłowem „wrzucone”; „bywa” z poprzedniego orzeczenia je obejmuje."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Nic nie dodano i nic nie opuszczono. Imiesłów μὴ ποιοῦν BG rozbija na „które nie przynosi”, a sens ścięcia i ognia zostaje.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "πᾶν οὖν δένδρον μὴ ποιοῦν καρπὸν καλὸν to imiesłów „not producing”. BG ma zdanie „wszelkie tedy drzewo, które nie przynosi owocu dobrego”.",
+      "tokeny_bg": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "tokeny_zrodla": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A jižť jest i sekera k kořenu stromů přiložena. Každý zajisté strom, kterýž nenese ovoce dobrého, vyťat a na oheň uvržen bývá.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

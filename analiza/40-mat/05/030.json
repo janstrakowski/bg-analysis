@@ -1,0 +1,871 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.5.30",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 5,
+    "werset": 30
+  },
+  "tekst_bg": "A jeźliż cię prawa ręka twoja gorszy, odetnij ją, i zarzuć od siebie; albowiem pożyteczniej jest tobie, aby zginął jeden z członków twoich, a wszystko ciało twoje nie było wrzucone do ognia piekielnego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "jeźliż"
+    },
+    {
+      "i": 2,
+      "t": "cię"
+    },
+    {
+      "i": 3,
+      "t": "prawa"
+    },
+    {
+      "i": 4,
+      "t": "ręka"
+    },
+    {
+      "i": 5,
+      "t": "twoja"
+    },
+    {
+      "i": 6,
+      "t": "gorszy"
+    },
+    {
+      "i": 7,
+      "t": "odetnij"
+    },
+    {
+      "i": 8,
+      "t": "ją"
+    },
+    {
+      "i": 9,
+      "t": "i"
+    },
+    {
+      "i": 10,
+      "t": "zarzuć"
+    },
+    {
+      "i": 11,
+      "t": "od"
+    },
+    {
+      "i": 12,
+      "t": "siebie"
+    },
+    {
+      "i": 13,
+      "t": "albowiem"
+    },
+    {
+      "i": 14,
+      "t": "pożyteczniej"
+    },
+    {
+      "i": 15,
+      "t": "jest"
+    },
+    {
+      "i": 16,
+      "t": "tobie"
+    },
+    {
+      "i": 17,
+      "t": "aby"
+    },
+    {
+      "i": 18,
+      "t": "zginął"
+    },
+    {
+      "i": 19,
+      "t": "jeden"
+    },
+    {
+      "i": 20,
+      "t": "z"
+    },
+    {
+      "i": 21,
+      "t": "członków"
+    },
+    {
+      "i": 22,
+      "t": "twoich"
+    },
+    {
+      "i": 23,
+      "t": "a"
+    },
+    {
+      "i": 24,
+      "t": "wszystko"
+    },
+    {
+      "i": 25,
+      "t": "ciało"
+    },
+    {
+      "i": 26,
+      "t": "twoje"
+    },
+    {
+      "i": 27,
+      "t": "nie"
+    },
+    {
+      "i": 28,
+      "t": "było"
+    },
+    {
+      "i": 29,
+      "t": "wrzucone"
+    },
+    {
+      "i": 30,
+      "t": "do"
+    },
+    {
+      "i": 31,
+      "t": "ognia"
+    },
+    {
+      "i": 32,
+      "t": "piekielnego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.5.30",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.5.30",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "Καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.5.30#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "εἰ",
+        "lemma": "G1487G",
+        "forma": "εἰ",
+        "morph": "COND",
+        "glosa": "if",
+        "id": "Mat.5.30#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "if"
+      },
+      {
+        "t": "ἡ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSF",
+        "glosa": "the",
+        "id": "Mat.5.30#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δεξιά",
+        "lemma": "G1188",
+        "forma": "δεξιός",
+        "morph": "A-NSF",
+        "glosa": "right",
+        "id": "Mat.5.30#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "right"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.5.30#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "you"
+      },
+      {
+        "t": "χεὶρ",
+        "lemma": "G5495",
+        "forma": "χείρ",
+        "morph": "N-NSF",
+        "glosa": "hand",
+        "id": "Mat.5.30#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "hand"
+      },
+      {
+        "t": "σκανδαλίζει",
+        "lemma": "G4624",
+        "forma": "σκανδαλίζω",
+        "morph": "V-PAI-3S",
+        "glosa": "causes to stumble",
+        "id": "Mat.5.30#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "to cause to stumble"
+      },
+      {
+        "t": "σε",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2AS",
+        "glosa": "you,",
+        "id": "Mat.5.30#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἔκκοψον",
+        "lemma": "G1581",
+        "forma": "ἐκκόπτω",
+        "morph": "V-AAM-2S",
+        "glosa": "do cut off",
+        "id": "Mat.5.30#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to prevent"
+      },
+      {
+        "t": "αὐτὴν",
+        "lemma": "G0846",
+        "forma": "αὐτός",
+        "morph": "P-ASF",
+        "glosa": "it",
+        "id": "Mat.5.30#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "it/s/he"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.30#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "and"
+      },
+      {
+        "t": "βάλε",
+        "lemma": "G0906G",
+        "forma": "βάλλω",
+        "morph": "V-2AAM-2S",
+        "glosa": "do cast [it]",
+        "id": "Mat.5.30#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to throw: throw"
+      },
+      {
+        "t": "ἀπὸ",
+        "lemma": "G0575",
+        "forma": "ἀπό",
+        "morph": "PREP",
+        "glosa": "from",
+        "id": "Mat.5.30#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "away from"
+      },
+      {
+        "t": "σοῦ",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "you;",
+        "id": "Mat.5.30#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "you"
+      },
+      {
+        "t": "συμφέρει",
+        "lemma": "G4851",
+        "forma": "συμφέρω",
+        "morph": "V-PAI-3S",
+        "glosa": "it is better",
+        "id": "Mat.5.30#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "be profitable"
+      },
+      {
+        "t": "γάρ",
+        "lemma": "G1063",
+        "forma": "γάρ",
+        "morph": "CONJ",
+        "glosa": "indeed",
+        "id": "Mat.5.30#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "for"
+      },
+      {
+        "t": "σοι",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2DS",
+        "glosa": "for you",
+        "id": "Mat.5.30#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "you"
+      },
+      {
+        "t": "ἵνα",
+        "lemma": "G2443",
+        "forma": "ἵνα",
+        "morph": "CONJ",
+        "glosa": "that",
+        "id": "Mat.5.30#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "in order that/to"
+      },
+      {
+        "t": "ἀπόληται",
+        "lemma": "G0622",
+        "forma": "ἀπολλύω",
+        "morph": "V-2AMS-3S",
+        "glosa": "may perish",
+        "id": "Mat.5.30#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "to destroy"
+      },
+      {
+        "t": "ἓν",
+        "lemma": "G1520",
+        "forma": "εἷς",
+        "morph": "A-NSN",
+        "glosa": "one",
+        "id": "Mat.5.30#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "one"
+      },
+      {
+        "t": "τῶν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GPN",
+        "glosa": "of the",
+        "id": "Mat.5.30#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μελῶν",
+        "lemma": "G3196",
+        "forma": "μέλος",
+        "morph": "N-GPN",
+        "glosa": "members",
+        "id": "Mat.5.30#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "member"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.5.30#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "you"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.5.30#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "and"
+      },
+      {
+        "t": "μὴ",
+        "lemma": "G3361",
+        "forma": "μή",
+        "morph": "PRT-N",
+        "glosa": "not",
+        "id": "Mat.5.30#25",
+        "jezyk": "grc",
+        "i": 24,
+        "leksykon": "not"
+      },
+      {
+        "t": "ὅλον",
+        "lemma": "G3650",
+        "forma": "ὅλος",
+        "morph": "A-NSN",
+        "glosa": "all",
+        "id": "Mat.5.30#26",
+        "jezyk": "grc",
+        "i": 25,
+        "leksykon": "all"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "the",
+        "id": "Mat.5.30#27",
+        "jezyk": "grc",
+        "i": 26,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "σῶμά",
+        "lemma": "G4983",
+        "forma": "σῶμα",
+        "morph": "N-NSN",
+        "glosa": "body",
+        "id": "Mat.5.30#28",
+        "jezyk": "grc",
+        "i": 27,
+        "leksykon": "body"
+      },
+      {
+        "t": "σου",
+        "lemma": "G4771",
+        "forma": "σύ",
+        "morph": "P-2GS",
+        "glosa": "of you",
+        "id": "Mat.5.30#29",
+        "jezyk": "grc",
+        "i": 28,
+        "leksykon": "you"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "into",
+        "id": "Mat.5.30#30",
+        "jezyk": "grc",
+        "i": 29,
+        "leksykon": "toward"
+      },
+      {
+        "t": "γέενναν",
+        "lemma": "G1067",
+        "forma": "γέεννα",
+        "morph": "N-ASF-T",
+        "glosa": "hell",
+        "id": "Mat.5.30#31",
+        "jezyk": "grc",
+        "i": 30,
+        "leksykon": "hell: Gehenna"
+      },
+      {
+        "t": "βληθῇ",
+        "lemma": "G0906",
+        "forma": "βληθῇ",
+        "morph": "V-APS-3S",
+        "glosa": "may be cast",
+        "id": "Mat.5.30#32",
+        "jezyk": "grc",
+        "i": 31,
+        "leksykon": "to throw: throw"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "Καὶ oddane jako „A”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "εἰ oddane jako „jeźliż”; -ż jest partykułą emfatyczną."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "σε stoi po σκανδαλίζει, a BG stawia „cię” po „jeźliż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "δεξιά oddane jako „prawa”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        2,
+        5
+      ],
+      "uwaga": "ἡ … χεὶρ oddane jako „ręka”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "σου oddane przymiotnikiem „twoja”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "σκανδαλίζει oddane jako „gorszy”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "ἔκκοψον oddane jako „odetnij”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "αὐτὴν oddane jako „ją”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "βάλε oddane jako „zarzuć”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "ἀπὸ oddane jako „od”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "σοῦ oddane jako „siebie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        15
+      ],
+      "uwaga": "γάρ stoi po συμφέρει, a „albowiem” otwiera zdanie."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        14,
+        15
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "συμφέρει, glosa „it is better”, oddane jako „pożyteczniej jest”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "σοι oddane jako „tobie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "ἵνα oddane jako „aby”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ἀπόληται oddane jako „zginął”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "ἓν oddane jako „jeden”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        20,
+        21
+      ],
+      "zrodlo": [
+        20,
+        21
+      ],
+      "uwaga": "τῶν μελῶν, dopełniacz cząstkowy, oddane jako „z członków”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        22
+      ],
+      "zrodlo": [
+        22
+      ],
+      "uwaga": "σου oddane przymiotnikiem „twoich”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        23
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        24
+      ],
+      "zrodlo": [
+        25
+      ],
+      "uwaga": "ὅλον oddane jako „wszystko”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        25
+      ],
+      "zrodlo": [
+        26,
+        27
+      ],
+      "uwaga": "τὸ σῶμά oddane jako „ciało”; rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        26
+      ],
+      "zrodlo": [
+        28
+      ],
+      "uwaga": "σου oddane przymiotnikiem „twoje”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        27
+      ],
+      "zrodlo": [
+        24
+      ],
+      "uwaga": "μὴ stoi przed ὅλον, a „nie” stoi przed „było”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        28,
+        29
+      ],
+      "zrodlo": [
+        31
+      ],
+      "uwaga": "βληθῇ, strona bierna, oddane jako „było wrzucone”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        30
+      ],
+      "zrodlo": [
+        29
+      ],
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        31,
+        32
+      ],
+      "zrodlo": [
+        30
+      ],
+      "uwaga": "γέενναν, glosa „hell”, oddane jako „ognia piekielnego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_przesuniety",
+    "uzasadnienie": "γέενναν, glosa „hell”, BG nazywa „ognia piekielnego”. Polski przedmiot wrzucenia jest ogniem, a w tokenach tego wersetu nie ma πυρός.",
+    "tokeny_bg": [
+      31,
+      32
+    ],
+    "tokeny_zrodla": [
+      30
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "εἰς γέενναν βληθῇ oddane jest jako „było wrzucone do ognia piekielnego”: rzeczownik o glosie „hell” rozpada się na „ognia piekielnego”.",
+      "tokeny_bg": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "tokeny_zrodla": [
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἡ δεξιά σου χεὶρ oddane jest jako „prawa ręka twoja”; rodzajnik wchodzi w „ręka”.",
+      "tokeny_bg": [
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A pakli ruka tvá pravá horší tě, utniž ji a vrz od sebe; nebo užitečněji jest tobě, aby zahynul raději jeden úd tvůj, nežli by všecko tělo tvé uvrženo bylo do pekelného ohně.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

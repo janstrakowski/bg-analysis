@@ -1,0 +1,483 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.10.22",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 10,
+    "werset": 22
+  },
+  "tekst_bg": "I będziecie w nienawiści u wszystkich dla imienia mego; ale kto wytrwa do końca, ten będzie zbawion.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "będziecie"
+    },
+    {
+      "i": 2,
+      "t": "w"
+    },
+    {
+      "i": 3,
+      "t": "nienawiści"
+    },
+    {
+      "i": 4,
+      "t": "u"
+    },
+    {
+      "i": 5,
+      "t": "wszystkich"
+    },
+    {
+      "i": 6,
+      "t": "dla"
+    },
+    {
+      "i": 7,
+      "t": "imienia"
+    },
+    {
+      "i": 8,
+      "t": "mego"
+    },
+    {
+      "i": 9,
+      "t": "ale"
+    },
+    {
+      "i": 10,
+      "t": "kto"
+    },
+    {
+      "i": 11,
+      "t": "wytrwa"
+    },
+    {
+      "i": 12,
+      "t": "do"
+    },
+    {
+      "i": 13,
+      "t": "końca"
+    },
+    {
+      "i": 14,
+      "t": "ten"
+    },
+    {
+      "i": 15,
+      "t": "będzie"
+    },
+    {
+      "i": 16,
+      "t": "zbawion"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.10.22",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.10.22",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "And",
+        "id": "Mat.10.22#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἔσεσθε",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-FDI-2P",
+        "glosa": "you will be",
+        "id": "Mat.10.22#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to be"
+      },
+      {
+        "t": "μισούμενοι",
+        "lemma": "G3404",
+        "forma": "μισέω",
+        "morph": "V-PPP-NPM",
+        "glosa": "hated",
+        "id": "Mat.10.22#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to hate"
+      },
+      {
+        "t": "ὑπὸ",
+        "lemma": "G5259G",
+        "forma": "ὑπό",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.10.22#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "by/under: by"
+      },
+      {
+        "t": "πάντων",
+        "lemma": "G3956",
+        "forma": "πᾶς",
+        "morph": "A-GPM",
+        "glosa": "all",
+        "id": "Mat.10.22#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "all"
+      },
+      {
+        "t": "διὰ",
+        "lemma": "G1223",
+        "forma": "διά",
+        "morph": "PREP",
+        "glosa": "on account of",
+        "id": "Mat.10.22#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "through/because of"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASN",
+        "glosa": "the",
+        "id": "Mat.10.22#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ὄνομά",
+        "lemma": "G3686",
+        "forma": "ὄνομα",
+        "morph": "N-ASN",
+        "glosa": "name",
+        "id": "Mat.10.22#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "name"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "of Me;",
+        "id": "Mat.10.22#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "me"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the [one]",
+        "id": "Mat.10.22#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "δὲ",
+        "lemma": "G1161",
+        "forma": "δέ",
+        "morph": "CONJ",
+        "glosa": "however",
+        "id": "Mat.10.22#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "then"
+      },
+      {
+        "t": "ὑπομείνας",
+        "lemma": "G5278",
+        "forma": "ὑπομένω",
+        "morph": "V-AAP-NSM",
+        "glosa": "having endured",
+        "id": "Mat.10.22#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "to remain/endure"
+      },
+      {
+        "t": "εἰς",
+        "lemma": "G1519",
+        "forma": "εἰς",
+        "morph": "PREP",
+        "glosa": "to",
+        "id": "Mat.10.22#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "toward"
+      },
+      {
+        "t": "τέλος",
+        "lemma": "G5056",
+        "forma": "τέλος",
+        "morph": "N-ASN",
+        "glosa": "[the] end,",
+        "id": "Mat.10.22#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "goal/tax"
+      },
+      {
+        "t": "οὗτος",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-NSM",
+        "glosa": "he",
+        "id": "Mat.10.22#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "σωθήσεται",
+        "lemma": "G4982",
+        "forma": "σῴζω",
+        "morph": "V-FPI-3S",
+        "glosa": "will be saved.",
+        "id": "Mat.10.22#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "to save"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "rola": "przeklad",
+      "uwaga": "καὶ oddane jako „I”."
+    },
+    {
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "rola": "przeklad",
+      "uwaga": "ἔσεσθε oddane jako „będziecie”."
+    },
+    {
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "rola": "rozbicie",
+      "uwaga": "μισούμενοι, imiesłów bierny „znienawidzeni”, oddane jako „w nienawiści”."
+    },
+    {
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὑπὸ, przyimek sprawcy, oddane jako „u”."
+    },
+    {
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "rola": "przeklad",
+      "uwaga": "πάντων oddane jako „wszystkich”."
+    },
+    {
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "rola": "przeklad",
+      "uwaga": "διὰ oddane jako „dla”."
+    },
+    {
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "rola": "zlanie",
+      "uwaga": "τὸ ὄνομά oddane jako „imienia”. Rodzajnik nie ma osobnego słowa."
+    },
+    {
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        8
+      ],
+      "rola": "przeklad",
+      "uwaga": "μου oddane jako „mego”."
+    },
+    {
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10
+      ],
+      "rola": "przeklad",
+      "uwaga": "δὲ stoi po rodzajniku, a BG wynosi je przed „kto” jako „ale”."
+    },
+    {
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὁ, rodzajnik przy imiesłowie, oddane jako „kto”."
+    },
+    {
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        11
+      ],
+      "rola": "przeklad",
+      "uwaga": "ὑπομείνας, imiesłów aorystu „wytrwawszy”, oddane jako „wytrwa”."
+    },
+    {
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        12
+      ],
+      "rola": "przeklad",
+      "uwaga": "εἰς oddane jako „do”."
+    },
+    {
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        13
+      ],
+      "rola": "przeklad",
+      "uwaga": "τέλος oddane jako „końca”."
+    },
+    {
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "rola": "przeklad",
+      "uwaga": "οὗτος oddane jako „ten”."
+    },
+    {
+      "bg": [
+        15,
+        16
+      ],
+      "zrodlo": [
+        15
+      ],
+      "rola": "rozbicie",
+      "uwaga": "σωθήσεται, przyszły bierny, oddane jako „będzie zbawion”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie ma odpowiednik. „w nienawiści” rozbija imiesłów bierny, a „będzie zbawion” przyszły bierny.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἔσεσθε μισούμενοι ὑπὸ πάντων BG oddaje jako „będziecie w nienawiści u wszystkich”, a ὁ δὲ ὑπομείνας εἰς τέλος, οὗτος σωθήσεται jako „ale kto wytrwa do końca, ten będzie zbawion”.",
+      "tokeny_bg": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "tokeny_zrodla": [
+        1,
+        2,
+        3,
+        4,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A budete v nenávisti všechněm pro jméno mé, ale kdož setrvá až do konce, tenť spasen bude.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "schemat": "1.0.0",
+  "id": "40-mat.2.15",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "40-mat",
+    "rozdzial": 2,
+    "werset": 15
+  },
+  "tekst_bg": "I był tam aż do śmierci Herodowej, aby się wypełniło, co powiedziano od Pana przez proroka, mówiącego: Z Egiptum wezwał syna mego.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "był"
+    },
+    {
+      "i": 2,
+      "t": "tam"
+    },
+    {
+      "i": 3,
+      "t": "aż"
+    },
+    {
+      "i": 4,
+      "t": "do"
+    },
+    {
+      "i": 5,
+      "t": "śmierci"
+    },
+    {
+      "i": 6,
+      "t": "Herodowej"
+    },
+    {
+      "i": 7,
+      "t": "aby"
+    },
+    {
+      "i": 8,
+      "t": "się"
+    },
+    {
+      "i": 9,
+      "t": "wypełniło"
+    },
+    {
+      "i": 10,
+      "t": "co"
+    },
+    {
+      "i": 11,
+      "t": "powiedziano"
+    },
+    {
+      "i": 12,
+      "t": "od"
+    },
+    {
+      "i": 13,
+      "t": "Pana"
+    },
+    {
+      "i": 14,
+      "t": "przez"
+    },
+    {
+      "i": 15,
+      "t": "proroka"
+    },
+    {
+      "i": 16,
+      "t": "mówiącego"
+    },
+    {
+      "i": 17,
+      "t": "Z"
+    },
+    {
+      "i": 18,
+      "t": "Egiptum"
+    },
+    {
+      "i": 19,
+      "t": "wezwał"
+    },
+    {
+      "i": 20,
+      "t": "syna"
+    },
+    {
+      "i": 21,
+      "t": "mego"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Mat.2.15",
+    "adres_hebrajski": null,
+    "adres_angielski": "Mat.2.15",
+    "rozjazd_numeracji": false,
+    "tokeny": [
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Mat.2.15#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "and"
+      },
+      {
+        "t": "ἦν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-IAI-3S",
+        "glosa": "he was remaining",
+        "id": "Mat.2.15#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ἐκεῖ",
+        "lemma": "G1563",
+        "forma": "ἐκεῖ",
+        "morph": "ADV",
+        "glosa": "there",
+        "id": "Mat.2.15#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "there"
+      },
+      {
+        "t": "ἕως",
+        "lemma": "G2193",
+        "forma": "ἕως",
+        "morph": "PREP",
+        "glosa": "until",
+        "id": "Mat.2.15#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "until"
+      },
+      {
+        "t": "τῆς",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSF",
+        "glosa": "the",
+        "id": "Mat.2.15#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "τελευτῆς",
+        "lemma": "G5054",
+        "forma": "τελευτή",
+        "morph": "N-GSF",
+        "glosa": "death",
+        "id": "Mat.2.15#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "death"
+      },
+      {
+        "t": "Ἡρῴδου",
+        "lemma": "G2264G",
+        "forma": "Ἡρώδης",
+        "morph": "N-GSM-P",
+        "glosa": "of Herod,",
+        "id": "Mat.2.15#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "Herod"
+      },
+      {
+        "t": "ἵνα",
+        "lemma": "G2443",
+        "forma": "ἵνα",
+        "morph": "CONJ",
+        "glosa": "so that",
+        "id": "Mat.2.15#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "in order that/to"
+      },
+      {
+        "t": "πληρωθῇ",
+        "lemma": "G4137",
+        "forma": "πληρόω",
+        "morph": "V-APS-3S",
+        "glosa": "it may be fulfilled",
+        "id": "Mat.2.15#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to fulfill"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "that",
+        "id": "Mat.2.15#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ῥηθὲν",
+        "lemma": "G2046",
+        "forma": "ἔπω, ἐρῶ, εἶπον",
+        "morph": "V-APP-NSN",
+        "glosa": "having been spoken",
+        "id": "Mat.2.15#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ὑπὸ",
+        "lemma": "G5259G",
+        "forma": "ὑπό",
+        "morph": "PREP",
+        "glosa": "by",
+        "id": "Mat.2.15#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "by/under: by"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.2.15#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "κυρίου",
+        "lemma": "G2962G",
+        "forma": "κύριος",
+        "morph": "N-GSM-T",
+        "glosa": "Lord",
+        "id": "Mat.2.15#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "lord: God"
+      },
+      {
+        "t": "διὰ",
+        "lemma": "G1223",
+        "forma": "διά",
+        "morph": "PREP",
+        "glosa": "through",
+        "id": "Mat.2.15#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "through/because of"
+      },
+      {
+        "t": "τοῦ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-GSM",
+        "glosa": "the",
+        "id": "Mat.2.15#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "προφήτου",
+        "lemma": "G4396",
+        "forma": "προφήτης",
+        "morph": "N-GSM",
+        "glosa": "prophet",
+        "id": "Mat.2.15#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "prophet"
+      },
+      {
+        "t": "λέγοντος",
+        "lemma": "G3004G",
+        "forma": "λέγω",
+        "morph": "V-PAP-GSM",
+        "glosa": "saying;",
+        "id": "Mat.2.15#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "to say"
+      },
+      {
+        "t": "ἐξ",
+        "lemma": "G1537",
+        "forma": "ἐκ",
+        "morph": "PREP",
+        "glosa": "Out",
+        "id": "Mat.2.15#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "out from"
+      },
+      {
+        "t": "Αἰγύπτου",
+        "lemma": "G0125",
+        "forma": "Αἴγυπτος",
+        "morph": "N-GSF-L",
+        "glosa": "of Egypt",
+        "id": "Mat.2.15#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "Egypt"
+      },
+      {
+        "t": "ἐκάλεσα",
+        "lemma": "G2564G",
+        "forma": "καλέω",
+        "morph": "V-AAI-1S",
+        "glosa": "I called",
+        "id": "Mat.2.15#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "to call: call"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "the",
+        "id": "Mat.2.15#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "υἱόν",
+        "lemma": "G5207",
+        "forma": "υἱός",
+        "morph": "N-ASM",
+        "glosa": "Son",
+        "id": "Mat.2.15#23",
+        "jezyk": "grc",
+        "i": 22,
+        "leksykon": "son"
+      },
+      {
+        "t": "μου",
+        "lemma": "G3165",
+        "forma": "ἐγώ",
+        "morph": "P-1GS",
+        "glosa": "of mine.",
+        "id": "Mat.2.15#24",
+        "jezyk": "grc",
+        "i": 23,
+        "leksykon": "me"
+      }
+    ]
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "καί oddane jako „I”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "ἦν oddane jako „był”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἐκεῖ oddane jako „tam”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "ἕως oddane jako „aż do”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4,
+        5
+      ],
+      "uwaga": "τῆς τελευτῆς oddane jako „śmierci”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "Ἡρῴδου oddane przymiotnikiem „Herodowej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "ἵνα oddane jako „aby”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "πληρωθῇ, coniunctivus bierny, oddane jako „się wypełniło”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "τὸ, rodzajnik przy ῥηθέν, oddane jako „co”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "ῥηθὲν oddane jako „powiedziano”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "ὑπὸ oddane jako „od”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        12,
+        13
+      ],
+      "uwaga": "τοῦ κυρίου oddane jako „Pana”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "διά oddane jako „przez”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "τοῦ προφήτου oddane jako „proroka”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "λέγοντος oddane jako „mówiącego”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        18
+      ],
+      "uwaga": "ἐξ oddane jako „Z”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        18
+      ],
+      "zrodlo": [
+        19
+      ],
+      "uwaga": "Αἰγύπτου oddane jako „Egiptum”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        19
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ἐκάλεσα, 1. osoba „I called”, oddane jako „wezwał”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        20
+      ],
+      "zrodlo": [
+        21,
+        22
+      ],
+      "uwaga": "τὸν υἱόν oddane jako „syna”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        21
+      ],
+      "zrodlo": [
+        23
+      ],
+      "uwaga": "μου oddane jako „mego”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_przesuniety",
+    "uzasadnienie": "Pokrycie słów jest pełne, ale ἐκάλεσα jest 1. osobą „I called”, a „wezwał” jest 3. osobą.",
+    "tokeny_bg": [
+      19
+    ],
+    "tokeny_zrodla": [
+      20
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "ἐκάλεσα to aoryst 1. osoby liczby pojedynczej, glosa „I called”. BG daje „wezwał”.",
+      "tokeny_bg": [
+        19
+      ],
+      "tokeny_zrodla": [
+        20
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Cytat zostaje mową Pana: ὑπὸ τοῦ κυρίου διὰ τοῦ προφήτου λέγοντος, a polski czasownik nie jest już 1. osobą.",
+      "tokeny_bg": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        19
+      ],
+      "tokeny_zrodla": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        20
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A byl tam až do smrti Herodesovy, aby se naplnilo povědění Páně skrze proroka, řkoucího: Z Egypta povolal jsem Syna svého.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}
