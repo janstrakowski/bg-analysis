@@ -1,0 +1,20 @@
+{% extends "baza.html" %}
+{% block tresc %}
+  <nav class="okruszek" aria-label="Położenie">
+    <a href="{{ korzen }}index.html">Księgi</a>
+    <span aria-hidden="true">/</span>
+    <span>{{ ksiega.nazwa }}</span>
+  </nav>
+  <h1>{{ ksiega.nazwa }}</h1>
+  <p class="cicho">{{ ksiega.skrot }} · {{ ksiega.zanalizowanych }} z {{ ksiega.wersetow }} wersetów ma analizę</p>
+  <ol class="siatka">
+    {% for rozdzial in rozdzialy %}
+    <li>
+      <a href="{{ korzen }}k/{{ ksiega.kod }}/{{ "%02d"|format(rozdzial.numer) }}.html">
+        <span class="nr">{{ rozdzial.numer }}</span>
+        <span class="stan">{{ rozdzial.zanalizowanych }}/{{ rozdzial.wersetow }}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ol>
+{% endblock %}

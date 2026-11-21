@@ -1,0 +1,662 @@
+[
+  {
+    "kod": "01-gen",
+    "step": "Gen",
+    "osis": "Gen",
+    "nazwa": "Rodzaju",
+    "skrot": "Rdz",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Na początku stworzył Bóg niebo i ziemię."
+  },
+  {
+    "kod": "02-exo",
+    "step": "Exo",
+    "osis": "Exod",
+    "nazwa": "Wyjścia",
+    "skrot": "Wj",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Teć są imiona synów Izraelskich, którzy weszli do Egiptu z Jakóbem; każdy z domem swym weszli:"
+  },
+  {
+    "kod": "03-lev",
+    "step": "Lev",
+    "osis": "Lev",
+    "nazwa": "Kapłańska",
+    "skrot": "Kpł",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "I wezwał Pan Mojżesza, i rzekł do niego z namiotu zgromadzenia, mówiąc:"
+  },
+  {
+    "kod": "04-num",
+    "step": "Num",
+    "osis": "Num",
+    "nazwa": "Liczb",
+    "skrot": "Lb",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "I mówił Pan do Mojżesza na puszczy Synaj, w namiocie zgromadzenia pierwszego dnia miesiąca wtórego, roku wtórego, po wyjściu ich z ziemi Egipskiej, temi słowy:"
+  },
+  {
+    "kod": "05-deu",
+    "step": "Deu",
+    "osis": "Deut",
+    "nazwa": "Powtórzonego Prawa",
+    "skrot": "Pwt",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Teć są słowa, które mówił Mojżesz do wszystkiego Izraela przed Jordanem na puszczy, na równinie przeciw morzu czerwonemu, między Faran, i między Tofel, i Laban, i Haserot, i Dyzahab."
+  },
+  {
+    "kod": "06-jos",
+    "step": "Jos",
+    "osis": "Josh",
+    "nazwa": "Jozuego",
+    "skrot": "Joz",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "I stało się po śmierci Mojżesza, sługi Pańskiego, że mówił Pan do Jozuego syna Nunowego, sługi Mojżeszowego, i rzekł:"
+  },
+  {
+    "kod": "07-jud",
+    "step": "Jdg",
+    "osis": "Judg",
+    "nazwa": "Sędziów",
+    "skrot": "Sdz",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "I stało się po śmierci Jozuego, iż pytali synowie Izraelscy Pana, mówiąc: Któż z nas wprzód pójdzie przeciw Chananejczykowi, aby walczył z nim?"
+  },
+  {
+    "kod": "08-rut",
+    "step": "Rut",
+    "osis": "Ruth",
+    "nazwa": "Rut",
+    "skrot": "Rt",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "I stało się za onych czasów, kiedy sędziowie sądzili, był głód w ziemi; i poszedł niektóry mąż z Betlehem Juda na mieszkanie do ziemi Moabskiej z żoną swoją i z dwoma synami swymi."
+  },
+  {
+    "kod": "09-reg",
+    "step": "1Sa",
+    "osis": "1Sam",
+    "nazwa": "1 Samuelowa",
+    "skrot": "1Sm",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Był niektóry mąż z Ramataim Sofim, z góry Efraim, któremu było imię Elkana, syn Jerohama, syna Elihu, syna Tuhu, syna Suf, Efratejczyka."
+  },
+  {
+    "kod": "10-reg",
+    "step": "2Sa",
+    "osis": "2Sam",
+    "nazwa": "2 Samuelowa",
+    "skrot": "2Sm",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "I stało się po śmierci Saulowej, gdy się Dawid wrócił od porażki Amalekitów, że zamieszkał Dawid w Sycelegu przez dwa dni."
+  },
+  {
+    "kod": "11-reg",
+    "step": "1Ki",
+    "osis": "1Kgs",
+    "nazwa": "1 Królewska",
+    "skrot": "1Krl",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "A gdy się król Dawid zstarzał, i zaszedł w lata, choć go odziewano szatami, przecię się zagrzać nie mógł."
+  },
+  {
+    "kod": "12-reg",
+    "step": "2Ki",
+    "osis": "2Kgs",
+    "nazwa": "2 Królewska",
+    "skrot": "2Krl",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "I odstąpił Moab od Izraela po śmierci Achabowej."
+  },
+  {
+    "kod": "13-par",
+    "step": "1Ch",
+    "osis": "1Chr",
+    "nazwa": "1 Kronik",
+    "skrot": "1Krn",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Adam, Set, Enos."
+  },
+  {
+    "kod": "14-par",
+    "step": "2Ch",
+    "osis": "2Chr",
+    "nazwa": "2 Kronik",
+    "skrot": "2Krn",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Zmocnił się tedy Salomon, syn Dawidowy, w królestwie swem, a Pan, Bóg jego był z nim, i uwielbił go wysoce."
+  },
+  {
+    "kod": "15-esd",
+    "step": "Ezr",
+    "osis": "Ezra",
+    "nazwa": "Ezdrasza",
+    "skrot": "Ezd",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Roku pierwszego Cyrusa, króla Perskiego, aby się wypełniło słowo Pańskie powiedziane przez usta Jeremijaszowe, wzbudził Pan ducha Cyrusa, króla Perskiego, że kazał obwołać i rozpisać po wszystkiem królestwie swojem, mówiąc:"
+  },
+  {
+    "kod": "16-esd",
+    "step": "Neh",
+    "osis": "Neh",
+    "nazwa": "Nehemiasza",
+    "skrot": "Ne",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Słowa Nehemijasza, syna Hachalijaszowego. I stało się miesiąca Chyslew, roku dwudziestego (Aswerusa króla) gdym był na zamku w Susan,"
+  },
+  {
+    "kod": "17-est",
+    "step": "Est",
+    "osis": "Esth",
+    "nazwa": "Estery",
+    "skrot": "Est",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "I stało się za dni Aswerusa, (który Aswerus królował od Indyi aż do Murzyńskiej ziemi, nad stem i dwudziestą i siedmią krain.)"
+  },
+  {
+    "kod": "18-iob",
+    "step": "Job",
+    "osis": "Job",
+    "nazwa": "Joba",
+    "skrot": "Hi",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Był mąż w ziemi Uz, imieniem Ijob; a ten mąż był doskonały, i szczery, i bojący się Boga, a odstępujący od złego."
+  },
+  {
+    "kod": "19-psa",
+    "step": "Psa",
+    "osis": "Ps",
+    "nazwa": "Psalmów",
+    "skrot": "Ps",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Błogosławiony mąż, który nie chodzi w radzie niepobożnych, a na drodze grzesznych nie stoi, i na stolicy naśmiewców nie siedzi;"
+  },
+  {
+    "kod": "20-pro",
+    "step": "Pro",
+    "osis": "Prov",
+    "nazwa": "Przysłów",
+    "skrot": "Prz",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Przypowieści Salomona, syna Dawidowego, króla Izraelskiego,"
+  },
+  {
+    "kod": "21-ecc",
+    "step": "Ecc",
+    "osis": "Eccl",
+    "nazwa": "Kaznodziei",
+    "skrot": "Kzn",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Słowa kaznodziei, syna Dawidowego, króla w Jeruzalemie."
+  },
+  {
+    "kod": "22-can",
+    "step": "Sng",
+    "osis": "Song",
+    "nazwa": "Pieśń nad Pieśniami",
+    "skrot": "Pnp",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Pieśń najprzedniejsza z pieśni Salomonowych."
+  },
+  {
+    "kod": "23-esa",
+    "step": "Isa",
+    "osis": "Isa",
+    "nazwa": "Izajasza",
+    "skrot": "Iz",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Widzenie Izajasza, syna Amosowego, które widział nad Judą i nad Jeruzalemem, za dni Ozeasza, Joatama, Achaza, i Ezechijasza, królów Judzkich."
+  },
+  {
+    "kod": "24-ier",
+    "step": "Jer",
+    "osis": "Jer",
+    "nazwa": "Jeremiasza",
+    "skrot": "Jr",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Słowa Jeremijasza, syna Helkijaszowego, z kapłanów, którzy byli w Anatot, w ziemi Benjamin."
+  },
+  {
+    "kod": "25-lam",
+    "step": "Lam",
+    "osis": "Lam",
+    "nazwa": "Lamentacje",
+    "skrot": "Lm",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "W Biblii siedmdziesięciu tłómaczów, ta księga święta tak się zaczyna. I stało się, gdy Izrael pojmany był, a Jeruzalem spustoszone, że Jeremijasz siedział płacząc, i narzekał narzekaniem takiem nad Jeruzalemem, a rzekł: Ach miasto tak ludne jakoż siedzi samotne! stało się jako wdowa; zacne między narodami, przednie między krainami stało się hołdowne."
+  },
+  {
+    "kod": "26-eze",
+    "step": "Ezk",
+    "osis": "Ezek",
+    "nazwa": "Ezechiela",
+    "skrot": "Ez",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "I stało się trzydziestego roku, miesiąca czwartego, piątego dnia tegoż miesiąca, gdym był w pośrodku pojmanych u rzeki Chebar, że się otworzyły niebiosa, i widziałem widzenie Boże."
+  },
+  {
+    "kod": "27-dan",
+    "step": "Dan",
+    "osis": "Dan",
+    "nazwa": "Daniela",
+    "skrot": "Dn",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Roku trzeciego królowania Joakima, króla Judzkiego, przyciągnął Nabuchodonozor, król Babiloński, do Jeruzalemu, i obległ je."
+  },
+  {
+    "kod": "28-ose",
+    "step": "Hos",
+    "osis": "Hos",
+    "nazwa": "Ozeasza",
+    "skrot": "Oz",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Słowo Pańskie, które się stało do Ozeasza, syna Berowego, za dni Uzyjasza, Joatama, Achaza, Ezechyjasza, królów Judzkich, i za dni Jeroboama, syna Joazowego, króla Izraelskiego."
+  },
+  {
+    "kod": "29-ioe",
+    "step": "Jol",
+    "osis": "Joel",
+    "nazwa": "Joela",
+    "skrot": "Jl",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Słowo Pańskie, które się stało do Joela syna Petuelowego."
+  },
+  {
+    "kod": "30-amo",
+    "step": "Amo",
+    "osis": "Amos",
+    "nazwa": "Amosa",
+    "skrot": "Am",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Słowa Amosa, który był między pasterzami z Tekua, które widział o Izraelu za dni Uzyjasza, króla Judzkiego, i za dni Jeroboama, syna Joazowego, króla Izraelskiego, dwa lata przed trzęsieniem ziemi."
+  },
+  {
+    "kod": "31-abd",
+    "step": "Oba",
+    "osis": "Obad",
+    "nazwa": "Abdiasza",
+    "skrot": "Abd",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Widzenie Abdyjaszowe. Tak mówi panujący Pan o ziemi Edomskiej: Słyszeliśmy wieść od Pana i od posła wysłanego do narodów: Ruszcie się, a powstańmy przeciwko niemu ku bitwie,"
+  },
+  {
+    "kod": "32-ion",
+    "step": "Jon",
+    "osis": "Jonah",
+    "nazwa": "Jonasza",
+    "skrot": "Jon",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "I stało się słowo Pańskie do Jonasza, syna Amaty, mówiąc:"
+  },
+  {
+    "kod": "33-mic",
+    "step": "Mic",
+    "osis": "Mic",
+    "nazwa": "Micheasza",
+    "skrot": "Mi",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Słowo Pańskie, które się stało do Micheasza Morastytczyka za dni Joatama, Achaza, i Ezechyjasza, królów Judzkich, które w widzeniu słyszał o Samaryi i o Jeruzalemie."
+  },
+  {
+    "kod": "34-nah",
+    "step": "Nam",
+    "osis": "Nah",
+    "nazwa": "Nahuma",
+    "skrot": "Na",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Brzemię Niniwy. Księgi widzenia Nahuma Elkosejczyka."
+  },
+  {
+    "kod": "35-hab",
+    "step": "Hab",
+    "osis": "Hab",
+    "nazwa": "Habakuka",
+    "skrot": "Ha",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Brzemię, które widział prorok Abakuk."
+  },
+  {
+    "kod": "36-sop",
+    "step": "Zep",
+    "osis": "Zeph",
+    "nazwa": "Sofoniasza",
+    "skrot": "So",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Słowo Pańskie, które się stało do Sofonijasza, syna Chusego, syna Godolijaszowego, syna Amaryjaszowego, syna Ezechyjaszowego, za dni Jozyjasza, syna Amonowego, króla Judzkiego."
+  },
+  {
+    "kod": "37-agg",
+    "step": "Hag",
+    "osis": "Hag",
+    "nazwa": "Aggeusza",
+    "skrot": "Ag",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Roku wtórego Daryjusza króla, miesiąca szóstego, dnia pierwszego tegoż miesiąca, stało się słowo Pańskie przez Aggieusza proroka do Zorobabela, syna Salatyjelowego, książęcia Judzkiego, i do Jesuego, syna Jozedekowego, kapłana najwyższego, mówiąc:"
+  },
+  {
+    "kod": "38-zac",
+    "step": "Zec",
+    "osis": "Zech",
+    "nazwa": "Zachariasza",
+    "skrot": "Za",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Miesiąca ósmego roku wtórego Daryjusza stało się słowo Pańskie do mnie Zacharyjasza, syna Barachyjaszowego, syna Iddowego, proroka, mówiąc:"
+  },
+  {
+    "kod": "39-mal",
+    "step": "Mal",
+    "osis": "Mal",
+    "nazwa": "Malachiasza",
+    "skrot": "Ml",
+    "testament": "ST",
+    "zrodlo": "MT",
+    "incipit": "Brzemię słowa Pańskiego przeciwko Izraelowi, przez Malachyjasza."
+  },
+  {
+    "kod": "40-mat",
+    "step": "Mat",
+    "osis": "Matt",
+    "nazwa": "Mateusza",
+    "skrot": "Mt",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Księga o rodzie Jezusa Chrystusa, syna Dawidowego, syna Abrahamowego."
+  },
+  {
+    "kod": "41-mar",
+    "step": "Mrk",
+    "osis": "Mark",
+    "nazwa": "Marka",
+    "skrot": "Mk",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Ten jest początek Ewangielii Jezusa Chrystusa, Syna Bożego."
+  },
+  {
+    "kod": "42-luc",
+    "step": "Luk",
+    "osis": "Luke",
+    "nazwa": "Łukasza",
+    "skrot": "Łk",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Ponieważ wiele się ich podjęło, sporządzić historyję o tych sprawach, o których my pewną wiadomość mamy;"
+  },
+  {
+    "kod": "43-joh",
+    "step": "Jhn",
+    "osis": "John",
+    "nazwa": "Jana",
+    "skrot": "J",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Na początku było Słowo, a ono Słowo było u Boga, a Bogiem było ono Słowo."
+  },
+  {
+    "kod": "44-act",
+    "step": "Act",
+    "osis": "Acts",
+    "nazwa": "Dzieje Apostolskie",
+    "skrot": "Dz",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Pierwsze wprawdzie księgi napisałem, o Teofile! o wszystkiem, co począł Jezus i czynić i uczyć."
+  },
+  {
+    "kod": "45-rom",
+    "step": "Rom",
+    "osis": "Rom",
+    "nazwa": "Rzymian",
+    "skrot": "Rz",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Paweł, sługa Jezusa Chrystusa, powołany Apostoł, odłączony ku opowiadaniu Ewangielii Bożej;"
+  },
+  {
+    "kod": "46-cor",
+    "step": "1Co",
+    "osis": "1Cor",
+    "nazwa": "1 Koryntian",
+    "skrot": "1Kor",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Paweł, powołany Apostoł Jezusa Chrystusa przez wolę Bożą, i Sostenes brat."
+  },
+  {
+    "kod": "47-cor",
+    "step": "2Co",
+    "osis": "2Cor",
+    "nazwa": "2 Koryntian",
+    "skrot": "2Kor",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Paweł, Apostoł Jezusa Chrystusa przez wolę Bożą, i Tymoteusz brat, zborowi Bożemu, który jest w Koryncie, ze wszystkimi świętymi, którzy są we wszystkiej Achai."
+  },
+  {
+    "kod": "48-gal",
+    "step": "Gal",
+    "osis": "Gal",
+    "nazwa": "Galatów",
+    "skrot": "Ga",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Paweł, Apostoł (nie od ludzi, ani przez człowieka, ale przez Jezusa Chrystusa i Boga Ojca, który go wzbudził od umarłych;)"
+  },
+  {
+    "kod": "49-eph",
+    "step": "Eph",
+    "osis": "Eph",
+    "nazwa": "Efezjan",
+    "skrot": "Ef",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Paweł, Apostoł Jezusa Chrystusa przez wolę Bożą, świętym, którzy są w Efezie, i wiernym w Chrystusie Jezusie."
+  },
+  {
+    "kod": "50-phi",
+    "step": "Php",
+    "osis": "Phil",
+    "nazwa": "Filipian",
+    "skrot": "Flp",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Paweł i Tymoteusz, słudzy Jezusa Chrystusa, wszystkim świętym w Chrystusie Jezusie, którzy są w mieście Filipis, z biskupami i z dyjakonami."
+  },
+  {
+    "kod": "51-col",
+    "step": "Col",
+    "osis": "Col",
+    "nazwa": "Kolosan",
+    "skrot": "Kol",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Paweł, Apostoł Jezusa Chrystusa przez wolę Bożą, i Tymoteusz brat,"
+  },
+  {
+    "kod": "52-the",
+    "step": "1Th",
+    "osis": "1Thess",
+    "nazwa": "1 Tesaloniczan",
+    "skrot": "1Tes",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Paweł i Sylwan i Tymoteusz zborowi Tesaloniceńskiemu w Bogu Ojcu i w Panu Jezusie Chrystusie. Łaska wam i pokój niech będzie od Boga Ojca naszego, i od Pana Jezusa Chrystusa."
+  },
+  {
+    "kod": "53-the",
+    "step": "2Th",
+    "osis": "2Thess",
+    "nazwa": "2 Tesaloniczan",
+    "skrot": "2Tes",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Paweł i Sylwan i Tymoteusz zborowi Tesaloniceńskiemu w Bogu, Ojcu naszym, i w Panu Jezusie Chrystusie."
+  },
+  {
+    "kod": "54-tim",
+    "step": "1Ti",
+    "osis": "1Tim",
+    "nazwa": "1 Tymoteusza",
+    "skrot": "1Tm",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Paweł, Apostoł Jezusa Chrystusa podług rozrządzenia Boga, zbawiciela naszego, i Pana Jezusa Chrystusa, który jest nadzieja nasza,"
+  },
+  {
+    "kod": "55-tim",
+    "step": "2Ti",
+    "osis": "2Tim",
+    "nazwa": "2 Tymoteusza",
+    "skrot": "2Tm",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Paweł, apostoł Jezusa Chrystusa przez wolę Bożą, według obietnicy żywota onego, który jest w Chrystusie Jezusie;"
+  },
+  {
+    "kod": "56-tit",
+    "step": "Tit",
+    "osis": "Titus",
+    "nazwa": "Tytusa",
+    "skrot": "Tt",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Paweł, sługa Boży i Apostoł Jezusa Chrystusa według wiary wybranych Bożych i znajomości prawdy, która jest według pobożności,"
+  },
+  {
+    "kod": "57-phi",
+    "step": "Phm",
+    "osis": "Phlm",
+    "nazwa": "Filemona",
+    "skrot": "Flm",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Paweł, więzień Chrystusa Jezusa i Tymoteusz brat, Filemonowi miłemu a pomocnikowi naszemu,"
+  },
+  {
+    "kod": "58-heb",
+    "step": "Heb",
+    "osis": "Heb",
+    "nazwa": "Hebrajczyków",
+    "skrot": "Hbr",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Częstokroć i wieloma sposobami mawiał niekiedy Bóg ojcom przez proroków;"
+  },
+  {
+    "kod": "59-jac",
+    "step": "Jas",
+    "osis": "Jas",
+    "nazwa": "Jakuba",
+    "skrot": "Jk",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Jakób, sługa Boży i Pana Jezusa Chrystusa, dwunastu pokoleniom, które są w rozproszeniu, zdrowia życzy."
+  },
+  {
+    "kod": "60-pet",
+    "step": "1Pe",
+    "osis": "1Pet",
+    "nazwa": "1 Piotra",
+    "skrot": "1P",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Piotr, Apostoł Jezusa Chrystusa, przychodniom rozproszonym w Poncie, w Galacyi, w Kapadocyi, w Azyi, i w Bitynii;"
+  },
+  {
+    "kod": "61-pet",
+    "step": "2Pe",
+    "osis": "2Pet",
+    "nazwa": "2 Piotra",
+    "skrot": "2P",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Szymon Piotr, sługa i Apostoł Jezusa Chrystusa, tym, którzy równie z nami kosztownej wiary dostali przez sprawiedliwość Boga naszego i zbawiciela naszego Jezusa Chrystusa."
+  },
+  {
+    "kod": "62-joh",
+    "step": "1Jn",
+    "osis": "1John",
+    "nazwa": "1 Jana",
+    "skrot": "1J",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Co było od początku, cośmy słyszeli, cośmy oczyma naszemi widzieli, i na cośmy patrzyli, i czego się ręce nasze dotykały, o Słowie żywota;"
+  },
+  {
+    "kod": "63-joh",
+    "step": "2Jn",
+    "osis": "2John",
+    "nazwa": "2 Jana",
+    "skrot": "2J",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Starszy wybranej pani, i dziatkom jej, które ja miłuję w prawdzie, a nie ja tylko, ale i wszyscy, którzy poznali prawdę,"
+  },
+  {
+    "kod": "64-joh",
+    "step": "3Jn",
+    "osis": "3John",
+    "nazwa": "3 Jana",
+    "skrot": "3J",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Starszy Gajowi miłemu, którego ja miłuję w prawdzie."
+  },
+  {
+    "kod": "65-jud",
+    "step": "Jud",
+    "osis": "Jude",
+    "nazwa": "Judy",
+    "skrot": "Jud",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Judas, sługa Jezusa Chrystusa a brat Jakóba, od Boga Ojca poświęconym i w Jezusie Chrystusie zachowanym i powołanym:"
+  },
+  {
+    "kod": "66-apo",
+    "step": "Rev",
+    "osis": "Rev",
+    "nazwa": "Apokalipsa",
+    "skrot": "Ap",
+    "testament": "NT",
+    "zrodlo": "TR",
+    "incipit": "Objawienie Jezusa Chrystusa, które mu dał Bóg, aby okazał sługom swoim rzeczy, które się w rychle dziać mają; a on je oznajmił i posłał przez Anioła swojego słudze swemu Janowi,"
+  }
+]

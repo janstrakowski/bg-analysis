@@ -1,0 +1,164 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://bg-analiza.local/werset.schema.json",
+  "title": "Analiza wersetu Biblii Gdańskiej",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemat",
+    "id",
+    "adres",
+    "tekst_bg",
+    "tokeny_bg",
+    "zrodlo",
+    "powiazanie",
+    "wiernosc",
+    "twierdzenia",
+    "propozycje_terminow",
+    "paralele"
+  ],
+  "properties": {
+    "schemat": {"const": "1.0.0"},
+    "id": {"type": "string", "pattern": "^[0-9]{2}-[a-z]+\\.[0-9]+\\.[0-9]+$"},
+    "adres": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["wydanie", "ksiega", "rozdzial", "werset"],
+      "properties": {
+        "wydanie": {"const": "1879"},
+        "ksiega": {"type": "string", "pattern": "^[0-9]{2}-[a-z]+$"},
+        "rozdzial": {"type": "integer", "minimum": 1},
+        "werset": {"type": "integer", "minimum": 1}
+      }
+    },
+    "tekst_bg": {"type": "string", "minLength": 1},
+    "tokeny_bg": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"$ref": "#/$defs/token_bg"}
+    },
+    "zrodlo": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["wydanie", "jezyk", "adres", "adres_hebrajski", "adres_angielski", "rozjazd_numeracji", "tokeny"],
+      "properties": {
+        "wydanie": {"enum": ["MT", "TR"]},
+        "jezyk": {"enum": ["hbo", "arc", "mieszany", "grc"]},
+        "adres": {"type": "string", "minLength": 1},
+        "adres_hebrajski": {"type": ["string", "null"]},
+        "adres_angielski": {"type": "string", "minLength": 1},
+        "rozjazd_numeracji": {"type": "boolean"},
+        "tokeny": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/$defs/token_zrodla"}
+        }
+      }
+    },
+    "powiazanie": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"$ref": "#/$defs/grupa"}
+    },
+    "wiernosc": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["werdykt", "uzasadnienie", "tokeny_bg", "tokeny_zrodla"],
+      "properties": {
+        "werdykt": {
+          "enum": [
+            "wierny",
+            "wierny_z_dopelnieniem",
+            "sens_zachowany_forma_wolna",
+            "sens_przesuniety",
+            "nieoddane"
+          ]
+        },
+        "uzasadnienie": {"type": "string", "minLength": 1},
+        "tokeny_bg": {"type": "array", "items": {"type": "integer", "minimum": 0}},
+        "tokeny_zrodla": {"type": "array", "items": {"type": "integer", "minimum": 0}}
+      }
+    },
+    "twierdzenia": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["rodzaj", "tekst", "tokeny_bg", "tokeny_zrodla"],
+        "properties": {
+          "rodzaj": {"enum": ["stwierdzenie", "hipoteza", "niepewne"]},
+          "tekst": {"type": "string", "minLength": 1},
+          "tokeny_bg": {"type": "array", "items": {"type": "integer", "minimum": 0}},
+          "tokeny_zrodla": {"type": "array", "items": {"type": "integer", "minimum": 0}}
+        }
+      }
+    },
+    "propozycje_terminow": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["lemma", "propozycja"],
+        "properties": {
+          "lemma": {"type": "string", "minLength": 1},
+          "propozycja": {"type": "string", "minLength": 1}
+        }
+      }
+    },
+    "paralele": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "dostepny", "tekst", "powod"],
+        "properties": {
+          "id": {"enum": ["bkr", "lut1545", "brz"]},
+          "dostepny": {"type": "boolean"},
+          "tekst": {"type": ["string", "null"]},
+          "powod": {"type": ["string", "null"]}
+        }
+      }
+    }
+  },
+  "$defs": {
+    "token_bg": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["i", "t"],
+      "properties": {
+        "i": {"type": "integer", "minimum": 0},
+        "t": {"type": "string", "minLength": 1}
+      }
+    },
+    "token_zrodla": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["i", "t", "lemma", "morph", "glosa", "leksykon", "id", "jezyk"],
+      "properties": {
+        "i": {"type": "integer", "minimum": 0},
+        "t": {"type": "string", "minLength": 1},
+        "lemma": {"type": "string"},
+        "morph": {"type": "string"},
+        "glosa": {"type": "string"},
+        "leksykon": {"type": "string"},
+        "id": {"type": "string", "minLength": 1},
+        "jezyk": {"enum": ["hbo", "arc", "grc"]},
+        "forma": {"type": "string"}
+      }
+    },
+    "grupa": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["bg", "zrodlo", "rola", "uwaga"],
+      "properties": {
+        "bg": {"type": "array", "items": {"type": "integer", "minimum": 0}},
+        "zrodlo": {"type": "array", "items": {"type": "integer", "minimum": 0}},
+        "rola": {"enum": ["przeklad", "dopelnienie", "opuszczenie", "zlanie", "rozbicie"]},
+        "uwaga": {"type": "string"},
+        "uzasadnienie": {"type": "string", "minLength": 1},
+        "wyjatek_kursywy": {"type": "string", "minLength": 1}
+      }
+    }
+  }
+}

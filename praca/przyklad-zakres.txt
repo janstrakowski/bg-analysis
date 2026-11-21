@@ -1,0 +1,5 @@
+# Przykład zakresów. Żeby model bez osobnego polecenia wiedział, co robić,
+# skopiuj wybrany zakres do praca/zakres.txt. Tego pliku model sam nie czyta.
+01-gen 1:1-4
+19-psa 22:17
+62-joh 5:7

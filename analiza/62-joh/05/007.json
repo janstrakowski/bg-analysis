@@ -1,0 +1,570 @@
+{
+  "schemat": "1.0.0",
+  "id": "62-joh.5.7",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "62-joh",
+    "rozdzial": 5,
+    "werset": 7
+  },
+  "tekst_bg": "Albowiem trzej są, którzy świadczą na niebie: Ojciec, Słowo, i Duch Święty, a ci trzej jedno są.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Albowiem"
+    },
+    {
+      "i": 1,
+      "t": "trzej"
+    },
+    {
+      "i": 2,
+      "t": "są"
+    },
+    {
+      "i": 3,
+      "t": "którzy"
+    },
+    {
+      "i": 4,
+      "t": "świadczą"
+    },
+    {
+      "i": 5,
+      "t": "na"
+    },
+    {
+      "i": 6,
+      "t": "niebie"
+    },
+    {
+      "i": 7,
+      "t": "Ojciec"
+    },
+    {
+      "i": 8,
+      "t": "Słowo"
+    },
+    {
+      "i": 9,
+      "t": "i"
+    },
+    {
+      "i": 10,
+      "t": "Duch"
+    },
+    {
+      "i": 11,
+      "t": "Święty"
+    },
+    {
+      "i": 12,
+      "t": "a"
+    },
+    {
+      "i": 13,
+      "t": "ci"
+    },
+    {
+      "i": 14,
+      "t": "trzej"
+    },
+    {
+      "i": 15,
+      "t": "jedno"
+    },
+    {
+      "i": 16,
+      "t": "są"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "1Jn.5.7",
+    "adres_hebrajski": null,
+    "adres_angielski": "1Jn.5.7",
+    "tokeny": [
+      {
+        "t": "ὅτι",
+        "lemma": "G3754H",
+        "forma": "ὅτι",
+        "morph": "CONJ",
+        "glosa": "For",
+        "id": "1Jn.5.7#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "that/since: since"
+      },
+      {
+        "t": "τρεῖς",
+        "lemma": "G5140",
+        "forma": "τρεῖς, τρία",
+        "morph": "A-NPM",
+        "glosa": "three",
+        "id": "1Jn.5.7#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "Three"
+      },
+      {
+        "t": "εἰσιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3P",
+        "glosa": "there are",
+        "id": "1Jn.5.7#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to be"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "those",
+        "id": "1Jn.5.7#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "μαρτυροῦντες",
+        "lemma": "G3140",
+        "forma": "μαρτυρέω",
+        "morph": "V-PAP-NPM",
+        "glosa": "bearing testimony:",
+        "id": "1Jn.5.7#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "to testify"
+      },
+      {
+        "t": "ἕν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "in",
+        "id": "1Jn.5.7#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "τῷ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-DSM",
+        "glosa": "the",
+        "id": "1Jn.5.7#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "οὐρανῷ",
+        "lemma": "G3772",
+        "forma": "οὐρανός",
+        "morph": "N-DSM",
+        "glosa": "heaven",
+        "id": "1Jn.5.7#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "heaven"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "1Jn.5.7#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "πατήρ",
+        "lemma": "G3962",
+        "forma": "πατήρ",
+        "morph": "N-NSM-T",
+        "glosa": "Father",
+        "id": "1Jn.5.7#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "father"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "1Jn.5.7#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λόγος",
+        "lemma": "G3056",
+        "forma": "λόγος",
+        "morph": "N-NSM",
+        "glosa": "Word",
+        "id": "1Jn.5.7#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "word"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "1Jn.5.7#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "τὸ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSN",
+        "glosa": "the",
+        "id": "1Jn.5.7#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "ἅγιον",
+        "lemma": "G0040G",
+        "forma": "ἅγιος",
+        "morph": "A-NSN",
+        "glosa": "Holy",
+        "id": "1Jn.5.7#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "holy"
+      },
+      {
+        "t": "πνεῦμα",
+        "lemma": "G4151G",
+        "forma": "πνεῦμα",
+        "morph": "N-NSN",
+        "glosa": "Spirit",
+        "id": "1Jn.5.7#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "spirit/breath: spirit"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "1Jn.5.7#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "and"
+      },
+      {
+        "t": "οὗτοι",
+        "lemma": "G3778",
+        "forma": "οὗτος",
+        "morph": "D-NPM",
+        "glosa": "these",
+        "id": "1Jn.5.7#18",
+        "jezyk": "grc",
+        "i": 17,
+        "leksykon": "this/he/she/it"
+      },
+      {
+        "t": "οἱ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NPM",
+        "glosa": "<the>",
+        "id": "1Jn.5.7#19",
+        "jezyk": "grc",
+        "i": 18,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "τρεῖς",
+        "lemma": "G5140",
+        "forma": "τρεῖς, τρία",
+        "morph": "A-NPM",
+        "glosa": "three",
+        "id": "1Jn.5.7#20",
+        "jezyk": "grc",
+        "i": 19,
+        "leksykon": "Three"
+      },
+      {
+        "t": "ἕν",
+        "lemma": "G1520",
+        "forma": "εἷς",
+        "morph": "A-NSN",
+        "glosa": "one",
+        "id": "1Jn.5.7#21",
+        "jezyk": "grc",
+        "i": 20,
+        "leksykon": "one"
+      },
+      {
+        "t": "εἰσιν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-PAI-3P",
+        "glosa": "are",
+        "id": "1Jn.5.7#22",
+        "jezyk": "grc",
+        "i": 21,
+        "leksykon": "to be"
+      }
+    ],
+    "rozjazd_numeracji": false
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "ὅτι oddane jako „Albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "τρεῖς oddane jako „trzej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "εἰσιν oddane jako „są”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3,
+        4
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "οἱ μαρτυροῦντες oddane jako „którzy świadczą”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "Przyimek o lemacie G1722, forma ἐν, oddany jako „na”. Akcent w pliku źródłowym wygląda jak ἕν; glosa i numer Stronga wskazują przyimek, nie liczebnik."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "τῷ οὐρανῷ oddane jako „niebie”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8,
+        9
+      ],
+      "uwaga": "ὁ πατήρ oddane jako „Ojciec”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "ὁ λόγος oddane jako „Słowo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καὶ oddane jako „i”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        10,
+        11
+      ],
+      "zrodlo": [
+        13,
+        14,
+        15
+      ],
+      "uwaga": "τὸ ἅγιον πνεῦμα oddane jako „Duch Święty”. Szyk polski stawia rzeczownik przed przymiotnikiem."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        16
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        17
+      ],
+      "uwaga": "οὗτοι oddane jako „ci”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        14
+      ],
+      "zrodlo": [
+        18,
+        19
+      ],
+      "uwaga": "οἱ τρεῖς oddane jako „trzej”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        20
+      ],
+      "uwaga": "ἕν, liczebnik G1520, oddane jako „jedno”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        21
+      ],
+      "uwaga": "εἰσιν oddane jako „są”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde polskie słowo tego wersetu, łącznie ze świadectwem na niebie, stoi na słowie greckim obecnym w Textus Receptus.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Paczka grecka tego wersetu zawiera słowa oznaczone jako TR, w tym ἐν τῷ οὐρανῷ, πατήρ, λόγος i πνεῦμα. Polskie comma pokrywa się z nimi słowo w słowo co do treści.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo tři jsou, kteříž svědectví vydávají na nebi: Otec, Slovo, a Duch Svatý, a ti tři jedno jsou.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

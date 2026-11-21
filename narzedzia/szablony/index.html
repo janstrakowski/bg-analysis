@@ -1,0 +1,40 @@
+{% extends "baza.html" %}
+{% block tresc %}
+  <h1>Analiza przekładu</h1>
+  <p class="wstep">Każdy zanalizowany werset ma jeden werdykt: jak brzmienie Biblii Gdańskiej ma się do tekstu, z którego tłumaczono.</p>
+  <section class="liczniki" aria-label="Podsumowanie">
+    <a class="kafelek" href="{{ korzen }}#ksiegi">
+      <span class="liczba">{{ stat.wersetow }}</span>
+      <span class="opis">Wersetów wydania</span>
+    </a>
+    <a class="kafelek" href="{{ korzen }}#ksiegi">
+      <span class="liczba">{{ stat.zanalizowanych }}</span>
+      <span class="opis">Z analizą</span>
+    </a>
+    <a class="kafelek" href="{{ korzen }}#ksiegi">
+      <span class="liczba">{{ stat.bez_analizy }}</span>
+      <span class="opis">Bez analizy</span>
+    </a>
+    {% for werdykt, liczba in stat.werdykty.items() %}
+    <a class="kafelek werdykt-{{ werdykt }}" href="{{ korzen }}werdykt/{{ werdykt }}.html">
+      <span class="liczba">{{ liczba }}</span>
+      <span class="opis">{{ etykiety[werdykt] }}</span>
+    </a>
+    {% endfor %}
+  </section>
+  <section id="ksiegi">
+    {% for testament, nazwa in (("ST", "Stary Testament"), ("NT", "Nowy Testament")) %}
+    <h2>{{ nazwa }}</h2>
+    <ul class="ksiegi">
+      {% for ksiega in ksiegi if ksiega.testament == testament %}
+      <li>
+        <a href="{{ korzen }}k/{{ ksiega.kod }}/index.html">
+          <span>{{ ksiega.nazwa }}</span>
+          <span class="cicho">{{ ksiega.zanalizowanych }} / {{ ksiega.wersetow }}</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    {% endfor %}
+  </section>
+{% endblock %}

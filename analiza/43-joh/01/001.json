@@ -1,0 +1,448 @@
+{
+  "schemat": "1.0.0",
+  "id": "43-joh.1.1",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "43-joh",
+    "rozdzial": 1,
+    "werset": 1
+  },
+  "tekst_bg": "Na początku było Słowo, a ono Słowo było u Boga, a Bogiem było ono Słowo.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Na"
+    },
+    {
+      "i": 1,
+      "t": "początku"
+    },
+    {
+      "i": 2,
+      "t": "było"
+    },
+    {
+      "i": 3,
+      "t": "Słowo"
+    },
+    {
+      "i": 4,
+      "t": "a"
+    },
+    {
+      "i": 5,
+      "t": "ono"
+    },
+    {
+      "i": 6,
+      "t": "Słowo"
+    },
+    {
+      "i": 7,
+      "t": "było"
+    },
+    {
+      "i": 8,
+      "t": "u"
+    },
+    {
+      "i": 9,
+      "t": "Boga"
+    },
+    {
+      "i": 10,
+      "t": "a"
+    },
+    {
+      "i": 11,
+      "t": "Bogiem"
+    },
+    {
+      "i": 12,
+      "t": "było"
+    },
+    {
+      "i": 13,
+      "t": "ono"
+    },
+    {
+      "i": 14,
+      "t": "Słowo"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "TR",
+    "jezyk": "grc",
+    "adres": "Jhn.1.1",
+    "adres_hebrajski": null,
+    "adres_angielski": "Jhn.1.1",
+    "tokeny": [
+      {
+        "t": "Ἐν",
+        "lemma": "G1722",
+        "forma": "ἐν",
+        "morph": "PREP",
+        "glosa": "In [the]",
+        "id": "Jhn.1.1#01",
+        "jezyk": "grc",
+        "i": 0,
+        "leksykon": "in/on/among"
+      },
+      {
+        "t": "ἀρχῇ",
+        "lemma": "G0746",
+        "forma": "ἀρχή",
+        "morph": "N-DSF",
+        "glosa": "beginning",
+        "id": "Jhn.1.1#02",
+        "jezyk": "grc",
+        "i": 1,
+        "leksykon": "beginning"
+      },
+      {
+        "t": "ἦν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-IAI-3S",
+        "glosa": "was",
+        "id": "Jhn.1.1#03",
+        "jezyk": "grc",
+        "i": 2,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Jhn.1.1#04",
+        "jezyk": "grc",
+        "i": 3,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λόγος",
+        "lemma": "G3056",
+        "forma": "λόγος",
+        "morph": "N-NSM",
+        "glosa": "Word,",
+        "id": "Jhn.1.1#05",
+        "jezyk": "grc",
+        "i": 4,
+        "leksykon": "word"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Jhn.1.1#06",
+        "jezyk": "grc",
+        "i": 5,
+        "leksykon": "and"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Jhn.1.1#07",
+        "jezyk": "grc",
+        "i": 6,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λόγος",
+        "lemma": "G3056",
+        "forma": "λόγος",
+        "morph": "N-NSM",
+        "glosa": "Word",
+        "id": "Jhn.1.1#08",
+        "jezyk": "grc",
+        "i": 7,
+        "leksykon": "word"
+      },
+      {
+        "t": "ἦν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-IAI-3S",
+        "glosa": "was",
+        "id": "Jhn.1.1#09",
+        "jezyk": "grc",
+        "i": 8,
+        "leksykon": "to be"
+      },
+      {
+        "t": "πρὸς",
+        "lemma": "G4314",
+        "forma": "πρός",
+        "morph": "PREP",
+        "glosa": "with",
+        "id": "Jhn.1.1#10",
+        "jezyk": "grc",
+        "i": 9,
+        "leksykon": "to/with"
+      },
+      {
+        "t": "τὸν",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-ASM",
+        "glosa": "<the>",
+        "id": "Jhn.1.1#11",
+        "jezyk": "grc",
+        "i": 10,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "θεόν",
+        "lemma": "G2316",
+        "forma": "θεός",
+        "morph": "N-ASM-T",
+        "glosa": "God,",
+        "id": "Jhn.1.1#12",
+        "jezyk": "grc",
+        "i": 11,
+        "leksykon": "God"
+      },
+      {
+        "t": "καὶ",
+        "lemma": "G2532",
+        "forma": "καί",
+        "morph": "CONJ",
+        "glosa": "and",
+        "id": "Jhn.1.1#13",
+        "jezyk": "grc",
+        "i": 12,
+        "leksykon": "and"
+      },
+      {
+        "t": "θεὸς",
+        "lemma": "G2316",
+        "forma": "θεός",
+        "morph": "N-NSM-T",
+        "glosa": "God",
+        "id": "Jhn.1.1#14",
+        "jezyk": "grc",
+        "i": 13,
+        "leksykon": "God"
+      },
+      {
+        "t": "ἦν",
+        "lemma": "G1510",
+        "forma": "εἰμί",
+        "morph": "V-IAI-3S",
+        "glosa": "was",
+        "id": "Jhn.1.1#15",
+        "jezyk": "grc",
+        "i": 14,
+        "leksykon": "to be"
+      },
+      {
+        "t": "ὁ",
+        "lemma": "G3588",
+        "forma": "ὁ",
+        "morph": "T-NSM",
+        "glosa": "the",
+        "id": "Jhn.1.1#16",
+        "jezyk": "grc",
+        "i": 15,
+        "leksykon": "the/this/who"
+      },
+      {
+        "t": "λόγος",
+        "lemma": "G3056",
+        "forma": "λόγος",
+        "morph": "N-NSM",
+        "glosa": "Word.",
+        "id": "Jhn.1.1#17",
+        "jezyk": "grc",
+        "i": 16,
+        "leksykon": "word"
+      }
+    ],
+    "rozjazd_numeracji": false
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0,
+        1
+      ],
+      "zrodlo": [
+        0,
+        1
+      ],
+      "uwaga": "ἐν ἀρχῇ oddane jako „Na początku”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "ἦν oddane jako „było”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "Rodzajnik ὁ nie ma osobnego słowa. λόγος oddane jako „Słowo”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        6,
+        7
+      ],
+      "uwaga": "ὁ λόγος oddane jako „ono Słowo”: „ono” niesie rodzajnik."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "Drugie ἦν oddane jako „było”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "πρὸς oddane jako „u”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        10,
+        11
+      ],
+      "uwaga": "τὸν θεόν, biernik z rodzajnikiem, oddane jako „Boga”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        12
+      ],
+      "uwaga": "καὶ oddane jako „a”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "θεὸς bez rodzajnika, przed czasownikiem, oddane jako „Bogiem” w narzędniku."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        14
+      ],
+      "uwaga": "ἦν oddane jako „było”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13,
+        14
+      ],
+      "zrodlo": [
+        15,
+        16
+      ],
+      "uwaga": "ὁ λόγος znowu jako „ono Słowo”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo greckie Textus Receptus ma grupę. Rodzajniki są wcielone w rzeczownik albo oddane przez „ono”.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "W trzecim zdaniu θεὸς nie ma rodzajnika i stoi przed ἦν. BG zachowuje ten szyk: „Bogiem było ono Słowo”, a wcześniejsze τὸν θεόν z rodzajnikiem oddaje jako „Boga”.",
+      "tokeny_bg": [
+        9,
+        11,
+        12,
+        13,
+        14
+      ],
+      "tokeny_zrodla": [
+        10,
+        11,
+        13,
+        14,
+        15,
+        16
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Na počátku bylo Slovo, a to Slovo bylo u Boha, a to Slovo byl Bůh.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

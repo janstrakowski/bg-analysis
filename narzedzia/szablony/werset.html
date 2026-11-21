@@ -1,0 +1,78 @@
+{% extends "baza.html" %}
+{% block tresc %}
+  <nav class="okruszek" aria-label="Położenie">
+    <a href="{{ korzen }}index.html">Księgi</a>
+    <span aria-hidden="true">/</span>
+    <a href="{{ korzen }}k/{{ ksiega.kod }}/index.html">{{ ksiega.nazwa }}</a>
+    <span aria-hidden="true">/</span>
+    <a href="{{ korzen }}k/{{ ksiega.kod }}/{{ "%02d"|format(rozdzial) }}.html">{{ rozdzial }}</a>
+    <span aria-hidden="true">/</span>
+    <span>{{ werset }}</span>
+  </nav>
+  <h1>{{ ksiega.skrot }} {{ rozdzial }},{{ werset }}</h1>
+  {% if rekord %}
+  <p class="werdykt werdykt-{{ rekord.wiernosc.werdykt }}">{{ etykiety[rekord.wiernosc.werdykt] }}</p>
+  <p>{{ rekord.wiernosc.uzasadnienie }}</p>
+  {% else %}
+  <p class="werdykt">Brak analizy</p>
+  {% endif %}
+  <h2>Biblia Gdańska, 1879</h2>
+  <p class="pismo">{{ tekst }}</p>
+  {% if rekord %}
+  <h2>{{ "Tekst masorecki" if rekord.zrodlo.wydanie == "MT" else "Textus Receptus" }}</h2>
+  <p class="cicho">{{ rekord.zrodlo.adres }}</p>
+  <ol class="tokeny">
+    {% for token in rekord.zrodlo.tokeny %}
+    <li>
+      <span class="oryginal">{{ token.t }}</span>
+      <span>{{ token.glosa }}</span>
+      <span class="cicho">{{ token.lemma }} · {{ token.morph }}</span>
+    </li>
+    {% endfor %}
+  </ol>
+  <h2>Powiązanie słów</h2>
+  <ol class="powiazanie">
+    {% for grupa in rekord.powiazanie %}
+    <li>
+      <span class="rola">{{ grupa.rola }}</span>
+      <span class="pl">{{ grupa.bg | join(", ") }}</span>
+      {% if grupa.zrodlo_slowa %}
+      <span class="oryginal">{{ grupa.zrodlo_slowa | join(" ") }}</span>
+      {% endif %}
+      {% if grupa.uwaga %}<p>{{ grupa.uwaga }}</p>{% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+  <h2>Uzasadnienie</h2>
+  <ul>
+    {% for twierdzenie in rekord.twierdzenia %}
+    <li><span class="rola">{{ twierdzenie.rodzaj }}</span> {{ twierdzenie.tekst }}</li>
+    {% endfor %}
+  </ul>
+  {% if rekord.paralele %}
+  <h2>Przekłady obok</h2>
+  <ul class="paralele">
+    {% for paralela in rekord.paralele %}
+    <li>
+      <span class="rola">{{ paralela.id }}</span>
+      {% if paralela.dostepny %}{{ paralela.tekst }}{% else %}<span class="cicho">{{ paralela.powod }}</span>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  {% endif %}
+  <nav class="sasiedzi" aria-label="Sąsiednie miejsca">
+    {% if poprzedni_werset %}
+    <a href="{{ korzen }}w/{{ poprzedni_werset[0] }}/{{ "%02d"|format(poprzedni_werset[1]) }}/{{ "%03d"|format(poprzedni_werset[2]) }}.html">Poprzedni werset</a>
+    {% endif %}
+    {% if nastepny_werset %}
+    <a href="{{ korzen }}w/{{ nastepny_werset[0] }}/{{ "%02d"|format(nastepny_werset[1]) }}/{{ "%03d"|format(nastepny_werset[2]) }}.html">Następny werset</a>
+    {% endif %}
+    {% if poprzedni_rozdzial %}
+    <a href="{{ korzen }}k/{{ poprzedni_rozdzial[0] }}/{{ "%02d"|format(poprzedni_rozdzial[1]) }}.html">Poprzedni rozdział</a>
+    {% endif %}
+    {% if nastepny_rozdzial %}
+    <a href="{{ korzen }}k/{{ nastepny_rozdzial[0] }}/{{ "%02d"|format(nastepny_rozdzial[1]) }}.html">Następny rozdział</a>
+    {% endif %}
+  </nav>
+{% endblock %}

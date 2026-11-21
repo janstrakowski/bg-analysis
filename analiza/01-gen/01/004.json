@@ -1,0 +1,385 @@
+{
+  "schemat": "1.0.0",
+  "id": "01-gen.1.4",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "01-gen",
+    "rozdzial": 1,
+    "werset": 4
+  },
+  "tekst_bg": "I widział Bóg światłość, że była dobra; i uczynił Bóg rozdział między światłością i między ciemnością.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "widział"
+    },
+    {
+      "i": 2,
+      "t": "Bóg"
+    },
+    {
+      "i": 3,
+      "t": "światłość"
+    },
+    {
+      "i": 4,
+      "t": "że"
+    },
+    {
+      "i": 5,
+      "t": "była"
+    },
+    {
+      "i": 6,
+      "t": "dobra"
+    },
+    {
+      "i": 7,
+      "t": "i"
+    },
+    {
+      "i": 8,
+      "t": "uczynił"
+    },
+    {
+      "i": 9,
+      "t": "Bóg"
+    },
+    {
+      "i": 10,
+      "t": "rozdział"
+    },
+    {
+      "i": 11,
+      "t": "między"
+    },
+    {
+      "i": 12,
+      "t": "światłością"
+    },
+    {
+      "i": 13,
+      "t": "i"
+    },
+    {
+      "i": 14,
+      "t": "między"
+    },
+    {
+      "i": 15,
+      "t": "ciemnością"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "MT",
+    "jezyk": "hbo",
+    "adres": "Gen.1.4",
+    "adres_hebrajski": "Gen.1.4",
+    "adres_angielski": "Gen.1.4",
+    "tokeny": [
+      {
+        "t": "וַיַּ֧רְא",
+        "lemma": "H7200G",
+        "morph": "Hc/Vqw3ms",
+        "glosa": "and/ he saw",
+        "id": "Gen.1.4#01",
+        "jezyk": "hbo",
+        "i": 0,
+        "leksykon": "to see: see"
+      },
+      {
+        "t": "אֱלֹהִ֛ים",
+        "lemma": "H0430G",
+        "morph": "HNcmpa",
+        "glosa": "God",
+        "id": "Gen.1.4#02",
+        "jezyk": "hbo",
+        "i": 1,
+        "leksykon": "God"
+      },
+      {
+        "t": "אֶת",
+        "lemma": "H0853",
+        "morph": "HTo",
+        "glosa": "<obj.>",
+        "id": "Gen.1.4#03",
+        "jezyk": "hbo",
+        "i": 2,
+        "leksykon": "[Obj.]"
+      },
+      {
+        "t": "הָא֖וֹר",
+        "lemma": "H0216",
+        "morph": "HTd/Ncfsa",
+        "glosa": "the/ light",
+        "id": "Gen.1.4#04",
+        "jezyk": "hbo",
+        "i": 3,
+        "leksykon": "light"
+      },
+      {
+        "t": "כִּי",
+        "lemma": "H3588A",
+        "morph": "HTc",
+        "glosa": "that",
+        "id": "Gen.1.4#05",
+        "jezyk": "hbo",
+        "i": 4,
+        "leksykon": "for"
+      },
+      {
+        "t": "ט֑וֹב",
+        "lemma": "H2895",
+        "morph": "HVqp3ms",
+        "glosa": "[it was] good",
+        "id": "Gen.1.4#06",
+        "jezyk": "hbo",
+        "i": 5,
+        "leksykon": "be pleasing"
+      },
+      {
+        "t": "וַיַּבְדֵּ֣ל",
+        "lemma": "H0914",
+        "morph": "Hc/Vhw3ms",
+        "glosa": "and/ he separated",
+        "id": "Gen.1.4#07",
+        "jezyk": "hbo",
+        "i": 6,
+        "leksykon": "to separate"
+      },
+      {
+        "t": "אֱלֹהִ֔ים",
+        "lemma": "H0430G",
+        "morph": "HNcmpa",
+        "glosa": "God",
+        "id": "Gen.1.4#08",
+        "jezyk": "hbo",
+        "i": 7,
+        "leksykon": "God"
+      },
+      {
+        "t": "בֵּ֥ין",
+        "lemma": "H0996G",
+        "morph": "HAcmsc",
+        "glosa": "between",
+        "id": "Gen.1.4#09",
+        "jezyk": "hbo",
+        "i": 8,
+        "leksykon": "between"
+      },
+      {
+        "t": "הָא֖וֹר",
+        "lemma": "H0216",
+        "morph": "HTd/Ncfsa",
+        "glosa": "the/ light",
+        "id": "Gen.1.4#10",
+        "jezyk": "hbo",
+        "i": 9,
+        "leksykon": "light"
+      },
+      {
+        "t": "וּבֵ֥ין",
+        "lemma": "H0996G",
+        "morph": "HC/Acmsc",
+        "glosa": "and/ between",
+        "id": "Gen.1.4#11",
+        "jezyk": "hbo",
+        "i": 10,
+        "leksykon": "between"
+      },
+      {
+        "t": "הַחֹֽשֶׁךְ",
+        "lemma": "H2822",
+        "morph": "HTd/Ncmsa",
+        "glosa": "the/ darkness",
+        "id": "Gen.1.4#12",
+        "jezyk": "hbo",
+        "i": 11,
+        "leksykon": "darkness"
+      }
+    ],
+    "rozjazd_numeracji": false
+  },
+  "powiazanie": [
+    {
+      "rola": "rozbicie",
+      "bg": [
+        0,
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "וַיַּרְא: spójnik „I” i czasownik „widział”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "אֱלֹהִים oddane jako „Bóg”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2,
+        3
+      ],
+      "uwaga": "אֵת i הָאוֹר razem dają „światłość” w bierniku."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "כִּי oddane jako „że”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        5
+      ],
+      "zrodlo": [],
+      "uwaga": "W 1632 słowo „była” jest kursywą. Hebrajskie טוֹב nie zawiera czasownika „być”; glosa źródła podaje „[it was] good”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        6
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "טוֹב oddane jako „dobra”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        7,
+        8,
+        10
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "וַיַּבְדֵּל, „i oddzielił”, rozbite na zwrot „i uczynił rozdział”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "Drugie אֱלֹהִים oddane jako „Bóg”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        11
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "בֵּין oddane jako „między”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        12
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "הָאוֹר oddane jako „światłością”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        13,
+        14
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "וּבֵין oddane jako „i między”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        15
+      ],
+      "zrodlo": [
+        11
+      ],
+      "uwaga": "הַחֹשֶׁךְ oddane jako „ciemnością”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Sens rozdzielenia światłości i ciemności stoi na hebrajskim. „była” jest dopowiedzeniem oznaczonym kursywą w 1632.",
+    "tokeny_bg": [
+      5
+    ],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Kursywa 1632 obejmuje „była”. W tekście masoreckim przy טוֹב nie ma osobnego czasownika.",
+      "tokeny_bg": [
+        5
+      ],
+      "tokeny_zrodla": [
+        5
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "וַיַּבְדֵּל znaczy „i oddzielił”. BG rozbija ten czasownik na „uczynił rozdział”, bez opuszczenia słowa.",
+      "tokeny_bg": [
+        7,
+        8,
+        10
+      ],
+      "tokeny_zrodla": [
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "A viděl Bůh světlo, že bylo dobré; i oddělil Bůh světlo od tmy.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

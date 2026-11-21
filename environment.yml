@@ -1,0 +1,9 @@
+name: bg-analiza
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jsonschema
+  - pytest
+  - lxml
+  - jinja2
