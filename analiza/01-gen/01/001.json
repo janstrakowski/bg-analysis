@@ -1,0 +1,233 @@
+{
+  "schemat": "1.0.0",
+  "id": "01-gen.1.1",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "01-gen",
+    "rozdzial": 1,
+    "werset": 1
+  },
+  "tekst_bg": "Na początku stworzył Bóg niebo i ziemię.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Na"
+    },
+    {
+      "i": 1,
+      "t": "początku"
+    },
+    {
+      "i": 2,
+      "t": "stworzył"
+    },
+    {
+      "i": 3,
+      "t": "Bóg"
+    },
+    {
+      "i": 4,
+      "t": "niebo"
+    },
+    {
+      "i": 5,
+      "t": "i"
+    },
+    {
+      "i": 6,
+      "t": "ziemię"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "MT",
+    "jezyk": "hbo",
+    "adres": "Gen.1.1",
+    "adres_hebrajski": "Gen.1.1",
+    "adres_angielski": "Gen.1.1",
+    "tokeny": [
+      {
+        "t": "בְּרֵאשִׁ֖ית",
+        "lemma": "H7225G",
+        "morph": "HR/Ncfsa",
+        "glosa": "in/ beginning",
+        "id": "Gen.1.1#01",
+        "jezyk": "hbo",
+        "i": 0,
+        "leksykon": "first: beginning"
+      },
+      {
+        "t": "בָּרָ֣א",
+        "lemma": "H1254A",
+        "morph": "HVqp3ms",
+        "glosa": "he created",
+        "id": "Gen.1.1#02",
+        "jezyk": "hbo",
+        "i": 1,
+        "leksykon": "to create"
+      },
+      {
+        "t": "אֱלֹהִ֑ים",
+        "lemma": "H0430G",
+        "morph": "HNcmpa",
+        "glosa": "God",
+        "id": "Gen.1.1#03",
+        "jezyk": "hbo",
+        "i": 2,
+        "leksykon": "God"
+      },
+      {
+        "t": "אֵ֥ת",
+        "lemma": "H0853",
+        "morph": "HTo",
+        "glosa": "<obj.>",
+        "id": "Gen.1.1#04",
+        "jezyk": "hbo",
+        "i": 3,
+        "leksykon": "[Obj.]"
+      },
+      {
+        "t": "הַשָּׁמַ֖יִם",
+        "lemma": "H8064",
+        "morph": "HTd/Ncmpa",
+        "glosa": "the/ heavens",
+        "id": "Gen.1.1#05",
+        "jezyk": "hbo",
+        "i": 4,
+        "leksykon": "heaven"
+      },
+      {
+        "t": "וְאֵ֥ת",
+        "lemma": "H0853",
+        "morph": "HC/To",
+        "glosa": "and/ <obj.>",
+        "id": "Gen.1.1#06",
+        "jezyk": "hbo",
+        "i": 5,
+        "leksykon": "[Obj.]"
+      },
+      {
+        "t": "הָאָֽרֶץ",
+        "lemma": "H0776G",
+        "morph": "HTd/Ncfsa",
+        "glosa": "the/ earth",
+        "id": "Gen.1.1#07",
+        "jezyk": "hbo",
+        "i": 6,
+        "leksykon": "land: country/planet"
+      }
+    ],
+    "rozjazd_numeracji": false
+  },
+  "powiazanie": [
+    {
+      "rola": "rozbicie",
+      "bg": [
+        0,
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "בְּרֵאשִׁית, przyimek בְּ i rzeczownik רֵאשִׁית, oddane jako „Na początku”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "בָּרָא, czasownik stworzenia, oddane jako „stworzył”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "אֱלֹהִים oddane jako „Bóg”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3,
+        4
+      ],
+      "uwaga": "אֵת nie ma osobnego słowa. Biernik „niebo” niesie הַשָּׁמַיִם i partykułę dopełnienia."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "וְ oddane jako „i”. Drugie אֵת wchłonięte w biernik „ziemię”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny",
+    "uzasadnienie": "Każde słowo polskie stoi na słowie hebrajskim, a partykuła אֵת jest wcielona w biernik rzeczownika.",
+    "tokeny_bg": [],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Werset nie dodaje słowa spoza hebrajskiego i nie zostawia słowa masoreckiego bez grupy.",
+      "tokeny_bg": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokeny_zrodla": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [
+    {
+      "lemma": "H1254A",
+      "propozycja": "stworzyć"
+    }
+  ],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Na počátku stvořil Bůh nebe a zemi.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

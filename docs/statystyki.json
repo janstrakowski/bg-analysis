@@ -1,0 +1,12 @@
+{
+  "wersetow": 31171,
+  "zanalizowanych": 6,
+  "bez_analizy": 31165,
+  "werdykty": {
+    "wierny": 3,
+    "wierny_z_dopelnieniem": 2,
+    "sens_zachowany_forma_wolna": 0,
+    "sens_przesuniety": 0,
+    "nieoddane": 1
+  }
+}

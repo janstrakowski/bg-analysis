@@ -1,0 +1,12 @@
+[submodule "zrodla/biblia-druk-tekst"]
+	path = zrodla/biblia-druk-tekst
+	url = https://github.com/UczenJezusa/biblia-druk-tekst.git
+[submodule "zrodla/stepbible-data"]
+	path = zrodla/stepbible-data
+	url = https://github.com/STEPBible/STEPBible-Data.git
+[submodule "zrodla/open-bibles"]
+	path = zrodla/open-bibles
+	url = https://github.com/seven1m/open-bibles.git
+[submodule "zrodla/getbible"]
+	path = zrodla/getbible
+	url = https://github.com/getbible/v2.git

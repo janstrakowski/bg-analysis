@@ -1,0 +1,333 @@
+{
+  "schemat": "1.0.0",
+  "id": "19-psa.22.17",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "19-psa",
+    "rozdzial": 22,
+    "werset": 17
+  },
+  "tekst_bg": "Albowiem psy mię obskoczyły, gromada złośników obległa mię; przebodli ręce moje i nogi moje.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Albowiem"
+    },
+    {
+      "i": 1,
+      "t": "psy"
+    },
+    {
+      "i": 2,
+      "t": "mię"
+    },
+    {
+      "i": 3,
+      "t": "obskoczyły"
+    },
+    {
+      "i": 4,
+      "t": "gromada"
+    },
+    {
+      "i": 5,
+      "t": "złośników"
+    },
+    {
+      "i": 6,
+      "t": "obległa"
+    },
+    {
+      "i": 7,
+      "t": "mię"
+    },
+    {
+      "i": 8,
+      "t": "przebodli"
+    },
+    {
+      "i": 9,
+      "t": "ręce"
+    },
+    {
+      "i": 10,
+      "t": "moje"
+    },
+    {
+      "i": 11,
+      "t": "i"
+    },
+    {
+      "i": 12,
+      "t": "nogi"
+    },
+    {
+      "i": 13,
+      "t": "moje"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "MT",
+    "jezyk": "hbo",
+    "adres": "Psa.22.17",
+    "adres_hebrajski": "Psa.22.17",
+    "adres_angielski": "Psa.22.16",
+    "tokeny": [
+      {
+        "t": "כִּ֥י",
+        "lemma": "H3588A",
+        "morph": "HTc",
+        "glosa": "for",
+        "id": "Psa.22.16#01",
+        "jezyk": "hbo",
+        "i": 0,
+        "leksykon": "for"
+      },
+      {
+        "t": "סְבָב֗וּנִי",
+        "lemma": "H5437H",
+        "morph": "HVqp3cp/Sp1bs",
+        "glosa": "they have surrounded/ me",
+        "id": "Psa.22.16#02",
+        "jezyk": "hbo",
+        "i": 1,
+        "leksykon": "to turn: surround"
+      },
+      {
+        "t": "כְּלָ֫בִ֥ים",
+        "lemma": "H3611",
+        "morph": "HNcmpa",
+        "glosa": "dogs",
+        "id": "Psa.22.16#03",
+        "jezyk": "hbo",
+        "i": 2,
+        "leksykon": "dog"
+      },
+      {
+        "t": "עֲדַ֣ת",
+        "lemma": "H5712",
+        "morph": "HNcfsc",
+        "glosa": "a company of",
+        "id": "Psa.22.16#04",
+        "jezyk": "hbo",
+        "i": 3,
+        "leksykon": "congregation"
+      },
+      {
+        "t": "מְ֭רֵעִים",
+        "lemma": "H7489A",
+        "morph": "HVhrmpa",
+        "glosa": "evil-doers",
+        "id": "Psa.22.16#05",
+        "jezyk": "hbo",
+        "i": 4,
+        "leksykon": "be evil"
+      },
+      {
+        "t": "הִקִּיפ֑וּנִי",
+        "lemma": "H5362B",
+        "morph": "HVhp3cp/Sp1bs",
+        "glosa": "they have encircled/ me",
+        "id": "Psa.22.16#06",
+        "jezyk": "hbo",
+        "i": 5,
+        "leksykon": "to surround"
+      },
+      {
+        "t": "כָּ֝אֲרִ֗י",
+        "lemma": "H0738B",
+        "morph": "HRd/Ncmsa",
+        "glosa": "like/ a lion",
+        "id": "Psa.22.16#07",
+        "jezyk": "hbo",
+        "i": 6,
+        "leksykon": "lion"
+      },
+      {
+        "t": "יָדַ֥י",
+        "lemma": "H3027G",
+        "morph": "HNcbdc/Sp1bs",
+        "glosa": "hands/ my",
+        "id": "Psa.22.16#08",
+        "jezyk": "hbo",
+        "i": 7,
+        "leksykon": "hand"
+      },
+      {
+        "t": "וְרַגְלָֽי",
+        "lemma": "H7272",
+        "morph": "HC/Ncfdc/Sp1bs",
+        "glosa": "and/ feet/ my",
+        "id": "Psa.22.16#09",
+        "jezyk": "hbo",
+        "i": 8,
+        "leksykon": "foot"
+      }
+    ],
+    "rozjazd_numeracji": true
+  },
+  "powiazanie": [
+    {
+      "rola": "przeklad",
+      "bg": [
+        0
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "כִּי oddane jako „Albowiem”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "כְּלָבִים oddane jako „psy”. Szyk polski stawia rzeczownik przed czasownikiem."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        3
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "סְבָבוּנִי, „obstąpili mnie”, oddane jako „mię obskoczyły”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "עֲדַת oddane jako „gromada”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        5
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "מְרֵעִים oddane jako „złośników”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "הִקִּיפוּנִי, „osaczyli mnie”, oddane jako „obległa mię”."
+    },
+    {
+      "rola": "opuszczenie",
+      "bg": [],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "כָּאֲרִי, glosa źródła „like/ a lion”, nie ma w wersecie polskim żadnego słowa."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [],
+      "uwaga": "„przebodli” nie odpowiada żadnemu tokenowi tekstu masoreckiego i nie jest kursywą w 1632."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        9,
+        10
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "יָדַי, „ręce moje”, oddane dwoma słowami."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        11,
+        12,
+        13
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "וְרַגְלָי oddane jako „i nogi moje”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "nieoddane",
+    "uzasadnienie": "Token masorecki כָּאֲרִי („jak lew”) został opuszczony, a „przebodli” nie stoi na żadnym słowie tego tekstu.",
+    "tokeny_bg": [
+      8
+    ],
+    "tokeny_zrodla": [
+      6
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Glosa i lemat H0738B czytają כָּאֲרִי jako „jak lew”. W polskim wersecie nie ma grupy, która by to słowo oddawała.",
+      "tokeny_bg": [],
+      "tokeny_zrodla": [
+        6
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "„przebodli” nie ma tokenu źródłowego. Kralicka w tym samym miejscu ma „zprobijeli”, czyli ten sam sens, którego nie ma w tekście masoreckim.",
+      "tokeny_bg": [
+        8
+      ],
+      "tokeny_zrodla": [
+        6
+      ]
+    },
+    {
+      "rodzaj": "hipoteza",
+      "tekst": "Zbieżność z kralicką pozwala sądzić, że tłumacze poszli za jej brzmieniem albo za greckim i łacińskim „przebodli”, a nie za כָּאֲרִי. To nie zmienia oceny wobec tekstu masoreckiego.",
+      "tokeny_bg": [
+        8
+      ],
+      "tokeny_zrodla": [
+        6
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo psi obskočili mne, rota zlostníků oblehla mne, zprobijeli ruce mé i nohy mé.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

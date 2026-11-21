@@ -1,0 +1,430 @@
+{
+  "schemat": "1.0.0",
+  "id": "01-gen.1.2",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "01-gen",
+    "rozdzial": 1,
+    "werset": 2
+  },
+  "tekst_bg": "A ziemia była niekształtowna i próżna, i ciemność była nad przepaścią, a Duch Boży unaszał się nad wodami.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "A"
+    },
+    {
+      "i": 1,
+      "t": "ziemia"
+    },
+    {
+      "i": 2,
+      "t": "była"
+    },
+    {
+      "i": 3,
+      "t": "niekształtowna"
+    },
+    {
+      "i": 4,
+      "t": "i"
+    },
+    {
+      "i": 5,
+      "t": "próżna"
+    },
+    {
+      "i": 6,
+      "t": "i"
+    },
+    {
+      "i": 7,
+      "t": "ciemność"
+    },
+    {
+      "i": 8,
+      "t": "była"
+    },
+    {
+      "i": 9,
+      "t": "nad"
+    },
+    {
+      "i": 10,
+      "t": "przepaścią"
+    },
+    {
+      "i": 11,
+      "t": "a"
+    },
+    {
+      "i": 12,
+      "t": "Duch"
+    },
+    {
+      "i": 13,
+      "t": "Boży"
+    },
+    {
+      "i": 14,
+      "t": "unaszał"
+    },
+    {
+      "i": 15,
+      "t": "się"
+    },
+    {
+      "i": 16,
+      "t": "nad"
+    },
+    {
+      "i": 17,
+      "t": "wodami"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "MT",
+    "jezyk": "hbo",
+    "adres": "Gen.1.2",
+    "adres_hebrajski": "Gen.1.2",
+    "adres_angielski": "Gen.1.2",
+    "tokeny": [
+      {
+        "t": "וְהָאָ֗רֶץ",
+        "lemma": "H0776G",
+        "morph": "HC/Td/Ncfsa",
+        "glosa": "and/ the/ earth",
+        "id": "Gen.1.2#01",
+        "jezyk": "hbo",
+        "i": 0,
+        "leksykon": "land: country/planet"
+      },
+      {
+        "t": "הָיְתָ֥ה",
+        "lemma": "H1961",
+        "morph": "HVqp3fs",
+        "glosa": "<it> was",
+        "id": "Gen.1.2#02",
+        "jezyk": "hbo",
+        "i": 1,
+        "leksykon": "to be"
+      },
+      {
+        "t": "תֹ֙הוּ֙",
+        "lemma": "H8414",
+        "morph": "HNcmsa",
+        "glosa": "formlessness",
+        "id": "Gen.1.2#03",
+        "jezyk": "hbo",
+        "i": 2,
+        "leksykon": "formlessness"
+      },
+      {
+        "t": "וָבֹ֔הוּ",
+        "lemma": "H0922",
+        "morph": "HC/Ncmsa",
+        "glosa": "and/ emptiness",
+        "id": "Gen.1.2#04",
+        "jezyk": "hbo",
+        "i": 3,
+        "leksykon": "void"
+      },
+      {
+        "t": "וְחֹ֖שֶׁךְ",
+        "lemma": "H2822",
+        "morph": "HC/Ncmsa",
+        "glosa": "and/ darkness",
+        "id": "Gen.1.2#05",
+        "jezyk": "hbo",
+        "i": 4,
+        "leksykon": "darkness"
+      },
+      {
+        "t": "עַל",
+        "lemma": "H5921A",
+        "morph": "HR",
+        "glosa": "[was] over",
+        "id": "Gen.1.2#06",
+        "jezyk": "hbo",
+        "i": 5,
+        "leksykon": "upon"
+      },
+      {
+        "t": "פְּנֵ֣י",
+        "lemma": "H6440J",
+        "morph": "HNcmpc",
+        "glosa": "[the] surface of",
+        "id": "Gen.1.2#07",
+        "jezyk": "hbo",
+        "i": 6,
+        "leksykon": "face: surface"
+      },
+      {
+        "t": "תְה֑וֹם",
+        "lemma": "H8415",
+        "morph": "HNcfsa",
+        "glosa": "[the] deep",
+        "id": "Gen.1.2#08",
+        "jezyk": "hbo",
+        "i": 7,
+        "leksykon": "abyss"
+      },
+      {
+        "t": "וְר֣וּחַ",
+        "lemma": "H7307G",
+        "morph": "HC/Ncfsc",
+        "glosa": "and/ [the] spirit of",
+        "id": "Gen.1.2#09",
+        "jezyk": "hbo",
+        "i": 8,
+        "leksykon": "spirit"
+      },
+      {
+        "t": "אֱלֹהִ֔ים",
+        "lemma": "H0430G",
+        "morph": "HNcmpa",
+        "glosa": "God",
+        "id": "Gen.1.2#10",
+        "jezyk": "hbo",
+        "i": 9,
+        "leksykon": "God"
+      },
+      {
+        "t": "מְרַחֶ֖פֶת",
+        "lemma": "H7363B",
+        "morph": "HVprfsa",
+        "glosa": "[was] hovering",
+        "id": "Gen.1.2#11",
+        "jezyk": "hbo",
+        "i": 10,
+        "leksykon": "to hover"
+      },
+      {
+        "t": "עַל",
+        "lemma": "H5921A",
+        "morph": "HR",
+        "glosa": "over",
+        "id": "Gen.1.2#12",
+        "jezyk": "hbo",
+        "i": 11,
+        "leksykon": "upon"
+      },
+      {
+        "t": "פְּנֵ֥י",
+        "lemma": "H6440J",
+        "morph": "HNcmpc",
+        "glosa": "[the] surface of",
+        "id": "Gen.1.2#13",
+        "jezyk": "hbo",
+        "i": 12,
+        "leksykon": "face: surface"
+      },
+      {
+        "t": "הַמָּֽיִם",
+        "lemma": "H4325G",
+        "morph": "HTd/Ncmpa",
+        "glosa": "the/ waters",
+        "id": "Gen.1.2#14",
+        "jezyk": "hbo",
+        "i": 13,
+        "leksykon": "water"
+      }
+    ],
+    "rozjazd_numeracji": false
+  },
+  "powiazanie": [
+    {
+      "rola": "rozbicie",
+      "bg": [
+        0,
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "וְהָאָרֶץ: spójnik jako „A”, rzeczownik jako „ziemia”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "הָיְתָה oddane jako „była”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "תֹּהוּ, rzeczownik „bezkształtność”, oddane przymiotnikiem „niekształtowna”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        4,
+        5
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "וָבֹהוּ: spójnik „i” i rzeczownik „pustka” jako przymiotnik „próżna”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        6,
+        7
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "וְחֹשֶׁךְ oddane jako „i ciemność”."
+    },
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        8
+      ],
+      "zrodlo": [],
+      "uwaga": "Hebrajski ma tu zdanie nominalne, bez הָיָה. „była” jest polskim czasownikiem posiłkowym. Wydanie 1632 nie oznacza go kursywą.",
+      "uzasadnienie": "Czasownik posiłkowy przy orzeczeniu imiennym; w tekście masoreckim nie ma tu הָיָה."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        5,
+        6
+      ],
+      "uwaga": "עַל־פְּנֵי, „na powierzchni”, ściągnięte do przyimka „nad”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        10
+      ],
+      "zrodlo": [
+        7
+      ],
+      "uwaga": "תְהוֹם oddane jako „przepaścią”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        11,
+        12
+      ],
+      "zrodlo": [
+        8
+      ],
+      "uwaga": "וְרוּחַ oddane jako „a Duch”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        13
+      ],
+      "zrodlo": [
+        9
+      ],
+      "uwaga": "אֱלֹהִים w dopełniaczu oddane jako „Boży”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        14,
+        15
+      ],
+      "zrodlo": [
+        10
+      ],
+      "uwaga": "מְרַחֶפֶת, imiesłów „unosić się”, oddane czasownikiem zwrotnym „unaszał się”."
+    },
+    {
+      "rola": "zlanie",
+      "bg": [
+        16
+      ],
+      "zrodlo": [
+        11,
+        12
+      ],
+      "uwaga": "Drugie עַל־פְּנֵי również ściągnięte do „nad”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        17
+      ],
+      "zrodlo": [
+        13
+      ],
+      "uwaga": "הַמָּיִם oddane jako „wodami”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "wierny_z_dopelnieniem",
+    "uzasadnienie": "Treść hebrajska jest oddana. Drugie „była” jest dopowiedzeniem składni polszczyzny, nie słowem źródła.",
+    "tokeny_bg": [
+      8
+    ],
+    "tokeny_zrodla": []
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "תֹּהוּ וָבֹהוּ to para rzeczowników. BG oddaje ją przymiotnikami „niekształtowna i próżna”, bez opuszczenia żadnego z członów.",
+      "tokeny_bg": [
+        3,
+        4,
+        5
+      ],
+      "tokeny_zrodla": [
+        2,
+        3
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Drugie „była” nie ma odpowiednika הָיָה. Stoi przy zdaniu nominalnym „ciemność nad przepaścią”.",
+      "tokeny_bg": [
+        8
+      ],
+      "tokeny_zrodla": [
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Země pak byla nesličná a pustá, a tma byla nad propastí, a Duch Boží vznášel se nad vodami.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

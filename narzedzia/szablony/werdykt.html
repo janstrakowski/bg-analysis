@@ -1,0 +1,23 @@
+{% extends "baza.html" %}
+{% block tresc %}
+  <nav class="okruszek" aria-label="Położenie">
+    <a href="{{ korzen }}index.html">Księgi</a>
+    <span aria-hidden="true">/</span>
+    <span>{{ etykieta }}</span>
+  </nav>
+  <h1>{{ etykieta }}</h1>
+  <p class="cicho">{{ adresy | length | wersety }}</p>
+  {% if adresy %}
+  <ul class="lista">
+    {% for adres in adresy %}
+    <li>
+      <a href="{{ korzen }}w/{{ adres.ksiega }}/{{ "%02d"|format(adres.rozdzial) }}/{{ "%03d"|format(adres.werset) }}.html">
+        {{ adres.podpis }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p>Żaden werset nie ma tego werdyktu.</p>
+  {% endif %}
+{% endblock %}

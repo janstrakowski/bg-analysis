@@ -1,0 +1,27 @@
+{% extends "baza.html" %}
+{% block tresc %}
+  <nav class="okruszek" aria-label="Położenie">
+    <a href="{{ korzen }}index.html">Księgi</a>
+    <span aria-hidden="true">/</span>
+    <a href="{{ korzen }}k/{{ ksiega.kod }}/index.html">{{ ksiega.nazwa }}</a>
+    <span aria-hidden="true">/</span>
+    <span>Rozdział {{ rozdzial }}</span>
+  </nav>
+  <h1>{{ ksiega.skrot }} {{ rozdzial }}</h1>
+  <ol class="siatka">
+    {% for werset in wersety %}
+    <li>
+      <a href="{{ korzen }}w/{{ ksiega.kod }}/{{ "%02d"|format(rozdzial) }}/{{ "%03d"|format(werset.numer) }}.html">
+        <span class="nr">{{ werset.numer }}</span>
+        <span class="stan">{{ werset.stan }}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ol>
+  {% if poprzedni or nastepny %}
+  <nav class="sasiedzi" aria-label="Rozdziały">
+    {% if poprzedni %}<a href="{{ korzen }}k/{{ poprzedni[0] }}/{{ "%02d"|format(poprzedni[1]) }}.html">Poprzedni rozdział</a>{% endif %}
+    {% if nastepny %}<a href="{{ korzen }}k/{{ nastepny[0] }}/{{ "%02d"|format(nastepny[1]) }}.html">Następny rozdział</a>{% endif %}
+  </nav>
+  {% endif %}
+{% endblock %}
