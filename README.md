@@ -2,6 +2,8 @@
 
 Słowo po słowie: skąd w wydaniu z 1879 roku wzięło się brzmienie wersetu. Stary Testament jest zestawiany z tekstem masoreckim, Nowy z Textus Receptus. Werdykt dotyczy przekładu.
 
+Strona z licznikami i wersetami: [janstrakowski.github.io/bg-analysis](https://janstrakowski.github.io/bg-analysis/).
+
 Świeży model, który dostanie to repozytorium, ma czytać [AGENTS.md](AGENTS.md) i wykonać zapisany tam zakres. Jeden werset to jeden plik `analiza/<księga>/<rozdział>/<werset>.json`.
 
 ## Instalacja
@@ -29,7 +31,7 @@ python -m pytest kontrola
 - `schemat/` — jedyny standard zapisu, rejestr ksiąg i kontrakt dla modelu.
 - `narzedzia/` — paczka, walidacja, werdykt, strona.
 - `analiza/` — wersety, które przeszły walidację.
-- `docs/` — strona zbudowana z tych plików. Wejście pokazuje liczniki werdyktów.
+- `docs/` — strona zbudowana z tych plików i publikowana na [GitHub Pages](https://janstrakowski.github.io/bg-analysis/). Wejście pokazuje liczniki werdyktów.
 
 Luther 1545 jest przypięty jako submoduł getbible. To repozytorium zapisuje sumy kontrolne i adres API, nie sam tekst wersetów, więc paczka oznacza go jako niedostępny, dopóki plik rozdziału nie zawiera pola `verses`. Kralicka jest w submodułie jako tekst.
 
