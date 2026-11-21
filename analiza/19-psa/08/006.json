@@ -1,0 +1,275 @@
+{
+  "schemat": "1.0.0",
+  "id": "19-psa.8.6",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "19-psa",
+    "rozdzial": 8,
+    "werset": 6
+  },
+  "tekst_bg": "Albowiem mało mniejszym uczyniłeś go od Aniołów, chwałą i czcią ukoronowałeś go.",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "Albowiem"
+    },
+    {
+      "i": 1,
+      "t": "mało"
+    },
+    {
+      "i": 2,
+      "t": "mniejszym"
+    },
+    {
+      "i": 3,
+      "t": "uczyniłeś"
+    },
+    {
+      "i": 4,
+      "t": "go"
+    },
+    {
+      "i": 5,
+      "t": "od"
+    },
+    {
+      "i": 6,
+      "t": "Aniołów"
+    },
+    {
+      "i": 7,
+      "t": "chwałą"
+    },
+    {
+      "i": 8,
+      "t": "i"
+    },
+    {
+      "i": 9,
+      "t": "czcią"
+    },
+    {
+      "i": 10,
+      "t": "ukoronowałeś"
+    },
+    {
+      "i": 11,
+      "t": "go"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "MT",
+    "jezyk": "hbo",
+    "adres": "Psa.8.6",
+    "adres_hebrajski": "Psa.8.6",
+    "adres_angielski": "Psa.8.5",
+    "tokeny": [
+      {
+        "t": "וַתְּחַסְּרֵ֣הוּ",
+        "lemma": "H2637",
+        "morph": "Hc/Vpw2ms/Sp3ms",
+        "glosa": "and/ you have made lack/ him",
+        "id": "Psa.8.5#01",
+        "jezyk": "hbo",
+        "i": 0,
+        "leksykon": "to lack"
+      },
+      {
+        "t": "מְּ֭עַט",
+        "lemma": "H4592",
+        "morph": "HNcmsa",
+        "glosa": "little",
+        "id": "Psa.8.5#02",
+        "jezyk": "hbo",
+        "i": 1,
+        "leksykon": "little"
+      },
+      {
+        "t": "מֵאֱלֹהִ֑ים",
+        "lemma": "H0430G",
+        "morph": "HR/Ncmpa",
+        "glosa": "from/ God",
+        "id": "Psa.8.5#03",
+        "jezyk": "hbo",
+        "i": 2,
+        "leksykon": "God"
+      },
+      {
+        "t": "וְכָב֖וֹד",
+        "lemma": "H3519",
+        "morph": "HC/Ncmsa",
+        "glosa": "and/ honor",
+        "id": "Psa.8.5#04",
+        "jezyk": "hbo",
+        "i": 3,
+        "leksykon": "glory"
+      },
+      {
+        "t": "וְהָדָ֣ר",
+        "lemma": "H1926",
+        "morph": "HC/Ncmsa",
+        "glosa": "and/ majesty",
+        "id": "Psa.8.5#05",
+        "jezyk": "hbo",
+        "i": 4,
+        "leksykon": "glory"
+      },
+      {
+        "t": "תְּעַטְּרֵֽהוּ",
+        "lemma": "H5849B",
+        "morph": "HVpi2ms/Sp3ms",
+        "glosa": "you crown/ him",
+        "id": "Psa.8.5#06",
+        "jezyk": "hbo",
+        "i": 5,
+        "leksykon": "to crown"
+      }
+    ],
+    "rozjazd_numeracji": true
+  },
+  "powiazanie": [
+    {
+      "rola": "dopelnienie",
+      "bg": [
+        0
+      ],
+      "zrodlo": [],
+      "uwaga": "„Albowiem” nie ma w tym wersecie partykuły przyczynowej.",
+      "uzasadnienie": "Spójnik tylko wiąże to zdanie z pytaniem z wersetu 5. Nie dodaje treści orzeczenia."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        2,
+        3,
+        4
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "וַתְּחַסְּרֵהוּ, „uczyniłeś, że mu brakuje”, oddane jako „mniejszym uczyniłeś go”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        1
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "מְּעַט, „little”, oddane jako „mało”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        6
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "מֵאֱלֹהִים, glosa „from/ God” i lemat H0430G „God”. Przyimek מֵ jest w „od”, a אֱלֹהִים oddane jako „Aniołów”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        7
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "וְכָבוֹד, „honor”, oddane jako „chwałą”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        8,
+        9
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "וְהָדָר, „and/ majesty”, oddane jako „i czcią”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        10,
+        11
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "תְּעַטְּרֵהוּ, „you crown him”, oddane jako „ukoronowałeś go”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_przesuniety",
+    "uzasadnienie": "Token מֵאֱלֹהִים znaczy „od Boga”, a polski werset ma „od Aniołów”. Słowo jest przetłumaczone, nie opuszczone, ale zakres znaczenia się zmienił.",
+    "tokeny_bg": [
+      6
+    ],
+    "tokeny_zrodla": [
+      2
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Glosa i lemat H0430G czytają מֵאֱלֹהִים jako „from/ God”. W polskiej grupie tego tokenu stoi „Aniołów”.",
+      "tokeny_bg": [
+        6
+      ],
+      "tokeny_zrodla": [
+        2
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Kralicka w tym samym miejscu ma „andělů”, czyli tak samo odchodzi od glosy „God”.",
+      "tokeny_bg": [
+        6
+      ],
+      "tokeny_zrodla": [
+        2
+      ]
+    },
+    {
+      "rodzaj": "hipoteza",
+      "tekst": "Zbieżność z kralicką pozwala sądzić, że tłumacze poszli za jej brzmieniem albo za greckim przekładem tego wersetu. To nie zmienia oceny wobec tekstu masoreckiego.",
+      "tokeny_bg": [
+        6
+      ],
+      "tokeny_zrodla": [
+        2
+      ]
+    }
+  ],
+  "propozycje_terminow": [
+    {
+      "lemma": "H0430G",
+      "propozycja": "Bóg"
+    }
+  ],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "Nebo učinil jsi ho málo menšího andělů, slávou a ctí korunoval jsi jej.",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}

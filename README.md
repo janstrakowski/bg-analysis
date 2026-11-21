@@ -39,4 +39,4 @@ Dane STEPBible są na licencji CC BY 4.0. Przy cytowaniu: Tyndale House i [STEPB
 
 ## Wzorce
 
-W `analiza/` są wersety, na których widać oba krańce skali. Rdz 1,1 jest wierny. Ps 22,17 jest nieoddany: כָּאֲרִי („jak lew”) nie ma polskiego odpowiednika, a „przebodli” nie stoi na tokenie masoreckim.
+W `analiza/` jest po jednym wersecie z każdego werdyktu. Rdz 1,1 jest wierny. Rdz 1,4 jest wierny z dopowiedzeniem. Rdz 3,4 zachowuje sens, a formę emfazy oddaje swobodnie. Ps 8,6 przesuwa sens: מֵאֱלֹהִים („od Boga”) brzmi „od Aniołów”. Ps 22,17 jest nieoddany: כָּאֲרִי („jak lew”) nie ma polskiego odpowiednika, a „przebodli” nie stoi na tokenie masoreckim.

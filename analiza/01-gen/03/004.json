@@ -1,0 +1,268 @@
+{
+  "schemat": "1.0.0",
+  "id": "01-gen.3.4",
+  "adres": {
+    "wydanie": "1879",
+    "ksiega": "01-gen",
+    "rozdzial": 3,
+    "werset": 4
+  },
+  "tekst_bg": "I rzekł wąż do niewiasty: Żadnym sposobem śmiercią nie pomrzecie;",
+  "tokeny_bg": [
+    {
+      "i": 0,
+      "t": "I"
+    },
+    {
+      "i": 1,
+      "t": "rzekł"
+    },
+    {
+      "i": 2,
+      "t": "wąż"
+    },
+    {
+      "i": 3,
+      "t": "do"
+    },
+    {
+      "i": 4,
+      "t": "niewiasty"
+    },
+    {
+      "i": 5,
+      "t": "Żadnym"
+    },
+    {
+      "i": 6,
+      "t": "sposobem"
+    },
+    {
+      "i": 7,
+      "t": "śmiercią"
+    },
+    {
+      "i": 8,
+      "t": "nie"
+    },
+    {
+      "i": 9,
+      "t": "pomrzecie"
+    }
+  ],
+  "zrodlo": {
+    "wydanie": "MT",
+    "jezyk": "hbo",
+    "adres": "Gen.3.4",
+    "adres_hebrajski": "Gen.3.4",
+    "adres_angielski": "Gen.3.4",
+    "tokeny": [
+      {
+        "t": "וַיֹּ֥אמֶר",
+        "lemma": "H0559",
+        "morph": "Hc/Vqw3ms",
+        "glosa": "and/ he said",
+        "id": "Gen.3.4#01",
+        "jezyk": "hbo",
+        "i": 0,
+        "leksykon": "to say"
+      },
+      {
+        "t": "הַנָּחָ֖שׁ",
+        "lemma": "H5175",
+        "morph": "HTd/Ncmsa",
+        "glosa": "the/ snake",
+        "id": "Gen.3.4#02",
+        "jezyk": "hbo",
+        "i": 1,
+        "leksykon": "serpent"
+      },
+      {
+        "t": "אֶל",
+        "lemma": "H0413",
+        "morph": "HR",
+        "glosa": "to",
+        "id": "Gen.3.4#03",
+        "jezyk": "hbo",
+        "i": 2,
+        "leksykon": "to(wards)"
+      },
+      {
+        "t": "הָֽאִשָּׁ֑ה",
+        "lemma": "H0802G",
+        "morph": "HTd/Ncfsa",
+        "glosa": "the/ woman",
+        "id": "Gen.3.4#04",
+        "jezyk": "hbo",
+        "i": 3,
+        "leksykon": "woman"
+      },
+      {
+        "t": "לֹֽא",
+        "lemma": "H3808",
+        "morph": "HTn",
+        "glosa": "not",
+        "id": "Gen.3.4#05",
+        "jezyk": "hbo",
+        "i": 4,
+        "leksykon": "not"
+      },
+      {
+        "t": "מ֖וֹת",
+        "lemma": "H4191",
+        "morph": "HVqaa",
+        "glosa": "certainly <to die>",
+        "id": "Gen.3.4#06",
+        "jezyk": "hbo",
+        "i": 5,
+        "leksykon": "to die"
+      },
+      {
+        "t": "תְּמֻתֽוּן",
+        "lemma": "H4191",
+        "morph": "HVqi2mp/Sn",
+        "glosa": "you will die/ !",
+        "id": "Gen.3.4#07",
+        "jezyk": "hbo",
+        "i": 6,
+        "leksykon": "to die"
+      }
+    ],
+    "rozjazd_numeracji": false
+  },
+  "powiazanie": [
+    {
+      "rola": "rozbicie",
+      "bg": [
+        0,
+        1
+      ],
+      "zrodlo": [
+        0
+      ],
+      "uwaga": "וַיֹּאמֶר oddane jako „I rzekł”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        2
+      ],
+      "zrodlo": [
+        1
+      ],
+      "uwaga": "הַנָּחָשׁ oddane jako „wąż”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        3
+      ],
+      "zrodlo": [
+        2
+      ],
+      "uwaga": "אֶל oddane jako „do”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        4
+      ],
+      "zrodlo": [
+        3
+      ],
+      "uwaga": "הָאִשָּׁה oddane jako „niewiasty”."
+    },
+    {
+      "rola": "rozbicie",
+      "bg": [
+        5,
+        6,
+        7
+      ],
+      "zrodlo": [
+        5
+      ],
+      "uwaga": "מוֹת to bezokolicznik absolutny emfazy, glosa „certainly <to die>”. Polski rozkłada go na „Żadnym sposobem śmiercią”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        8
+      ],
+      "zrodlo": [
+        4
+      ],
+      "uwaga": "לֹא oddane jako „nie”."
+    },
+    {
+      "rola": "przeklad",
+      "bg": [
+        9
+      ],
+      "zrodlo": [
+        6
+      ],
+      "uwaga": "תְּמֻתוּן oddane jako „pomrzecie”."
+    }
+  ],
+  "wiernosc": {
+    "werdykt": "sens_zachowany_forma_wolna",
+    "uzasadnienie": "Wąż mówi, że na pewno nie umrą. Każde słowo hebrajskie ma polski odpowiednik i żadne polskie słowo nie wisi bez źródła. Swobodna jest forma emfazy: bezokolicznik absolutny מוֹת stał się idiomatycznym „Żadnym sposobem” i narzędnikiem „śmiercią”.",
+    "tokeny_bg": [
+      5,
+      6,
+      7
+    ],
+    "tokeny_zrodla": [
+      5
+    ]
+  },
+  "twierdzenia": [
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Bezokolicznik absolutny מות przy czasowniku tej samej podstawy znaczy emfazę tej czynności, nie drugą śmierć. Glosa tokenu to „certainly <to die>”.",
+      "tokeny_bg": [
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        5,
+        6
+      ]
+    },
+    {
+      "rodzaj": "stwierdzenie",
+      "tekst": "Kralicka ma tu „Nikoli nezemřete smrtí”, czyli tę samą emfazę rozbitą na przysłówek i rzeczownik śmierci.",
+      "tokeny_bg": [
+        5,
+        6,
+        7
+      ],
+      "tokeny_zrodla": [
+        5
+      ]
+    }
+  ],
+  "propozycje_terminow": [],
+  "paralele": [
+    {
+      "id": "bkr",
+      "dostepny": true,
+      "tekst": "I řekl had ženě: Nikoli nezemřete smrtí!",
+      "powod": null
+    },
+    {
+      "id": "lut1545",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Submoduł getbible zapisuje dla Lutra 1545 sumy kontrolne i adres API, nie tekst wersetów."
+    },
+    {
+      "id": "brz",
+      "dostepny": false,
+      "tekst": null,
+      "powod": "Brak submodułu zrodla/brzeska."
+    }
+  ]
+}
